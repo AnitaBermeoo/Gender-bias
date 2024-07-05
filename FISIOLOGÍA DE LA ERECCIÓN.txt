@@ -1,0 +1,336 @@
+﻿
+
+
+FISIOLOGÍA DE LA ERECCIÓN
+
+
+Juan I. Martínez-Salamanca, Claudio Martínez-Ballesteros, Luis Portillo, Sonia Gabancho, Ignacio Moncada1 y Joaquín Carballido.
+
+Servicio de Urología. Área de Medicina Sexual y Laboratorio de Urología Experimental. Hospital Universitario Puerta de Hierro-Majadahonda. Universidad Autónoma de Madrid.
+1Servicio de Urología. Hospital de la Zarzuela. Madrid. España.
+
+
+
+Resumen.- En este trabajo de revisión se repasan los principales mecanismos implicados en el fenómeno de la erección humana. Desde sus principios bioquimícos (via óxido nítrico y Rho-quinasa), celulares (mecanismos de relajación del músculo liso), nerviosos (vías autóno- mas y somáticas) y finalmente macroscópicos penea- nos, son revisados y actualizados con detalle.
+
+Summary.- In these article we review the main me- chanisms involved in human erection. We review and update in detail the biochemical (nitric oxide and Rho- kinase pathways), cellular (smooth muscle relaxation mechanisms), neural (autonomic and somatic pathways) and microscopic penile principles.
+
+
+
+	
+
+
+
+
+
+
+
+
+
+CORRESPONDENCIA
+
+Juan I. Martínez-Salamanca Hospital Universitario Puerta de Hierro-Majadahonda
+Manuel de Falla, 1
+Majadahonda 28222 Madrid (España). msalamanca99@hotmail.com
+
+HEMODINÁMICA:
+ERECCIÓN Y DETUMESCENCIA
+       La erección del pene es un evento neuro- vascular modulado por factores psicológicos y por el estado hormonal. En la estimulación sexual, los impulsos nerviosos causan la liberación de los neuro- transmisores de las terminales del nervio cavernoso y de factores relajantes de las células endoteliales en el pene, resultando en la relajación de la muscu- latura lisa en las arterias y arteriolas que abastecen al tejido eréctil provocando un incremento en el flujo sanguíneo del pene. Al mismo tiempo, la relajación del músculo liso trabecular aumenta la distensibilidad de los sinusoides, para facilitar el rápido llenado y la expansión del sistema sinusoidal. Así, el plexo veno- so subtunical es comprimido entre las trabéculas y la túnica albugínea, resultando en la oclusión casi total del flujo venoso (1,2). Estos acontecimientos atrapan la sangre dentro de los cuerpos cavernosos y llevan al pene de una posición de flaccidez a una de erec-
+
+
+
+ción con una presión intracavernosa de aproximada- mente 100 mm Hg (Fase de erección completa).
+
+       Durante la masturbación o las relaciones sexuales, la contracción de los músculos bulbocaver- nosos e isquiocavernosos comprimen la base del pene lleno de sangre con lo que los cuerpos cavernosos “disminuyen su capacidad” y el pene se vuelve aún más duro con una presión intracavernosa que puede llegar a varios cientos de milímetros de mercurio (Fase de la erección rígida). Durante esta fase cesa tempo- ralmente la entrada y salida de sangre (3).
+
+       La detumescencia puede ser el resultado de un cese de la liberación de neuro-transmisores, la interrupción de los segundos mensajeros por fosfo- diesterasas, así como de una descarga simpática du- rante la eyaculación. La contracción del músculo liso trabecular vuelve a abrir los vasos venosos, la sangre atrapada es expulsada, y vuelve la flacidez.
+
+       El fenómeno de la detusmesencia se puede estratificar en tres fases (4).
+
+• La primera implica un aumento transitorio de la pre- sión intracavernosa, lo que indica el comienzo de la contracción del músculo liso en contra de un sistema venoso cerrado.
+
+• La segunda fase muestra una disminución lenta de la presión, lo que sugiere una lenta reapertura de los vasos venosos con la reanudación del nivel basal del flujo arterial.
+
+• La tercera fase muestra una disminución rápida de la presión con restablecimiento pleno de la capaci- dad de flujo venoso.
+
+       Por tanto, la erección implica la relajación si- nusoidal, dilatación arterial y compresión venosa (5- 7). Se ha demostrado la importancia de la relajación del músculo liso en estudios en animales y humanos (6,7).
+
+
+Cuerpo esponjoso y glande
+
+       La hemodinámica del cuerpo esponjoso y del glande del pene es algo diferente de la de los cuerpos cavernosos. Durante la erección, aumenta el flujo arterial de una manera similar, sin embargo, la presión en el cuerpo esponjoso y el glande es sólo entre un tercio y la mitad que en los cuerpos caver- nosos, porque la túnica albugínea (fina sobre el cuer- po esponjoso y prácticamente ausente en el glande) garantiza una oclusión venosa mínima. Durante la fase de erección completa, la compresión parcial de
+
+la vena dorsal profunda y la circunfleja entre la fas- cia de Buck y los cuerpos cavernosos congestionados contribuyen a la tumescencia glandar, aunque el es- ponjoso y el glande, esencialmente funcionan como una gran escape arteriovenoso durante esta fase. En la fase de erección rígida, los músculos isquioca- vernosos y bulbocavernosos comprimen de manera enérgica las venas del pene, lo que se traduce en más congestión y aumento de presión en el glande y en el cuerpo esponjoso.
+
+
+Fisiología Músculo Liso. Mecanismos moleculares de relajación y contracción
+
+       En estudios in vitro e in vivo se ha registrado actividad contráctil espontánea del músculo liso ca- vernoso. Yarnitsky et al. (8), encontraron dos tipos de actividad eléctrica en el cuerpo cavernoso: espontá- nea e inducida por la actividad. La estimulación me- diante un campo eléctrico resulta en una disminución de la tensión y el calcio intracelular en frecuencias bajas y un aumento de la tensión con aumento del calcio intracelular en frecuencias altas. En general, la respuesta a los agentes farmacológicos se correlacio- na con el cambio en el calcio intracelular: por ejem- plo, la fenilefrina produce la contracción muscular y un aumento en el calcio intracelular, mientras que el nitroprusiato hace lo contrario.
+
+       La contracción y relajación del músculo liso están reguladas por Ca2+ citosólico (sarcoplásmico). La noradrenalina de las terminaciones nerviosas y las endotelinas y prostaglandinas F2F de los receptores endoteliales activados en las células del músculo liso aumentan el trifosfato de inositol y el diacilglicerol re- sultando en la liberación de calcio desde las reservas intracelulares tales como el retículo sarcoplásmico y/ o la apertura de canales de calcio en la membrana celular del músculo liso que conduce a una afluencia de calcio desde el espacio extracelular. Esto provoca un aumento transitorio de Ca2+ citosólico libre desde un nivel de reposo de 120/ 270 a 500/700 nM (9). En el nivel elevado, el Ca2+ se une a la calmodulina y cambia la conformación de esta última para expo- ner los sitios de interacción con la cadena ligera de la miosina quinasa. La activación resultante cataliza la fosforilación de la cadena ligera de miosina y des- encadena el ciclo de los puentes cruzados (cabezas) de miosina a lo largo de filamentos de actina y el desarrollo de la fuerza. Además la fosforilación de la cadena ligera también activa la miosina ATPasa, que hidroliza la ATP para proporcionar energía para la contracción muscular (Figura 1).
+
+       Una vez que la concentración citosólica de Ca2 + devuelve los niveles basales, las vías sensi-
+
+
+
+bilizadas del calcio toman el relevo. Uno de esos mecanismos es a través de la activación de los re- ceptores excitatorios acoplado a proteínas G que pueden también causar la contracción al aumentar la sensibilidad de calcio sin ningún cambio en el Ca2 + citosólico. Esta vía implica a la RhoA, una pequeña proteína G monomérica que activa la Rho-quinasa. La Rho-quinasa activada fosforila y por ello, inhibe la subunidad reguladora de la fosfatasa miosina del músculo liso previniendo la desfosforilación de mio- filamentos de forma que se mantenga el tono de con- tracción (Figura 2) (10).
+
+       Se ha demostrado que la RhoA y la Rho- quinasa se expresan en el músculo liso del pene (11,12).
+
+       Curiosamente, la cantidad de RhoA expresa- do en el músculo liso del cuerpo cavernoso es 17 ve- ces mayor que en el músculo liso vascular (12). Se ha demostrado que un inhibidor selectivo de Rho-quina- sa provoca la relajación del cuerpo cavernoso huma-
+
+no in vitro e induce la erección del pene en modelos de animales (13). Ratas anestesiadas transfectadas con RhoA dominante negativo mostraron una elevada función eréctil en comparación con los animales de control (14). El nuevo consenso es que la contracción fásica del músculo liso del pene está regulada por un aumento de la concentración de Ca2 + citosólico y la contracción tónica se rige por la sensibilización de las vías de calcio (15).
+
+       Además de la función central de la fosfori- lación de la miosina en la contracción del músculo liso, otros mecanismos pueden modular o ajustar el estado de contracción. Por ejemplo, puede ser que el caldesmón participe en el estado contráctil en el que la fuerza de contracción se mantiene a bajo nivel de fosforilación de la miosina y con un bajo consumo de energía.
+
+       A la relajación del músculo sigue una dismi- nución de Ca2 + en el sarcoplasma. A continuación la calmodulina, se disocia de la cadena ligera de mio-
+
+
+
+
+
+FIGURA 1. Mecanismo molecular de la relajación del músculo liso del pene. Adaptado de Dean & Lue.
+
+
+
+sina cinasa y lo inactiva. La miosina es desfosforilada por la fosfatasa de la cadena ligera de miosina y se desprende de los filamentos de actina, y el músculo se relaja (9). Otros sugieren que el NO-GMPc via inhibidora en el músculo liso del cuerpo cavernoso, no es simplemente un cambio en los mecanismos de transducción de señal de excitación, un mecanismo no identificado que puede contribuir a la relajación por la disminución de la tasa de contracción de los puentes cruzados a través de la fosforilación.
+
+       AMPc y GMPc son los segundos mensajeros involucrados en la relajación del músculo liso. Ellos activan las proteínas kinasas AMPc y GMPc depen- dientes, que a su vez fosforilan determinadas proteí- nas y canales de iones, resultando en (1) apertura de los canales de potasio y de hiperpolarización, (2) la retención de calcio intracelular por el retículo endo- plásmico, y (3) la inhibición de los canales de cal- cio voltaje-dependientes, bloqueando la entrada de calcio. La consecuencia es una caída del calcio libre citosólico y la relajación del músculo liso (Figura3).
+
+Neuroanatomía y Neurofisiología de la erección del pene
+Vías periféricas
+
+       La inervación del pene es doble, autónomica (simpático y parasimpático) y somática (sensoriales y motoras). De las neuronas de la médula espinal y los ganglios periféricos, los nervios simpático y para- simpático se unen para formar los nervios caverno- sos, que entran en los cuerpos cavernosos y cuerpo esponjoso y afectan a los acontecimientos neurovas- culares durante la erección y detumescencia. Los ner- vios somáticos son los principales responsables de la sensación y la contracción de los músculos bulboca- vernosos e isquiocavernosos.
+
+Vías Autónomas
+
+       La vía simpática se origina desde los seg- mentos T11 a L2 de la columna vertebral y pasan a través de las ramas comunicantes a los ganglios de la
+
+
+
+
+
+FIGURA 2. Mecanismo molecular de la contracción del músculo liso del pene. Adaptado de Dean & Lue.
+
+
+
+cadena simpática. Algunas fibras se desplazan a tra- vés de los nervios esplácnicos lumbares a los plexos hipogástricos mesentéricos inferior y superior, desde donde las fibras se dirigen por los nervios hipogás- tricos al plexo pélvico. En humanos, los segmentos T10 a T12 son más a menudo el origen de las fibras simpáticas, y las células de las cadenas gangliona- res origen de las fibras que se dirigen al pene esta localizadas en la zona sacra, caudal a las cadenas ganglionares.
+
+       La vía parasimpática surge de las neuronas en las columnas de células intermedio laterales de S2, S3 y S4 de la médula espinal. Las fibras pre ganglionares pasan por los nervios pélvicos hacia el plexo pélvico, donde se unen con los nervios simpá- ticos del plexo hipogástrico superior. Los nervios ca- vernosos son ramas del plexo pélvico que inervan el pene. Otras ramas del plexo pélvico inervan el recto, vejiga, próstata y esfínteres. Los nervios cavernosos se dañan fácilmente durante la cirugía radical del recto, vejiga y próstata. Una comprensión clara del
+
+recorrido de estos nervios es esencial para la preven- ción de la disfunción eréctil iatrogénica (17).
+
+       La estimulación del plexo pélvico y de los nervios cavernosos induce la erección, mientras que la estimulación del tronco simpático causa detumes- cencia. Esto implica claramente que el aporte sacro parasimpático es responsable de la tumescencia y la vía simpática toracolumbar es responsable de la de- tumescencia. En experimentos con gatos y ratas, se ha descubierto que la sección de la médula espinal por debajo de L4 o L5 elimina la respuesta eréctil re- fleja, pero en cambio la relación con una hembra en celo o la estimulación eléctrica de la zona pre óptica medial produjo una acentuada erección (18,19).
+
+       Paick y Lee informaron también que la erec- ción inducida por apomorfina es similar a la erección psicógena en la rata y puede ser inducida a través de la vía simpática toracolumbar en caso de lesio- nes de los centros parasimpáticos sacros (20). En el hombre, muchos pacientes con lesiones de la médula
+
+
+
+
+
+FIGURA 3. Vía RhoA/Rho quinasa: Vía de sensibilización del calcio. Adaptado de Dean & Lue.
+
+
+
+espinal sacra mantienen la capacidad eréctil psicó- gena, aunque se suprima la erección reflexógena. Estas erecciones inducidas a nivel central, se encuen- tran más frecuentemente en pacientes con lesiones moto neuronales inferiores a T12 (21). No se produ- ce erección psicógena en pacientes con lesiones por encima de T9; por tanto, esto indica que el flujo sim- pático eferente se encuentra en los niveles T11 y T12
+(22). En estos pacientes con erección psicógena, se observa alargamiento y tumescencia del pene, pero la rigidez es insuficiente.
+
+       Es posible, por tanto, que los impulsos cere- brales que normalmente viajan a través de las vías simpáticas (inhibiendo la liberación de noradrenali- na), parasimpáticas (liberando NO y acetilcolina) y somáticas (liberando acetilcolina) producen una erec- ción rígida normal. En pacientes con una lesión de la médula sacra, los impulsos cerebrales todavía pue- den viajar por medio de la vía simpática para inhibir la liberación de noradrenalina y NO y la acetilcolina todavía puede ser liberada a través de sinapsis con las neuronas postganglionares parasimpáticas y so- máticas. Debido a que el número de sinapsis entre la vía toracolumbar y las neuronas postganglionares parasimpáticas y somáticas es menor que el flujo de salida del sacro, la erección resultante no será tan intensa.
+
+Vías somáticas
+
+       La vía somatosensorial se origina en los receptores sensoriales de la piel del pene, glande, uretra y dentro del cuerpo cavernoso. En el glande del pene humano existen numerosas terminaciones aferentes, terminaciones nerviosas libres y receptores corpusculares con una proporción de 10:1. Las fibras nerviosas de los receptores convergen para formar los haces del nervio dorsal del pene, que se une a otros nervios para convertirse en el nervio pudendo.
+
+       Este último entra en la médula espinal a través de las raíces S2 - S4 para terminar en las neuronas espinales e interneuronas en la región gris central del segmento lumbosacro (23).
+
+       La activación de estas neuronas sensoriales envía mensajes de dolor, la temperatura y tacto a través de las vías espinotalámicas y espino reticu- lares al tálamo y la corteza sensorial para la per- cepción sensorial. El nervio dorsal del pene, solía ser considerado como un nervio puramente somático, sin embargo, sus haces nerviosos dan positivo en óxido nítrico sintetasa (NOS), lo que le hace ser tambien autonómico, este hecho ha sido demostrado en hu- manos por Burnett et al., y en ratas por Carrier et al. (24,25).
+       
+Giuliano et al., han demostrado que la es- timulación de la cadena simpática L4 -- L5 provoca una descarga referida en el nervio dorsal del pene y la estimulación del nervio dorsal evoca una descarga en la cadena lumbosacra simpática de las ratas (26). Estos hallazgos demuestran claramente que el nervio dorsal es un nervio mixto con componentes somáticos y autónomos que le permitan regular tanto la función eréctil como la eyaculación.
+
+       El núcleo de Onuf en S2-S4 es el centro so- mato-motriz de inervación del pene. Estos nervios van por los nervios sacros al nervio pudendo para inervar los músculos isquiocavernoso y bulbocavernoso. La contracción de los músculos isquiocavernosos produ- ce la fase de erección rígida. La contracción rítmica de los músculos bulbocavernosos es necesaria para la eyaculación.
+
+       En estudios animales, la inervación directa de las moto neuronas espinales sacras de los cen- tros simpáticos del tronco cerebral (A5-grupo celular catecolaminérgicos y el “locus coeruleus”), ha sido identificada (27). Esta inervación adrenérgica de las moto neuronas pudendas pueden estar implicadas en las contracciones rítmicas de la musculatura peri- neal durante la eyaculación. Además, también se ha demostrado que la inervación oxitocinergica y sero- toninérgica de los núcleos lumbosacros controlan la erección del pene y la musculatura perineal en la rata macho (28).
+
+       Dependiendo de la intensidad y la natura- leza de la estimulación genital, se pueden provocar varios reflejos espinales por la estimulación de los ge- nitales. El más conocido es el reflejo bulbocavernoso, que es la base de un examen neurológico genital y de la prueba de latencia electro fisiológica. Aunque el deterioro de los músculos bulbocavernoso e isquio- cavernoso puede perjudicar la erección del pene, la importancia de obtener un reflejo bulbocavernoso en la evaluación general de la disfunción sexual es con- trovertida.
+
+Vías y Centros supra espinales
+
+       Estudios en animales han identificado el área pre óptica medial (MPOA) y el núcleo para ventri- cular (PVN) del hipotálamo y el hipocampo como centros importantes para la integración de la función sexual y la erección del pene: la electro estimulación de esta área provoca la erección y las lesiones en la misma limitan las relaciones sexuales (29,30).
+
+       Las vías eferentes del MPOA penetran en el haz pro encefálico medial y la región tegmental del mesencéfalo (cerca de la sustancia negra). Los pro-
+
+
+
+cesos patológicos en estas regiones, como la enfer- medad de Parkinson o los accidentes cerebro vascu- lares, se asocian a menudo con disfunción eréctil. Se ha demostrado, con el seguimiento axonal en monos, gatos y ratas, la proyección directa de los núcleos del hipotálamo a los centros de erección autonómi- ca de la región lumbo sacra. Las neuronas de estos núcleos del hipotálamo contienen neurotransmisores peptidérgicos, incluyendo la oxitocina y la vasopre- sina, que pueden estar implicados en la erección
+
+responsable de las erecciones nocturnas durante el sueño REM.
+
+
+
+
+BIBLIOGRAFÍA y LECTURAS
+RECOMENDADAS (*lectura de interés y ** lectura fundamental)
+
+del pene (23). El tronco encefálico y varios centros medulares también están involucrados en la función sexual. Se ha demostrado que el grupo de células de catecolaminas A5 y el locus coeruleus proporcio- nan inervación adrenérgica al hipotálamo, tálamo, corteza cerebral y la médula espinal. Las proyeccio- nes del núcleo paragigantocelular, que proporciona la inervación serotoninérgica inhibitoria, también se han demostrado en el hipotálamo, el sistema límbico, el neocórtex y la médula espinal.
+
+CONCLUSIONES
+       Las estructuras mencionadas son responsa- bles de los tres tipos de erección: psicógena, reflexó- gena y nocturna.
+
+• La erección psicógena es el resultado de los estímu- los audiovisuales o de fantasías. Los impulsos desde el cerebro modulan los centros de erección de la mé- dula espinal (T11-L2 y S2-S4) para activar el proceso de erección.
+
+• La erección reflexogénica se produce por estímu- los táctiles en los órganos genitales. Los impulsos lle- gan hasta los centros de erección espinal, algunos continúan por la vía ascendente, dando lugar a la percepción sensorial, mientras que otros activan los núcleos autónomos para enviar mensajes a través de los nervios cavernosos del pene e inducir la erección. Este tipo de erección se mantuvo en los pacientes con lesión de la columna vertebral superior.
+
+• La erección nocturna ocurre principalmente duran- te la fase REM del sueño. La exploración median- te PET en humanos en el sueño REM muestra una mayor actividad en el área pontina, amígdala y circunvolución cingulada anterior, y disminución de la actividad en la corteza prefrontal y parietal. El mecanismo que desencadena el sueño REM se en- cuentra en la formación reticular pontina. Durante el sueño REM, se activan las neuronas colinérgicas en el tegmento pontino lateral, mientras que las neuronas adrenérgicas en el “locus coeruleus”y las neuronas serotonergicas, el rafe del cerebro medio están silentes. Esta activación diferencial puede ser
+
+**1.
+
+**2.
+
+
+3.
+
+
+
+
+4.
+
+
+5.
+
+
+6.
+
+
+
+
+7.
+
+
+
+
+8.
+
+
+
+9.
+
+
+
+10.
+
+
+
+11.
+
+
+*12.
+
+
+*13.
+
+Lue TF. Erectile dysfunction. N Engl J Med, 2000; 342: 1802.
+Dean RC and Lue TF. Physiology of penile erec- tion and pathophysiology of erectile dysfunction. Urol Clin North Am, 2005; 32: 379.
+Lue TF, Tanagho EA, McClure RD. Hemodyna- mics of erection, In. Contemporary management of impotence and infertility, Contemporary ma- nagement of impotence and fertility Williams & Wilkins, Williams & Wilkins, 1988; 28-38.
+Bosch RJ, Benard F, Aboseif SR et al. Penile de- tumescence: characterization of three phases. J Urol, 1991; 146: 867.
+Lue TF, Takamura T, Schmidt RA et al. Hemody- namics of erection in the monkey. J Urol, 1983; 130: 1237.
+Saenz de Tejada I, Goldstein I, Azadzoi K et al. Impaired neurogenic and endothelium-mediated relaxation of penile smooth muscle from diabetic men with impotence. N Engl J Med, 1989; 320: 1025.
+Ignarro LJ, Bush PA, Buga GM et al. Nitric oxide and cyclic GMP formation upon electrical field stimulation cause relaxation of corpus caverno- sum smooth muscle. Biochem Biophys Res Com- mun, 1990; 170: 843.
+Yarnitsky D, Sprecher E, Barilan Y et al. Corpus cavernosum electromyogram: spontaneous and evoked electrical activities. J Urol, 1995; 153: 653.
+Walsh MP. The Ayerst Award Lecture 1990. Cal- cium-dependent mechanisms of regulation of smooth muscle contraction. Biochem Cell Biol, 1991; 69: 771.
+Somlyo AP and Somlyo AV. Signal transduction by G-proteins, rho-kinase and protein phosphata- se to smooth muscle and non-muscle myosin II. J Physiol, 2000; 522 Pt 2: 177.
+Rees RW, Ziessen T, Ralph DJ et al. Human and rabbit cavernosal smooth muscle cells express Rho-kinase. Int J Impot Res, 2002; 14: 1.
+Wang H, Eto M, Steers WD et al. RhoA-media- ted Ca2+ sensitization in erectile function. J Biol Chem, 2002; 277: 30614.
+Rees RW, Ralph DJ, Royle M et al. Y-27632, an inhibitor of Rho-kinase, antagonizes noradrener- gic contractions in the rabbit and human penile
+
+588
+
+
+
+
+14.
+
+
+
+15.
+
+
+
+
+16.
+
+
+
+17.
+
+
+18.
+
+
+
+19.
+
+
+20.
+
+
+
+
+21.
+
+corpus cavernosum. Br J Pharmacol, 2001; 133: 455.
+Chitaley K, Bivalacqua TJ, Champion HC et al. Adeno-associated viral gene transfer of dominant negative RhoA enhances erectile function in rats. Biochem Biophys Res Commun, 2002; 298: 427. Cellek S, Rees RW and Kalsi J. A Rho-kina- se inhibitor, soluble guanylate cyclase activator and nitric oxide-releasing PDE5 inhibitor: novel approaches to erectile dysfunction. Expert Opin Investig Drugs, 2002; 11: 1563.
+De Groat W and Booth A. Neural control of pe- nile erection, The Autonomic Nervous System. Nervous Control Of The Urogenital System Ha- rwood, London, Harwood, 1993; 465-513.
+Walsh PC, Brendler CB, Chang T et al. Preser- vation of sexual function in men during radical pelvic surgery. Md Med J, 1990; 39: 389.
+Root W and Bard P. The mediation of feline erec- tion through sympathetic pathays with some refe- rence on sexual behavior after deafferentation of the gentalia. Am J Physiol, 1947; 151: 80.
+Courtois FJ, Macdougall JC and Sachs BD. Erec- tile mechanism in paraplegia. Physiol Behav, 1993; 53: 721.
+Paick JS and Lee SW. The neural mechanism of apomorphine-induced erection: an experimental study by comparison with electrostimulation-in- duced erection in the rat model. J Urol, 1994; 152: 2125.
+Bors E and Camarr A. Neurological disturbances in sexual function with special reference to 529 patients with spinal cord injury. Urol Sur, 1960; 10: 191.
+
+22.
+
+
+*23.
+
+*24.
+
+
+
+25.
+
+
+
+26.
+
+
+
+27.
+
+
+
+
+28.
+
+
+
+29.
+
+
+30.
+
+Chapelle PA, Durand J and Lacert P. Penile erec- tion following complete spinal cord injury in man. Br J Urol, 1980; 52: 216.
+McKenna KE. Central control of penile erection. Int J Impot Res, 10 (Suppl 1): S25 (1998).
+Burnett AL, Tillman SL, Chang TS et al. Immu- nohistochemical localization of nitric oxide syn- thase in the autonomic innervation of the human penis. J Urol, 1993; 150: 73.
+Carrier S, Zvara P, Nunes L et al. Regeneration of nitric oxide synthase-containing nerves after ca- vernous nerve neurotomy in the rat. J Urol, 1995; 153: 1722.
+Giuliano F, Rampin O, Jardin A et al. Electrophy- siological study of relations between the dorsal nerve of the penis and the lumbar sympathetic chain in the rat. J Urol, 1993; 150: 1960.
+Marson L and McKenna KE. CNS cell groups in- volved in the control of the ischiocavernosus and bulbospongiosus muscles: a transneuronal tracing study using pseudorabies virus. J Comp Neurol, 1996; 374: 161.
+Tang Y, Rampin O, Calas A et al. Oxytocinergic and serotonergic innervation of identified lum- bosacral nuclei controlling penile erection in the male rat. Neuroscience, 1998; 82: 241.
+Sachs BD and Meissel RL. The physiology of male sexual behavior, Anonymous New York, Ra- ven Press, 1988 ; 1393-1423.
+Marson L, Platt KB and McKenna KE. Central nervous system innervation of the penis as revea- led by the transneuronal transport of pseudorabies virus. Neuroscience, 1993; 55: 263.
+
+
+
+
+
+
+
+

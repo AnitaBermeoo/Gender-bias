@@ -1,0 +1,215 @@
+﻿
+
+PRINCIPIOS BIOÉTICOS APLICADOS A LA INVESTIGACIÓN EPIDEMIOLÓGICA
+
+Rosa Olivero, Antonio Domínguez y Carmen Cecilia Malpica*
+
+Resumen: La necesidad de regular la actividad cientíﬁca ha ido en aumento, requiriendo cada vez instrumentos más estrictos de control bioético. En 2002, el Consejo de Organizaciones Internacionales de Ciencias Médicas (CIOMS) actualizó las pautas internacionales sobre la ética de los estudios biomédicos y epidemiológicos. Este trabajo examina los problemas que se presentan en esta clase de investigación.
+Palabras clave: investigación epidemiológica, bioética
+
+BIOETHICS PRINCIPLES APPLIED TO EPIDEMIOLOGICAL INVESTIGATION
+Abstract: The need to regulate scientiﬁc activity has been increasing; it requires much more instruments for a strict bioethics checking. In 2002, the Council of the Medical Sciences’ International Organisations (CIOMS) updated the international patterns on biomedical and epidemiological ethics. This work examines the problems involved in this type of investigation.
+Key words: epidemiological investigation, bioethics
+
+PRINCÍPIOS BIOÉTICOS APLICADOS NA PESQUISA EPIDEMIOLÓGICA
+Resumo: A necessidade de regular a atividade cientíﬁca cresceu muito, exigindo cada vez mais instrumentos de controle bioético. Em 2002, O Conselho das Organizações Internacionais de Ciências Médicas (CIOMS) atualizou as diretrizes internacionais sobre a ética dos estudos biomédicos e epidemiológicos. Este trabalho examina os problemas que se apresentam neste tipo de pesquisa;
+Palavras chave: pesquisa, epidemiologia, bioética
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*	Doctores en Ciencias Médicas, profesores titulares e investigadores adscritos al Centro de Investigaciones Ergológicas, Facultad de Ciencias de la Salud, Universidad de Carabobo, Venezuela
+Correspondencia: chidosta@yahoo.es
+
+
+90
+
+
+Introducción
+La bioética incluye todas las profesiones de la salud y disciplinas conexas, interviene en la investigación biomédica y el comportamiento humano, y abarca un amplio panorama de aspectos sociales, como los relativos a la salud pública, salud ocupacional, salud internacional, ética del crecimiento de la población y control ambiental(1).
+El desarrollo de la ética médica ha estado marcado por sus vínculos estrechos con la práctica clínica. En esta relación se han deﬁnido los principios que permiten ordenar el debate y orientar las decisiones: no maleﬁ- cencia, beneﬁcencia, autonomía y justicia(2). La ética de la investigación se ha desarrollado recientemente con el propósito de regular la actividad cientíﬁca.
+Sin embargo, han surgido problemas éticos relaciona- dos con la investigación epidemiológica que no encon- traban fácil acomodo en las diversas recomendaciones internacionales sobre investigación biomédica, lo que motivó que el Consejo de Organizaciones Internacio- nales de Ciencias Médicas (CIOMS) y la Organización Mundial de la Salud (OMS) desarrollaran, en 1989, unas Recomendaciones Internacionales para la Revisión Ética de los Estudios Epidemiológicos, publicadas en 1991(3).
+En vista de que la epidemiología se ocupa del estudio de poblaciones y no de individuos aislados, Gostin consi- dera que los principios éticos básicos no son suﬁcientes para proteger a las comunidades con características co- munes, por lo que pueden ser objeto de discriminación; sugiere principios éticos adicionales, que denomina “macroéticos”, para este tipo de estudios(4).
+El propósito de este trabajo es analizar los aspectos bioéticos aplicables a la investigación epidemiológica, iniciando con un recuento de los conceptos fundamen- tales de la bioética y sus principios aplicados a la inves- tigación biomédica para, posteriormente, desarrollar las diferencias en el campo de la investigación epidemio- lógica mundial y en poblaciones vulnerables.
+
+Bioética, concepto y desarrollo
+La bioética, como disciplina, surgió como una nece- sidad de reﬂexión sobre la conducta médica ante los cambios tecnológicos que revolucionaron el quehacer de la medicina clínica desde la década del 60(5). La emergencia de la bioética obedece a causas tales como
+
+Acta Bioethica 2008; 14 (1)
+
+conﬂictos entre la tecnología y los valores humanos, incorporación acelerada de las modernas tecnologías biomédicas y dilemas actuales sometidos a contro- versias. Comprende también cuestiones relativas a animales y plantas, recursos energéticos y al campo de la ecología(6,7).
+Los cuatro principios de la bioética médica (no ma- leﬁcencia, beneﬁcencia, autonomía y justicia) fueron entendidos desde el comienzo como principios univer- sales para vincular con una ética aplicada(8).
+El surgimiento de la bioética ha orientado el sentido de imponer límites en el vasto campo de la investigación cientíﬁca aplicada a la vida, con el ﬁn de salvaguardar la persona humana en la multiplicidad de sus modos de ser y existir. Esta realidad se reﬂeja en el debate actual sobre el trabajo empírico en el área del consentimiento informado, la necesidad de investigar en la práctica de la atención primaria de salud(9) y de acreditar los comités de ética asistenciales y de investigación cientíﬁca.
+Con el objeto de prevenir y controlar los abusos en la investigación biomédica, se han elaborado diversos do- cumentos tales como: el Código de Nuremberg (1946), los códigos y declaraciones de Helsinki (1964)(10), Tokio (1975), el documento elaborado por la Comisión Nacional para la Protección de Sujetos Humanos en In- vestigaciones Biomédicas y de la Conducta, o Informe Belmont (1979)(11), el producido en Manila (1981), los del Consejo de Organizaciones Internacionales de Ciencias Médicas CIOMS hasta 2002(12) y el de las Recomendaciones Internacionales para la Revisión Ética de los Estudios Epidemiológicos, publicadas en 1991(3). También el Informe sobre la Ética de la Investigación Relativa al Cuidado de la Salud en Países en Desarrollo, publicado por el Nuﬃeld Council on Bioethics en 2002(13).
+Las declaraciones se han mostrado distantes e impoten- tes para regular efectivamente la actividad cientíﬁca.
+La primera sentencia del Código de Nuremberg es la relativa al consentimiento informado(14), el cual aparece como un nuevo ideal de autonomía y de ra- cionalidad(15) que descansa en la autodeterminación del paciente(16). Se deﬁne como la adhesión libre y racional del sujeto a un procedimiento propuesto por el equipo de salud, sea con intención diagnóstica, pronós- tica, terapéutica o experimental, e incluye competencia, información y libertad(17). Cumple las funciones de
+
+
+
+91
+
+Principios bioéticos aplicados a la investigación epidemiológica - Rosa Olivero, Antonio Domínguez y Carmen Cecilia Malpica
+
+
+promover la autonomía de los individuos, fomentar la racionalidad en la toma de decisiones médicas, proteger a los enfermos y a los sujetos de experimentación, evitar el fraude y la coacción, alentar la autoevaluación y el autoexamen entre los profesionales de la medicina, y disminuir recelos y aliviar temores(15).
+La evolución del tema del consentimiento informado concede cada vez mayor decisión al sujeto en quien se proyecta investigar y ratiﬁca que los beneﬁcios y la protección de los probandos ha de preceder a todo interés heurístico(18).
+La primera versión de las normas CIOMS “adaptó” los principios de la Declaración de Helsinki, válidos sólo para investigadores médicos, a las condiciones del mundo en desarrollo o de recursos escasos. Entre la pri- mera y la segunda versión (1993 a 2000) se manifestó la “vulnerabilidad moral” de las poblaciones de países en vías de desarrollo, ya que entre ellas no hay legislaciones protectoras, escasean los recursos y se exponen a riesgos sin acceso a beneﬁcios(14,19).
+Se deﬁne “vulnerabilidad” como la existencia de parti- culares situaciones en las que individuos y/o comuni- dades quedan disminuidos en su autonomía, a partir de la imposición de estructuras económicas o sociales que determinan su exclusión en instancias decisivas para su propia salud y/o calidad de vida. La exclusión consiste en impedir sistemáticamente, a individuos o grupos, el acceso a posiciones que les permitan una subsistencia autónoma dentro de los niveles sociales determinados por las instituciones y valores en un contexto dado(17).
+La bioética ha cobrado una nueva identidad como disciplina autónoma(20). Gracia expresa que esta evolución va desde una “ética de convicción” a una “ética de la responsabilidad”(21). Cely Galindo, por su parte, señala que la vertiente norteamericana, princi- pialista, preﬁere el concepto de “autonomía” en vez de el de “dignidad” y que, ante los riesgos antedichos, es necesario que la bioética emerja en defensa de la vida, de su calidad y de su sentido(22). Drane, ﬁnalmente, propone que el concepto de “solidaridad” ocupe en la bioética iberoamericana un lugar similar al que ocupa la autonomía en Estados Unidos(23).
+
+Investigación clínica
+Se entiende por investigación clínica toda actividad encaminada a conocer el posible carácter diagnóstico
+
+o terapéutico de una intervención o un producto en sujetos humanos sanos o enfermos, y tiene por objeto validar las prácticas clínicas tanto diagnósticas como terapéuticas(24). Opina Drane que la ética en general y la ética de la investigación en particular deben incluir una dimensión interna, la cual corresponde al alma o espíritu; en caso contrario, se convierte en impersonal y formalista(25).
+Durante la Conferencia Mundial sobre la Ciencia para el siglo XXI, de 1999, se concluyó que la práctica de la investigación y el uso del conocimiento cientíﬁco deben apuntar al bienestar de la humanidad, contan- do con el respeto a la dignidad del ser humano y sus derechos fundamentales(26). Las normas CIOMS han servido para implementar principios éticos que rijan la conducta de la investigación, biomédica y sociológica en seres humanos. En ellas se indica que cualquiera investigación que involucre personas debe ser some- tida a una evaluación ética y cientíﬁca por comités de evaluación(27).
+
+Investigación epidemiológica
+La epidemiología clínica se ocupa del estudio de la distribución de situaciones o sucesos relacionados con la salud y sus determinantes en poblaciones humanas especíﬁcas, y de la aplicación del conocimiento al control de los problemas sanitarios. La investigación epidemiológica tiene por objeto la obtención de un conocimiento generalizable a través de la observación en seres humanos de los fenómenos en estudio. Esta utilización de grupos de población para adquirir co- nocimiento aplicable después a la sociedad le conﬁere connotaciones éticas especíﬁcas y diferenciadas de la investigación biomédica, porque el beneﬁciario de la investigación es siempre la sociedad en su conjunto. La investigación puede ser experimental, observacional y cuasi-experimental.
+Con relación a la investigación epidemiológica clínica observacional, han preocupado problemas como: la violación de la conﬁdencialidad de los datos por per- sonas ajenas al sistema sanitario; el interés utilitarista de investigar el SIDA en poblaciones del Tercer Mundo, pero con escasas posibilidades de que éstas se beneﬁ- cien con los resultados de la investigación; la validez transcultural de las normas éticas y procedimientos de Occidente; la escasa consideración de los principios éticos propios de las comunidades, con independencia de los aplicables al individuo, o los crecientes con-
+
+
+92
+
+
+ﬂictos de interés entre los epidemiólogos(28). Estos problemas éticos no encontraron fácil acomodo hasta la publicación de las ya mencionadas Recomendaciones Internacionales para la Revisión Ética de los Estudios Epidemiológicos, publicadas en 1991.
+En el ámbito de la salud pública, las repercusiones sociales y políticas de la aplicación de los resultados de los estudios epidemiológicos conllevan una carga bioética especíﬁca. El avance técnico y cientíﬁco de la epidemiología ha obligado también a una actualización de su relación con los principios de la ética(29).
+En los estudios epidemiológicos podemos adoptar la posición de Gracia(30), quien sitúa a los principios de justicia y no maleﬁcencia en un nivel superior, porque obligan con independencia de la voluntad de las per- sonas. En un segundo nivel ubica los de autonomía y beneﬁcencia. El primer nivel marcaría el momento de universalidad de la ética, en el que todos los seres humanos deben ser tratados de igual modo (ética de mínimos); el segundo, el de particularidad, en el que todos deben ser tratados conforme a sus preferencias y a su ideal de perfección (ética de máximos).
+Según De Abajo(28), si se dan por sentadas las normas de buena práctica de la investigación epidemiológica (corrección técnica de la investigación, competencia de los investigadores, interpretación rigurosa y veraz de los resultados y su publicación, y declaración de los conﬂictos de interés), los problemas éticos de la investigación epidemiológica observacional serían fundamentalmente del segundo nivel, tales como: protección de la intimidad y la conﬁdencialidad de los datos, consentimiento informado y respeto a las diferencias culturales y protección de grupos vulnera- bles. Sólo atañe al primer nivel la selección equitativa de la muestra.
+Los principios éticos adicionales o macroéticos (pro- puestos por Gostin para los estudios epidemiológicos, con el ﬁn de proteger a las comunidades con caracte- rísticas comunes y evitar que sean objeto de discrimi- nación) son: protección de la salud y el bienestar de las poblaciones; respeto a las poblaciones y su derecho a la autodeterminación; protección de las poblaciones vulnerables y necesidad de una justiﬁcación para inves- tigar en ellas; protección de la privacidad, integridad y autoestima de las poblaciones; distribución equitativa de los beneﬁcios para las poblaciones, e importancia de construir infraestructuras sanitarias(4).
+
+Acta Bioethica 2008; 14 (1)
+
+Problemas éticos de la investigación epidemiológica según las pautas CIOMS
+Consentimiento informado. Las pautas denominan “acuerdo de la comunidad” al respeto a la autodetermi- nación de ésta. Cuando van a participar individuos en un estudio epidemiológico, se procura obtener por es- crito su consentimiento informado (en la investigación epidemiológica no se pueden aceptar riesgos mayores que mínimos porque no existe proporcionalidad entre el riesgo y el beneﬁcio para la persona). Para utilizar las historias médicas, muestras de esputo, sangre, tejidos, entre otros, debe obtenerse el consentimiento, aunque el estudio no implique un riesgo o daño, e incluir las medidas para proteger la conﬁdencialidad de los sujetos. Cuando no sea posible obtener conformidad de cada persona involucrada en el estudio, puede procurarse la de un representante de la comunidad o grupo. Los investigadores deben tener en cuenta los derechos y la protección de la comunidad. Los dirigentes comunitarios pueden expresar la voluntad colectiva; no obstante, debe respetarse la negativa de las personas a participar.
+En Gambia se ha puesto en marcha un modelo de consentimiento a través de una cadena jerárquica que comienza con el permiso del gobierno, luego de los jefes de distrito y las cabezas visibles de los pueblos y, a continuación, de cada uno de los individuos(31).
+Selección equitativa de la muestra. La distribución de beneﬁcios y cargas de la investigación debe ser equitativa entre los individuos de una comunidad y entre las distintas comunidades afectadas por el problema que se investiga; por lo tanto, cada persona potencialmente beneﬁciable con los resultados de la investigación debiera poder ser sujeto de un ensayo. Por otra parte, los riesgos deben ser proporcionales a los beneﬁcios. Sin embargo, por sobre toda otra consi- deración, la real protección para los sujetos y el respeto por los principios éticos residen en la conciencia de los investigadores(32).
+Protección a la intimidad y conﬁdencialidad de los datos. Los investigadores deben proteger la conﬁ- dencialidad de los datos, personas o grupos. Cuando no pueda mantenerse la conﬁdencialidad del grupo o ésta se viole se deben tomar medidas para mantener o restituir el prestigio del mismo.
+Procurar el máximo beneﬁcio y especial protección de individuos y grupos vulnerables. En el trabajo con
+
+
+
+93
+
+Principios bioéticos aplicados a la investigación epidemiológica - Rosa Olivero, Antonio Domínguez y Carmen Cecilia Malpica
+
+
+poblaciones vulnerables es imperativo implementar medidas positivas para compensar su situación. Los beneﬁcios pueden ser al individuo o a la sociedad(32). A las personas se les informará de las conclusiones o re- sultados concernientes a su salud. Cuando el resultado se traduzca en medidas de salud pública en beneﬁcio de la comunidad, éstas se deben comunicar a las au- toridades sanitarias. En un proyecto epidemiológico llevado a cabo en un país en desarrollo, cuando las personas necesiten atención médica deben ser remitidas a un servicio de salud local o ser directamente tratadas. Mientras se realizan los estudios, debe capacitarse a los trabajadores de la salud del lugar en especialidades y técnicas que puedan usarse para mejorar los servicios que prestan.
+Reducir el daño al mínimo. La evaluación ética siem- pre debe evitar el riesgo de que haya participantes o grupos que sufran perjuicios físicos o económicos, o pérdida de prestigio o autoestima como resultado de tomar parte en un estudio. Se debe informar sobre los posibles riesgos y demostrar que los beneﬁcios exceden en importancia a aquéllos, en individuos o grupos. Si se obtiene información delicada, se debe ser discreto al comunicar y explicar los resultados o conclusiones. Los investigadores deben respetar las normas éticas de los respectivos países.
+Conﬂicto de intereses y función de los comités de éti- ca. Los investigadores no deben tener incompatibilidad no revelada de intereses con sus colaboradores, patro- cinadores o participantes en el estudio. Es deber de los investigadores epidemiológicos someter sus proyectos de investigación a los comités de revisión ética de sus respectivos centros de educación o investigación.
+Investigación en países en vías de desarrollo. Lolas señala que el dictado de normas cada vez más exigen- tes en Estados Unidos y Europa, la necesidad de la industria farmacéutica de ensayar nuevos productos y la lentitud con que se implanta una legislación relevante en los países de América Latina, el Caribe, África o Asia convierte a estas regiones en lugares con alta vulnerabilidad para sus poblaciones(33).
+En la República Bolivariana de Venezuela, el artículo 110 de la Constitución postula: “El Estado reconocerá el interés público de la ciencia y garantizará el cumpli-
+
+miento de los principios éticos y legales que deben regir las actividades de investigación cientíﬁca, humanística y tecnológica”(34). El Código de Bioética y Bioseguridad intenta contribuir al desarrollo del potencial ético de la persona en sus desempeños, como investigador y como miembro de una comunidad, haciendo énfasis en la construcción de la conciencia bioética(35).
+El Código de Ética en Medicina, aprobado en octubre de 2003, señala en su artículo 204: “La investigación clínica debe inspirarse en los más elevados principios éticos y cientíﬁcos y no debe realizarse si no está pre- cedida de suﬁcientes pruebas de laboratorio y de un ensayo en animales de experimentación. Es permisible cuando es realizada y supervisada por personas cientí- ﬁcamente caliﬁcadas y sólo puede efectuarse cuando la importancia del objetivo guarde proporción con los riesgos a los cuales sea expuesta la persona”. El Artículo 207 indica la importancia del consentimiento informa- do por escrito y el 215 señala que: “la responsabilidad de las investigaciones de carácter epidemiológico, al no ser posible la obtención del consentimiento individual, será de la entera responsabilidad de las autoridades oﬁciales en el campo de la salud. No obstante, deben emplearse todos los medios posibles para informar las ventajas esperadas y los posibles riesgos de incon- veniencias. El Artículo 216 expresa: “La revisión de los protocolos de investigación en seres humanos y la autorización para su ejecución debe ser realizada por los Comités de Ética de Investigación Clínica sometidos a las Normas elaboradas por la Institución de Bioética del Gobierno Nacional”(36).
+Lolas expresa que en cualquier proyecto de investi- gación biomédica o epidemiológica cabe distinguir entre el mérito técnico, el cientíﬁco, y el social. Este último se reﬁere a la legitimidad con que se conduce el proyecto, los efectos saludables que tiene su realización, la justicia que promueve el cultivo de las ciencias y la satisfacción que induce al lograr y perfeccionar metas comunitarias deseables(37).
+En conclusión, los estudios biomédicos y epidemioló- gicos requieren ser realizados con un comportamiento ético de acuerdo con cada situación, siempre bajo la guía de los principios rectores de autonomía, beneﬁ- cencia, justicia y no maleﬁcencia.
+
+
+
+
+
+
+94
+
+
+Referencias
+
+Acta Bioethica 2008; 14 (1)
+
+1. León A. Bioética. Filosofía en la Medicina. Valencia (Venezuela): Ediciones del Rectorado; 1993: 109-142.
+2. Darras Ch. Bioética y salud pública: al cruce de los caminos.(2004) Acta Bioethica 2004; 10(2): 227-233.
+3. International guidelines for ethical review of epidemiological studies. En: Brankowski Z, Bryan J, (eds.) Ethics and Epidemiology: International Guidelines. Geneva: CIOMS; 1991.
+4. Gostin L. Macroethical principles for the conduct of research on human subjects: population based research and ethics. En: Brankowski Z, Bryan J, (eds.) Ethics and Epidemiology: International Guidelines. Geneva: CIOMS; 1991.
+5. Horwitz N, Norero C. Should we conduct research in bioethics? Revista Médica de Chile 2002; 130: 911-915.
+6. Pellegrino ED. La metamorfosis de la ética médica: una mirada retrospectiva a los 30 años. Cuadernos de Bioética 1995; 1: 21-34.
+7. León A. Informe sobre los desafíos internacionales del siglo XXI. Gaceta Médica Caracas 1999; 107(2): 239-243.
+8. Do Céu Patrão M. Fundamentación antropológica de la bioética: expresión de un nuevo humanismo contemporáneo.
+Cuadernos del Programa Regional de Bioética 1996; 1(2): 13-19.
+9. Rogers WA. A Systematic Review of Empirical Research into Ethics in General Practice. Br J Gen Pract 1997; 7: 733- 737.
+10. Castillo A. Declaración de Helsinki. Recomendaciones para guiar a médicos en investigaciones biomédicas en seres humanos. En: Responsabilidad Profesional. Módulo 2. Venezuela: Centro Nacional de Bioética. CENABI; 1999: 405- 426.
+11. National Institutes of Health. National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. The Belmont Report. Ethical Principles and Guidelines for the protection of human subjects of research. (Website) Available at: http://ohsr.od.nih.gov/guidelines/belmont.html Access April 2008.
+12. Pautas éticas internacionales para la investigación biomédica en seres humanos CIOMS 2002: antecedentes; introducción; instrumentos y pautas internacionales; principios éticos generales; preámbulo. En: Lolas F, Quezada A. Pautas éticas de investigación en sujetos humanos: nuevas perspectivas. Santiago de Chile: Programa Regional de Bioética OPS/OMS; 2003: 35-44.
+13. Mc Adam K. The ethics related to healthcare in developing countries. Acta Bioethica 2004; 10(1): 49-55.
+14. León A. La relación médico-paciente. En: Ética en Medicina. Módulo 3. Venezuela: Centro Nacional de Bioética (CENABI); 1999: 15-47.
+15. Levine R. Consent Issues in Human Research. En: Ética en Medicina. Módulo 6. Venezuela: Centro Nacional de Bioética (CENABI); 1999: 303-332.
+16. Beauchamp T, Faden R. Meaning and elements of Informed Consent. En: Ética en Medicina. Módulo 6. Venezuela: Centro Nacional de Bioética (CENABI); 1999: 295-301.
+17. La Rocca S, Martínez G, Rascho A, Bajardi M. La Investigación biomédica y el consentimiento informado en el ámbito de las poblaciones e individuos vulnerables. Acta Bioethica 2005; 11(2): 169-181.
+18. Kottow M. Investigación en seres humanos: principios éticos internacionales. Cuadernos del Programa Regional de Bioética 1996; 1(3): 41-45.
+19. Lolas F. (2004) Investigación que involucra sujetos humanos: dimensiones técnicas y éticas. Acta Bioethica 2004; 10(1): 11-16.
+20. Ten Have H, Lelie A. Medical Ethics Research between Theory and Practice. Theor Med 1998; 19: 263-76.
+21. Gracia D. La deliberación moral. Discurso de incorporación a la Academia Chilena de Medicina. Instituto de Chile.
+Boletín Academia Chilena de Medicina 2001; 37: 29-35.
+22. Cely Galindo G. Ethos vital y dignidad humana. Reﬂexiones bioéticas. Bogotá: Pontiﬁcia Universidad Javeriana; 2004.
+23. Drane J. Presente y futuro de la bioética. En: Llano A. ¿Qué es Bioética? Bogotá: 3R editores; 2000: 63-84.
+24. Gracia D. Investigación Clínica. En: Ética y Vida. Vol. IV. Bogotá: El Búho; 1998: 77-109.
+25. Drane J. La ética como carácter y la investigación médica. Acta Bioethica 2004; 10(1): 19-25.
+26. Unesco - ICSU. Declaración sobre la Ciencia y el uso del saber cientíﬁco. Declaración de Budapest. Budapest: Conferencia Mundial sobre la Ciencia para el Siglo XXI: Un nuevo compromiso; 1999.
+27. Rodríguez E. Comités de evaluación ética y cientíﬁca para la investigación en seres humanos y las Pautas CIOMS 2002. Acta Bioethica 2004; 10(1): 37-47.
+
+95
+
+Principios bioéticos aplicados a la investigación epidemiológica - Rosa Olivero, Antonio Domínguez y Carmen Cecilia Malpica
+
+28. De Abajo F. Ética de la investigación epidemiológica. Cuadernos del Programa Regional de Bioética 1996; 1(3): 9-28.
+29. Gordis L. Ethical and professional issues in the changing practice of epidemiology. J Clin Epidemiol 1991; 44 (Suppl. 1): 9S-13S.
+30. Gracia D. Procedimiento de decisión en ética clínica. Madrid: Eudema; 1991.
+31. Hall AJ. Public health trials in best Africa: logistics and ethics. IRB 1989 Sep-Oct; 11(5): 8-10.
+32. Lolas F. Ethical aspects of biomedical research. Frequent concepts in written norms. Revista Médica de Chile 2001; 129(6).
+33. Lolas F. La bioética en el contexto de los programas globales de salud. Revista Panamericana de Salud Pública 1999; 6: 65-68.
+34. 	XIII Constitución de la República Bolivariana de Venezuela. (Sitio en Internet) Disponible en http://www.constitucion. ve/ Acceso en abril de 2008.
+35. Código de bioética y bioseguridad. Venezuela. (Sitio en Internet) Disponible en http://www.fonacit.gov.ve/bioetica.asp Acceso en abril de 2008.
+36. Código de Ética en Medicina. Federación Médica Venezolana. Reunión CXXXIX Extraordinaria de la Asamblea. Octubre de 2003. Barquisimeto. Edo. Lara. (Sitio en Internet) Disponible en http://www.saludfmv.org/archivos/deontologia. pdf Acceso en abril de 2008.
+37. Lolas F. Medical praxis: an interface between ethics, politics and technology. Social Science and Medicine 1994; 39: 1-5.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recibido: 12 de abril de 2007
+Aceptado: 18 de julio de 2007
+
+
+96
+
+
+
+

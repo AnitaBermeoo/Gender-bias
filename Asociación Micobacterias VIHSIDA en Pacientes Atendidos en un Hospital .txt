@@ -1,0 +1,156 @@
+﻿
+
+
+
+
+Rev. salud pública. 9 (1):97-105, 2007
+
+Asociación Micobacterias-VIH/SIDA en Pacientes Atendidos en un Hospital Universitario en Bogotá, Colombia
+Mycobacteria-HIV/AIDS association in patients attending a teaching- hospital in Bogotá, Colombia
+Martha I. Murcia1, Clara I. León2, Fernando de la Hoz3 y Jaime Saravia4
+1. Departamento de Microbiología. Facultad de Medicina. Universidad
+2. Subdirección de Investigación Instituto Nacional de Salud. Centro Dermatológico Federico Lleras Acosta-ESE. Bogotá, Colombia. clarainesleon@yahoo.com
+3. Instituto Nacional de Salud. Departamento de Salud Pública, Facultad de Medicina, Universidad Nacional de Colombia. Bogotá, Colombia. fpdelahozr@unal.edu.co
+4. Patologia infecciosa, Hospital San Juan de Dios. Infectologia Hospital San Carlos. Bogotá, Colombia. jaimesaravia@yahoo.com
+
+Recibido 4 Mayo 2006/Enviado para Modificación 8 octubre 2006/Aceptado 6 Diciembre 2006
+
+RESUMEN
+
+Objetivo El objetivo del presente estudio fue evaluar la frecuencia de infecciones micobacterianas en pacientes infectados por el VIH y su repercusión en la sobreviva de los pacientes a mediano plazo, además los factores clínicos y epidemiológicos asociados a la coinfección.
+Métodos La frecuencia de infección micobacteriana se determinó en una cohorte de 92 pacientes VIH positivos en el Hospital San Juan de Dios en Bogotá (Colombia), en 1996, mediante el empleo de métodos bacteriológicos estandarizados a partir de diferentes muestras clínicas. Los factores asociados con la enfermedad fueron medidos utilizando las razones de prevalencia RP IC= 95 % y la regresión logística como método multivariado. La probabilidad de sobrevivir a tres meses fue evaluada usando las curvas de Kaplan Meir y se midieron los factores asociados con la sobrevida usando razones de tasas de incidencia y el modelo de Cox Resultados El 8 % de los pacientes tenían tuberculosis y el 8,6 % estaba infectado con micobacterias atípicas, siendo el complejo Mycobacterium avium (CMA), el más frecuente, seguido por M. fortuitum y M. chelonae. En un paciente se encontró
+M. tuberculosis y CMA y en otros dos se encontraron dos especies diferentes de micobacterias atípicas. Pacientes con tuberculosis, en estadios III y IV de enfermedad VIH tenían una sobreviva del 16 %.
+Conclusiones La frecuencia de la asociación Tuberculosis/VIH-SIDA y Micobacteriosis/VIH-SIDA fue similar. La micobacteria atípica aislada con mayor frecuencia fue CMA. La sobrevida disminuyó en los pacientes con tuberculosis siendo menor si la cepa era multirresistente. El hallazgo clínico mas frecuentemente asociado a la tuberculosis fue la fiebre y la pérdida de peso se asoció a la presencia de micobacteriosis. La sangre fue la mejor muestra para el aislamiento de micobacterias.
+
+97
+
+
+
+
+
+98	REVISTA DE SALUD PÚBLICA · Volumen 9 (1), Marzo 2007
+
+
+Palabras Clave: Mycobacterium tuberculosis, Tuberculosis, Complejo Mycobacterium avium, Virus de la Inmunodeficiencia Humana (VIH), Micobacteriosis atípica.
+
+ABSTRACT
+
+Objective Evaluating the frequency of mycobacterium infection in an HIV-positive population and its influence on medium-term survival, along with clinical and epidemiological factors associated with co-infection.
+Methods Several clinical specimens were studied for mycobacteria in a sample of 92 HIV+ patients at the San Juan de Dios teaching-hospital in Bogota, Colombia, during 1996. Factors associated with infection were measured using a prevalence ratio (PR), CI=95%, and logistic regression was used in the multivariable models. The likelihood of survival for three months was measured using Kaplan-Meir curves and factors associated with survival were assessed using Rate ratios and Cox's model.
+Results Eight percent of the patients had tuberculosis and 6% of them were found to be infected with atypical mycobacterium. Mycobacterium avium complex (MAC) was the most frequent species, followed by M. fortuitum and M. chelonae. Mixed infections with M. tuberculosis and MAC were diagnosed in one patient and two different species of atypical mycobacterium were isolated in other two cases. Patients suffering from tuberculosis and stages III or IV HIV infection had a 16% survival rate.
+Conclusions Tuberculosis-HIV/AIDS frequency and atypical Mycobacterium-HIV/AIDS' association were very similar. The most frequently isolated atypical mycobacterium specie in this study was MAC. Survival rate was lower for patients infected by M. tuberculosis and even lower when a multi-resistant strain was involved. The most important clinical factor associated with M. tuberculosis was the presence of fever and loss of weight with mycobacterial infection. Blood provided the best samples for isolating mycobacteria.
+
+Key Words: Mycobacterium tuberculosis, tuberculosis, Mycobacterium avium
+complex (MAC), HIV, mycobacterial infection (source: MeSH, NLM).
+
+
+a pandemia mundial causada por la infección con el Virus de la Inmunodeficiencia Humana (VIH), representa un estado de alerta para el control de la Tuberculosis (TB); siendo la TB una de las causas más
+frecuentes de morbilidad y mortalidad entre los individuos VIH/SIDA positivos. La incidencia mundial de la TB aumenta a una tasa del 1 % anual. En el año 2003 se presentaron 8 800 000 casos nuevos de TB en el mundo, de los cuales 3 900 000 eran bacilíferos y 674 000 estaban coinfectados por el VIH. Se
+presentaron 1 700 000 de muertes, 229 000 de ellas correspondieron a pacientes VIH positivos. De acuerdo a la Organización Mundial de la Salud (OMS), la meta global del control de la TB para el año 2005 era detectar el 70 % de los casos y curar el 85 % de los pacientes baciloscopia positivos que recibían
+
+
+
+
+
+
+Murcia – Asociación Micobacterias -VIH/SIDA	99
+
+tratamiento; para el año 2015 se espera reducir en un 50 % las tasas de prevalencia y mortalidad de la TB (1).
+
+   La TB en América Latina se halla controlada o en vías de control en algunos países, sin embargo constituye aún un problema de salud pública muy grave. Respecto a la coinfección VIH/TB, se estima que al menos el 5 % de notificaciones de casos de TB están relacionados con VIH/SIDA. La TB relacionada con el VIH es común en la zona del Caribe y América del Sur (2,3), apareciendo con mayor frecuencia bacilos resistentes a los medicamentos antituberculosos (4), siendo la pandemia del SIDA una de las principales causas del resurgimiento de esta enfermedad. Un individuo VIH positivo que se infecta con TB tiene una probabilidad 10 veces mayor de enfermar que un individuo VIH negativo (3).
+
+   Hasta la revisión hecha por Wolinsky en 1979, solo se habían informado en la literatura 78 casos de infección diseminada causados por micobacterias atípicas, de los cuales 30 estaban asociadas al complejo Mycobacterium avium (CMA), con una mortalidad del 73 % (5). A partir del inicio de la pandemia mundial de SIDA en la década de los 80, se incrementó dramáticamente el informe de casos de enfermedad diseminada causados por micobacterias atípicas, especialmente CMA (6); identificándose como la causa más común de enfermedad diarreica en estos pacientes. La detección de CMA en materia fecal o en secreciones del tracto respiratorio implica un riesgo de diseminación debiéndose investigar enfermedad focal o diseminada.
+
+   Un estudio realizado en Cali (Colombia) mostró un porcentaje de asociación micobacterias VIH/SIDA del 34,8 %, 6,5 % tenían TB y 27,7 %, micobacterias atípicas predominando CMA y M. fortuitum (7).
+MÉTODOS
+
+El presente estudio evaluó la frecuencia de la asociación micobacteriosis/VIH- SIDA, utilizando métodos bacteriológicos estandarizados, en una población de pacientes VIH positivos. También se estudió la influencia de las micobacterias en la sobrevida de los pacientes a mediano plazo y los factores clínicos y epidemiológicos asociados a la coinfección. Se estudió una cohorte de 92 pacientes VIH/SIDA positivos que consultaron al Hopital Universitario San Juan de Dios, en Bogotá Colombia, en el período de febrero a junio de 1995 y que no recibían la terapia múltiple antirretroviral. Los pacientes se dividieron en cuatro grupos:
+
+
+1. Pacientes que acudieron una sola vez a la consulta y no habían recibido tratamiento antituberculoso previo (n=41).
+2. Pacientes que acudieron más de una vez a la consulta y que no habían recibido tratamiento antituberculoso previo (n=34)
+3. Pacientes hospitalizados que no habían recibido tratamiento antituberculoso previo (n=15).
+4. Pacientes con las características de los grupos 1, 2 y 3 que habían recibido tratamiento antituberculoso previo (n=13).
+
+   Todos los pacientes firmaron un consentimiento informado y a cada uno se le diligenció un formulario en el que se consignó la siguiente información: identificación, sexo, edad, diagnóstico de infección VIH y prueba confirmatoria, estadio de infección VIH (clasificación CDC 1987), datos clínicos en el momento de ingreso al estudio, impresión diagnóstica, enfermedades infecciosas previas y tratamiento antituberculoso previo. Los pacientes fueron seguidos por un período de cuatro meses anotando el número de días que permanecieron en observación, si fallecieron o no, y la fecha de fallecimiento. Se definió como caso de tuberculosis aquellos pacientes que presentaron en cualquiera de las muestras estudiadas baciloscopia y/o cultivo positivo para M. tuberculosis.
+
+   A todos los pacientes se les tomaron dos muestras de sangre (n=280), para lo cual se estandarizó una metodología muy sencilla y accesible a los laboratorios del país. Se tomaron también dos muestras de materia fecal (n=203), dos de orina (n=206) y a los pacientes sintomáticos respiratorios dos muestras de esputo (n=71). Para los cultivos en materia fecal fue necesario estandarizar la metodología de aislamiento. A los pacientes con sintomatología meníngea se les tomó líquido cefalorraquídeo (n=10) y a un paciente se le tomó lavado bronco alveolar. En total se tomaron 363 baciloscopias y 568 cultivos.
+
+   A todas las muestras con excepción de la orina se les practicó baciloscopia y todas se cultivaron sembrando en diferentes medios de cultivo: Ogawa-Kudoh (OK), OK con citrato de hierro amoniacal (OKCFe), Stonebrink modificado por Giraldo (StG), y en medio bifásico (BF) cuya fase sólida era OK y la líquida Sauton tween albúmina 5 % modificado (MSTA). Tanto la baciloscopia como el cultivo se practicaron previa centrifugación de la muestra a 4000 x g. Los cultivos se incubaron a 37 C y no se descartaron como negativos antes de 16 semanas. Los cultivos positivos para bacilos ácido alcohol resistentes fueron identificados para determinar la especie y a las cepas de M. tuberculosis se les practicó prueba de sensibilidad a los medicamentos antituberculosos por el método de las proporciones múltiples de Canetti, Rist y Grosset.
+
+
+   Los pacientes se siguieron durante los cuatro meses del estudio a través de la historia clínica y toma de muestras para la investigación de micobacterias, se determinó la ocurrencia de muerte por causas relacionadas con la infección VIH. El seguimiento se hizo en conjunto con el grupo de trabajo ETS-VIH/ SIDA del Hospital San Juan de Dios. Con la información consignada en el formulario del estudio se elaboró una base de datos en el programa Epiinfo 6.0. En el análisis descriptivo se obtuvo la distribución de frecuencias para las variables estudiadas y se calculó la prevalencia de la asociación micobacterias/ VIH-SIDA. Se midieron los factores asociados a la infección usando las razones de prevalencia y sus intervalos de confianza del 95 % (IC= 95 %). Se utilizó la regresión logística como método multivariado para controlar la confusión entre variables predoctoras e identificar posibles interacciones entre características clínicas y epidemiológicas. En los modelos multivariados fueron incorporadas aquellas variables que mostraron asociaciones mayores de 2.0 e inferiores a
+0.5 en el análisis bivariado, así como también aquellas con niveles de significancia menores a 0.1. Además se midió la probabilidad de sobrevivir a tres meses usando las curvas de Kaplan y Meir y, se midieron los factores asociados con la sobrevida usando razones de tasas de incidencia y el modelo de Cox que permite evaluar al mismo tiempo el peso de varias características sobre la sobrevida.
+
+RESULTADOS
+
+Entre los 92 pacientes estudiados el 92.4 % eran hombres para una relación hombre-mujer de 12:1, con un rango de edad entre 14 y 64 años y una edad promedio de 32.4 años. El 51 % de los pacientes se encontraban en estadio II, el 47 % en estadio IV, el 1 % en estadio I y el 1 % en estadio III de la infección VIH. Un 15 % de los pacientes había padecido una TB previa, el 44 % enfermedades de transmisión sexual y el 33 % micosis.
+
+   La prevalencia encontrada de asociación micobacterias-VIH/SIDA fue del 14 % (13/92). En seis de estos pacientes la micobacteria fue aislada solo de sangre. La asociación con TB fue del 8 % (7/92), predominando la TB extrapulmonar, aislándose el M. tuberculosis de diferentes muestras clínicas y de un 8.6 % (8/92) con micobacterias atípicas, presentándose en ocasiones
+M. tuberculosis y micobacterias atípicas simultáneamente (Tabla 1). Se pudo comprobar una diseminación hematógena en cuatro de los ocho pacientes con micobacteriosis.
+
+
+
+Tabla 1. Diagnóstico de micobacterias en pacientes VIH positivos
+PacienteTipo de
+MuestraEspecie	Diagnósti
+Examen directoco	
+Cultivo18SangreM. tuberculosisNegativoPositivo21*SangreCMANegativoPositivoSangreCMANegativoPositivoSangreCMANegativoPositivo230rinaM. fortuitumNegativoPositivoM.FM. chelonae
+Var niacinógenesNegativoPositivo25**M.FM. fortuitumNegativoPositivoM.FCMANegativoPositivo28EsputoCMANegativoPositivo34M. FM. simiaeNegativoPositivo59SangreM. fortuitumNegativoPositivo63SangreMAIS 3NegativoPositivo65OrinaM. tuberculosisNo se realizaPositivo78SangreCMANegativoPositivoEsputoM. tuberculosisPositivoPositivoM.FM. tuberculosisPositivoPositivoCMA81SangreM. tuberculosisNegativoPositivoOrinaM. tuberculosisNegativoPositivo90SangreM. tuberculosisNegativoPositivoEsputoM. tuberculosisPositivoPositivoM.FM. tuberculosisPositivoNegativo109SangreM. tuberculosisNegativoPositivo123SangreM. tuberculosisNegativoPositivo* Paciente a quien se le hicieron 3 aislamientos consecutivos con intervalo de 1 mes cada uno
+** Paciente a quien se le hizo un aislamiento de M. fortuitum y al mes un aislamiento de CMA M.F: materia fecal, CMA: Complejo Mycobacterium avium; MAIS: Complejo Mycobacterium avium intracellulare scrofulaceum
+   De los pacientes tuberculosos que fueron diagnosticados por cultivo tan sólo el 33 % de ellos fueron captados por baciloscopia y de los pacientes diagnosticados con micobacteriosis ninguno pudo ser captado por baciloscopia. A seis de los siete pacientes a quienes se les aisló M. tuberculosis, se les practicó prueba de sensibilidad a los medicamentos antituberculosos, de las cuales dos fueron multirresistentes.
+
+   En el grupo 1 se aislaron micobacterias atípicas en el 2 % (1/41) de los pacientes. En el grupo 2 se aislaron micobacterias en un 12 % (4/34) de los pacientes (1 M. tuberculosis y 3 micobacterias atípicas. En el grupo 3 en el 40
+% (6/15) de los pacientes (4 M. tuberculosis y 2 micobacterias atípicas, y en el grupo 4 los aislamientos se hicieron en el 15 % de los pacientes (2/13) (2 M. tuberculosis).
+   Los factores asociados a la presencia de TB fueron estadio de infección VIH II y IV vs I y II (RP=7.0 IC 95 % 0.9-55), la TB previa (RP=4.0 IC 95 %
+
+
+1.05-16.69), antecedentes de hepatitis B (RP=4.2 IC 95 % 0.96-18), fiebre (RP=19.0 IC 95 % 2.4-150), pérdida de peso (RP= 7.6 IC 95 % 1.6-36.1).
+Después del análisis multivariado solo la presencia de fiebre conservó la asociación en forma estadísticamente significativa.
+
+   Los factores asociados a la presencia de micobacteriosis fueron la edad, siendo el grupo etáreo de 40 a 64 años, el de mayor riesgo; igualmente los estadios III y IV vs I y II (RP= 7.8 IC 95 % 1.02-62.27), la diarrea (RP=5.63 IC 95 % 1.20-26.28), la pérdida de peso (RP=5.0 IC 95 % 1.29-19.31). En el análisis multivariado únicamente la pérdida de peso se mantuvo asociada de manera estadísticamente significativa.
+
+   En total fallecieron 16 pacientes durante el período de seguimiento, la sobrevida a los 108 días fue del 75 % para toda la cohorte que aportó en total 6971 días/persona de seguimiento. Para aquellos pacientes en estadios III y IV la sobrevida fue del 55 % mientras que para los estadios I y II la sobrevida fue del 96 %. En los pacientes con TB la sobrevida fue del 28 %, mientras que en aquellos sin TB fue del 79 %. De los pacientes con TB y estadio III y IV sobrevivieron un 16 %, mientras que aquellos sin TB y en estadio III y IV sobrevivieron un 62 % (p< 0.05). Entre los pacientes con SIDA, la sobrevida de los tuberculosos fue de 15,2 días en promedio, mientras que para los coinfectados con micobacterias atípicas fue de 38,5 días.
+
+   En el análisis bivariado se asoció con la mortalidad el estadio III y IV (RR 13.2 IC 95 % 2.3-281.7), la pérdida de peso (RR 3.5 IC 95 % 1.3-6.9), la
+diarrea (RR 3.7 IC 95 % 1.3-11.8), la TB (RR 8.8 IC 95 % 3.0-25.0), y la
+neumonía por P. carini (RR 5.5 IC 95 % 1.3-18.1). En el modelo de Cox permanecieron asociados la TB (RR 14 IC 95 % 1.8-111) y el estadio III y IV (RR 12 IC 95 % 1.3-100 (Tabla 2). El riesgo atribuible porcentual entre expuestos fue de 88 % para tuberculosis y 95 % para el estadio III y IV.
+Tabla 2. Modelo de Cox. Factores asociados con la sobrevida en pacientes VIH (+)
+
+VariablesHazd RatioIC 95 %Estadios III y IV11.851.397-100.5Fiebre1.4780.3751-5.825Tos0.55010.1390-2.177Pérdida de peso1.7140.4487-6.552Diarrea4.6240.9173-23.31Tuberculosis previa13.971.756-111.2Otras micobacterias0.070.006-0.81114Edad0.63560.1865-2.167
+
+DISCUSIÓN
+
+La frecuencia de la asociación TB-VIH/SIDA y micobacterias atípicas-VIH/ SIDA fue muy similar, aunque se hubiera esperado que en un país como el nuestro donde la TB es una enfermedad endémica, esta asociación hubiera sido mayor, lo cual indica que en nuestro país se debe investigar de forma sistemática la asociación micobacterias-VIH/SIDA. Se deben establecer protocolos de manejo y profilaxis para las micobacteriosis, ya que disminuyen el tiempo de vida de los pacientes aunque de forma menos severa que la TB.
+
+   La frecuencia de TB y de micobacterias atípicas en nuestro estudio es similar al encontrado en la India (8), demostrando la importancia de realizar hemocultivos seriados a pacientes VIH positivos en quienes se sospeche la coinfección con micobacterias. El hecho de haber encontrado un 15 % de pacientes con TB previa al estudio, corrobora el hecho de que la TB es un fuerte predictor de la infección por VIH precediendo a otras infecciones oportunistas y en algunos casos al diagnóstico de la infección VIH (1).
+
+   Dos de seis pacientes estaban infectados con cepas multirresistentes, lo que indica la necesidad de hacer prueba de susceptibilidad a los medicamentos antituberculosos en estos pacientes, como lo demuestran estudios hechos en otros países (9). Por otro lado el promedio de sobrevida de los pacientes con TB es menor que el de los pacientes sin TB, disminuyendo drásticamente si están infectados con cepas multirresistentes, lo que sugiere una mayor virulencia de estas cepas (10).
+
+   En este estudio se detectó la coinfección M. tuberculosis-CMA, lo cual demuestra la importancia del cultivo para identificar correctamente las micobacterias, permitiendo un diagnóstico veraz y la administración oportuna del tratamiento adecuado, que permita una mejor calidad de vida a los pacientes. Se demostró también la importancia del seguimiento y de la toma de muestras seriadas ya que esto permitió aumentar la probabilidad de aislamiento en el grupo de pacientes que asistió más de una vez a la consulta, como también la detección precoz de la colonización de los tractos gastrointestinal y respiratorio por micobacterias atípicas, evitando su diseminación y disminuyendo la morbi- mortalidad debida a ellas.
+
+   En conclusión nuestro estudio muestra que la sobreinfección por TB o por micobacterias atípicas reduce la sobrevida en pacientes VIH/SIDA positivos y
+
+
+demuestra la necesidad de mejorar los métodos diagnósticos de esos agentes en Colombia en los pacientes infectados por el VIH•
+
+Agradecimientos. Financiado por Instituto Nacional de Salud y Universidad Nacional de Colombia.
+
+REFERENCIAS
+
+1. Política interna sobre actividades colaborativas TB/VIH. Ginebra. World Health Organization; 2004 (WHO/HTM/TB/2004.330, WHO/HTM/HIV/2004.1)
+2. Tuberculosis. Organización Panamericana de la Salud. OPS/OMS/HCP/HCT/ TUB 2003;6(1)
+3. Harries AD, Maher D. TB/VIH. Manual Clínico paraAmérica Latina WHO/TB/96.200. Ginebra;1997
+4. Edlin BR, Tokars JI, Gireco MH Crawford JT, Williams J, Sordillo EM et al. An outbreak of multidrug-resistant tuberculosis among hospitalized patients with acquiered immunodeficiency syndrome. N. England J. Med 1992; 326:1514-21.
+5. Wolinsky E. Nontuberculous mycobacteria and associated diseases. Am. Rev. Respirat. Dis 1979; 119:107
+6. Mijs W, de Haas P, Rossau R, Van der Laan T, Rigouts L, Portaels, et al. Molecular evidence to support a proposal to reserve the designation Mycobacterium avium subsp. avium for bird-type isolates and 'M. avium subsp. hominissuis' for the human/porcine type of M. avium. Int J Syst Evol Microbiol. 2002; 52(Pt 5):1505-18.
+7. Murcia MI, Leao SC, Ritacco V, Palenque E, de Oliveira RS, RenieroA, et al. Distribution of PRA patterns of clinical isolates of the Mycobacterium avium complex from Spain and South America Biomedica 2004; 24 Supp 1:60-4.
+8. Crespo MP, Heli Corral R, Alzate A, Carrasquilla G, Sanchez N. Mycobacterial infections in HIV-infected patients in Cali, Colombia. Rev Panam Salud Publica 1999; 6(4):249-55.
+9. Sharma SK, Kadhiravan T, Banga A, Goyal T, Bhatia I, Saha PK. Spectrum of clinical disease in a series of 135 hospitalised HIV-infected patients from north India.. BMC Infect Dis 2004; 22;4:52.
+10. Perneger SV, Sudre P, Lundgren JD, Hirschel B. Does the onset of tuberculosis in AIDS predict shorter survival? Results of a cohort studyin 17 European countries over 13 years BMJ 1995; 311:1468-1471.
+
+
+
+
+
+

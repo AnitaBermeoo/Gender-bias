@@ -1,0 +1,180 @@
+﻿  Revista Española de Educación Médica
+
+Experiencias de Docencia Virtual en Facultades de Medicina Españolas durante la pandemia COVID-19: Anatomía, Fisiología, Fisiopatología, Oncología.
+Experiences of Online Teaching in  Spanish Medical Schools during COVID-19: Anatomy, Physiology, Pathophysiology, Oncology
+Pericacho M1, Rosado JA2, Pons de Villanueva J3, Arbea L4
+1 Departamento de Fisiología, Universidad de Salamanca, pericacho@usal.es
+2 Departamento de Fisiología, Universidad de Extremadura, jarosado@unex.es
+3 Departamento de Medicina, Universidad de Navarra, jponsdevi@unav.es
+4 Departamento de Medicina, Universidad de Navarra, larbea@unav.es
+Recibido: 28 de abril de 2020; Aceptado: 8 de mayo de 2020; Publicado: 9 de mayo de 2020
+
+Resumen: Presentamos un resumen de las actividades que algunos profesores de Facultades de Medicina españolas han llevado a cabo durante las 3 semanas previas a las vacaciones de primavera. Durante este tiempo, debido a la pandemia provocada por la COVID-19, la docencia presencial tuvo que ser sustituída por actividades en línea o virtuales, a causa de la implantación del estado de alarma en España que motivó el cierre completo de las Universidades desde el 13 de marzo de 2020. Las experiencias son de Anatomía, Fisiología, Fisiopatología y Oncología.
+
+Palabras clave: Docencia Virtual; COVID-19; Videoconferencia; Chat; Instagram; Grado en Medicina, Fisiología, Fisiopatología, Oncología, Anatomía
+
+Abstract: We present a summary of the activities that some professors of Schools of Medicine of Spain have carried out during the 3 weeks prior to spring break. During that time, due to COVID-19, face-to-face teaching had to be replaced by online or virtual activities, due to the implementation of the state of alarm in Spain, which led to the complete closure of the Universities since March 13, 2020. The activities are from Anatomy, Physiology, Pathophysiology and Oncology.
+
+Keywords: Virtual Teaching; COVID-19; Videoconference;  Chat;  Instagram; Medicine Degree, Pathophysiology, Physiology, Oncology, Anatomy
+
+
+1. Introducción
+    A partir del 13 de marzo, con la declaración del  Estado de Alarma  en España, todas las actividades presenciales en la Universidad cesaron bruscamente y obligaron a los profesores a pasar de forma inmediata a un sistema de docencia en línea (online) con el que seguir impartiendo docencia a sus alumnos. En este artículo presentamos algunas de las experiencias que se han llevado a cabo desde ese día hasta el viernes anterior a las vacaciones de primavera (3 de abril) en distintas Universidades Españolas.
+
+
+
+
+
+Rev  Esp  Edu  Med  2020;1:32-39;  doi:10.6018/edumed.424931	revistas.um.es/edumed
+
+
+
+2. Fisiología General, Prof. Miguel Pericacho, Universidad de Salamanca
+    El autor de este resumen es Profesor Contratado Doctor del Departamento de Fisiología y Farmacología de la Universidad de Salamanca y está  adscrito  a  la Facultad de Medicina. Su docencia de grado se centra en las asignaturas de Fisiología General y Fisiología Humana en el Grado de Medicina y en la asignatura Fisiología General y Humana del Grado de Odontología. Por suerte, la mayor parte  de  la docencia se centra en el primer cuatrimestre o al principio del segundo, por lo que apenas se ha tenido que adaptar la docencia teórica. Pero, faltaban algunas clases prácticas.
+
+    La suspensión de las clases coincidió con el desarrollo de una práctica en la asignatura de Fisiología General de 1º de Medicina: de 16 grupos de alumnos, sólo la habían recibido 4. La práctica era de Enseñanza Asistida por Ordenador, utilizando el programa Neurosim con la que se hacen algunos experimentos y el programa de hoja de cáclulo Excel para representar los datos obtenidos. En dichas prácticas, además de utilizar el programa, se hace un debate entre toda la clase para ir deduciendo el significado de los datos que se obtienen con el Neurosim. Y, de hecho, esta parte de debate y razonamiento resulta ser la más relevante de la práctica desde el punto de vista docente y en la que más interés  había en  recuperar. El problema era que  no había licencias libres para utilizar el Neurosim, ni siquiera personales para los profesores. Por tanto, se hicieron capturas de pantalla de todo el desarrollo de la práctica, tanto con Neurosim como con Excel, para preparar una presentación  en la que los alumnos pudieran ir viendo los resultados que habrían obtenido y cómo analizarlos en Excel.
+
+    Previamente, a través del aula virtual (Studium en la USAL, basado en Moodle) se realizaron una serie de encuestas para conocer el número de alumnos interesados, primero, y luego la forma de dividirlos en grupos. La respuesta fue muy positiva por parte de los alumnos, ya que de unos 120 alumnos que necesitaban hacer la práctica, se apuntaron aproximadamente unos 100. Las prácticas se recuperaron en 4 sesiones distintas (con 25-30 alumnos por sesión) utilizando Blackboard Collaborate plus, que está disponible a través del aula virtual.
+
+    El desarrollo de la práctica fue muy positivo. El profesor exponía los problemas y los datos obtenidos compartiendo en pantalla la presentación preparada previamente y con posterior turno de debate utilizando el chat escrito,  para  evitar  solapamientos de voz al usar los micrófonos. La participación fue muy alta, con numerosas opiniones y dudas. El profesor, que sí utilizaba la voz, iba dirigiendo el debate y aclarando las dudas que surgían. Algo que observamos, muy interesante, es que al utilizar esta metodología se modificó el comportamiento de los alumnos, ya que en este caso, quizá por ser online y con chat, hubo alumnos que participaron mucho más que la vez previa en sesión presencial. La alta participación y los comentarios al final de la clase indicaron que les había parecido una forma interesante y útil de recuperar la clase.
+
+    Finalmente, la clase del Máster en Fisiopatología y Farmacología Celular y Molecular se subió a Studium y, de acuerdo con los alumnos, se concretó una fecha para impartir la clase de manera virtual, mediante Blackboard. El desarrollo de la clase fue muy bueno y los comentarios que se hicieron al final de la misma indicaron que habían preferido este tipo de metodología a la tradicional. Los alumnos quedaron contentos y agradecidos y se están recibiendo dudas y preguntas a través de los distintos canales que se ofrecen a los alumnos: email, Telegram o Twitter. En este sentido no ha cambiado mucho ni la frecuencia ni el canal de comunicación. Cada uno de ellos utiliza el que le parece más útil, aunque creemos que ofrecer distintos canales
+
+
+de comunicación fomenta la interacción con los alumnos y que haya una mayor cantidad de interacciones.
+
+
+2. Fisiopatología, Prof. Juan Antonio Rosado, Universidad de Extremadura.
+    Desde el inicio del estado de alarma hemos tenido que reestructurar nuestra docencia para adaptarla a la nueva situación y creo que tanto el profesorado como los estudiantes, es decir, la universidad, ha estado a la altura de las circunstancias, por supuesto, con un esfuerzo extra en adaptación y reconversión en tiempo record para que los estudiantes no se vean perjudicados y su formación esté garantizada.
+
+    En el caso presente, nos encontrábamos con la docencia de  una  asignatura optativa en el grado en Bioquímica. Para proseguir con la docencia de esta asignatura, se han reconvertido las prácticas en estudios de casos clínicos, de tal manera que se ha invitado a los estudiantes a responder a una serie  de  preguntas  sobre  casos clínicos de interés general a fin de llegar a conocer en profundidad la fisiopatología de las enfermedades estudiadas. Los estudiantes, de forma individual han elaborado un dosier, cuya calificación tendrá reflejo en la nota final de la asignatura.
+
+    En relación con las clases teóricas, todas aquellas clases que no se han podido impartir de forma presencial fueron grabadas  en vídeo y  subidas al campus virtual para que los estudiantes puedan seguirlas. Los estudiantes también cuentan con las diapositivas y unos “apuntes” que les sirven de referencia  para  prepararse  el contenido de la asignatura. Hemos conocido recientemente que se ha multiplicado la transmisión de información a través del campus virtual y el correo electrónico de la UEx. Precisamente,  estos  dos medios han sido también los elegidos para las tutorías de libre disposición y facilitar el contacto con los estudiantes.
+
+    Por último, siguiendo instrucciones del rectorado de nuestra universidad, y creo que con buen criterio, estamos modificando los criterios  de  evaluación  para adaptarlos a la nueva situación no presencial. Criterios que se publicarán en breve para que los estudiantes tengan pleno conocimiento de ellos.
+
+    Los estudiantes están siguiendo activamente las distintas actividades propuestas y estamos en contacto con ellos para determinar el día de realización de los exámenes parciales que habitualmente realizamos. Si bien, es necesario hacer constar que en esta nueva situación es posible que los estudiantes hayan tenido una distribución heterogénea de las actividades y desde el profesorado tendremos que implementar medidas de coordinación virtual con otras asignaturas que permita homogeneizar el trabajo del estudiante.
+
+3. @anatodemia, Prof. Juan Pons, Universidad de Navarra
+    La idea de esta actividad surgió tras la suspensión de la actividad docente presencial. A través del delegado de los estudiantes, se preguntó a los alumnos de 1º de Medicina qué se podía hacer para mantener algún tipo de actividad docente complementaria que les pudiera ayudar durante esos días. Tras la realización de una encuesta en clase, los estudiantes sugirieron crear una cuenta de Instagram, @anatodemia.
+
+    La cuenta está centrada en Anatomía Musculoesquelética, con orientación principalmente a alumnos de Anatomía en primero de Medicina. Sin embargo, la cuenta es seguida también por alumnos de otros cursos.
+
+
+
+3.1 Detalles técnicos.
+• Los feed  no  salen  en  orden  cronológico.  Esto  es  un  inconveniente   de
+Instagram.
+• Instagram recorta las imágenes para que sean cuadradas. Si se trabaja  en Power Point, el tamaño de la imagen ha de ser 20 cm x 20 cm, de manera que luego entre toda la imagen.
+• Editar los videos para que sean en proporción 1:1. Pasarlos a Keynote con diapositiva 1:1 y volver a exportarlos como vídeo. De otra manera pueden salen
+recortados.
+• Cómo pasar imágenes del ordenador al feed: indirectamente por bluetooth, también directamente se puede trabajar en el ordenador con interfaz de móvil al teclear Fn+F12.
+• Cómo pasar las imágenes del ordenador a historia: la  opción anterior  no da toda la interactividad real que da Instagram en el móvil. Lo más eficaz es pasar
+la imágen a través de Bluetooth al móvil, y después subirla a la historia para editarla, poner la pregunta...
+• Vídeos en historias, máximo 15 segundos. Si es más largo se divide en varias
+historias. Conviene guardarlos también como “destacados” para que se puedan consultar siempre que se quiera. Han de ser cortos, cada 15 segundos de secuencia hay alumnos que dejan de ver el video.
+• Videos cortos en feed de Instagram, máximo 60 segundos.
+• Los videos largos se pueden subir a IGTV. Máximo 10 minutos (60 en el caso de
+cuentas verificadas). Da la opción de organizarlos en series (en mi caso, hago series por regiones anatómicas).
+• Los videos se pueden editar en el móvil con apps como VLLO o MOJO, antes de
+subirlos a Instagram.
+• Es difícil manejar texto largo. Para frases largas, es mejor  hacer un  Power Point y luego pasarlo al móvil en formato jpeg.
+• Organizar las historias en carpetas. En nuestro caso, por regiones anatómicas: hombro, codo, muñeca… De esta manera, si alguien quiere repasar una región en concreto, puede ir directamente a esa carpeta de historias. Para ver las repuestas tendrá que navegar por los posts.
+• Un color de fondo para cada sección del contenido en el caso de imágenes con texto. En nuestro caso, se ha dividido el contenido en  tres  secciones: extremidad superior (verde), extremidad inferior (azul) y raquis (rojo). De esta manera, navegando por el feed, se puede detectar rápidamente el contenido de la imagen sin tener que verla. Esto facilita el repaso en contenidos concretos.
+• Difusión: añadir hashtags (#) de palabras clave en comentarios, o en la propia historia.
+
+3.2 Criterios técnicos generales.
+• La cuenta es de acceso público, esto simplifica mucho la gestión de nuevos seguidores y siempre es una ventaja dejarla accesible a todo aquel a quien le resulte útil.
+• No seguir a los seguidores de la cuenta. Se trata de una cuenta académica.
+• No más de un post al día (pregunta por la mañana, respuesta por la tarde).
+
+3.3 Criterios docentes generales.
+• Tener claro el contenido que queremos desarrollar. No se trata simplemente de ir subiendo las cosas que se nos ocurran. Hay que tener una estrategia de contenidos clara.
+
+
+• Centrar las historias y feeds en la región anatómica que se está trabajando en clase esa temporada. Fuera del curso académico, el contenido puede estar más centrado en casos clínicos para los seguidores que están preparando el MIR.
+• Pensar qué modos de presentación vamos a usar, esto requiere igualmente estrategia.
+• Aprendizaje activo: cualquier post tiene que empezar  como una  historia con test de elección múltiple. Sólo las historias permiten hacer preguntas. Esto da un feedback inmediato al alumno, de si ha respondido bien o mal, y al profesor de qué han contestado los alumnos. Al final del día, hago un post que incluye, un comentario explicando el asunto en cuestión y al menos dos imágenes, la primera, la de la historia y la segunda la respuesta. Además se puede añadir algún esquema que englobe todo el contenido del post. Hacer el post al final del día, permite que alumno pueda consultar el material siempre que quiera. Que la primera imagen sea la pregunta,  permite  que  los  seguidores posteriores, también puedan trabajar con los post de manera activa, al menos mentalmente.
+• Las preguntas han de ser fáciles, por muy fácil que pienses que sea una pregunta, siempre muchos la fallarán.
+• Nunca hacer preguntas indirectas. Esto ayuda al razonamiento más profundo. Por ejemplo, en vez de preguntar cuál es un músculo determinado, ses mejor preguntar por la función de ese músculo. Con lo cual en el fondo estamos haciendo dos preguntas consecutivas (identificar el músculo y su función).
+Figura 1. Perfil de @anatodemia en Instagram.
+
+3.4 Ejemplos de tipos de contenido.
+• Dibujos de anatomía seccional (muy adecuada para relacionar estructuras importantes).
+• Dibujos de áreas de inserción.
+• Dibujos de regiones anatómicas de especial interés.
+
+
+• Videos de dibujo time-lapse, ayudan a ver el desarrollo “en pizarra” de una clase estándar.
+• Videos quirúrgicos breves.
+• Videos de exploración física normal o en paciente.
+• Vídeos o imagen de bodypainting.
+• Casos clínicos, siempre con imagen (radiografía, resonancia, TAC, quirúrgica,
+exploración física).
+• Flashcards sobre conceptos básicos.
+• Esquemas / tablas, con explicación audio.
+• Mini-clases.
+• Imágenes de disección macroscópica. Yo todavía no tengo clara la conveniencia
+de poner imágenes de cadáver, aunque es algo habitual en Instagram.
+• Preguntas abiertas, aunque tiene el inconveniente de que hay que mirar las respuestas una por una para tener una idea general del resultado. El feedback se puede dar dando la respuesta al subir la imagen como feed.
+• Memes.
+• Videos stopmotion.
+
+3.5 Otras cosa que ayudan.
+• Encuestas con historias para pedir comentarios sobre si les resulta realmente útil el material que se sube, pedir ideas a los alumnos, aspectos concretos que les interesaría tratar...
+• Día de preguntas abiertas: un día puede estar dedicado a contestar preguntas, dudas de los alumnos, sobre el tema que quieran. Se lanza una historia
+invitando a enviar preguntas a través de la  opción  específica.  Conviene publicar las que se consideren interesantes.
+
+4. Oncología, Profa. Leire Arbea, Universidad de Navarra
+    La asignatura de Oncología, que se imparte en el último curso de Grado de Medicina en nuestra facultad, ha tenido que adaptarse de manera rápida a la nueva situación de conexión virtual con nuestros alumnos.
+
+4.1. Contenido Docente
+    Hemos mantenido el protagonismo de la clase magistral con powerpoint (ppt), ofreciéndosela a los alumnos en streaming vía zoom o google meet, el día y hora de la clase. Otros, hemos preferido grabarla con  panopto, y colgarla el día de la clase, a través de Blackboard. Además, hemos desarrollado otras estrategias:
+
+1. Evaluación Formativa: Hemos creado cuestionarios de autoevaluación con google forms de cada tema dado online, con feedback inmediato de las opciones. La aceptación ha sido buena, con participación de más del 50% de los alumnos.
+
+2. Creación De Contenido Docente: Si bien ya era una opción antes del confinamiento, el desarrollo de preguntas tipo test o el diseño contenido para una cuenta de Instagram propia de la asignatura, ofrece a los alumnos la oportunidad de profundizar en un concepto clave, y obtener puntos para subir la nota final de la asignatura.
+
+1. Creación de preguntas tipo test, siguiendo una estructura que provoque un proceso de reflexión por parte del alumno.
+
+2. Creación de contenido para ONCOGRAM, una página de Instagram. Sintetizar una idea clave a través de una imagen, meme, esquema o vídeo,
+
+
+también reglas nemotécnicas, utilizando su “idioma” en redes sociales (Figura 2). El profesor responsable de la asignatura junto con un equipo de cuatro residentes, revisan las preguntas tipo test y los contenidos para Oncogram, dando un feedback personalizado a cada alumno. El 75% de los matriculados a hecho preguntas tipo test, y un 28% ha participado en la creación de contenido para Instagram.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figura 2. Un ejemplo de contenido en la cuenta de Instagram ONCOGRAM. 1A: meme, 1B: regla nemotécnica, 1C: esquema resumen
+
+3. Sesión de repaso y dudas: utilizando las preguntas formuladas por los propios estudiantes y algún caso clínico, a través de Socrative, sesión de dos horas en streaming vía Zoom o Google Meet, para repasar el contenido de la asignatura.
+
+4.2 Contenido Emocional
+    Además del contenido teórico, decidimos conectar con los alumnos  desde  un punto de vista más personal, y diseñamos unos vídeos de 3-4 minutos de duración, donde les contamos, además de las novedades de la asignatura y algún otro aspecto técnico, nuestra situación emocional como médicos y como profesores,  ante  este nuevo escenario sanitario y docente. Todos los lunes, a través de estos vídeos, compartimos cómo estamos viviendo la situación médica en el hospital, nuestros miedos, aprendizajes y esperanzas; hablamos de solidaridad, vocación, paciente, compromiso, y otros aspectos esenciales de nuestra profesión. Una oportunidad para la docencia del profesionalismo.
+
+    Estos vídeos han conectado directamente con el corazón de  los  alumnos,  que están a las puertas de ser médicos, y que se sienten, en cierta manera, impotentes de no poder ayudar más activamente. Son muchos los mensajes de agradecimiento que hemos recibido por compartir nuestro testimonio:
+
+    “Muchas gracias por su vídeo y por su cercanía. Sois un ejemplo de superación y de dedicación para nosotros, como profesores y como médicos. Es una suerte haberos tenido en estos 6 años de formación, y esta nueva situación a la que os enfrentáis y cómo lo estáis haciendo, nos refuerza nuestra vocación y las ganas de empezar ya a ser médicos de verdad. Espero que os estén llegando todos los aplausos y ánimos de toda una población que os admira, sobre todo los nuestros, vuestros alumnos”.
+
+
+4.3. Reflexión Final
+    Esta situación docente a la que nos ha tocado adaptarnos, tiene muchas lecturas positivas. Por un lado, la mejora del manejo de herramientas, recursos TIC  y programas de distribución de contenidos por parte de los docentes. Por otro, el plantearnos otro modelo pedagógico favorecido por la  posibilidad  de  ofrecer contenido para la enseñanza en el espacio individual del estudiante. Y, por último, el encuentro con el alumno, agradecido, dispuesto  y encantado de ser más protagonista de su proceso de aprendizaje. Sin duda, un momento clave para  repensar  la enseñanza.
+
+© 2020 por los autores. Enviado para su publicación en acceso abierto bajo los términos y condiciones de la licencia Creative Commons  Attribution  (CC BY) (http://creativecommons.org/licenses/by/4.0/).
+
+

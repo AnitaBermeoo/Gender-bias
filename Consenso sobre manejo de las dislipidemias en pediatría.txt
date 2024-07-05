@@ -1,0 +1,531 @@
+﻿Sociedad Argentina de Pediatría
+Subcomisiones, Comités y Grupos de Trabajo	
+
+
+
+Arch Argent Pediatr 2015;113(2):177-186 / 177
+
+Consenso sobre manejo de las dislipidemias en pediatría
+Consensus on management of dyslipidemia in pediatrics
+
+Comité de Nutrición
+
+
+RESUMEN
+Este documento, dirigido a médicos pediatras, de familia, especialistas en nutrición, entre otros, tiene por objetivos trasmitir los lineamientos para el diagnóstico temprano y el tratamiento de dislipidemias en pediatría y concientizar al pediatra sobre la prevención de la enfermedad cardiovascular del adulto. La aterosclerosis es un proceso progresivo, que comienza en la infancia, y las dislipidemias pertenecen al grupo de factores de riesgo que aceleran su evolución. Se propone el tamizaje universal de dislipidemias a los 6 años y a los 17 años, y selectivo a partir de los 2 años si existen factores de riesgo o enfermedad predisponente.
+Se recomienda el dosaje de colesterol total, LDL, HDL y triglicéridos con ayuno previo.
+El tratamiento de las dislipidemias en pediatría tiene el objetivo de disminuir el riesgo de eventos cardiovasculares prematuros en el caso de hipercolesterolemias y disminuir el riesgo de pancreatitis en el caso de hipertrigliceridemias graves. El pediatra deberá abordar el tamizaje, diagnóstico e implementación de medidas hipolipemiantes. Los pacientes con niveles más elevados deberán derivarse a especialistas con experiencia en tratamientos farmacológicos.
+Palabras clave: dislipidemias, hipercolesterolemia, hipertrigliceridemia, tamizaje, tratamiento.
+
+ABSTRACT
+This document is intended for pediatricians, family, nutritionists and others. It aimed to convey the guidelines for early diagnosis and treatment of dyslipidemia in children and sensitize the pediatrician to the prevention of cardiovascular disease in adults. Atherosclerosis is a gradual process that begins in childhood and dyslipidemia belongs to the group of risk factors that accelerate their evolution.
+Universal screening for dyslipidemia at 6 years and 17 years is proposed; selective screening after 2 years is recommended if there are risk factors or predisposing disease.
+Assay of total cholesterol, LDL, HDL and triglycerides is recommended, prior fasting.
+Treatment of dyslipidemia in children aims to reduce the risk of premature cardiovascular events in the case of hypercholesterolemia, and decreasing the risk of pancreatitis in the case of severe hypertriglyceridemia. The pediatrician should address screening, diagnosis and implementation of lipid-lowering measures. Patients with higher levels should be referred to specialists with expertise in drug therapy. Key words: dyslipidemias, hypercholesterolemia, hypertriglyceridemia, screening, treatment.
+http://dx.doi.org/10.5546/aap.2015.177
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Correspondencia:
+Dra. María B. Araujo: maribearaujo@yahoo. com.ar
+Conflicto de intereses:
+Ninguno que declarar.
+Recibido: 24-10-2014
+Aceptado: 29-10-2014
+
+Coordinadores: Dra. María B. Araujo, Dra. Patricia Casavalle, Dra. Miriam Tonietti.
+Secretaria del Comité Nacional de Nutrición: Dra. Blanca Ozuna.
+Colaboraron en la elaboración del documento los siguientes profesionales: Introducción: Dra. M. Eugenia Andrés, Dra. Adriana Fernández, Dra. Amal Hassan, Dra. Analía Cabrera, Dra. Ana Cuccurullo, Dra. Ana Pérez Leiva, Dra. Evangelina González, Dra. Viviana Buiras, Dra. Virginia Bonetto, Dra. Norma Villanova.
+Tamizaje: Dra. Andrea Cotti, Dra. Susana de Grandis, Dra. Laura Gaete. Evaluación de lípidos en niños y adolescentes: Dr. Fernando Brites, Dra. Blanca Ozuna, Dra. Débora Setton, Dra. Patricia Evangelista, Dra. Adriana Roussos,
+Dra. Marcela Fabeiro.
+Tratamiento nutricional: Lic. Laura Romano, Lic. Romina Alculumbre, Dra. Verónica Vaccarezza, Lic. Patricia Palenque, Dra. Rosana Vagni,
+Lic. Silvia Landolfi, Lic. Gabriela Dimarco, Lic. Carina Brenna, Dra. Virginia Bonetto, Dra. Viviana Buiras, Dra. Patricia L. Casavalle.
+Tratamiento farmacológico: Dra. María Araujo, Dra. Virginia Desantadina,
+Dra. Gabriela Pacheco, Dra. Valeria Segal, Dra. Sonia Martínez, Dr. Gabriel Eiberman, Dra. Miriam Tonietti, Dra. Patricia Sosa.
+
+
+
+INTRODUCCIÓN
+   Una de las principales causas de muerte en la población adulta es la enfermedad cardiovascular (ECV) aterosclerótica. Si bien las manifestaciones clínicas predominan en la edad adulta, la investigación, en los últimos 40 años, ha indicado que el proceso aterosclerótico comienza en la infancia y es progresivo durante toda la vida. También ha quedado claro que, si bien existe un componente genético que produce susceptibilidad, los factores ambientales exacerban e intensifican la progresión de la enfermedad con el desarrollo, en la adolescencia y en la juventud, de estrías grasas en la pared arterial y la formación de las placas de ateroma, que se expresan clínicamente en adultos con obstrucción arterial y ECV.1,2
+   Estudios longitudinales han demostrado una correlación entre la presencia de factores de riesgo de ECV (dislipidemias, obesidad, hipertensión, tabaquismo y diabetes) medidos en niños y adultos jóvenes con la aterosclerosis subclínica medida más tarde, en la edad adulta.3,4
+   La aterosclerosis es, entonces, un proceso progresivo, que comienza en la infancia, y depende de la intensidad y persistencia de los factores de riesgo. La identificación precoz y el control temprano de la dislipidemia reducirán el riesgo cardiovascular en la vida adulta.5-7
+OBJETIVO
+   Este documento está dirigido a médicos pediatras, de familia, especialistas en Nutrición y otros profesionales de la salud. Su objetivo es el siguiente:
+• Trasmitir los lineamientos necesarios para el diagnóstico temprano y el tratamiento de dislipidemias en la infancia.
+• Concientizar al pediatra en su rol sobre la prevención de la ECV del adulto.
+METODOLOGÍA
+   En noviembre de 2013, el Comité de Nutrición de la Sociedad Argentina de Pediatría (SAP) realizó una jornada interdisciplinaria de actualización de dislipidemias en pediatría, y se sentaron allí las bases para realizar el Consenso de Manejo de las Dislipidemias en Pediatría.
+   En marzo de 2014, se realizó una reunión presencial, que incluyó al Comité de Nutrición de la SAP, un bioquímico experto en lípidos y miembro de la Asociación de Bioquímica Argentina y licenciadas en Nutrición miembros de la Asociación Argentina de Dietistas y
+
+Nutricionistas Dietistas. En esa reunión, se organizó la búsqueda sistemática, que incluyó la bibliografía con mejor evidencia disponible en cada tema y las guías de diagnóstico y tratamiento internacionales vigentes. Se hizo hincapié en la bibliografía publicada a partir de 2011 porque esta no está incluida en las guías actuales. Se organizaron grupos de trabajo según 6 ejes temáticos: generalidades, diagnóstico bioquímico, tamizaje, tratamiento dietético-nutricional, tratamiento farmacológico y algoritmo de manejo para el pediatra. El material elaborado fue discutido, consensuado y es ahora presentado a través de este documento.
+DEFINICIÓN Y CLASIFICACIÓN
+   Las dislipidemias son trastornos del metabolismo lipoproteico primario o secundario que se caracterizan por presentar valores anormales de alguna de las fracciones lipídicas.8
+   Se clasifican en dislipidemias primarias (monogénicas y poligénicas) y secundarias. Las monogénicas son las formas más graves, tienen poca respuesta a las modificaciones ambientales y dietarias, y muchas veces requieren tratamiento farmacológico. Las poligénicas son las más frecuentes en pediatría, se relacionan con el aumento de la prevalencia de obesidad en la infancia y tienen buena respuesta a las intervenciones en el estilo de vida (Tabla 1, en formato electrónico).5,8
+   Las dislipidemias secundarias se relacionan con la enfermedad de base (Tabla 2).9
+TAMIZAJE DE DISLIPIDEMIAS EN LA INFANCIA
+   Hasta el presente, la pesquisa de dislipidemias en pediatría se realizaba teniendo en cuenta el riesgo. Se buscaba identificar y estudiar aquellos niños con antecedentes familiares de ECV temprana, o de dislipidemia, o antecedentes familiares de diabetes, obesidad, hipertensión, tabaquismo, etc., o aquellos niños cuyos antecedentes familiares fueran desconocidos.1
+   Este abordaje resultó insuficiente ya que mostró una eficacia menor del 50%, debido a que existe un subdiagnóstico en adultos que desconocen su perfil lipídico y su historia familiar. Esto limita la posibilidad diagnóstica en los niños, con la consiguiente pérdida de la oportunidad de instaurar un tratamiento en caso de ser necesario. Existen formas genéticas de dislipidemias que aumentan el riesgo cardiovascular tempranamente, son asintomáticas
+
+
+
+y requieren de un tratamiento adecuado, lo que remarca la necesidad del diagnóstico precoz.10
+   En 2011, se conformó un Panel de Expertos de la Academia Americana de Pediatría (AAP)
+TABLA 2. Causas de dislipidemias secundarias
+
+
+Renales	- Insuficiencia renal crónica
+- Sme. urémico-hemolítico
+- Sme. nefrótico
+
+Infecciosas	- Infecciones agudas virales o bacterianas
+- SIDA
+	- Hepatitis	
+Enfermedades	- Lupus eritematoso
+inflamatorias	- Artritis reumatoidea juvenil
+
+Endocrinológicas - Hipotiroidismo
+- Hipopituitarismo
+- Diabetes tipo 1 y 2
+- Sme. de ovario poliquístico
+- Lipodistrofias
+	- Hipercalcemia idiopática	
+Hepáticas	- Enf. colestáticas (atresia de vías biliares)
+- Sme. de Alagille
+	- Cirrosis biliar	
+Enfermedades	- Glucogenosis
+de depósito	- Enf. de Gaucher
+- Enf. de Tay-Sachs
+	- Enf. de Niemann-Pick	
+Otras	- Enf. de Kawasaki
+- Anorexia nerviosa
+- Postrasplante
+- Postratamiento de cáncer
+- Progeria
+- Sme. de Klinefelter
+- Sme. de Werner
+- Porfiria
+
+SIDA: síndrome de inmunodeficiencia adquirida.
+
+y el Instituto Nacional del Corazón, Sangre y Pulmón de EE.UU. (National Heart, Lung, and Blood Institute; NHLBI, por sus siglas en inglés) y crearon las Guías para la prevención del riesgo cardiovascular en pediatría, en las que se propuso un tamizaje universal de dislipidemias. La comunidad científica europea coincide con esta posición.7
+   En 2013, el Comité de Nutrición de la Sociedad Argentina de Pediatría se propuso revisar las guías vigentes para mejorar la identificación de niños con dislipidemia y presentó el tamizaje universal por edad; es decir que deberán estudiarse todos los niños a partir de los 6 años de edad, lo que coincide con el ingreso escolar. Antes de la pubertad, se deberá evaluar un primer perfil lipídico en todos los niños (Tabla 3).
+   El segundo momento fisiológico favorable para la pesquisa de dislipidemias es entre los 18 y los 21 años. Durante la adolescencia, los niveles lipídicos descienden fisiológicamente y puede haber falsos negativos. En algunos casos, luego de esa etapa, se manifiestan dislipidemias del adulto (Tabla 3).11,12
+   Aquellos niños con antecedentes familiares o con riesgo de ECV deberán estudiarse independientemente de la edad (Tabla 4).
+   Luego del tamizaje, en el caso en que el colesterol total (CT), los triglicéridos o el colesterol de las lipoproteínas de baja densidad (C-LDL) resulten elevados, se deberá confirmar el diagnóstico repitiendo el estudio bioquímico entre 2 semanas y 3 meses después de la primera extracción. Si, al promediar los valores obtenidos
+
+
+TABLA 3. Tamizaje universal. Recomendaciones por edad
+De 0 a 2 años	No dosar de rutina.
+
+De 2 a 6 años	No dosar, excepto:
+• abuelos, padres, tíos o hermanos con IAM, ACV, stent/angioplastia, o padres con CT > 240 mg/dl o dislipidemia desconocida.
+• Niños con diabetes, HTA, obesidad, fumadores.
+De 6 a 11 años	Tamizaje universal:
+• Si LDL > 130 mg/dl, HDL < 40 mg/dl y triglicéridos > 100 mg/dl si es menor de 10 años y
+más de 130 mg/dl si es mayor de 10 años: repetir y promediar para definir la conducta terapéutica.
+De 12 a 16 años	No dosar, excepto:
+• abuelos, padres, tíos o hermanos con IAM, ACV, stent/angioplastia, o padres con CT > 240 mg/dl o dislipidemia desconocida.
+• o si el niño tiene una enfermedad, como diabetes, enfermedad renal crónica, trasplante cardíaco, enf. de Kawasaki con compromiso coronario, VIH, sme. nefrótico.
+De 17 a 21 años	2º Tamizaje universal
+(controles	• Si LDL > 130 mg/dl, no HDL > 145 mg/dl, HDL < 40 mg/dl y triglicéridos > 130 mg/dl: prelaborales/		repetir y promediar.
+libreta universitaria)	• En esta edad, el objetivo es pesquisar hipercolesterolemias de inicio tardío.
+
+CT: colesterol total; HTA: hipertensión arterial; LDL: lipoproteína de baja densidad; HDL: lipoproteína de alta densidad; IAM: infarto agudo de miocardio; AVC: accidente cerebrovascular; VIH: virus de la inmunodeficiencia humana.
+
+
+
+en las 2 oportunidades, se obtienen valores patológicos, se estudiará a los padres y hermanos, se decidirá el nivel de riesgo para instaurar tratamiento dietético y, si estuviese indicado, se derivará al especialista para el seguimiento y el tratamiento farmacológico (Figura 1, en formato electrónico).
+   En síntesis, el tamizaje universal tiene como objetivo pesquisar dislipidemias de moderadas a graves en niños aparentemente sanos y sin antecedentes familiares conocidos, que deberían ser tratadas. El beneficio secundario es que, a partir de los niños, podrán diagnosticarse sus padres, quienes tienen riesgo inmediato de enfermedad cardiovascular.
+   Aquellos niños con riesgo de ECV elevado, ya sea por antecedentes familiares conocidos o por padecer patologías con reconocido impacto en la salud cardiovascular, deben ser estudiados a partir de los 2 años de vida o cuando se diagnostica su enfermedad de base.7,13,14
+EVALUACIÓN DE LOS LÍPIDOS EN NIÑOS Y ADOLESCENTES
+   La evaluación de los lípidos y lipoproteínas en los niños y adolescentes debe ser llevada a cabo en el ámbito de la atención primaria, es decir, por el médico pediatra, y reservar la consulta al especialista en caso que aquel detecte resultados fuera de los valores de referencia dados para la población infantil.15,20
+1) Recomendaciones previas a la realización de un estudio de lípidos y lipoproteínas
+a) Ayuno y toma de muestra: se requiere ayuno de 12 horas, lo cual es imprescindible para la determinación de los niveles de triglicéridos, pero tiene mínimo impacto sobre el resto del perfil lipoproteico. Durante este período,
+
+TABLA 4. Condiciones pediátricas con riesgo cardiovascular especial
+
+
+• Hipercolesterolemia familiar.
+• DM tipo 1 o DM tipo 2.
+• Enfermedad renal crónica, síndrome nefrótico, enfermedad renal terminal, postrasplante renal.
+• Trasplante cardíaco ortotópico.
+• Enfermedad de Kawasaki con compromiso coronario.
+• Enfermedad inflamatoria crónica: lupus eritematoso sistémico, artritis reumatoide juvenil
+• Infección por VIH.
+
+DM: diabetes mellitus; VIH: virus de la inmunodeficiencia humana.
+
+el paciente puede beber agua. Si el estudio se llevase a cabo con un ayuno inferior al indicado y si los niveles plasmáticos de triglicéridos fueran superiores a los considerados “aceptables”, se recomienda repetir el estudio con ayuno de 12 horas.
+b) Estado metabólico estable: enfermedades infecciosas, enfermedades metabólicas agudas o cirugías pueden alterar el perfil lipídico. La recomendación es efectuar la determinación dos meses después de superadas estas situaciones.
+c) Dieta y estilo de vida: antes del estudio, el paciente debe mantener su dieta y su estilo de vida habitual. De igual manera, no debe suspender ningún tratamiento que le hayan indicado.
+d) Variabilidad de los parámetros lipídicos: como en cualquier determinación bioquímica, existe variabilidad analítica y biológica, que para los triglicéridos es > 20% y, para CT, para el colesterol de las lipoproteínas de alta densidad (C-HDL) y C-LDL, 5-10%. Por lo tanto, frente a resultados patológicos y antes de efectuar el diagnóstico de una posible dislipidemia, se recomienda realizar dos determinaciones separadas por un mínimo de 14 días, preferentemente en el mismo laboratorio.21,22
+2) Perfil de lípidos y lipoproteínas básico
+   El perfil de lípidos y lipoproteínas básico está compuesto por la medición de los niveles plasmáticos de triglicéridos, CT, C-HDL y C-LDL. Valores de referencia: en la Tabla 5, se muestran los valores de referencia para niños y adolescentes
+(Tabla 5).22,23
+TRATAMIENTO DE LAS DISLIPIDEMIAS EN NIÑOS Y ADOLESCENTES
+   La decisión de tratar a un niño o adolescente con dislipidemia se basa en el concepto de disminución de riesgo:
+• Disminuir el riesgo de eventos cardiovasculares prematuros cuando se trata de hipercolesterolemias y
+• Disminuir el riesgo de pancreatitis cuando se trata de hipertrigliceridemias graves.24,25
+   En la mayoría de las dislipidemias, el tratamiento dietético se propone ya desde los dos años de vida, y el tratamiento farmacológico, a partir de los 8-10 años de edad.
+   Existen dos excepciones muy claras a estas recomendaciones generales. Una es la
+
+
+
+hipercolesterolemia familiar homocigota con valores de CT muy alto, en general mayor de 500 mg/dl, en la que el tratamiento es intensivo e incluye fármacos desde el momento del diagnóstico, aunque este sea en los primeros años de vida. Otra excepción es el síndrome de hiperquilomicronemia, en el cual la restricción grasa debe comenzar desde el momento del diagnóstico, si el paciente tiene riesgo de complicaciones por hiperviscosidad sanguínea (triglicéridos por encima de 800-1000 mg/dl).8,24-26 Es necesario, además del perfil lipídico,
+controlar otras cuestiones relacionadas con la infancia y la adolescencia, como que el paciente consiga un adecuado crecimiento, que no presente deficiencias relacionadas con la dieta, que tenga un desarrollo sexual acorde a sexo y edad, y valorar el impacto emocional que tiene el diagnóstico y el tratamiento.
+INDICACIONES DE TRATAMIENTO
+• Todos los pacientes que, con el tamizaje, presentan perfil lipídico alterado deben completar la evaluación clínica con su pediatra, quien deberá valorar los antecedentes cardiovasculares y el perfil lipídico de los familiares de primer grado (padres y hermanos). Esto ayuda a orientar el diagnóstico de la dislipidemia y medir la condición de riesgo cardiovascular del paciente.
+• Si el paciente tiene obesidad o sobrepeso y se sospecha una dislipidemia secundaria al aumento de peso, el tratamiento estará dirigido a normalizar el peso a través de recomendaciones dietéticas, aumento de la actividad física y mejora de hábitos.
+• Si el perfil lipídico, confirmado con una segunda medición, es marcadamente patológico, C-LDL > 250 mg/dl o triglicéridos
+> 
+500 mg/dl, el paciente debe ser derivado al pediatra especialista en lípidos, ya que probablemente se tratará de una dislipidemia primaria que requerirá tratamiento farmacológico (Figura 2, en formato electrónico).
+• Si el niño tiene un perfil lipídico alterado, C-LDL > 160 y < 250 mg/dl o triglicéridos
+> 150 y < 500, y esto se repite en alguno de sus padres, es también muy probable que se trate de una dislipidemia primaria o familiar. Deberá comenzar con dieta hipolipemiante y se valorará la respuesta después de 3 a 6 meses. Si luego de ese período, el C-LDL es mayor de 190 mg/dl, debe ser derivado a un pediatra especialista en lípidos.
+• Si presenta valores de C-LDL > 160 mg/dl, pero tiene, además, otras condiciones de riesgo cardiovascular o antecedentes familiares de ECV prematura, debe ser derivado al pediatra especialista en lípidos (Tabla 6).
+• Los padres con perfil lipídico alterado deberán ser derivados al médico clínico o al especialista en lípidos de adultos para completar la evaluación y ser tratados.
+   Los pacientes que deberían recibir tratamiento farmacológico son los siguientes:
+• Los niños mayores de 8-10 años con C-LDL
+>190 mg/dl.
+• Los niños mayores de 8-10 años con C-LDL
+> 160 mg/dl y hasta 2 factores de riesgo cardiovascular agregados.
+• Los niños mayores de 10 años con C-LDL
+> 130 mg/dl y más de 2 factores de riesgo cardiovascular agregados o algún estado de salud que signifique un riesgo agregado.
+• Los niños mayores de 10 años con valores de triglicéridos > 500 mg/dl luego de 6 meses de dieta hipolipemiante y plan de actividad física.7,9,16
+
+
+
+TABLA 5. Valores de referencia de lípidos y lipoproteínas en niños y adolescentes
+ParámetroAceptable (mg/dl)Límite (mg/dl)Elevado (mg/dl)Triglicéridos0-9 años< 7575-99 10010-19 años< 9090-129 130Colesterol total< 170170-199 200C-LDL< 110110-129 130ParámetroAceptable (mg/dl)Límite (mg/dl)Disminuido (mg/dl)C-HDL> 4540-45< 40C: colesterol; HDL: lipoproteína de alta densidad; LDL: lipoproteína de baja densidad.
+
+
+
+TRATAMIENTO NUTRICIONAL
+   La modificación de la alimentación juega un papel fundamental en el tratamiento de las dislipidemias. En general, se trata de enfermedades crónicas, por lo que no debemos entenderlo como un tratamiento temporario, sino como la forma en que debe alimentarse. El primer paso en la terapia dietética es evaluar los hábitos alimentarios actuales por medio de una encuesta de dieta habitual.
+   El tratamiento dietético debe aportar las cantidades adecuadas de calorías para mantener o lograr un peso adecuado y una distribución de macronutrientes según las recomendaciones para las distintas dislipidemias.
+a. Para aquellos pacientes con perfil lipídico normal y antecedentes familiares de importancia o patología asociada con riesgo cardiovascular, se definieron estrategias de prevención basadas en las recomendaciones del Programa Nacional de Educación en Colesterol (National Cholesterol Education Program; NCEP, por sus siglas en inglés), que utiliza el CHILD-1 (Cardiovascular Health Integrated Lifestyle Diet), primer paso, pensado para incorporar hábitos saludables en la alimentación de los niños (Tablas 7 y 8).1,27
+b. En aquellos niños con hipercolesterolemia (niveles elevados de C-LDL), se mantienen las medidas de prevención, pero se intensifica la modificación de la grasa dietaria según el consenso de opinión de expertos y las características que presenta el CHILD-2-LDL para niños mayores de 2 años (Tabla 9).1,7,28
+
+Medidas de apoyo:
+• Incorporar hasta 2 g/día de estanoles o esteroles.
+• Incorporar fibra soluble.
+• Realizar actividad física, 1 hora diaria de moderada a intensa, y menos de 2 horas de pantalla no educativa por día (TV, computadora, juegos de vídeo, etc.).
+c. En pacientes con hipertrigliceridemia:
+En general, este perfil lipídico se asocia a sobrepeso/obesidad.
+• La ingesta calórica debe tender a lograr un peso corporal saludable y mantenerlo, controlando el crecimiento y el desarrollo adecuado.
+• El aporte de grasa de la dieta se manejará según el CHILD-2-TG para niños mayores de 2 años (Tabla 9).
+• Se debe disminuir la ingesta de azúcares, reemplazándola con hidratos de carbono complejos y evitando el consumo de jugos azucarados.
+• Aumentar el consumo de pescado para aumentar los ácidos grasos omega-3.
+   Es importante mencionar que, en los niños menores de dos años, no se recomiendan res- tricciones de colesterol, grasas ni ácidos grasos esenciales, ya que su crecimiento es rápido y el desarrollo requiere altos niveles de energía.1,7,28
+   La familia debería recibir indicaciones alimentarias prácticas y ser instruida en la interpretación de las etiquetas de alimentos y su información nutricional (Tabla 10; Tabla 11, formato electrónico; Figura 3, formato electrónico).
+
+
+
+TABLA 6. Factores de riesgo cardiovascular en evaluación de pacientes con dislipidemias
+Antecedentes familiares de	Infarto de miocardio, angina pectoris, bypass coronario, stent, angioplastia,
+enfermedad cardiovascular positivos	muerte súbita en padres, abuelos o tíos menores de 55 años si son hombres o
+de 65 si son mujeres
+Factores o condiciones	Hipertensión arterial   Pc 99 + 5 mmHg requiere medicación antihipertensiva
+de alto nivel de riesgo	Fumador actual IMC I Pc 97
+Diabetes tipo 1 o 2
+Enfermedad renal crónica y postrasplante renal Enf. de Kawasaki con aneurismas actuales Postrasplante cardíaco
+Factores o condiciones de moderado	Hipertensión arterial que no requiere medicación
+nivel de riesgo	IMC   Pc 95 y < Pc 97 C-HDL < 40 mg/dl
+Enf. de Kawasaki sin aneurismas Enf. inflamatoria crónica (LES, ARJ) SIDA
+Sme. nefrótico
+IMC: índice de masa corporal; LES: lupus eritematoso sistémico; ARJ: artritis reumatoidea juvenil; SIDA: síndrome de inmunodeficiencia adquirida; C-HDL: colesterol-lipoproteína de alta densidad.
+
+
+
+Fibra dietética
+   Del total de fibra ingerida en la dieta, aproximadamente el 20% es soluble y el 80%, insoluble. Ambas son importantes para la salud, pero es la soluble la que más se ha asociado a la disminución de los factores de riesgo cardiovascular y a un menor riesgo de enfermedad aterosclerótica.
+   Son alimentos ricos en fibra insoluble la harina de trigo, el salvado, los porotos, los garbanzos,
+
+el repollo, los vegetales de raíz, los cereales y las frutas maduras.
+   Son ricos en fibra soluble la avena, las ciruelas, la zanahoria, los cítricos, las chauchas y otras legumbres.
+   Las recomendaciones actuales están en 14 g/1000 kcal.7,29
+Fitoesteroles y fitoestanoles en la dieta
+Son los esteroles producidos por los vegetales.
+
+
+
+
+TABLA 7. Recomendaciones nutricionales y dietéticas en niños y adolescentes para la prevención de enfermedad cardiovascular
+Nacimiento a 6 meses	Lactancia exclusiva
+
+De 6 a 12 meses	Continuar lactancia y comenzar con semisólidos. Transición a fórmulas modificadas si disminuye la lactancia.
+No hacer restricción grasa.
+Limitar los jugos a no más de 100 ml/día, solo naturales y sin agregado de azúcares.
+De 1 a 2 años	Transición a la leche parcialmente descremada.
+Alentar el consumo exclusivo de agua y limitar otros jugos que no sean 100% de fruta natural. Grasa total: 30% del VCT.
+Grasa saturada: 8-10% del VCT.
+Mono- y poliinsaturados: hasta 20% del VCT. Colesterol: menos de 300 mg/día.
+Limitar el aporte de sodio.
+De > 2 a 10 años	Leche parcialmente descremada.
+Alentar el consumo exclusivo de agua y limitar otros jugos que no sean 100% de fruta natural. Grasa total: 25-30% del VCT.
+Grasa saturada: 8-10% del VCT.
+Mono- y poliinsaturados: hasta 20% del VCT. Colesterol: menos de 300 mg/día.
+Recomendar dieta con contenido de fibras desde las comidas. Limitar el aporte de sodio.
+De 11 a 21 años	Leche parcialmente descremada.
+Alentar el consumo exclusivo de agua y limitar otros jugos que no sean 100% de fruta natural. Grasa total: 25-30% del VCT.
+Grasa saturada: 8-10% del VCT.
+Mono- y poliinsaturados: hasta 20% del VCT. Colesterol: menos de 300 mg/día.
+Recomendar dieta con alto contenido de fibras desde las comidas. Limitar el aporte de sodio.
+
+VCT: valor calórico total.
+TABLA 8. Recomendación de calorías según sexo, edad y nivel de actividad física
+SexoEdad (años)    Requerimientos de calorías/día en sedentario/aRequerimientos de calorías/día en moderadamente activo/a  Requerimientos de calorías/día en activo/aNiño/as2-31000-12001000-14001000-1400Mujeres4-81200-14001400-16001400-18009-131400-16001600-20001800-220014-1818002000240019-301800-20002000-22002400Varones4-81200-14001400-16001600-20009-131600-20001800-22002000-260014-182000-24002400-28002800-320019-302400-26002600-28003000
+
+
+La aparición de productos alimenticios con el agregado de fitoesteroles y estanoles ha contribuido a la salud cardiovascular. Específicamente, se han comprobado sus efectos sobre la reducción significativa de los lípidos plasmáticos, como lo son el CT y el C-LDL en dislipidemias moderadas.
+   Si bien la Guía Americana de Pediatría los recomienda como medida de apoyo a partir de
+
+los dos años, otros recomiendan su incorporación a partir recién de los 6 años. No existen estudios a largo plazo (Tabla 12).29
+Tratamiento farmacológico
+   Siempre que el paciente requiera fármacos porque no ha alcanzado los objetivos terapéuticos con la dieta hipolipemiante y los cambios de hábitos, debe ser derivado a especialistas
+
+
+
+TABLA 9. Recomendaciones nutricionales y dietéticas en niños y adolescentes con dislipidemias: hipercolesterolemia y/o hipertrigliceridemia
+De 2 a 21 años
+• Grasa total: 25-30% del VCT.
+• Grasa saturada: s 7% del VCT.
+• Mono- y poliinsaturados: hasta 10% del VCT.
+• Colesterol menos de 200 mg/día.
+• Evitar grasas trans.
+- Adopción de hábitos saludables.
+- Ingesta calórica: adecuada para normalizar el peso y suficiente para permitir el crecimiento y desarrollo normal.
+- Lácteos parcial o totalmente descremados.
+- Alentar el consumo exclusivo de agua y limitar otros jugos que no sean 100% de fruta natural.
+- Consumir una amplia variedad de alimentos que aporten todos los nutrientes necesarios.
+- Aumentar el consumo de frutas y verduras.
+- Limitar el aporte de sodio.
+- Incorporar hasta 2 g/d de estanoles o esteroles.
+- Incorporar fibra soluble.
+- Realizar actividad física, 1 hora diaria de moderada a intensa, y menos de 2 horas de pantalla no educativa por día (TV, computadora, juegos de video, etc.).
+En caso de hipertrigliceridemia, además de lo anterior:
+- Evitar el consumo de azúcares rápidos y jugos y gaseosas azucarados.
+- Aumentar el consumo de pescado graso de mar para aumentar la ingesta de omega-3.
+
+VCT: valor calórico total.
+
+
+TABLA 10. Recomendaciones prácticas generales para pacientes con dislipidemias
+• Realizar cuatro comidas diarias y 1 o 2 colaciones.
+• En caso de sobrepeso u obesidad, no repetir platos de comida y reducir el tamaño de las porciones (véase el Consenso de Obesidad de la SAP).
+• Consumir carne vacuna y de cerdo magra (peceto, nalga, lomo, bola de lomo, cuadril, cuadrada), pollo sin piel y pescados, preferentemente de mar o los “azules” o más grasos (caballa, salmón, arenque, sardinas, jurel, atún, anchoas, etc.).
+• Consumir a diario vegetales y frutas (preferentemente, con su cáscara).
+• Elegir todos los lácteos descremados o parcialmente descremados (leche, yogures y quesos).
+• Elegir preferentemente la clara del huevo.
+• Aumentar el consumo de hidratos de carbono complejos, como panes, arroz y fideos (preferentemente, integrales), como así también de las legumbres.
+• Utilizar los aceites en crudo (aceite de girasol, maíz, soja, girasol alto oleico, oliva o canola).
+• Evitar el consumo de alimentos altos en grasa y azúcar, como galletitas dulces, golosinas, chocolates, snacks, productos de panadería, gaseosas y jugos azucarados (incluidos los de soja) y aquellos altos en grasa saturada y colesterol, como manteca, margarina, crema de leche, quesos duros, mayonesa, fiambres, embutidos, alimentos prefritos congelados (presas de pollo o pescado rebozadas, papas, etc.).
+• Preferentemente, utilizar como método de cocción plancha, horno, parrilla, vapor, hervido o microondas para evitar el exceso de grasa en la cocción.
+
+
+
+
+infantiles en dislipidemias, ya que las medicaciones utilizadas no son de uso frecuente para el pediatra. En nuestro medio, los médicos pediatras especialistas en Nutrición infantil serían los recomendados.14,30,31
+   Los fármacos utilizados en el tratamiento de las dislipidemias se agrupan de la siguiente manera:
+• Inhibidores de la absorción de colesterol:
+- Resinas de absorción iónica (colestirami- na).32,36
+- Inhibidores de la proteína del canal de absorción de colesterol NPL1 (ezetimibe).37-39
+• Inhibidores de la síntesis de colesterol:
+- Estatinas (pravastatina, sinvastatina, iovastatina, atorvastatina, rosuvastatina).40-41
+• Fármacos que disminuyen los triglicéridos:
+- Fibratos.
+- Omega 3.14,30,31
+• Nuevas drogas. Permanentemente, se ensayan nuevas drogas que buscan alcanzar los objetivos terapéuticos y disminuir efectos adversos. Algunas de ellas se encuentran en fases avanzadas de investigación, pero no están autorizadas en pediatría (Tabla 13, en formato electrónico).42
+CONCLUSIÓN
+   Las dislipidemias son importantes factores de riesgo de la ECV prematura.
+   Pueden ser primarias o secundarias y presentarse desde la infancia, pero el subdiagnóstico impide un abordaje temprano.
+   El tamizaje universal en pediatría y la implementación de algoritmos de diagnóstico y tratamiento tienen el objetivo de mejorar la actual situación. a
+
+REFERENCIAS
+1. National Cholesterol Education Program (NCEP): highlights of the report of the Expert Panel on Blood Cholesterol Levels in Children and Adolescents. Pediatrics 1992;89(3):495-501.
+2. Strong JP, Malcom GT, McMahan CA, Tracy RE, et al. Prevalence and extent of atherosclerosis in adolescents and young adults: implications for prevention from the
+
+Pathobiological Determinants of Atherosclerosis in Youth Study. JAMA 1999;281(8):727-35.
+3. Berenson GS, Srinivasan SR, Bao W, Newman WP 3rd, et al. Association between multiple cardiovascular risk factors and atherosclerosis in children and young adults. The Bogalusa Heart Study. N Engl J Med 1998;338(23):1650-6.
+4. McMahan CA, Gidding SS, Malcolm GT, Schreiner PJ, et al. Comparison of coronary heart disease risk factors in autopsied young adults from the PDAY Study with living young adults from the CARDIA study. Cardiovasc Pathol 2007;16(3):151-8.
+5. Freedman DS, Mei Z, Srinivasan SR, Berenson GS, et al. Cardiovascular risk factors and excess adiposity among overweight children and adolescents: the Bogalusa Heart Study. J Pediatr 2007;150(1):12-7.
+6. Shay C, Ning H, Daniels SR, Rooks CR, et al. Status of cardiovascular health in US adolescents prevalence estimates from the National Health and Nutrition Examination Surveys (NHANES) 2005-2010. Circulation 2013;127(13):1369-76.
+7. Expert Panel on Integrated Guidelines for Cardiovascular Health and Risk Reduction in Children and Adolescents. Summary report. Pediatrics 2011;128(Suppl 5):S213-56.
+8. Goldstein JL, Hobbs HH, Brown MS. Familial hypercholesterolemia. En: Scriver CR, Beaudet AL, Sly WS, Valle D, eds. The Metabolic & Molecular Bases of Inherited Disease. 8° ed. New York: McGraw-Hill;2001:2863-913.
+9. Kavey RE, Allada V, Daniels SR, Hayman LL, et al. Cardiovascular risk reduction in high-risk pediatric patients: a scientific statement from the American Heart Association Expert Panel on Population and Prevention Science; the Councils on Cardiovascular Disease in the Young, Epidemiology and Prevention, Nutrition, Physical Activity and Metabolism, High Blood Pressure Research, Cardiovascular Nursing, and the Kidney in Heart Disease; and the Interdisciplinary Working Group on Quality of Care and Outcomes Research: endorsed by the American Academy of Pediatrics. Circulation 2006;114(24):2710-38.
+10. Wald DS, Bestwick JP, Wald NJ. Child-parent screening for familial hypercholesterolaemia: screening strategy based on a meta-analysis. BMJ 2007;335(7620):599.
+11. Kusters DM, de Beaufort C, Widhalm K, Guardamagna O, et al. Paediatric screening for hypercholesterolemia in Europe. Arch Dis Child 2012;97(3):272-6.
+12. Ritchie SK, Murphy EC, Ice C, Cottrell LA, et al. Universal versus targeted blood cholesterol screening among youth: the CARDIAC project. Pediatrics 2010;126(2):260-5.
+13. De Ferranti SD, Daniels SR, Gillman M, Vernacchio L, et al. NHLBI Integrated Guidelines on Cardiovascular Disease Risk Reduction: can we clarify the controversy about cholesterol screening and treatment in childhood? Clin Chem 2012;58(12):1626-30.
+14. Watts GF, Gidding S, Wierzbicki AS, Toth PP, et al. Integrated guidance on the care of familial hypercholesterolemia from the International FH Foundation. J Clin Lipidol 2014;8(2):148-72.
+
+
+TABLA 12. Alimentos con fitoesteroles en nuestro mercado
+• Vidacol: 80 cc (equivale a una botellita)	0,7 g de fitoesteroles
+• Serecol varios sabores: 100 cc	1,6 g de fitoesteroles
+• Margarina Danica untable FitaCol (en los ingredientes, figura esteres de fitoesterol de 10%)	Sin datos
+• Galletitas de agua Bagley con fitoesteroles: 100 g	1,2 g de fitoesteroles
+• Biocol con fitoesteroles (Grandiet):* 100 g	2,9 g de fitoesteroles
+* Mix: salvado de avena, germen de trigo, semillas de chía, de psyllium, de sésamo y fitoesteroles.
+
+
+
+15. Bao W, Srinivasan SR, Berenson GS. Tracking of serum apolipoproteins A-I and B in children and young adults: the Bogalusa Heart Study. J Clin Epidemiol 1993;46(7):609-16.
+16. Catapano AL, Reiner Z, De Backer G, Graham I, et al. ESC/ EAS Guidelines for the management of dyslipidaemias. The Task Force for the management of dyslipidaemias of the European Society of Cardiology (ESC) and the European Atherosclerosis Society (EAS). Atherosclerosis 2011;217(1):3-46.
+17. Consenso del Consejo de Aterosclerosis y Trombosis. Evaluación, diagnóstico y tratamiento de los factores lipídicos que modifican el riesgo cardiovascular. Rev Argent Cardiol 2006;74(Supl 1):1-13.
+18. Iughetti L, Bruzzi P, Predieri B. Evaluation and management of hyperlipidemia in children and adolescents. Curr Opin Pediatr 2010;22(4):485-93.
+19. Juonala M, Viikari JS, Kähonen M, Solakivi T, et al. Childhood levels of serum apolipoproteins B and A-I predict carotid intima-media thickness and brachial endothelial function in adulthood: the cardiovascular risk in young Finns study. J Am Coll Cardiol 2008;52(4):293-9.
+20. Rifai N, Dufour DR, Cooper GR. Preanalytical variation in lipid, lipoprotein and apolipoprotein testing. En Rifai NM, Warnick GR, Dominiczak MH, eds. Handbook of lipoprotein testing. 2nd ed. Washington DC: AACC Press; 2000. Págs.161-87.
+21. Schreier L, Berg G, Brites F, López G, et al. Diagnóstico bioquímico de las dislipemias en el adulto. Acta Bioquim Clin Latinoam 2001;35:225-36.
+22. Srinivasan SR, Dahlen GH, Jarpa RA, Webber LS, et al. Racial (black-white) differences in serum lipoprotein
+(a) distribution and its relation to parental myocardial infarction in children. Bogalusa Heart Study. Circulation 1991;84(1):160-7.
+23. Srinivasan SR, Frontini MG, Xu J, Berenson GS. Utility of childhood non-high-density lipoprotein cholesterol levels in predicting adult dyslipidemia and other cardiovascular risks: the Bogalusa Heart Study. Pediatrics 2006;118(1):201-6.
+24. McCrindle BW, Urbina EM, Dennison BA, Jacobson MS, et al. Drug therapy of high-risk lipid abnormalities in children and adolescents: a scientific statement from the American Heart Association Atherosclerosis, Hypertension, and Obesity in Youth Committee, Council of Cardiovascular Disease in the Young, with the Council on Cardiovascular Nursing. Circulation 2007;115(14):1948-67.
+25. Araujo MB, Pacce MS, Bravo M, Pugliese AM, et al. Hipercolesterolemias graves en pediatría. Presentación de dos casos. Arch Argent Pediatr 2011;109(4):e67-71.
+26. Goldberg AC, Hopkins PN, Toth PP, Ballantyne CM, et al. Familial hypercholesterolemia: screening, diagnosis and management of pediatric and adult patients. J Clin Lipidol 2011;5(3 Suppl):S1-8.
+27. Trumbo P, Schlicker S, Yates AA, Poos M. Dietary reference intakes for energy, carbohydrate, fiber, fat, fatty acids, cholesterol, protein and amino acids. J Am Diet Assoc 2002;102(11):1621-30.
+28. 
+Gidding SS, Dennison BA, Birch LL, Daniels SR, et al. Dietary recommendations for children and adolescents: a guide for practitioners: consensus statement from the American Heart Association. Circulation 2005;112(13):2061-75.
+29. Gylling H, Plat J, Turley S, Ginsberg HN, et al. Plant sterols and plant stanols in the management of dyslipidaemia and prevention of cardiovascular disease. Atherosclerosis 2014;232(2):346-60.
+30. Daniels SR, Gidding SS, de Ferranti SD. Pediatric aspects of familial hypercholesterolemias: recommendations from the National Lipid Association Expert Panel on Familial Hypercholesterolemia. J Clin Lipidol 2011;5(3 Suppl):S30-7.
+31. Robinson JG. Management of familial hypercholesterolemia: a review of the recommendations from the National Lipid Association Expert Panel on Familial Hypercholesterolemia. J Manag Care Pharm 2013;19(2):139-49.
+32. Davidson M. Theefficacyofcolesevelam HClinthetreatment of heterozygous familial hypercholesterolemia in pediatric and adult patients. Clin Ther 2013;35(8):1247-52.
+33. Perry CM. Colesevelam: in pediatric patients with heterozygous familial hypercholesterolemia. Paediatr Drugs 2010;12(2):133-40.
+34. Stein EA, Marais AD, Szamosi T, Raal FJ, et al. Colesevelam hydrochloride: efficacy and safety in pediatric subjects with heterozygous familial hypercholesterolemia. J Pediatr 2010;156(2):231-6.e1-3.
+35. Beysen C, Murphy EJ, Deines K, Chan M, et al. Effect of bile acid sequestrants on glucose metabolism, hepatic de novo lipogenesis, and cholesterol and bile acid kinetics in type 2 diabetes: a randomised controlled study. Diabetologia 2012;55(2):432-42.
+36. Insull W Jr. Clinical utility of bile acid sequestrants in the treatment of dyslipidemia: a scientific review. South Med J 2006;99(3):257-73.
+37. Araujo MB, Botto PM, Mazza CS. Uso de ezetimibe en el tratamiento de la hipercolesterolemia. An Pediatr (Barc) 2012;77(1):37-42.
+38. Jacobson TA, Armani A, McKenney JM, Guyton JR. Safety considerations with gastrointestinally active lipid-lowering drugs. Am J Cardiol 2007;99(6A):47C-55C.
+39. Filippatos TD, Mikhailidis DP. Lipid-lowering drugs acting at the level of the gastrointestinal tract. Curr Pharm Des 2009;15(5):490-516.
+40. Eiland LS, Luttrell PK. Use of statins for dyslipidemia in the pediatric population. J Pediatr Pharmacol Ther 2010;15(3):160-72.
+41. Tapia Ceballos L, Picazo Angelín B, Ruiz García C. Uso de estatinas durante la infancia. An Pediatr (Barc) 2008;68(4):385-92.
+42. Cuchel M, Bruckert E, Ginsberg HN, Raal FJ, et al. Homozygous familial hypercholesterolaemia: new insights and guidance for clinicians to improve detection and clinical management. A position paper from the Consensus Panel on Familial Hypercholesterolaemia of the European Atherosclerosis Society. Eur Heart J 2014;35(32):2146-57.
+
+
+FIGURA 1. Algoritmo de manejo de dislipidemias en niños y adolescentes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C-LDL: colesterol-lipoproteína de baja densidad. AF: antecedentes familiares.
+FRCV: factores de riesgo cardiovascular.
+
+
+	
+
+
+AF: antecedente familiar. AGE: ácidos grasos esenciales. C-LDL: colesterol LDL. ECVP: enfermedad cardiovascular prematura. FRCV: factor de riesgo cardiovascular. HFHo: hipercolesterolemia familiar homocigota. HF: hipercolesterolemia familiar.
+HTF: hipertrigliceridemia familiar.
+
+
+FIGURA 3. Rótulo de alimentos
+
+
+
+
+
+
+
+Energía (kcal) Proteínas (g) Grasas totales (g)
+
+Información nutricional
+Porción…	Unidades Porciones por envase….
+100 g	1 porción
+
+Grasas saturadas (g)	2,4	1,9
+Ácidos grasos trans (g)	0,0	0,0
+Grasas monoinsaturadas (g)	3,1	2,4 Grasas poliinsaturadas (g)
+Colesterol (mg) Hidratos de carbono (g)
+Sodio (mg)	172	138
+
+
+
+TABLA 1. Clasificación de dislipemias primarias
+Fracción lipídica alteradaDesorden  Gen	Tipo de afectado herenciaCuadro clínicoEdad de Riesgo ECVP (+) inicio	y otros riesgosC-LDL	Hipercolesterolemias	HipercolesterolemiaLDLRADXantomas,Niños y++++++familiar homocigotaarco corneal,adolesc.xantelasmaHipercolesterolemiaXantelasma yAdulto++++familiar heterocigotaxantomasjovenmás tardíosApolipoproteína BAPOBADXantelasma yAdulto++++defectuosa familiarxantomasjovenmás tardíosHiperfunción de PCSK9PCSK9ADXantelasma yAdulto++++xantomasjovenmás tardíosHipercolesterolemiaARHARXantomas,+++++autosómica recesivaarco corneal,xantelasmaHipocolesterolemias Hipobetalipoproteinemia APOB	Aco-D 	Esteatorrea,	Niños	Probable efecto
+ Abetalipoproteinemia	MTP	AR	 def. vit. liposolubles,		protector Enfermedad de Anderson MTP	AR		sínt. neurológicos,	cardiovascular
+retinitis pigmentaria
+Malabsorción primaria de ácidos biliaresSLC10A2AR   Esteatorrea, falla de crecimientoHipofunción de PCSK9PCSK9ARAsintomáticaSitoesterolSitoesterolemiaABCG5 ABCG8ARArtritis recurrente, xantomatosisNiños+ a ++++++Triglicéridos Hipertrigliceridemia
+       exógena (hiperquilomicronemia) Deficiencia de lipoproteinlipasaLPLARDolor abdominal, Lactantes recurrente,	y niños
+hepatoesplenomegalia, Riesgo de pancreatitis						lipemia retinalis, Deficiencia de Apo C2	APOC2	AR		xantomas eruptivos,
+pancreatitis recurrente
+Hipertrigliceridemia		Hiperlipidemia	Poligénica	Adolesc. endógena	combinada familiar			.
+
+Hipertrigliceridemia	AD		Adultos van a	Adolesc.	++ familiar		diabetes, obesidad,
+enf. vasc. perif.
+C-HDL	Hiper-HDL	Hiperalfalipoproteinemia CETP	Efecto protector cardiovascular
+
+Hipo-HDL	Enfermedad de Tangier  ABCA1	AR	Amígdalas y adenoides Lactantes
+agrandadas y amarillas, y niños neuropatía periférica, hepatoesplenomegalia
+C-LDL: colesterol de las lipoproteínas de baja densidad; C-HDL: colesterol de las lipoproteínas de alta densidad.
+AD: autosómica dominante; AR: autosómica recesiva; Aco-D: autosómica codominante; ECVP: enfermedad cardiovascular prematura; Adolesc.: adolescentes; Sint.: síntoma; Enf. vasc. perif.: enfermedad vascular periférica; Def. vit: deficiencia de vitamina.
+
+
+EvitarConsumir moderadamenteConsumir librementeLácteosLeche y yogur enterosLeche parcialmente descremadaLeche, yogur y postresQuesos > 12% de grasaQuesos < 12% de grasadescremados con 0% de grasaPostres lácteos enterosPostres parcialmente descremadosCarnes yCarnes vacuna y de cerdo grasas.Carnes vacuna y de cerdo magrasPescados: todos; preferir los “azules”huevosPollo con piel.(lomo, bolo de loma, nalga, cuadril,(sardinas, caballa, atún, anchoas,Fiambres, embutidospeceto, cuadrada)jurel, salmón, arenque)(chorizo, salchichas)Pollo sin pielVíscerasHuevo entero#(riñón, chinchulines, hígado)Presitas de pollo o pescadoprefritas congeladasVegetalesTodos (frescos, enlatados y congelados)FrutasCoco, paltaTodas, preferentemente,con cáscara, enlatadas*CerealesTodos, preferentemente, integralesLegumbresTodas (p ej., porotos, lentejas, arvejas)Panes y galletitas	Panes o galletitas dulces oPan francés Pan lactal blancoPanes semillados, multicerealsalados, altos en grasaso integral < 8% de grasao de salvado dietéticoGalletitas de agua odulces < 8% de grasaAceites, grasasManteca, margarina,Mayonesa lightTodos los aceitesy derivadoscrema de leche, mayonesaMargarina sin grasas trans(se sugiere incorporar canola,girasol alto oleico, soja y oliva)Crema de leche con 0% de grasaFrutas secas y aceitunasAzúcares y grasas Chocolates, alfajores, obleas	Caramelos y chupetines*
+
+En la columna CONSUMIR LIBREMENTE, se debe tener en cuenta el estado nutricional del paciente.
+* Estos alimentos se deben eliminar en caso de HIPERTRIGLICERIDEMIA. # Se debe eliminar la yema de huevo en caso de HIPERCOLESTEROLEMIA.
+
+
+TABLA 13. Fármacos utilizados en el tratamiento de dislipidemiasGrupoFármacosMecanismo de acción	Efecto principalReacciones adversasEstatinas inhibidoresAtorvastatina,Inhiben la enzima del	DisminuyenMovilización dede la hidroxi-metil-sinvastatina,paso limitante en la síntesis	C-LDLtransaminasasglutarilCoA-reductasalovastatina,del colesterol. Inhibe la síntesishepáticas. Aumento(HMG CoAreductasa)pravastatina,del colesterol y estimula lade creatinfosfoquinasafluvastatina,síntesis de receptores de C-LDL(CPK). Miopatía con5-40 mg/d,riesgo de rabdomiólisisrosuvastatina,5-20 mg/dResinas de absorciónColestiraminaSe unen a los ácidos biliares	DisminuyenSíntomas gastrointestinalesde ácidos biliaresNiños:e impiden su recirculación	C-LDL.Rechazo y mala adherencia.2-4 g 2v/denterohepática con lo que	Aumentan losPuede inhibir absorciónAdolescentes:disminuye el pool de colesterol	triglicéridosde vitaminas y minerales2-4 g 2v/dintracelular y se estimula la secreciónde receptores del C-LDLInhibidores de laEzetimibeInhiben el canal de absorción	DisminuyenSíntomas gastrointestinales,absorción del colesterol10 mg/ddel colesterol y los esteroles en el	C-LDLcefalea, miopatíaenterocito, la proteína NPL1Derivados delBezafibratoAgonistas de los	DisminuyenSíntomas gastrointestinales,ácido fíbrico10-20 mg
+Genfibrozilreceptores PPAR-P	los triglicéridos
+que estimulan la síntesismiositis
+Potencian su toxicidad600-1200 mg/dde LPL e inhiben la síntesisasociados a estatinasFenofibratode apoClll, que actúan en el145-160 mg/dcatabolismo de las C-VLDL ytriglicéridos. También disminuyenla síntesis hepática de C-VLDLÁcido nicotínicoNiacinaInhibe la liberación de ácidos	DisminuyeToxicidad hepática, crisis degrasos libres del tejido adiposo.	los triglicéridosruboración, hiperglucemia.Disminuye la producción de	y C-LDLPoca experienciaC-VLDL y C-LDL, y disminuye  Aumentan C-HDLen el manejo dela degradación de LDLdislipidemias en pediatríaOmega-3 deOmega-3Disminuye los ácidos grasos	Disminuye losSíntomas gastrointestinales,aceite de pescado1-2 g/dhepáticos y la síntesis de triglicéridos, triglicéridosmal sabor,y aumenta la degradación de ácidos	Aumentadiscrasias sanguíneasgrasos con disminución de C-VLDL	HDLNuevos fármacosInhibidoresAlirocumabAumentan el número de receptores	DisminuyenEnsayos fase IIIde PCSK9AMG145de LDL al disminuir su catabolismo	LDLInhibidores de laMipomersenBloquean la síntesis de la Apo	Disminuyesíntesis de Apo BB-100 y la producción de	LDLC-VLDL y C-LDLSolo aprobadas en	 hipercolesterolemia familiar
+Inhibidores de	Lomitapide	Al inhibir la síntesis de la proteína	Disminuyen	homocigota después dela MTTPmicrosomal de transferenciaLDLlos 18 añosdetriglicéridos, se impide elensamblaje de las apoB lipoproteínas(quilomicrones y C-VLDL) enhepatocitos y enterocitosInhibidoresTorcetrapidInhiben la proteína transportadoraAumentanHepatoxicidadde CETPde ésteres del colesterolHDLSe suspendieron ensayosC-VLDL: Colesterol de las lipoproteínas de muy baja densidad. LPL: lipoproteinlipasa
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3135 @@
+﻿PROCESO DE HABILITACIÓN - SALA DE INFUSIÓN PEDIÁTRICA, HUSJ, POPAYÁN, FEBRERO -  MARZO 2012.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANDREA ISABELLA BASTIDAS OVIEDO YECID GARZÓN MOLANO
+MARIA ALEJANDRA HURTADO ACOSTA
+
+PROCESO DE HABILITACIÓN - SALA DE INFUSIÓN PEDIÁTRICA, HUSJ, POPAYÁN, FEBRERO - MARZO 2012.
+
+
+
+
+
+
+Informe Final de Investigación presentado como requisito parcial para optar el título de especialista en Auditoria de la Calidad en Salud con Énfasis en Epidemiologia.
+
+
+
+
+
+
+
+
+
+
+TUTOR: Dra. DORA ZAMORA VARGAS
+
+
+
+AGRADECIMIENTOS
+
+
+Los autores del presente trabajo de investigación agradecen a Dios por ser guía en nuestra especialización y luz en nuestro futuro. A nuestros familiares por brindarnos su apoyo incondicional y permitirnos hoy compartir con ellos el éxito obtenido.
+
+
+A la Universidad EAN en convenio con la Universidad del Cauca, por acogernos durante la especialización y transmitirnos a través de cada uno de los tutores su profesionalismo.
+
+
+A la Doctora Dora Zamora Vargas, Magister en Epidemiologia por su constante apoyo y compromiso para la realización de este proyecto.
+
+
+A la Doctora María Amparo Acosta, Genetista Clínica por su colaboración incondicional en el desarrollo de la Investigación.
+
+
+Al Hospital Universitario San José de Popayán y sus colaboradores, por permitir investigar en la sala de infusión pediátrica.
+
+TABLA DE CONTENIDO
+
+Pág.
+
+RESUMEN…	9
+INTRODUCCIÓN…	10
+1. JUSTIFICACIÓN…	11
+2. PLANTEAMIENTO Y FORMULCIÓN DEL PROBLEMA	14
+3. OBJETIVOS	15
+3.1 Objetivo General…	15
+3.2 Objetivos Específicos…	15
+4. MARCO TEÓRICO	16
+4.1 Marco Histórico	16
+4.2 Sala de infusión	17
+4.3 Calidad en Salud	29
+4.4 Calidad de la atención en salud	31
+4.5. Sala de infusión y estandares para su habilitación	32
+4.5.1 Sala de quimioterapia	32
+4.5.1.1 Estándares para la habilitacion de la sala de quimioterapia	33
+4.5.2 Estándares para la sala general de procedimientos menores…	36
+4.5.3 Estándares para las salas de infusión pediatrica	39
+5. DISEÑO METODOLOGICO	43
+5.1 Tipo de estudio	43
+5.2 Universo y Muestra	43
+5.3 Métodos	43
+5.4 Variables y operacionalización	43
+5.4.1 Variable dependiente	43
+5.4.2 Variables independientes…	43
+5.5 Criterios de inclusión	43
+5.6 Técnicas	44
+5.7 Instrumentos y valides del instrumento	44
+5.8 Analisis dela información	44
+6. CONSIDERACIONES ÉTICAS	45
+7. RESULTADOS	46
+7.1 Resultados obtenidos en el proceso de asesoria para la habilitación
+de la sala de infusión pediatrica	51
+7.1.1 Estándares verificados correspondientes a la sala de
+quimioterapia son afines a la sala de infusión pediatrica	51
+7.1.2 Estándares verificados correspondientes a la sala de
+procedimientos menores son afines a la sala de infusión pediatrica	52
+8. DISCUSIÓN	57
+9. CONCLUSIONES	60
+BIBLIOGRAFIA	62
+ANEXOS	67
+LISTA DE TABLAS
+Pág.
+Tabla N° 1. Características Sociodemográficas de pacientes atendidos
+en la Sala de Infusión Pediátrica.…………………………………………	71
+Tabla N° 2 Control de ejecución	78
+Tabla N° 3. De verificación	78
+Tabla N° 4 Control de ejecución	80
+Tabla N° 5 De verificación	80
+Tabla N° 6. Control de ejecución	82
+Tabla N° 7. De verificación	82
+Tabla N° 8 Control de ejecución	84
+Tabla N° 9 De verificación	84
+Tabla N° 10 Desarrollo de actividades ……………………………………..	93
+Tabla N° 11 Control de ejecución	96
+Tabla N° 12 De verificación	96
+Tabla N° 13 Desarrollo de actividades	103
+Tabla N° 14 Control de ejecución	104
+Tabla N°15 De verificación	105
+Tabla N° 16 Desarrollo de actividades	114
+Tabla N° 17 Control de ejecución	117
+Tabla N° 18 De verificación	118
+Tabla N° 19 Desarrollo de actividades	123
+Tabla N° 20 Control de ejecución	127
+Tabla N° 21 De verificación	129
+Tabla N° 22 Desarrollo de actividades	133
+Tabla N° 23 Control de ejecución	134
+Tabla N° 24 De verificación	134
+
+LISTA DE GRAFICOS
+Pág.
+Grafica 1. Distribución porcentual	de los pacientes según Género -
+Sala de Infusión Pediátrica HUSJ, Popayán, Febrero - Marzo 2012….	46 Grafica 2. Distribución porcentual de pacientes según procedencia
+Sala de Infusión Pediátrica HUSJ, Popayán, Febrero - Marzo 2012….	47 Grafica 3. Número de pacientes por patología, Sala de Infusión Pediátrica HUSJ, Popayán, Febrero - Marzo 2012……………………..	48 Grafica 4. Rangos de edad pacientes, Sala  de  Infusión  Pediátrica HUSJ, Popayán,  Febrero -  Marzo 2012.…………………………………	49 Grafica 5. Parentesco de los padres / pacientes Sala de Infusión Pediátrica HUSJ, Popayán, Febrero - Marzo 2012..……………………	50
+
+ANEXOS
+
+Pág.
+
+Anexo 1. Ficha Bibliográfica…	67
+Anexo 2. Licencia de uso – autorización de los autores…	68
+Anexo 3. Propuesta	70
+Anexo 4. Características sociodemográficas de pacientes atendidos en
+la Sala de Infusión Pediátrica	71
+Anexo 5. Protocolos, Procesos, guías	72
+
+RESUMEN
+
+
+Antecedentes: Colombia es el primer país con ley de enfermedades huérfanas (LEY 1392 de Julio 02 de 2010) que tiene como objeto reconocer que estas enfermedades, representan un problema de especial interés en salud dado que por su baja prevalencia en la población, pero su elevado costo de atención, requieren dentro del SGSSS un mecanismo de aseguramiento diferente al utilizado para las enfermedades generales, dentro de las que se incluyen las de alto costo; y unos procesos de atención altamente especializados y con gran componente de seguimiento administrativo.
+
+Gracias a la unión del Hospital Universitario San José, la Universidad del Cauca, los laboratorios Biomarín, Genzyme de Colombia y la Asociación Colombiana de Pacientes con Enfermedades de Depósito Lisosomal (Acopel), el 31 de julio de 2009, se hizo realidad el propósito social de inaugurar la primera sala de Infusión Pediátrica (S.I.P), que se crea en Latinoamérica para atender integralmente a los pacientes con enfermedades huérfanas.
+
+La S.I.P. Está habilitada como consultorio de procedimientos menores, pero al hacer un análisis a esta, es conveniente que sea habilitada con algunos de los estándares de la Sala de Procedimientos Menores y Sala de Quimioterapia que se ajustan más a los servicios que ofrece la Sala de Infusión.
+
+Objetivo General: Habilitar la Sala de Infusión Pediátrica del HUSJ, Popayán, Febrero – Marzo 2012.
+
+Métodos: Para el desarrollo de este proyecto se aplico el método experiencial, descriptivo, observacional.
+
+Resultados: Del total de los pacientes de la Sala de Infusión Pediátrica, el 53% correspondió al género Femenino y el 47% al género Masculino.
+El 93% de los pacientes atendidos en la Sala de Infusión   es de procedencia rural y el 7% de zona urbana.
+El 66% de los pacientes atendidos en el Centro de Infusión Pediátrico corresponden a Mucopolisacaridosis tipo VI, el 20% a Osteogénesis imperfecta, el 7% a Mucopolisacaridosis tipo II y el 7% a enfermedad Autoinmune.
+40% de los pacientes que se atienden corresponden al rango de edad ente 1-5 años, 40% al rango de edad comprendido entre 6-10 años y el 20% entre 11-15 años de edad.
+El 40% de los padres de los pacientes que son atendidos en la Sala de Infusión Pediátrica son primos y el 60% no tienen ningún tipo de parentesco.
+Teniendo en cuenta que la Sala de Infusión fue definida con anterioridad   por el Hospital Universitario San José como consultorio de procedimientos menores, por no existir en la Resolución 1043 de 2006, estándares para dicha sala, fue necesario realizar un acompañamiento al Departamento de auditoría y Calidad del Hospital y la coordinación de la Sala de Infusión para establecer los requisitos mínimos para su habilitación de acuerdo a los servicios ofrecidos.
+Al realizar la verificación de la resolución 1043 de 2006, se encontró que aunque la Sala no cumple con todos los estándares será llamada Sala de Infusión con estándares de habilitación para sala de Quimioterapia y sala de procedimientos menores pues se observó mayor afinidad entre estos servicios.
+
+Conclusiones: Debido a la complejidad de los procedimientos que se realizan actualmente en la sala de Infusión Pediátrica y a su capacidad técnico científica y administrativa, este, no puede ser considerado como consultorio de procedimientos menores, en cambio debe ser habilitada con algunos de los requisitos de la resolución 1043 de 2006, exigidos para la Sala de Procedimientos Menores y sala de quimioterapia por su similitud con los servicios que ofrece la Sala.
+
+INTRODUCCION
+
+
+El Sistema de Garantía para la calidad en salud (SOGCS) es una norma a la cual deben acogerse todas las instituciones de salud tanto públicas como privadas para garantizar una atención segura y adecuada a todos los usuarios. El Sistema único de Habilitación (Resolución 1043 de 2006) implícito en el SOGCS determina las condiciones mínimas que deben cumplir todos los servicios que ofrece una Institución Prestadora de Servicios de Salud, para poder ser sostenible en el tiempo.
+
+
+La ciudad de Popayán cuenta con el único Hospital Universitario, merecedor de muchos reconocimientos por su trayectoria, servicios que oferta, recurso humano, tecnología, instalaciones físicas, etc. El cual ha adaptado un lugar para el funcionamiento de la Sala de Infusión Pediátrica, la única en el Departamento del Cauca y con mayor número de pacientes de Colombia. En dicha Sala, son atendidos pacientes con patologías genéticas en su mayoría Mucopolisacaridosis y Osteogénesis Imperfecta los cuales deben recibir infusiones de reemplazo enzimático de acuerdo al manejo que considere la genetista clínica. Este tratamiento ofrecerá a los pacientes una mejor calidad de vida y brindará apoyo a sus familias en el proceso de la enfermedad.
+
+
+Debido a la complejidad de la infusión y las complicaciones derivadas de la misma, estos pacientes deben ser monitorizados electrocardiográficamente antes, durante y después de la infusión. El personal de salud de turno debe poseer la capacidad de responder a cualquier tipo de emergencia e igualmente el hospital ofrecer un fortalecido sistema de referencia y contrareferencia en caso de ser requerido.   Por lo anterior la sala de infusión Pediátrica debe cumplir con algunos requisitos de habilitación de Sala de Quimioterapia y Sala de Procedimientos Menores, para que de esta manera se ofrezca a los usuarios un servicio de alta calidad.
+
+
+Por consiguiente, se realizó una verificación a los requisitos de la Resolución 1043 de 2006 y se asesoró al Departamento de Auditoría y Calidad y a los encargados del funcionamiento de la Sala de Infusión Pediátrica para la toma de decisiones en el proceso de habilitación.
+
+
+Se adecuaron los protocolos, procesos y guías Institucionales a las necesidades de la Sala de Infusión y se diseñó el Manual de Normas.
+Dependerá del análisis exhaustivo de los directivos de los resultados presentados en este proyecto de investigación para determinar las acciones encaminadas al mejoramiento de la calidad de la atención en salud a los pacientes que asisten a la Sala de Infusión Pediátrica.
+
+1. JUSTIFICACIÓN
+
+
+La calidad de la atención en salud se constituye en un componente del sistema obligatorio de garantía de la calidad que al hacer seguimiento a las diferencias entre la calidad esperada y la calidad observada, incentiva el respeto a los derechos del paciente y la buena práctica profesional, fortaleciendo a la institución dentro de un contexto de efectividad eficiencia y ética.
+
+
+“El programa de aseguramiento de la Calidad no es un control o inspección transitorio, ni representa el ente que lleva a cabo la verificación de procesos, ni es tampoco un organismo que interviene en decisiones; es una actividad permanente, coherente, organizada que se ocupa de   que confluyan todos los componentes en cantidad y con las características ideales para lograr el fin único de la satisfacción del cliente”.1
+
+Se debe tener en cuenta que lo que no se mide no se puede mejorar, por esto la búsqueda de la calidad para el mejoramiento de la atención en salud debe centrarse en los procesos que conduzcan al fortalecimiento y mejoramiento de la calidad en la prestación del servicio a través de herramientas de distinta naturaleza como matrices de priorización,   jerarquización y paralelos entre otros, para dar desarrollo a la ruta crítica de la empresa de salud.2
+
+El decreto 1011 de 2006, Por el cual se establece el Sistema Obligatorio de Garantía de Calidad de Atención en Salud, se define como el conjunto de instituciones, normas, requisitos, mecanismos y procesos deliberados y sistemáticos que desarrolla el sector salud para generar, mantener y mejorar la calidad de los servicios de salud en el país. Aplica para los Prestadores de Servicios de Salud, entidades Promotoras de Salud, ARS, Entidades Adaptadas, Empresas de Medicina Prepagada, Entidades Departamentales, Distritales y Municipales de Salud.3
+
+El sistema único de habilitación, es un componente del Sistema Obligatorio de Garantía de Calidad de Atención en Salud, que define las normas, requisitos y procedimientos mediante los cuales se establece, registra, verifica y controla el cumplimiento de las condiciones básicas de capacidad tecnológica y científica, de suficiencia patrimonial y financiera y de capacidad técnico administrativa, indispensables para la entrada y permanencia en el Sistema. 4
+
+
+1 MALAGON-LONDOÑO y cols. Garantía de calidad en Salud. 2 ed., Bogotá: Editorial Médica Panamericana; 2006.
+2 Ibid
+3 Disponible en línea en http://www.slideshare.net/johanmcp/sistema-obligatorio-de-garantia-de-calidad
+4 Ibid
+
+En el Departamento del Cauca, hay un alto índice de pacientes que presentan patologías genéticas, (Mucopolisacaridosis, Osteogénesis imperfecta, enfermedades autoinmunes, deficiencia de la hormona de crecimiento), con mayor incidencia en la población indígena, que en su mayoría desconocen la presencia de la enfermedad y sus manifestaciones clínicas. Estos pacientes son diagnosticados usualmente cuando consultan por urgencia, al padecer complicaciones propias de la patología. Es así como son redireccionados a la Sala de Infusión Pediátrica del Hospital Universitario San José de Popayán, quien desde ese momento inicia el tratamiento indicado.
+
+
+Teniendo como referente, la RESOLUCIÓN 1043 DE 2006 (del 3 de abril de 2006), el Ministerio De La Protección Social, define las condiciones para la habilitación, que deben cumplir los Prestadores de Servicios de Salud para habilitar sus servicios. Se observa que la Sala de Infusión Pediátrica, del Hospital Universitario San José, cuenta con capacidad técnico científica –técnico administrativa, para garantizar un servicio acorde a las necesidades de los pacientes y su grupo familiar, sin embargo, se encuentra habilitado como Consultorio de Procedimientos menores debido a que en la Resolución 1043 de 2006 no se definen parámetros para dicho servicio. De acuerdo a estudios previos realizados por este grupo de investigación es necesario implementar algunos requisitos de habilitación de Sala de Quimioterapia y Sala de Procedimientos Menores según las actividades que se realizan.
+
+
+La Sala de Infusión brinda como valor agregado equipos audiovisuales para el entretenimiento del paciente y su familia, monitoreo individual y especialista exclusiva durante el tiempo de infusión.
+
+
+Colombia es el primer país con ley de enfermedades huérfanas (LEY 1392 de Julio 02 de 2010) que tiene como objeto reconocer que estas enfermedades, representan un problema de especial interés en salud dado que por su baja prevalencia en la población, pero su elevado costo de atención, requieren dentro del SGSSS un mecanismo de aseguramiento diferente al utilizado para las enfermedades generales, dentro de las que se incluyen las de alto costo; y unos procesos de atención altamente especializados y con gran componente de seguimiento administrativo.
+
+
+Para cumplir con los requisitos exigidos para la habilitación de la Sala de infusión Pediátrica, se debe realizar cambios en la infraestructura, procesos, protocolos y guías de atención, con el apoyo oportuno del personal administrativo y asistencial que se requiera para llevar a feliz término este proyecto.
+
+Es pertinente la visita de Habilitación por parte de la Secretaria de Salud para definir si los parámetros implementados a partir de este estudio de investigación, se adecuan a los requerimientos de la norma.
+
+
+Los resultados como las derivaciones de esta investigación beneficiarán, sin duda no sólo al Hospital Universitario San José, sino también a los usuarios, porque a partir de ellos se podrá contribuir en la búsqueda de una mejor calidad en la prestación del servicio, según lo exige el Sistema Obligatorio de Garantía de Calidad de Atención en Salud. De la satisfacción de los usuarios depende el posicionamiento de la empresa en el mercado, que es cada vez más competitivo.
+
+2. PLANTEAMIENTO Y FORMULACIÓN DEL PROBLEMA
+
+
+El Departamento del Cauca cuenta con una población de 1.787.017 habitantes, de los cuales 247.987 pertenecen a grupos indígenas, que son los de mayor prevalencia en cuanto a las patologías genéticas que son tratadas en la Sala de Infusión Pediátrica: (Mucopolisacaridosis, Osteogénesis imperfecta, enfermedades autoinmunes, deficiencia de la hormona de crecimiento). Teniendo en cuenta la incidencia de estas patologías, aproximadamente hay una población indígena de 286 habitantes que padecen algún tipo de enfermedades genéticas.
+
+En la actualidad hay un acceso limitado e inoportuno a los servicios de salud, lo que ocasiona disminución en la calidad y esperanza de vida de sus habitantes. Adicionalmente al no garantizarse la oportunidad y accesibilidad a los pacientes con alteraciones genéticas a los servicios de salud, se observa que las instituciones del Departamento no cuentan con una Sala de Infusión que ofrezca un servicio habilitado de acuerdo a los servicios ofertados, con calidad, con infraestructura física para brindar una atención integral a los pacientes.
+
+El Hospital Universitario San José de la ciudad de Popayán - Cauca, ha destinado un espacio de su infraestructura física, para ofrecer un servicio social de infusión pediátrica. En el momento son infundidos 16 pacientes con Mucopolisacaridosis, Osteogénesis imperfecta y Enfermedad autoinmune que en comparación con años anteriores se han ido incrementado, lo que evidencia la necesidad de mejorar la prestación del servicio.
+
+Teniendo en cuenta la anterior problemática, se hace necesario Identificar los estándares de calidad establecidos en la resolución 1043 de 2006, con los que debe cumplir la Sala de Infusión según los servicios ofertados para ser aplicados en el proceso de habilitación para la atención oportuna, eficiente, eficaz y con calidad a los pacientes que presentan patologías genéticas.
+
+Para dar respuesta a la problemática en mención resulta pertinente formular los siguientes interrogantes: ¿Es necesaria la habilitación de la Sala de Infusión Pediátrica, para la atención de patologías genéticas en el Departamento del Cauca?, ¿Cómo habilitar el servicio?, ¿qué soluciones ofrecería a la población objeto? ¿Es necesaria la visita de habilitación por parte de la Secretaría de Salud?
+
+3. OBJETIVOS
+
+
+
+3.1. General
+
+
+Habilitar la Sala de Infusión Pediátrica del HUSJ, Popayán, Febrero – Marzo 2012.
+
+
+3.2. Específicos
+
+
+Identificar los estándares de Habilitación que apliquen a la Sala de Infusión Pediátrica del Hospital Universitario San José de Popayán.
+
+
+Socializar con los directivos y administrativos del Hospital Universitario San José los estándares requeridos para la habilitación de la Sala de Infusión.
+
+
+Diseñar y adaptar guías, protocolos y procesos de atención para la Sala de Infusión pediátrica del Hospital Universitario San José de Popayán.
+
+4. MARCO TEORICO
+
+
+4.1. MARCO HISTORICO:
+
+
+Gracias a la unión del Hospital Universitario San José, la Universidad del Cauca, los laboratorios Biomarín, Genzyme de Colombia y la Asociación Colombiana de Pacientes con Enfermedades de Depósito Lisosomal (Acopel), el 31 de julio de 2009, se hizo realidad el propósito social de inaugurar la primera Sala de Infusión Pediátrica (S.I.P.), que se crea en Latinoamérica para atender integralmente a los pacientes con enfermedades huérfanas.5
+
+La S.I.P. está ubicada en el hospital Universitario San José de Popayán en donde son atendidos niños con enfermedades genéticas metabólicas, consideradas como enfermedades huérfanas (Mucopolisacaridosis, osteogénesis imperfecta, enfermedades autoinmunes, deficiencia de la hormona de crecimiento).6
+
+La Sala, promueve el desarrollo intelectual, la rehabilitación sicológica y social de los pacientes y sus familias. Con el apoyo de los laboratorios Biomarín y Genzyme de Colombia se logra no sólo la dotación para esta, sino el respaldo de un grupo interdisciplinario de sicólogos, enfermeros, fisiatras, ortopedistas, neuropediatras, genetistas clínicos y trabajadores sociales, que se formarán en el diagnóstico de estas enfermedades y los tratamientos existentes.7
+
+Acopel, asociación que en Colombia brinda ayuda a los pacientes con enfermedades de depósito lisosomal para que puedan tener acceso a un manejo integral de su enfermedad y mejorar así su expectativa y calidad de vida, se ha vinculado a este proyecto ayudando a los pacientes que desde zonas rurales llegan a la Sala de Infusión, para recibir el tratamiento. “Desde hace más de dos años, Acopel ha colaborado en la búsqueda de soluciones conjuntas, para la calidad de atención, aceptación social y bienestar de los pacientes y sus familias”. 8
+
+En un ambiente con la más alta calidad científica y tecnológica, 12 pacientes con Mucopolisacaridosis (MPS), así como 3 pacientes con Osteogénesis Imperfecta, y 1 con Enfermedad Autoinmune, que residen en el Departamento del Cauca, podrán recibir atención integral para su tratamiento semanal.
+
+5 Disponible en línea en http://pachajoa.110mb.com/a9inf.htm
+6 Ibid
+7 Ibid
+8 Ibid
+
+4.2. SALA DE INFUSIÓN:
+
+Una Sala de Infusión es un lugar destinado para ofrecer tratamientos de terapia intravenosa con monitoreo hemodinámico continuo a pacientes previamente diagnosticado en entrenamiento en atención de urgencias y emergencias que permita la atención oportuna y adecuada a cualquier tipo de reacción adversa.
+
+
+Toda Sala de Infusión debe contar con un ambiente propicio para el bienestar del paciente y su familia, que brinde una estancia cómoda y segura durante el procedimiento.
+
+
+La Sala de Infusión Pediátrica del Hospital Universitario San José de Popayán, se encuentra ubicada en el primer piso en la sala de Pediatría, antes de la asesoría para la habilitación contaba con:
+
+
+   Sala de espera: 2 tanden de 4 sillas cada uno.
+Acceso a baño.
+
+   Área de infusión: 4 sillas reclinables no lavables, 3 monitores de signos vitales sin fijación y ficha técnica, un pulsooxímetro, 4 balas de oxígeno, 4 bombas de infusión, un televisor sobre una mesa a la altura de los niños, un DVD y un lavamanos sin soporte adecuado.
+
+    Área administrativa: con dos escritorios y 3 archivadores.
+
+   Área de preparación de medicamentos: Separada por un biombo de área de desechos. Mesa no lavable y porosa y 2 mesas de mayo en mal estado.
+
+   Área de desechos: Junto al área de preparación de medicamentos.   Áreas sin señalización.
+   No hay procesos, protocolos ni guías de atención.
+
+   No existe un consentimiento informado específico para los pacientes de la Sala de Infusión.
+
+   Las paredes presentan humedad.
+
+Lockers en malas condiciones.
+
+   Láminas del cielo raso sin fijación.
+
+   La papelería no se encuentra organizada.   No hay termómetro para la nevera.
+   No hay nevera adecuada para el transporte de los medicamentos.   Hay sistema de gases sin flujómetro.
+   No hay cumplimiento de las normas de la sala de infusión (no ingerir ningún tipo de alimentos, paso restringido a personal no autorizado, un acompañante por paciente).
+
+   No existe una ruta de lavado de la ropa sucia.
+
+   No se cumple la ruta de evacuación de desechos.
+
+No hay carro de paro.
+
+En esta Sala se atienden algunas patologías como las que se describen a continuación:
+
+
+Mucopolisacaridosis
+
+
+Las Mucopolisacaridosis (MPS), pertenecen al grupo de Enfermedades Lisosomales, son hereditarias y causadas por la ausencia o la deficiente producción de las enzimas necesarias para el procesamiento de moléculas llamadas glicosoaminoglicanos, que son cadenas largas de azúcares presentes en cada una de nuestras células que ayudan a construir los huesos, cartílagos, tendones, córneas, la piel y el tejido conectivo etc.9
+
+Las personas que padecen de Mucopolisacaridosis presentan alteración en la producción de alguna de las 11 enzimas requeridas para transformar estas cadenas largas y complejas en moléculas más sencillas, lo que ocasiona acumulación de estos compuestos, alterando la función normal de muchas partes del cuerpo.10
+
+Son enfermedades hereditarias, con un patrón de herencia autosómica recesiva (aparece cuando ambos padres lo transmiten); salvo en MPS II también llamada
+
+9 Disponible en línea en http://www.acopel.org.co/cms/Default.asp?Page=170
+10 Ibid
+
+Enfermedad de Hunter, cuya herencia está ligada al cromosoma X (la transmiten las mujeres a sus hijos varones). Cuando ambos padres poseen el gen defectuoso, en cada embarazo hay una posibilidad en cuatro de afectar al niño.11
+
+Es posible que los padres y hermanos de un niño afectado no presenten muestras del trastorno. Los hermanos no afectados y ciertos parientes de un niño que padezca de una de las formas de Mucopolisacaridosis pudieran llevar el gen recesivo y transmitirlo a sus propios hijos.12
+
+En general, los siguientes factores pueden aumentar las posibilidades de padecer o transmitir alguna de estas u otras enfermedades genéticas:
+
+
+Antecedentes familiares de una enfermedad genética.
+Padres que son parientes cercanos o que forman parte de familias que siempre han vivido en la misma región.
+    Ambos padres que no muestran síntomas pero son portadores del gen de la enfermedad. 13
+
+
+Las MPS presentan características clínicas comunes, pero también síntomas que son más propios de un tipo de patología que de otro, y poseen diversos grados de gravedad. Las diferencias entre los diversos fenotipos dependen parcialmente del tipo de sustrato acumulado, pero también del grado de deficiencia enzimática, del genotipo y de otros factores hasta ahora desconocidos.14
+
+Generalmente las características no son evidentes al nacer, pero progresan a medida que el almacenamiento de glicosoaminoglicanos afecta los huesos, la estructura esquelética, los tejidos conectivos el sistema nervioso y demás órganos. Al pasar el tiempo, estos glicosaminoglicanos se acumulan en las células, la sangre y los tejidos conectivos, esto produce daños celulares progresivos que afectan el aspecto y las capacidades físicas, los órganos y el funcionamiento del organismo del individuo y, en la mayoría de los casos, el desarrollo mental en general, se afectan funciones tales como las auditivas, visuales, cardiovasculares, respiratorias nerviosas y la motilidad por lo que la calidad de vida de estos pacientes y sus familiares está seriamente comprometida.15
+
+
+11 Disponible en línea en http//:acopel.org.co/cms/Default.asp?Page=170
+12 Ibid
+13 Ibid
+14 Ibid
+15 Ibid
+
+Los síntomas físicos incluyen generalmente rasgos faciales toscos (incluyendo puente nasal plano, labios gruesos, boca y lengua recrecidas), baja estatura con el tronco desproporcionadamente corto (enanismo), displasia (tamaño y/o forma anormales de los huesos) y otras irregularidades esqueléticas, espesamiento de la piel, órganos agrandados (tales como hígado o el bazo), hernias y crecimiento excesivo del pelo en el cuerpo, manos cortas en forma de garra, rigidez progresiva de las coyunturas y el síndrome de túnel carpiano pueden restringir la movilidad y las funciones de la mano.16
+
+Ante la sospecha de una MPS, el examen de laboratorio más útil es el análisis de glicosaminoglicanos en una muestra de orina recolectada en fracciones individuales durante 8 horas. Hay una determinación inicial que sugiere si se trata de una Mucopolisacaridosis, con una respuesta afirmativa, se realiza la electroforesis de los glicosaminoglicanos excretados por la orina que van a orientar sobre los tipos de MPS y direccionan el estudio enzimático en leucocitos y/o plasma, o en gota de sangre seca, que permitirá finalmente, confirmar o descartar el diagnóstico de una MPS y determinar el tipo.17
+
+Los tratamientos existentes hasta la fecha son Terapias de Reemplazo Enzimático (TRE), y solo están disponibles para MPS I, MPS II, y MPS VI; son terapias de muy reciente aparición, consistentes en reemplazar externamente la enzima que no se produce o que se produce deficientemente; debido a esto el manejo de la mayor parte de estas patologías es sintomático y dirigido a mejorar la calidad de vida de los pacientes y sus familias.18
+
+El trasplante de médula y el trasplante de sangre del cordón umbilical han tenido un éxito limitado en el tratamiento de las Mucopolisacaridosis. Las características físicas anormales, a excepción de aquellas que afectan el esqueleto y los ojos, pueden ser mejoradas, pero los resultados neurológicos varían. Son procedimientos de riesgo elevado y solamente se realizan después de que los miembros de la familia reciben la evaluación y el asesoramiento completos.19
+
+Dentro de las medidas terapéuticas más frecuentemente requeridas en el manejo de los pacientes afectados por una MPS están la fisioterapia, destinada a mantener las funciones articulares y prevenir posturas viciosas, así como las terapias de lenguaje y ocupacional y el manejo quirúrgico oportuno cuando la sintomatología lo indique.20
+
+
+16 Disponible en línea en http://www.acopel.org.co/cms/Default.asp?Page=170
+17 Ibid
+18 Ibid
+19 Ibid
+20 Ibid
+
+La ausencia de tratamientos para la mayor parte de las MPS y el alto costo de las terapias de reemplazo enzimático existentes, han motivado a los investigadores a seguir desarrollando nuevas alternativas terapéuticas, entre ellas las terapias celulares, génicas y de inhibición de la síntesis de los sustratos depositados, cuyo objetivo es ser efectivas, seguras y accesibles a la mayor parte de los pacientes. Mientras tanto, una meta importante debe ser el diagnóstico precoz de estos pacientes, de modo de entregar a las familias un consejo genético oportuno y prevenir la ocurrencia de nuevos casos.21
+
+Hasta el momento se han descrito siete tipos de Mucopolisacaridosis. En el Departamento del Cauca son atendidas actualmente la MPS tipo II y VI que se describen a continuación:
+
+
+MPS II: Conocida como Enfermedad de Hunter, es causada por la ausencia de la enzima iduronato- L Sulfatasa., muchos mencionan dos subtipos clínicos que dependen de la gravedad de los síntomas. Es la única de las Mucopolisacaridosis en la cual sólo la madre puede transmitir el gen defectuoso al hijo.22
+
+Los niños que padecen de MPS II A, la forma más grave del síndrome de Hunter, comparten muchas de las características clínicas asociadas al síndrome de Hurler (MPS I H) pero con síntomas más leves. El inicio de la enfermedad ocurre generalmente entre las edades de 2 y 4 años. El deterioro en el desarrollo se nota generalmente entre las edades de 18 y 36 meses, seguido por la pérdida progresiva de capacidades. Otras características clínicas incluyen rasgos faciales toscos, irregularidades esqueléticas, obstrucción y complicaciones de las vías respiratorias, baja estatura, rigidez generalizada, degeneración de la retina (sin nublarse las córneas), hidrocefalia comunicante, diarrea crónica, recrecimiento del hígado y el bazo y pérdida progresiva de la audición. Manchas blanquecinas en la piel se pueden presentar en los antebrazos, la espalda y las piernas.23
+
+Las características físicas de la MPS II B son menos obvias y progresan a un ritmo mucho más lento. El diagnóstico se realiza a menudo en la segunda década de vida. El intelecto y el desarrollo social no se ven afectados. Los problemas esqueléticos pueden ser menos graves, pero el síndrome del túnel carpiano y la rigidez de las coyunturas pueden restringir el movimiento y la altura es algo menor de lo normal. Otros síntomas clínicos incluyen la pérdida de la audición, visión periférica pobre, diarrea y apnea del sueño, aunque las complicaciones respiratorias y cardíacas pueden contribuir a la
+
+21 Disponible en línea en http://www.acopel.org.co/cms/Default.asp?Page=170
+22 Ibid
+23 Ibid
+
+muerte prematura. Las personas con MPS II B pueden vivir hasta o más allá de los 50 años.24
+
+MPS VI: También llamada Síndrome de Maroteaux-Lamy, Los niños que lo padecen tienen un desarrollo intelectual normal, pero generalmente comparten muchos de los síntomas físicos encontrados en el síndrome de Hurler. El síndrome de Maroteaux- Lamy es causado por una deficiencia de la enzima N-acetil-galactosamina 4-sulfatasa y tiene un espectro variable de síntomas graves. Las complicaciones neurológicas incluyen córneas nubladas, sordera, espesamiento de la dura máter (la membrana que rodea y protege el cerebro y la médula espinal) y dolores causados por la compresión o traumatismo de los nervios y las raíces nerviosas.25
+
+El crecimiento es normal al comienzo y se detiene repentinamente alrededor de los 8 años de edad. A la edad de 10 años los niños presentan un tronco acortado, postura encorvada y restricciones generalizadas del movimiento. En casos más graves, los niños también presentan una espina dorsal curva y un abdomen protuberante. Los cambios esqueléticos (particularmente en la región pélvica) son progresivos y limitan el movimiento. Muchos niños también presentan hernias umbilicales o inguinales. Casi todos los niños tienen algún tipo de enfermedad cardiaca, generalmente asociada al mal funcionamiento de las válvulas.26
+
+Osteogénesis Imperfecta
+
+
+La Osteogénesis imperfecta (OI) es una enfermedad congénita que se caracteriza porque los huesos de las personas que la sufren se rompen muy fácilmente, con frecuencia tras un traumatismo mínimo e incluso sin causa aparente.27
+
+Se conocen varios tipos de la enfermedad, y su variación es muy grande de un individuo a otro. Incluso dentro del mismo tipo, puede haber personas con una mayor o menor impregnación.28
+
+Por decirlo con un ejemplo práctico, algunos pacientes sufren diez fracturas a lo largo de su vida, en tanto que otros pueden llegar a tener varios cientos de ellas.
+
+
+
+24 Disponible en línea en http://www.acopel.org.co/cms/Default.asp?Page=170
+25 Ibid
+26 Ibid
+27 Ibid
+28 Ibid
+
+La Osteogénesis imperfecta (OI) se debe a la insuficiente y/o defectuosa formación del colágeno del cuerpo, como consecuencia de un fallo genético. El colágeno es una proteína de los tejidos y su función en la formación de los huesos se puede comparar a la de las nervaduras metálicas en torno a las cuales se monta la estructura de hormigón de una viga. Si la nervadura no es fuerte o no existe, la pieza de hormigón no adquirirá la forma adecuada o será sumamente frágil.29
+
+La OI no se puede paliar, por tanto, suministrando calcio a los enfermos. No existe hasta el presente ninguna forma de inducir a las células del cuerpo a producir más colágeno o producir colágeno de calidad.30
+
+La Osteogénesis imperfecta tiene un pronóstico muy variable, dependiendo del grado en que cada individuo esté afectado. La enfermedad en sí no es letal. Sin embargo, las personas afectadas por las formas más graves pueden tener importantes problemas colaterales. Mientras que los afectados por tipos más leves (I y IV según la clasificación de Sillence), en general no tienen más complicaciones que las que impongan sus fracturas y deformaciones óseas, así como las intervenciones quirúrgicas que sean necesarias para tratarlas, la OI del tipo II (siempre según Sillence) suele revestir mucha gravedad y puede llegar a ser letal, debido a las hemorragias que causan las fracturas múltiples en el recién nacido.31
+
+El tipo III de Sillence tiene un pronóstico variable. En los casos en que la deformación ósea es grave y el volumen torácico es escaso, se pueden presentar problemas de ventilación, que en algunos casos pueden dar lugar a neumonías.
+
+
+En todos los tipos se pueden presentar también problemas cardiovasculares de diferente pronóstico.32
+
+A pesar de la deformación ósea y la frecuencia de fracturas, la longevidad de una persona afectada por OI es igual a la de cualquier otra. Sus cualidades intelectuales no están mermadas de ninguna forma por la enfermedad y pueden llevar una vida normal, dentro de las limitaciones que imponga el grado de movilidad de cada uno.33
+
+
+
+29 Disponible en línea en http://www.osteogenesis.info/ques/definic.htm
+30 Ibid
+31 Ibid
+32 Ibid
+33 Ibid
+
+Es difícil determinar el número de personas afectadas por la enfermedad, debido a que no hay censos donde consten semejantes datos. Además, se puede partir de la base de que hay gran cantidad de afectados con síntomas muy leves que no han sido ni serán nunca diagnosticados.34
+
+La incidencia es de uno entre veinte o treinta mil nacimientos, según las otras cifras es de un afectado entre cada diez mil nacidos, incluyendo los casos que son diagnosticados a posteriori.35
+
+En cuanto a la forma en que se transmite, los especialistas no acaban de ponerse de acuerdo. Hasta no hace mucho parecía claro que la forma de transmisión de los tipos I y IV era dominante (estos dos tipos se pueden estudiar en familias donde la enfermedad aparece a lo largo de generaciones). La opinión generalmente aceptada era hasta hace muy poco que tanto el tipo II como el tipo III son el resultado de una transmisión recesiva, pero los más recientes estudios parecen reflejar dudas fundadas sobre esta generalización y apuntan a la posibilidad de que el mosaicismo (error genético en las células germinales de los progenitores) desempeñe un papel importante en la transmisión de los casos más graves de OI.36
+
+Además, la enfermedad también puede ser el resultado de una mutación espontánea y aparecer en familias sin ningún antecedente. En algunos casos, lo que puede parecer una mutación espontánea no lo es: hay afectados con síntomas tan leves que ignoran su condición hasta que tienen hijos con la enfermedad.37
+
+En cualquier caso, está claro que los afectados por Osteogénesis imperfecta tienen un cincuenta por ciento de probabilidades de transmitirla a su descendencia.38
+
+Enfermedades autoinmunes
+
+
+Enfermedades autoinmunes, son aquellas enfermedades causadas por su propio Sistema Inmunológico. Sus defensas tienen un set de células llamadas células T, que indican al resto de su sistema inmune, como pelear en contra de invasores
+extraños a su cuerpo (gérmenes, bacterias, virus, etc.).39
+
+Su sistema inmune se encuentra atacando a los tejidos de su propio cuerpo, causando enfermedades muy graves y difíciles de tratar. Por definición, su cuerpo esta atacándose a si mismo, y de ahí viene el porque son tan difíciles de tratar. 40
+
+Muchas enfermedades auto inmunes, son causadas por un desequilibrio en el cociente de las células T (Th1 y Th2). Estos subsets de células están en un continuo balance, como un sube-y-baja: cuando uno se incrementa, el otro baja, y viceversa. La manifestación más común, es un exceso de células Th2, resultando en un incremento en la incidencia de alergias, asma, y susceptibilidad a las infecciones (debido a un descenso en las células Th1 que dan la protección).41
+
+La alternativa, demasiadas células Th1 ("demasiada protección" inmune), puede resultar en enfermedades auto inmunes como el caso de Psoriasis, Artritis, Lupus , Vitíligo, etc. Otras enfermedades como la Esclerosis Múltiple (EM), muestran una predominancia de células Th1, pero puede alternar de un extremo al otro.42
+
+Los tratamientos más comunes en las enfermedades auto inmunes son los tratamientos sintomáticos. Por ejemplo, es muy común que un doctor recomiende analgésicos para el dolor en casos de artritis, cremas para el escozor en el caso de la Psoriasis, maquillaje en el caso de Vitíligo, drogas anti espasmódicas en el caso de la EM, o medicamentos anti inflamatorios para los pacientes de Lupus. Los médicos pueden continuar recetando medicamentos sintomáticos por un periodo prolongado de tiempo sin tratar el problema de raíz.43
+
+Una opción mas directa, es tratar el problema con medicamentos inmuno supresores y drogas anti inflamatorias para los casos más severos.44
+El problema es que mientras algunos de estos medicamentos pueden suprimir de manera efectiva su Sistema Inmune, el problema es que se crean efectos secundarios más devastadores que la misma enfermedad. Muy pocos pacientes pueden tolerar más de tres tratamientos con methotrexate debido al daño que este medicamento causa al hígado. Los pacientes de lupus pueden sufrir del síndrome de cushing que causa malformaciones al cuerpo debido a los esteroides, y los pacientes de EM pueden pasar toda la vida tomando inmuno supresores, solo para ver que sus síntomas regresan, mientras sufren de enfermedades relacionadas con un sistema inmune deprimido.45
+
+Deficiencia de la hormona de crecimiento
+
+
+Implica estatura baja anormal con proporciones corporales normales. Esta afección se puede catalogar como congénita o adquirida.46
+
+La estatura anormalmente baja en la infancia se puede presentar cuando la hipófisis no produce suficiente hormona del crecimiento (somatotropina). Esto puede ser causado por una variedad de mutaciones genéticas (como los genes Pit-1 y Prop-1, el gen receptor de la hormona del crecimiento o el gen de la hormona del crecimiento), ausencia de la hipófisis o lesión cerebral grave, aunque en la mayoría de los casos no se encuentra una causa subyacente de esta deficiencia.47
+
+El retraso en el crecimiento se puede evidenciar en la lactancia y persistir a lo largo de toda la infancia. La "curva de crecimiento" del niño, que se encuentra en una tabla de crecimiento estandarizada, puede variar de plana (sin crecimiento) a muy superficial (crecimiento mínimo). Es posible que en el individuo se presenten o no los cambios normales de la pubertad, dependiendo del grado en el cual la hipófisis puede producir niveles hormonales adecuados diferentes a la hormona del crecimiento.48
+
+La deficiencia de la hormona del crecimiento puede estar asociada con deficiencias de otras hormonas, entre las cuales están:49
+
+Tirotropinas (controlan la producción de hormonas tiroideas) Vasopresina (controla el equilibrio de agua en el cuerpo)
+Gonadotropinas	(controlan	la	producción	de	hormonas	sexuales	masculinas	y femeninas)
+Análisis de ACTH o corticotropina (controla la glándula suprarrenal y su producción de cortisol, DHEA, y otras hormonas)
+
+
+Los defectos físicos de la cara y del cráneo pueden igualmente estar asociados con las anomalías de la hipófisis o de su función. Un pequeño porcentaje de bebés con labio leporino y paladar hendido puede presentar disminución de los niveles de la hormona del crecimiento.50
+
+
+46 Disponible en línea en http://www.clinicadm.com/salud/5/001176.html
+47 Ibid
+48 Ibid
+49 Ibid
+50 Ibid
+
+Los síntomas asociados a esta alteración son:51
+
+
+Ausencia o retraso en el aumento de la estatura Crecimiento lento antes de los 5 años
+Estatura baja (niños por debajo del percentil 5 de la tabla estándar de crecimiento y adultos de menos de 1, 50 m ó 5 pies)
+Ausencia o retardo del desarrollo sexual en adolescentes Dolores de cabeza
+Sed excesiva acompañada de micción excesiva Gasto urinario excesivo
+
+
+Entre los exámenes están los siguientes:52
+
+
+Una radiografía de la mano puede determinar la edad ósea
+La edad ósea también se puede determinar por medio de una absorciometría de rayos X de energía dual o radioabsorciometría de doble energía (DEXA, por su sigla en inglés).
+    La medición de la hormona del crecimiento y de los niveles de proteína de fijación asociados (IGF-1 y IGFBP-3) revela si el problema del crecimiento es causado por una disfunción de la hipófisis.
+    Exámenes para medir otros niveles hormonales, ya que la ausencia de la hormona del crecimiento puede no ser un trastorno aislado.
+    Una radiografía de la cabeza puede mostrar problemas del cráneo como una silla turca vacía, pequeña o agrandada o una masa intracraneal.
+    Una IRM de la cabeza puede mostrar el hipotálamo y la hipófisis.
+
+
+Para el tratamiento se puede utilizar la hormona del crecimiento sintética en niños con deficiencia de dicha hormona, lo cual requiere de la asistencia de un pediatra endocrinólogo. Generalmente, el tratamiento con la somatropina u hormona del crecimiento humano sintética (genotecnológica) se considera seguro, con efectos secundarios muy poco comunes.53
+
+Si la deficiencia de la hormona del crecimiento es aislada, se administra la hormona sintética sola. De lo contrario, también se requieren otras preparaciones de reemplazo hormonal.54
+
+51 Disponible en línea en http://www.clinicadm.com/salud/5/001176.html
+52 Ibid
+53 Ibid
+54 Ibid
+
+En la mayoría de los niños que han sido tratados con hormonas del crecimiento, sus tasas de crecimiento han mejorado, aunque la efectividad del tratamiento puede disminuir con un tratamiento prolongado.55
+
+Sin tratamiento, las complicaciones que se presentan como resultado de esta afección son estatura extremadamente baja y retraso en el desarrollo de la pubertad.56
+
+El tratamiento que reciben los pacientes durante la infusión, se basa en enzimas vivas por lo cual la reacción inmunológica ante esto es impredecible.
+
+
+La mayoría de los pacientes presentan entre otras complicaciones rash cutáneo, fiebre, disnea, cefalea, dolor abdominal, palidez y /o cianosis. Gran parte de las reacciones adversas son atendidas en el centro de Infusión y aquellas de mayor gravedad son tratadas de inmediato en el servicio de urgencias del Hospital Universitario San José.
+
+El 02 de julio de 2010, por medio de la ley 1392, (Ley de enfermedades Huérfanas), se reconocen estas enfermedades como de especial interés y se adoptan normas tendientes a garantizar la protección social por parte del Estado colombiano a la población que padece de enfermedades huérfanas y sus cuidadores.57
+
+La presente ley tiene como objeto reconocer que las enfermedades huérfanas, representan un problema de especial interés en salud dado que por su baja prevalencia en la población, pero su elevado costo de atención, requieren dentro del SGSSS un mecanismo de aseguramiento diferente al utilizado para las enfermedades generales, dentro de las que se incluyen las de alto costo; y unos procesos de atención altamente especializados y con gran componente de seguimiento administrativo.58
+
+
+Para tal efecto el Gobierno Nacional, implementará las acciones necesarias para la atención en salud de los enfermos que padecen este tipo de patologías, con el fin de mejorar la calidad y expectativa de vida de los pacientes, en condiciones de disponibilidad, equilibrio financiero, accesibilidad, aceptabilidad y estándares de
+
+55 Disponible en línea en http://www.clinicadm.com/salud/5/001176.html
+56 Ibid
+57 Disponible en línea en http://www.corteconstitucional.gov.co/inicio/SEGUIMIENTO%20EN%20SALUD/Ley%201392%20del%2002%20de% 20Julio%20de%202010.htm
+58 Disponible en línea en http://www.corteconstitucional.gov.co/inicio/SEGUIMIENTO%20EN%20SALUD/Ley%201392%20del%2002%20de% 20Julio%20de%202010.htm
+
+calidad, en las fases de promoción, prevención, diagnóstico, tratamiento, rehabilitación e inclusión social, así como incorporar los demás componentes de la protección social, más allá de los servicios de salud, para pacientes, cuidadores y familias, dándole un enfoque integral al abordaje y manejo de estas patologías.59
+
+
+En el artículo 2º, se define a las enfermedades huérfanas como, aquellas crónicamente debilitantes, graves, que amenazan la vida y con una prevalencia menor de 1 por cada
+2.000 personas, comprenden, las enfermedades raras, las huérfanas y olvidadas. Las enfermedades olvidadas son propias de los países en desarrollo y afectan ordinariamente a la población más pobre y no cuentan con tratamientos eficaces o adecuados y accesibles a la población afectada.60
+
+
+Esta ley alude que el gobierno pretende mejorar la calidad de vida de los pacientes y establecer estándares de calidad, pero para esto es importante inicialmente definir el término calidad en salud.
+
+4.3 CALIDAD EN SALUD
+
+Para Fernández, la calidad de la atención en salud puede ser entendida como una propiedad compleja de la entidad prestadora del servicio. Calidad que se debe someter a una evaluación y a un análisis sistemático que logre conseguir el propósito de recopilar información de tal manera que permita el redireccionamiento de las decisiones, encaminadas a proporcionar una mejor atención en salud para los diferentes usuarios del Sistema de Seguridad Social y la comunidad en general. 61
+
+Se tendrá en cuenta lo que piensa el usuario para llegar a brindar servicios que satisfagan sus necesidades, para lo cual las instituciones implementan planes de acción que incluyen procesos de calidad liderados por los directivos de la empresas, quienes, a su vez, generan políticas de calidad encaminadas al cumplimiento de unos objetivos planteados. 62
+
+Una vez se han implementado los procesos se hace seguimiento permanente mediante auto evaluaciones y auditorías internas que generen hallazgos que permitan diseñar
+
+59 Disponible en línea en http://www.corteconstitucional.gov.co/inicio/SEGUIMIENTO%20EN%20SALUD/Ley%201392%20del%2002%20de% 20Julio%20de%202010.htm
+60 Ibid
+61 FERNANDEZ, Oscar Adolfo. Gestión de localidad en servicios odontológicos. Cátedra de Patología y Clínica Bucodental, Facultad de Odontología, Universidad de Buenos Aires, 2008
+62 Ibid
+
+planes de mejoramiento ya que no se puede bajar la guardia cuando de calidad se trata, pues siempre hay algo que mejorar.63
+
+Frank Price define “Calidad es el grado de armonía entre la expectativa y la realidad” o “dar al cliente lo que desea hoy, a un precio que le agrada pagar a un costo que pueda soportar y darle aun algo mejor mañana” 64
+
+La calidad en salud, se refiere a: la totalidad de funciones, características (ausencia de deficiencias de un bien o servicio) o comportamientos de un bien producido o de un servicio prestado, que les hace capaces de satisfacer las necesidades de los consumidores. Se trata de un concepto subjetivo dado que cada individuo puede tener su propia apreciación o su particular juicio de valor acerca del producto o servicio en cuestión”.65
+
+Desde una perspectiva del servicio, calidad es diferenciarse cualitativa y cuantitativamente respecto de algún atributo requerido, esto incluye la cantidad de un atributo no cuantificable en forma monetaria que contiene cada unidad de un atributo.
+
+
+Desde una perspectiva del paciente, Calidad implica la capacidad de satisfacer los deseos de los pacientes. La calidad de un servicio depende de cómo éste responda a las preferencias y a las necesidades de los pacientes, por lo que se dice que la calidad es adecuación al servicio.
+
+Desde una perspectiva de la producción, calidad puede definirse como la conformidad relativa con las especificaciones, a lo que al grado en que un producto cumple las especificaciones del diseño, entre otras cosas, mayor es su calidad.
+
+
+Desde una perspectiva de valor, calidad significa aportar valor al paciente, esto es, ofrecer unas condiciones de uso del servicio superiores a las que el paciente espera recibir y a un precio accesible. Y agrega que la calidad se refiere a minimizar las pérdidas que un servicio pueda causar a la sociedad, mostrando cierto interés por parte del prestador a mantener la satisfacción del paciente. 66
+
+
+
+63 FERNANDEZ, Oscar Adolfo. Gestión de localidad en servicios odontológicos. Cátedra de Patología y Clínica Bucodental, Facultad de Odontología, Universidad de Buenos Aires, 2008
+64 MALAGON-LONDOÑO y cols. Garantía de calidad en Salud. 2 ed., Bogotá: Editorial Médica Panamericana; 2006. 65 OTERO M. Jaime. ¿Qué es calidad en salud?(Documento en Word publicado en Noviembre de 2002 disponible en línea en http://www.sld.cu/galerias/doc/sitios/infodir/que_es_calidad_en_salud.doc
+66 IRURETAGOYENA, Marcelo A. Nociones básicas de calidad en la atención dental disponible en línea en http://www.sdpt.net/calidad/calidadenlaatenciondental.htm> revisado el 26 de enero de 2009
+
+Otras definiciones de organizaciones reconocidas y de expertos del mundo de la calidad son:
+
+
+Según la norma ISO 9000, “Calidad es el grado en el que un conjunto de características inherentes cumple con los requisitos”.
+
+
+ICONTEC en la Norma 1892 la toma como: “conjunto de propiedades o características de un producto o servicio, con habilidad para satisfacer necesidades implícitas o explicitas”.
+
+
+Para la Real Academia de la Lengua Española, Calidad es “Propiedad o conjunto de propiedades inherentes a una cosa que permiten apreciarla como igual, mejor o peor que las restantes de su especie” 67
+
+El Sistema Obligatorio de Garantía De La Calidad De La Atención De Salud (SOGCS) del Sistema General de Seguridad Social en Salud (SGSSS) fue creado para mantener y mejorar la calidad de los servicios de salud en el país y establece, mediante el Decreto 1011 de 2006, cuatro (4) componentes así:68
+
+Sistema Único de Habilitación.
+Auditoria para el Mejoramiento de la Calidad de la Atención de Salud. Sistema Único de Acreditación.
+Sistema de Información para la Calidad.
+
+
+4.4 LA CALIDAD DE LA ATENCIÓN DE SALUD es la provisión de servicios de salud a los usuarios individuales y colectivos de manera accesible y equitativa, a través de un nivel profesional óptimo, teniendo en cuenta el balance entre beneficios, riesgos y costos, con el propósito de lograr la adhesión y satisfacción de dichos usuarios.69
+
+Para cumplir con este propósito es necesario contar con unas CONDICIONES DE CAPACIDAD TECNOLÓGICA Y CIENTÍFICA que son las condiciones básicas de estructura y de procesos que deben cumplir los Prestadores de Servicios de Salud por cada uno de los servicios que prestan y que se consideran suficientes y necesarias para
+
+67 REAL ACADEMIA DE LALENGUA, Diccionario de la lengua española, 19 edición, Tomo 1,España: Espasa Calpe, 1970
+68 Disponible en línea en http://www.saludcapital.gov.co/Paginas/sistemaobligatorio.aspx
+69 Ibid
+
+reducir los principales riesgos que amenazan la vida o la salud de los usuarios en el marco de la prestación del servicio de salud.70
+
+El Sistema Único de Habilitación, es el conjunto de normas, requisitos y procedimientos mediante los cuales se establece, registra, verifica y controla el cumplimiento de las condiciones básicas de capacidad tecnológica y científica, de suficiencia patrimonial y financiera y de capacidad técnico administrativa, indispensables para la entrada y permanencia en el Sistema, los cuales buscan dar seguridad a los usuarios frente a los potenciales riesgos asociados a la prestación de servicios y son de obligatorio cumplimiento por parte de los Prestadores de Servicios de Salud y las EAPB.71
+
+La Resolución 1043 de 2006, hace parte del Sistema Único de Habilitación y por la cual se establecen las condiciones que deben cumplir los Prestadores de Servicios de Salud para habilitar sus servicios e implementar el componente de auditoría para el mejoramiento de la calidad de la atención y se dictan otras disposiciones.72
+
+4.5 SALA DE INFUSIÓN Y ESTANDARES PARA SU HABILITACIÓN.
+
+
+4.5.1. Sala de Quimioterapia.
+
+
+Gracias a los avances tecnológicos a nivel mundial, la aplicación de los regímenes de quimioterapia ya no requiere de la hospitalización del paciente, lo cual se considera muy significativo debido a que favorece el entorno social del paciente, la adherencia y continuidad de los tratamientos.
+
+
+Frente a esta tendencia ha surgido la creación de centros de atención multidisciplinarios para pacientes ambulatorios, lo que ha permitido que un número creciente de pacientes reciban su tratamiento en un entorno seguro, confortable y conveniente.
+
+
+“La administración del ciclo de quimioterapia en el programa ambulatorio se realiza en forma diligente, puesto que el paciente se presenta al servicio, previa valoración médica inicia con la infusión continua de los medicamentos citotóxicos; durante este tiempo, se le proporcionan cuidados de enfermería y se observan estrechamente las alteraciones relacionadas con el tratamiento, registrando periódicamente sus signos vitales hasta terminar la infusión, que generalmente dura de 2 a 8 horas, después del procedimiento,
+
+70 Disponible en línea en http://www.saludcapital.gov.co/Paginas/sistemaobligatorio.aspx
+71 Disponible en línea en http://www.eumed.net/libros/2008b/408/SISTEMAS%20UNICO%20DE%20HABILITACION.htm 72 Disponible en línea en http://mps.minproteccionsocial.gov.co/vbecontent/NewsDetail.asp?ID=15214&IDCompany=11
+
+el paciente se reintegra a sus actividades cotidianas; esto representa para el paciente de oncología y su familia la disminución de los gastos de hospitalización a la vez que le permite disfrutar de las ventajas que le ofrece el seguir en tratamiento sin suspender su ritmo de vida. De igual manera permite un ahorro de días cama, mejora en la calidad de vida y reducción de infecciones nosocomiales”.73
+
+4.5.1.1. Estándares para la habilitación de la Sala de Quimioterapia.
+
+
+1). Recursos Humanos:
+
+Debe cumplir con los estándares de todos los servicios.
+
+
+2.) Infraestructura-instalaciones físicas: Debe cumplir con los estándares de todos los servicios y adicionalmente los siguientes:
+
+• Dispone de un área física exclusiva y delimitada con los siguientes ambientes:
+
+• Zona de Preparación de pacientes y vestier, si se requiere.
+
+• Sala(s) de procedimientos o área quirúrgica.
+
+• Área de Recuperación de pacientes, puede ser la misma área de procedimientos si los protocolos establecen ahí la recuperación de cada uno, si el volumen de pacientes lo permite.
+
+• Disponibilidad de Unidad sanitaria para usuarios.
+
+• Los consultorios cumplen con los criterios generales de consulta externa.
+
+• Cuenta con los siguientes ambientes, áreas o espacios exclusivos, delimitados, señalizados con las siguientes características.
+
+• Área para casilleros de almacenamiento de los objetos del paciente.
+
+3) Dotación- mantenimiento: Debe cumplir con los estándares de todos los servicios y adicionalmente los siguientes:
+
+• La sala de quimioterapia cuenta con: Sillas para administración de quimioterapia, cama de tipo hospitalario para el uso de los pacientes que requieran administración
+
+73 GARCIA VALENZUELA, María, et al Nivel de adaptación de los pacientes oncológicos a la quimioterapia ambulatoria. México. Disponible en: http://dieumsnh.gfb.umich.mx/nivel.htm
+
+de quimioterapia por varias horas, equipos de venoclísis para administración de quimioterapia, carro de paro y equipo básico de reanimación.
+
+• Si dispone y prepara los medicamentos para los pacientes en la misma zona, cuenta con: Área separada para preparación de drogas citotóxicas, con presión negativa, extractor de aire y cuenta con protección adecuada para quien los prepara.
+
+4) Medicamentos y dispositivos médicos: Debe cumplir con los estándares de todos los servicios.
+
+• Si prepara soluciones inyectables, adecuación de dosis, mezcla de medicamentos citostáticos, cuenta con certificado de buenas prácticas, expedido por el INVIMA. Si no cuenta con la certificación cuenta con la solicitud de visita de INVIMA.
+
+
+• El transporte, de los medicamentos preparados y no preparados es realizado por personal entrenado en su manipulación, cuenta con embalajes que garantizan su integridad y eviten la ruptura fácil, cumple con las medidas de bioseguridad y conservación de cadena frío ó las establecidas por el proveedor, los medicamentos se identifican como material peligroso. Las empresas que transportan los medicamentos son empresas especializadas en el transporte de medicamentos. En ningún caso los medicamentos pueden ser transportados por pacientes o personas que no cuenten con capacitación.
+
+
+5). Procesos prioritarios asistenciales: Debe cumplir con los estándares de todos los servicios.
+
+• El servicio oncológico cuenta con unidad Clínica Funcional ubicada al interior de la institución prestadora de servicios de salud que está conformada por los profesionales especializados definidos en la legislación vigente y personal de apoyo de diferentes disciplinas.
+
+
+• El servicio farmacéutico del servicio de oncología cuenta con el procedimiento y el paquete (kit) para manejo de derrames y rupturas de medicamentos citostáticos, este último ubicado en un lugar de fácil acceso y con adecuada señalización. *El procedimiento de manejo de derrame y rupturas de medicamentos citostáticos se encuentra divulgado.
+
+• Se tienen definidos los procedimientos (intervenciones) que realiza en el servicio de acuerdo con la tecnología que posee en el mismo y el mecanismo para garantizar la complementariedad de los tratamientos mediante los servicios que se establecen en interdependencia de servicios.
+
+
+Cuenta con:
+
+
+• Procedimientos definidos para garantizar el manejo integral del paciente con cáncer de acuerdo con el tipo de patología.
+
+
+• Procedimiento para garantizar la Información necesaria que permita la validación de la prescripción de quimioterapia que debe incluir: Ciudad y fecha de la prescripción, nombre del paciente, número de historia, peso, talla y/o superficie corporal, localización del paciente en la IPS, nombre genérico del medicamento, dosis teórica del esquema y dosis resultante para el paciente, dosis ajustada en función de parámetros farmacocinéticas, vía de administración, vehículo a utilizar, volumen final de la solución preparada, Nombre, Protocolos para el Manejo Clínico del Paciente con Cáncer o se adoptan los definidos por Instituto Nacional de Cancerología INC.
+
+
+• Guías de atención actualizadas sobre tratamiento con quimioterapia cuando se realice este procedimiento.
+
+• Presencialidad durante la administración de la quimioterapia de: Médico especialista en oncología ó hematoncologia ó hematología clínica ó médico internista.
+
+• Proceso, procedimiento, guía ó protocolo para informar al paciente, familia o cuidador acerca del tratamiento requerido, que incluye información de los medicamentos sus efectos, complicaciones, que hacer cuando se presente, como evitarlos y forma de administración de la quimioterapia.
+
+
+En el caso de prescribir quimioterapia oral y/o intravenosa, se debe cumplir con lo siguiente:
+
+
+• La dispensación de los medicamentos es realizada directamente por la IPS que prescribe el tratamiento en dosis unitaria, por cada ciclo al paciente.
+
+
+• La consulta de seguimiento se realiza en la IPS tratante por el medico prescriptor, en conjunto con la enfermera y el químico farmacéutico responsable.
+
+• Se realiza el registro de seguimiento e intervenciones realizadas, en historia clínica de paciente.
+
+
+• Cuando el medicamento se suministre a través de la EPS o un tercero, este debe ser entregado a la institución prestadora de servicios de salud que presta el servicio y esta última, será quien dispense el medicamento al paciente.
+
+
+6) Historia clínica y registros asistenciales: Debe cumplir con los estándares de todos los servicios.
+
+7) Interdependencia de servicios: Debe cumplir con los estándares de todos los servicios.
+
+Cuenta con servicios o demuestra el apoyo de servicios de oncología clínica, oncología pediátrica, hematología, radioterapia, quimioterapia, cirugía oncológica, cuidado paliativo, cuidado intensivo, patología, genética, medicina nuclear, banco de sangre o servicio de transfusión sanguínea y hospitalización del servicio, cuando esté indicado según el listado de procedimientos definidos en el capítulo de procesos prioritarios.
+
+
+8) Referencia y contrareferencia de pacientes: Debe cumplir con los estándares de todos los servicios.
+
+
+9) Seguimiento a riesgos en la prestación de servicios: Debe cumplir con los estándares de todos los servicios.
+
+4.5.2 Estándares para la sala general de procedimientos menores
+
+ La sala general de procedimientos menores cumple con los siguientes estándares según resolución 1043 de 2006:
+
+
+1). Recursos Humanos:
+
+
+El recurso humano requerido para los procedimientos que realice de acuerdo con las competencias definidas en las leyes del ejercicio profesional en salud. El recurso humano no es exclusivo de este servicio, será el mismo habitado en consulta externa u otros servicios.
+
+2). Infraestructura-instalaciones físicas: Debe cumplir con los estándares de todos los servicios y adicionalmente los siguientes:
+
+
+• Funciona en un área física exclusiva, delimitada, señalizada y de circulación restringida y no utilizada como área de tránsito entre otras áreas de la Institución.
+
+• El acceso permite el ingreso fácil de camillas.
+
+• Los pisos son impermeables, sólidos, antideslizantes, de fácil limpieza, uniformes, y con nivelación adecuada para facilitar drenaje. Además los cielos rasos, techos, paredes y muros son Impermeables, sólidos, resistentes a factores ambientales e incombustibles. De superficie lisa y los materiales utilizados para su terminado no contienen sustancias tóxicas, irritantes o inflamables.
+
+• El área alrededor de la mesa de procedimientos permite la instalación y movilización de equipos y personal necesarios para la atención del paciente en condiciones de rutina o de emergencia.
+
+• Acceso a lavamanos, fuera de la sala.
+
+• Si se trata de una sala dependiente de consulta externa o prioritaria debe contar con señalización clara y visible para los usuarios de que no se presta el servicio de urgencias y los horarios de atención.
+
+• En los servicios dependientes de consulta externa o prioritaria no se podrán manejar pacientes que requieran observación. Las áreas de observación serán exclusivas de los servicios de urgencias.
+
+
+3). Dotación- mantenimiento: Debe cumplir con los estándares de todos los servicios y adicionalmente los siguientes:
+
+• Camillas rodantes con freno y con barandas.
+
+• Instrumental o equipo de pequeña cirugía, instrumental necesario de acuerdo con el tipo de procedimientos que se realiza.
+
+4). Medicamentos y dispositivos médicos: Debe cumplir con los estándares de todos los servicios.
+
+5) Procesos prioritarios asistenciales: Debe contar con la relación de procedimientos que se realizan en la sala.
+
+• Debe tener definidos criterios explícitos y documentados sobre el tipo de procedimientos que se pueden realizar en la sala y de los que no se pueden realizar. Los criterios deben enmarcarse en las características generales de procedimientos menores establecidas en la definición de procedimientos menores.
+• Protocolos de los procedimientos que se realizan en la sala, que incluyan consentimiento informado.
+• Procedimientos para la información al paciente sobre preparación, y recomendaciones post procedimiento, controles, posibles complicaciones y disponibilidad de consulta permanente y en general, las previsiones que se requieran para proteger al paciente de los riesgos de procedimientos sin hospitalización.
+• Guías de manejo de patologías de Urgencia
+
+• Manual de bioseguridad.
+
+6). Historia clínica y registros asistenciales: Debe cumplir con los estándares de todos los servicios.
+
+7). Interdependencia de servicios: Debe cumplir con los estándares de todos los servicios.
+
+8). Referencia y contrareferencia de pacientes:
+Para las áreas dependientes de urgencias, el diseño y aplicación de procesos para la remisión de pacientes, que incluya como mínimo:
+
+• Los destinos y flujos de pacientes en caso de que las condiciones clínicas del usuario superen la capacidad técnico científica de la institución.
+
+• Los equipos de comunicaciones necesarios para el contacto con la entidad de referencia.
+
+• La disponibilidad de los medios de transporte.
+
+• Definición y aplicación de guías para la referencia de pacientes.
+
+Para las áreas dependientes de consulta externa:
+
+• La definición previa de la institución donde remitirán al paciente en caso de tratarse de urgencias, de complicaciones en el procedimiento y o de que las condiciones clínicas del usuario superen la capacidad técnico científica de la institución.
+• Los destinos y flujos de pacientes en caso de que las condiciones clínicas del usuario superen la capacidad técnico científica de la institución.
+
+• Los equipos de comunicaciones necesarios para el contacto con la entidad de referencia.
+
+• Definición y aplicación de guías para la referencia de pacientes.
+9). Seguimiento a riesgos en la prestación de servicios:
+
+• Mortalidad de urgencias en las salas en urgencias.
+
+• Infecciones derivadas de los procedimientos realizados.
+
+• Otras complicaciones inmediatas y mediatas de los procedimientos, en particular las complicaciones mediatas, tratándose de procedimiento ambulatorios.
+
+• Complicaciones terapéuticas y o medicamentosas del manejo de medicamentos para recuperación ambulatoria.
+
+
+4.5.3 Estándares para las salas de infusión pediátricos
+
+
+En diversos lugares del mundo, existen Salas o Centros de Infusión dedicados a proporcionar terapias a pacientes que padecen enfermedades genéticas y mejorar su calidad de vida.
+
+Uno de ellos es el Centro de infusión del Texas Children's, que se dedica a proporcionar terapia intravenosa (IV) para mantener el estado de salud de los pacientes con alteraciones genéticas, todo en un marco ambulatorio. Puesto que el centro se enfoca únicamente en las necesidades de los pacientes que requieren terapia IV, estos no necesitan ingresar al hospital, lo cual hace posible un servicio más rápido.74
+
+Los tratamientos comunes que se proporcionan en este Centro de Infusión incluyen, entre otros, los siguientes.75
+
+    Hemoderivados
+
+74Disponible en línea en http://es.texaschildrens.org/enes/carecenters/InfusionCenter/Default.aspx
+75 Ibid
+
+Pruebas de estimulación Bisfosfonatos
+Infusiones de inmunoglobulina Hormonas/ esteroides IV
+Antibióticos, incluidas las primeras dosis Terapia de reemplazo de enzimas
+Terapia	biológica	(anticuerpos	monoclonales,	modificadores	de	respuesta biológica)
+    Nutrición / soluciones para padres
+
+
+La sala de infusión, está diseñado para alojar pacientes actuales del Texas Children's que requieran de terapia de infusión. Todos los pacientes deben estar bajo el cuidado de un subespecialista de Texas Children's, que asuma la responsabilidad del paciente.
+
+
+Los subespecialistas del Texas Children's pueden derivar a un paciente llamando a Programación central o al Centro de infusión. Si se necesitaran tratamientos múltiples, se pueden hacer citas para todo el plan de tratamiento, todo con una sola llamada telefónica. Se requieren órdenes para las terapias provistas en el centro de infusión.76
+
+En la sala de infusión se cuenta con personal calificado y el equipo adecuado para una estancia placentera y para la aplicación de medicamentos intravenosos para el tratamiento de diversas enfermedades.77
+
+MIAMI CHILDREN”S HOSPITAL, en Miami Florida, fundado en 1950, presta un servicio orientado a la familia que proporciona infusiones y tratamientos para niños y familias que conviven con un diagnóstico que requiere infusiones. La sala de infusión del MCH fue diseñada para ser como la sala de estar de un hogar, en un entorno agradable y cómodo donde los niños puedan disfrutar de videojuegos, mirar televisión, escuchar música, leer, jugar, descansar e incluso dormir una siesta mientras reciben las infusiones.78
+
+Cliditer es una sala de infusión en México D.F, que funciona desde el año 2004, allí los niños pueden interactuar con sus amigos que conviven con diagnósticos similares. Al mismo tiempo, los padres tienen la oportunidad de encontrarse con otros padres en situaciones similares y pueden brindarse apoyo mutuo.79
+
+76 Disponible en línea en http://es.texaschildrens.org/enes/carecenters/InfusionCenter/Default.aspx
+77 Disponible en línea en http://www.mch.com/
+78 Ibid
+79 Disponible en línea en http://www.cliditer.com/infusion.html
+
+El equipo multidisciplinario de la sala de infusión, formado por comprensivos profesionales de la atención médica, médicos, enfermeras certificadas, enfermeras practicantes, farmacéuticos, terapeutas de vida infantil, trabajadores sociales y representantes del paciente y la familia, proporcionan el cuidado, el tratamiento, la información y la educación sanitaria que los pacientes y sus familias necesitan para vivir con su diagnóstico.80
+
+La sala se esfuerza por ofrecer las infusiones y demás servicios de atención médica que necesitan los pacientes, de manera segura, rápida y económica.81
+
+El Centro de Tratamiento pediátrico, GOLISANO CHILDREN”S HOSPITAL, ubicado en la 6ª planta del Fondo de Atención Ambulatoria del Hospital Strong Memorial Rochester, NY, proporciona atención y tratamiento a niños que requieren una variedad de procedimientos. El Centro de Tratamiento Pediátrico, tiene capacidad para los niños con necesidades de atención aguda y crónica, independientemente del diagnóstico, ofreciendo un ambiente cómodo para los pacientes que requieren transfusiones, infusiones, vigilancia y observación. 82
+
+El centro de infusión de Minnesota. Situado en el Children's - Minneapolis, ofrece más de 5.000 visitas al año para infusión. El centro puede eliminar la necesidad de una hospitalización, reducir los costos de hospital, y permite que los niños regresen a casa o a la escuela con mayor rapidez.83
+
+Ofrece los siguientes servicios: 84
+
+Salas de procedimientos Manejo de casos complejos
+Horario extendido, en algunos casos, para dar cabida a los pacientes y a sus necesidades.
+El Centro de infusión para niños, sirve a pacientes de hematología y oncología, así como pacientes con trastornos genéticos.
+
+Las terapias y procedimientos incluyen:85
+   La terapia de reemplazo enzimático y tratamiento con anticuerpos monoclonales
+
+80 Disponible en línea en http://www.mch.com/
+81 Disponible en línea en http://www.cliditer.com/infusion.html
+82 Disponible en línea en http://www.urmc.rochester.edu/childrens-hospital/general-peds/treatment-center.cfm
+83 Disponible en línea en http://www.childrensmn.org/web/hemonc/141661.asp
+84 Ibid
+85 Ibid
+
+Enzima terapias
+Sustitución de enzima Genética Terapia de inmunoglobulina
+Transfusión de glóbulos rojos o plaquetas.
+
+
+En Bogotá, la Fundación Hospital Infantil Universitario de San José cuenta con el Servicio de Reumatología Pediátrica, se encuentra altamente comprometida con el tratamiento y el estudio de las enfermedades reumáticas en niños y niñas ofreciendo esta especialidad y brindando una atención de alta calidad, humana e integral.86
+
+En el servicio de Reumatología Pediátrica del Hospital se evalúan, diagnostican y manejan niños con enfermedades reumatológicas y síndromes dolorosos musculo esqueléticos incluyendo condiciones, pero no limitadas, como Artritis Reumatoidea Juvenil, Lupus Eritematosos Sistémico, Dermatomiosistis, Vasculitis, Uveítis, Fenómeno de Raynaud, Escleroderma, Fiebres prolongadas y Dolor crónico musculo esquelético.87
+
+Así mismo, el servicio ofrece la aplicación de medicamentos reumatológicos de alto riesgo (que incluyen la aplicación de Ciclofosfamida, Rituximab, Abatacept, Infliximab, Actemra), en sala de infusión exclusivamente pediátrica en un ámbito seguro y cómodo para el paciente y su familia. Este tipo de procedimientos se realizan bajo el cuidado y monitorización permanente de un Reumatólogo Pediatra y un Jefe de Enfermería calificado.
+
+
+Además, el servicio cuenta con el apoyo de un Hospital con personal idóneo entrenado en pediatría y UCI pediátrica, lo que permite brindarle al paciente la mayor seguridad durante la aplicación de estos medicamentos.88
+
+
+
+
+
+
+
+
+
+
+86 Disponible en línea en http://www.hospitalinfantildesanjose.org.co/index.php?option=com_content&view=category&layout=blog&id=36 &Itemid=144&limitsta
+87 Ibid
+88 Disponible en línea en http://www.hospitalinfantildesanjose.org.co/index.php?option=com_content&view=category&layout=blog&id=36 &Itemid=144&limitsta
+
+
+5. DISEÑO METODOLOGICO
+
+
+5.1. TIPO DE ESTUDIO
+
+El presente proyecto se basa en un tipo de estudio Descriptivo, Prospectivo.
+
+
+5.2. UNIVERSO Y MUESTRA: Procesos y procedimientos de habilitación de la Sala de Infusión Pediátrica del Hospital Universitario San José en la ciudad de Popayán.
+
+
+5.3. MÉTODOS: Para el desarrollo de este proyecto se aplico el método experiencial, descriptivo, observacional.
+
+
+5.4. VARIABLES Y OPERACIONALIZACION:
+
+
+5.4.1. Variable dependiente:
+
+
+Proceso de habilitación de la Sala de Infusión Pediátrica del Hospital Universitario San José, Popayán - Cauca, Febrero a Marzo de 2012.
+
+
+5.4.2. Variables independientes:
+
+Identificar los estándares de Habilitación que apliquen a la Sala de Infusión Pediátrica del Hospital Universitario San José de Popayán.
+
+Socializar con los directivos y administrativos del Hospital Universitario San José los estándares requeridos para la habilitación de la Sala de Infusión.
+
+Diseñar y adaptar guías, protocolos, procesos y manuales de atención para la Sala de Infusión pediátrica del Hospital Universitario San José de Popayán.
+
+
+5.5. CRITERIOS DE INCLUSIÓN
+
+
+Para efectos del presente estudio se tendrán en cuenta los estándares de habilitación de la Resolución 1043 de 2006 validos para la Sala de Infusión Pediátrica.
+
+Protocolos, guías y procesos del Hospital Universitario San José para adecuarlos a la Sala de Infusión.
+
+La Sala de Infusión Pediátrica del Hospital Universitario San José de la ciudad de Popayán – Cauca, que está prestando el servicio.
+
+
+5.6. TÉCNICAS.
+
+Para esta investigación fue necesario el análisis sociodemográfico (edad, género, lugar de residencia y otros datos de relevancia para la investigación) de los usuarios que asisten a la sala de infusión y de esta manera determinar sus necesidades en la atención los cuales fueron condensados en una tabla. (Ver Tabla Nº 1 – Anexo Nº 4)
+
+Se verificó la Resolución 1043, para definir que estándares de habilitación aplican a la Sala de Infusión Pediátrica y se socializó con el Departamento de Auditoría y Calidad de Hospital Universitario San José y la Coordinación de la Sala de Infusión.
+
+Se adaptaron protocolos, guías y procedimientos institucionales a la Sala de Infusión Pediátrica.
+
+Se diseñó el manual de atención y el Consentimiento informado de la sala de Infusión Pediátrica.
+
+
+5.7. INSTRUMENTOS Y VALIDES DEL INSTRUMENTO
+
+
+Los instrumentos del presente estudio están validados por la resolución 1043 de 2006 y los documentos Institucionales (guías, protocolos, procedimientos) previamente diseñados y aprobados por el Hospital Universitario San José de la ciudad de Popayán
+– Cauca.
+
+
+5.8. ANALISIS DE LA INFORMACION
+
+
+La anterior información se analizó a partir de la Resolución 1043 de 2006, las guías, protocolos y procesos del Hospital Universitario San José.
+
+
+
+6. CONSIDERACIONES ETICAS
+
+
+El desarrollo del presente estudio se guía en la RESOLUCION Nº 008430 DE 1993 (4 DE OCTUBRE DE 1993), por la cual se establecen las normas científicas, técnicas y administrativas para la investigación en salud, que se refiere a los aspectos éticos de la investigación en seres humanos.   El artículo 5, considera que en toda investigación en la que el ser humano sea sujeto de estudio, deberá prevalecer el criterio del respeto a su dignidad y la protección de sus derechos y su bienestar.
+
+
+También clasifica las investigaciones en varias categorías y el presente trabajo, según la norma hace parte de la Investigación sin riesgo. Que son estudios que emplean técnicas y métodos de investigación documental restrospectivos y aquellos en los que no se realiza ninguna intervención o modificación intencionada de las variables biológicas, fisiológicas, sicológicas o sociales de los individuos que participan en el estudio, entre los que se consideran: revisión de historias clínicas, entrevistas, cuestionarios y otros en los que no se le identifique ni se traten aspectos sensitivos de su conducta.
+
+
+Hacen parte del presente estudio los principios según Belmont en 1979 que son:
+
+
+Respeto a las personas: protegiendo la autonomía de todas las personas y tratándolas con cortesía, respeto y teniendo en cuenta el consentimiento informado.
+
+Beneficencia: maximizar los beneficios para el proyecto de investigación mientras se minimizan los riesgos para los sujetos de la investigación.
+
+Justicia: usar procedimientos razonables, no explotadores y bien considerados para asegurarse que se administran correctamente (en términos de costo-beneficio).
+
+
+7. RESULTADOS
+
+
+a. Variables sociodemográficas Sala de Infusión Pediátrica HUSJ. Popayán.
+
+
+Grafica 1. Distribución porcentual	de los pacientes según Género – Sala de Infusión Pediátrica HUSJ, Popayán, Febrero - Marzo 2012
+
+
+
+
+Del total de los pacientes de la Sala de Infusión Pediátrica, el 53% correspondió al género Femenino y el 47% al género Masculino.
+
+
+Gráfico N° 2. Distribución porcentual de pacientes según procedencia Sala de Infusión Pediátrica HUSJ, Popayán, Febrero -  Marzo 2012.
+
+
+
+
+El 93% de los pacientes es de procedencia rural y el 7% de zona urbana.
+
+
+
+Grafica Nº3. Número de pacientes por patología, Sala de Infusión Pediátrica HUSJ, Popayán, Febrero -  Marzo 2012.
+
+
+
+El 66% de los pacientes atendidos en la sala de infusión pediátrica corresponden a Mucopolisacaridosis tipo VI, el 20% a Osteogénesis imperfecta, el 7% a Mucopolisacaridosis tipo II y el 7% a enfermedad Autoinmune.
+
+
+
+Grafica N° 4. Rangos de edad pacientes, Sala de Infusión Pediátrica HUSJ, Popayán, Febrero - Marzo 2012.
+
+
+
+
+40% de los pacientes corresponden al rango de edad ente 1-5 años, 40% al rango de edad comprendido entre 6-10 años y el 20% entre 11-15 años de edad.
+
+Grafica N° 5. Parentesco de los padres / pacientes Sala de Infusión Pediátrica HUSJ, Popayán, Febrero -  Marzo 2012.
+
+
+
+
+El 40% de los padres de los pacientes que son atendidos en la Sala de Infusión Pediátrica son primos y el 60% no tienen ningún tipo de parentesco.
+
+7.1. RESULTADOS OBTENIDOS EN EL PROCESO DE ASESORÍA PARA LA HABILITACIÓN DE LA SALA DE INFUSIÓN PEDIÁTRICA:
+
+Teniendo en cuenta que la Sala de Infusión fue definida con anterioridad por el Hospital Universitario San José como consultorio de procedimientos menores, por no existir en la Resolución 1043 de 2006, estándares para dicha sala, fue necesario realizar un acompañamiento al Departamento de auditoría y Calidad del Hospital y la coordinación de la Sala de Infusión para establecer los requisitos mínimos para su habilitación de acuerdo a los servicios ofrecidos.
+
+Al realizar la verificación de la resolución 1043 de 2006, se encontró que aunque la Sala no cumple con todos los estándares será llamada Sala de Infusión con estándares de habilitación para sala de Quimioterapia y sala de procedimientos menores pues se observó mayor afinidad entre estos servicios.
+
+7.1.1. Los siguientes estándares verificados correspondientes a la Sala de Quimioterapia son afines a la Sala de Infusión Pediátrica:
+
+   Área de recuperación de pacientes que corresponde al área de infusión.   Unidades Sanitarias ubicadas en frente de la Sala.
+   Área de casilleros para el almacenamiento de los objetos de los pacientes.   Sillas para la administración de medicamentos.
+   Equipo de venoclisis.
+   Carro de paro y equipo básico de reanimación.
+   Transporte de medicamentos preparados y no preparados es realizado por personal entrenado en su manipulación.
+   Cuenta con las medidas de bioseguridad y conservación de cadena de frio.
+   Cuenta con profesionales especializados y personal de apoyo en diferentes disciplinas.
+   Guías de atención actualizadas sobre el tratamiento.   Presencia del médico especialista durante la infusión.
+   Protocolos y guías para informar al paciente, familia o cuidador acerca del tratamiento requerido, que incluye, información de los medicamentos, sus
+
+efectos, complicaciones, qué hacer cuando se presente, cómo evitarlos y su forma de administración.
+   Se realiza el registro de seguimiento e intervenciones realizadas, en Historia Clínica del paciente.
+   Cuando el medicamento se suministre a través de la EPS o un tercero, éste debe ser entregado a la IPS que presta el servicio u esta última, será quien dispense el medicamento al paciente.
+   En cuanto a la Interdependencia de servicios cuenta con el apoyo del área de genética, hospitalización, urgencias pediátricas, consulta externa pediátrica general y especializada, Unidad de Cuidados Intensivos Pediátricos, cirugía pediátrica de alta complejidad.
+
+
+7.1.2. Los siguientes estándares verificados correspondientes a la Sala de Procedimientos Menores son afines a la Sala de Infusión Pediátrica:
+
+
+   El recurso humano no es exclusivo de este servicio, será el mismo habitado en consulta externa u otros servicios.
+
+   Funciona en un área física exclusiva, delimitada, señalizada y de circulación restringida y no utilizada como área de tránsito entre otras áreas de la Institución.
+
+   EL acceso permite el ingreso fácil de camillas.
+
+   Los pisos son impermeables, sólidos, antideslizantes, de fácil limpieza, uniformes y con nivelación adecuada para facilitar el drenaje, los cielos rasos, techos, paredes y muros son impermeables, sólidos, resistentes, de superficie lisa y su terminado no contiene sustancias tóxicas, irritantes o inflamables.
+
+   Acceso a lavamanos fuera de la Sala.
+
+   Debe contar con señalización clara y visible de los horarios de atención.
+
+   Debe contar con la relación de procedimientos que se realizan en la sala y de los que no se pueden realizar.
+
+   Protocolos de los procedimientos que se realizan en la sala, que incluyan consentimiento informado.
+
+   Procedimientos para la información al paciente sobre preparación, y recomendaciones post procedimiento, controles, posibles complicaciones y disponibilidad de consulta permanente y en general, las previsiones que se
+
+requieran para proteger al paciente de los riesgos de procedimientos sin hospitalización.
+
+   Guías de manejo de patologías de Urgencia   Manual de bioseguridad.
+   Infecciones derivadas de los procedimientos realizados.
+
+Al analizar los anteriores estándares, es evidente que la Sala de Infusión Pediátrica no puede ser habilitada exclusivamente como Sala de Quimioterapia o Sala de Procedimientos Menores debido a que algunos estándares no aplican para el funcionamiento adecuado de la Sala y su implementación no generaría ningún beneficio en la prestación del Servicio. Sin embargo, se hizo uso de los estándares anteriormente mencionados para el proceso de habilitación de la Sala.
+
+
+Para la habilitación de la Sala de Infusión se elaboraron guías, procesos y protocolos de atención, que fueron presentados al servicio de planeación del Hospital Universidad San José para su evaluación, verificación y aprobación.
+
+
+La asesoría se inició en el mes de Febrero de 2012 y se realizaron correctivos acordes a la Resolución 1043 de 2006, gracias a la colaboración del personal de apoyo de la Institución. Los cambios realizados derivados de la investigación son el resultado de la elaboración de oficios dirigidos a la Subdirección científica y administrativa, área de aseo, economato, facturación, estadística, auditoría, lavandería, mantenimiento, farmacia, planeación y almacén. Aún hay procesos que deben ser concluidos pero se mencionarán los que se han llevado a cabo hasta el momento:
+
+
+a). Área de mantenimiento:
+
+
+   Arreglo de 4 sillas reclinables para la infusión del paciente.   Adecuación del lavamanos.
+   Elaboración de soportes para televisor y DVD y fijación a la pared.   Fijación de monitores.
+Arreglo y pintura de mesas de mayo.
+
+   Pintura de paredes.   Arreglo de cielo raso.
+Arreglo de ventanas.
+
+
+Pendientes:
+
+   Tapizado de sillas para acompañantes durante la estancia del paciente.   Arreglo de lockers.
+   Elaboración de mesa para procedimientos.   Arreglo y pintura de archivador.
+   Arreglo pesa electrónica.
+
+   Consecución de 2 flujómetros dobles con acople Chemetron.
+
+b) Área de almacén:
+
+   Consecución de porrones para material estéril.
+
+c) Área de aseo:
+
+   Definición de horarios para aseo del área, indicaciones y recomendaciones.
+
+   Horarios para la ruta de evacuación de residuos biológicos, orgánicos y reciclables de la Sala de Infusión.
+
+
+d) Farmacia:
+
+   Inducción	al	personal	de	farmacia	para	la	preparación	adecuada	del medicamento y su presentación.
+
+   Preparación magistral del medicamento, manipulación, cadena de frío y entrega.
+
+Fijación de de días y horarios de elaboración y entrega del medicamento.
+
+e) Subdirección administrativa:
+
+   Solicitud por caja menor de termómetro para el control de temperatura de la nevera y nevera de transporte para la conservación de la cadena de frio.
+
+   Adición al contrato de lavandería para la elaboración de forros lavables para las sillas reclinables.
+
+   Solicitud de elaboración de señalización del servicio.
+
+f) Subdirección científica:
+
+   Autorización para la realización de la asesoría para la Habilitación de la Sala de Infusión Pediátrica.
+
+   Visto bueno de la mayoría de los oficios enviados.
+
+g) Planeación:
+
+   Acompañamiento en la elaboración y diseño de protocolos, procesos, guías y manual de atención.
+
+
+h) Economato:
+
+   Establecer el número de dietas por paciente, horarios y días de atención.
+
+i) Facturación:
+
+   Se normatizó la entrega de la orden de apoyo o el recibo de pago por paciente el día anterior a la infusión programada para la apertura de la Historia clínica.
+
+
+j) Estadística:
+
+   Se solicitó la entrega de las Historias Clínica a la Sala de infusión de acuerdo a horarios establecidos previamente.
+
+
+k) Auditoría:
+
+   Acompañamiento en la definición de los estándares a aplicar para la Habilitación de la Sala de Infusión Pediátrica.
+
+
+Pendiente:
+
+   Revisión	y	aprobación	del	consentimiento	informado	para	los	pacientes atendidos.
+
+
+l) Lavandería:
+
+   Se estableció el manejo de la ropa hospitalaria de la Sala de Infusión. (Horarios de salida de la ropa sucia y su entrega limpia nuevamente a la Sala)
+
+
+1. Coordinación de la Sala de Infusión:
+
+   Organización y rotulación de carpetas para la papelería utilizada en la Sala de Infusión.
+
+   Elaboración de las normas de la Sala de Infusión.
+
+Pendientes:
+
+Socialización de guías, protocolos, procesos y manual de la sala de Infusión Pediátrica a las áreas que intervienen en la prestación del servicio.
+
+8. DISCUSION
+
+
+En la actualidad no existe una base de datos de los pacientes que han sido efectivamente diagnosticados por padecer enfermedades raras, aunque se estima que podrían ser mas de 3 millones de enfermos, información obtenida por medio de los registros de los tratamientos que hoy se pagan a través del fondo de solidaridad y garantía bajo la figura de recobro que instauran las EPS. Estas cifras son similares al número de pacientes con enfermedades huérfanas en España que son 3 millones.89 90
+
+En Colombia hasta el pasado 2 de julio de 2010, a las enfermedades huérfanas no se les daba la importancia ni el tratamiento que merecen, por su elevado costo, a partir de esta fecha estas fueron consideradas como de especial interés y se definió que su tratamiento estará a cargo del Gobierno Nacional, en cabeza del Ministerio de la Protección Social. La Doctora Pilar Giraldo, Jefa de Hematología del Hospital Miguel Servet en Zaragosa - España, destacó la importancia de contar con el apoyo de las administraciones públicas a la hora de diagnosticar y tratar a estos pacientes, que se encuentran con numerosas trabas por el enorme gasto que implica sus pruebas diagnósticas y genéticas y, posteriormente, acceder a sus medicaciones en el caso de que existan.91 92
+
+El 40 % de los pacientes que se atienden en la Sala de Infusión Pediátrica del HUSJ, corresponden a los rangos de edad entre 1 a 5 años y 6 a 10 años, esto coincide con un estudio realizado en la Habana Cuba en donde los pacientes con MPS diagnosticados fueron de ambos sexos, y el rango de edad osciló de 4 meses a 10 años.93
+
+En la Sala de Infusión Pediátrica del HUSJ, se atiende actualmente a un mayor número de pacientes con Mucopolisacaridosis tipo IV, con un 66 % del total de pacientes atendidos y un 7 % de pacientes con Mucopolisacoridosis tipo II. Estos datos se relacionan con una base de datos de pacientes con Mucopolisacaridosis procedentes del Altiplano Cundiboyacense en donde de 45 pacientes los casos más frecuentes son la tipo IV, la tipo VI y un caso de mucopolisacaridosis tipo II de sexo femenino y una mayor proporción de casos de sexo masculino en todas las Mucopolisacaridosis.94
+
+
+
+89Disponible en línea en http://www.partidodelau.com/minisitios/files/PL130enferhuerfanas.pdf
+90 Disponible en línea en http://www.farmanews.com/notas_de_prensa/N2114.html
+91Disponible en línea en http://www.dmsjuridica.com/CODIGOS/LEGISLACION/LEYES/2010/1392.htm
+92 Disponible en línea en http://www.farmanews.com/notas_de_prensa/N2114.html
+93 Disponible en línea en http://www.sid.cu/galerias/pdf/sitios/neurologia/libroderesumenesneuropediatria.pdf
+94Disponible en línea en http://www.iatreia.udea.edu.co/index.php/iaticle/viewArticle/1534
+
+El 40% de los padres de los pacientes la Sala de Infusión Pediátrica del HUSJ, son primos y el 60 % restante no tienen ningún parentesco, esto está relacionado con un articulo, que se basa en un estudio realizado por la Journal of Genetics Counseling, según el cúal los hijos procreados entre primos-hermanos tienen prácticamente la misma probabilidad de nacer con problemas congénitos, retraso o enfermedades genéticas que una pareja de padres no emparentados y para Arno Motulsky, profesor emérito de Medicina y Ciencias del Genoma de la Universidad de Washington y uno de los autores del estudio, indica que si bien en una relación entre no consanguíneos el riesgo es entre el 3% y 4%, entre primos-hermanos apenas llega a 7% u 8%.95
+
+Actualmente la Sala de Infusión Pediátrica del HUSJ, está habilitada como Consultorio de Procedimientos Menores que según el Anexo Técnico 2 de la Resolución 1043 de 2006, hace parte de la consulta prioritaria, orientada a atender patologías de baja complejidad que requieren ser atendidos de manera eficiente y de libre acceso por los usuarios. Es claro que las patologías que se infunden en la sala, no son de baja complejidad, porque a pesar de que el procedimiento de infusión puede ser sencillo, los efectos posteriores al procedimiento pueden ser graves, es por esto que se hace necesaria su habilitación con otros parámetros que se asemejen mas a los servicios ofrecidos en esta área, incrementando la calidad en la atención.96De acuerdo a estudios previos realizados por este grupo de investigación, se consideró que algunos estándares de Sala de Quimioterapia y Sala de Procedimientos Menores se acoplan a las condiciones que debe cumplir la sala para que su proceso de habilitación sea optimo.
+
+
+La sala de Procedimientos Menores está destinada a la realización de actividades, que no pueden ser realizadas en los consultorios y no requieren áreas quirúrgicas.97 En la sala de quimioterapia gracias a los avances tecnológicos a nivel mundial, los pacientes ya no requieren ser hospitalizados, se realiza la infusión de los medicamentos citotoxicos para el manejo de esta patología en un tiempo no superior a las 8 horas, lo cual se considera muy significativo debido a que favorece el entorno social del paciente, la adherencia y continuidad de los tratamientos. Esto coincide con los procedimientos que se realizan en la Sala de Infusión Pediátrica del HUSJ, en donde a los usuarios atendidos, su infusión puede durar de 4 a 6 horas y se reintegra a su vida cotidiana, para cada semana regresar a su tratamiento.
+
+Todas las instituciones de salud deben estar habilitadas para prestar los servicios y no necesariamente estar acreditadas. Sin embargo, buscar la habilitación de la Sala de
+
+95 Disponible en línea en http://www.saludymedicinas.com.mx/articulos/1614/sexo-entre-parientes-hijos-con- anomalias-geneticas/1
+96 Disponible en línea en www.minproteccionsocial.gov.co/Documentos%20y%20Publicaciones/MANUAL%20DE%20PROCEDIMIENTOS%20A NEXO%20T%C3%89CNICO%20NO%202%20RESOLUCI%C3%93N%201043%20DE%202006.pdf
+97 Disponible en línea en http://190.253.108.242/.../Definicion%20de%20los%20Servicios%20MPS....
+
+Infusión Pediátrica del HUSJ, constituye una ventaja competitiva en el mercado, crea oportunidades de mejora para el hospital y para los pacientes. En documentos analizados al respecto, todos coinciden con la importancia de la habilitación de los servicios de salud para incrementar la rentabilidad de los servicios.
+
+
+Gracias a esta investigación el HUSJ, presentó la solicitud formal a la Secretaria de Salud para que visite la sala de infusión pediátrica e iniciar con su asesoría la habilitación de la sala con los estándares planteados en este proyecto. Al estar el servicio habilitado podrá incluirse en las dependencias en vías de acreditación que permitirá incrementar la calidad en la atención y seguridad del paciente.
+
+
+La Sala de Infusión Pediátrica al ser habilitada será un centro exclusivo para el Sur Occidente Colombiano de entrenamiento y aprendizaje de pregrado y posgrado de médicos, enfermeros, fisioterapeutas, etc. en cuanto al diagnóstico tratamiento y recuperación de niños con patologías Huérfanas consideradas así en la ley 1392 del 02 de julio de 2010, emanada por el Ministerio de la Protección Social.
+
+
+En muchas ocasiones el paciente es tratado como una persona discapacitada y es privada de muchas de las actividades de las que gozan los niños sanos. Por lo anterior la Sala de Infusión ofrece un entorno educativo y gracias a los directivos del Hospital San José se logró la apertura de la Sala de Pedagogía, en la cual los niños y sus familiares comparten momentos de aprendizaje, dirigidos por terapia Ocupacional y Pedagógica, lo que les permite a los pacientes avanzar en sus obligaciones escolares y en donde los padres o acudientes aprenden a hacer parte del proceso educativo de los niños. Sin embargo, es necesaria la participación de un grupo más amplio de profesionales que podrían aportar en mejorar la calidad de vida de los pacientes y sus familias (fonoaudiología, fisioterapia, psicología, odontología).
+
+9. CONCLUSIONES
+
+
+El 40% de los pacientes que se atienden en La Sala de Infusión Pediátrica del HUSJ, corresponden a los rangos de edad entre 1 a 5 años y 6 a 10 años, se atiende actualmente a un mayor número de pacientes con Mucopolisacaridosis tipo IV, con un 66 % del total de pacientes atendidos y un 7 % de pacientes con Mucopolisacoridosis tipo II.
+
+
+El 40% de los padres de los pacientes de la Sala de Infusión Pediátrica del HUSJ, son primos y el 60% restante no tienen ningún parentesco, por lo tanto es necesario la realización de capacitaciones a los familiares, para generar conciencia y prevenir que mas niños nazcan con estas patologías.
+
+
+Debido a la complejidad de los procedimientos que se realizan actualmente en la sala de Infusión Pediátrica y a su capacidad técnico científica y administrativa, este, no puede ser considerado como consultorio de procedimientos menores, en cambio debe ser habilitada con algunos de los requisitos de la resolución 1043 de 2006, exigidos para la Sala de Procedimientos Menores y sala de quimioterapia por su similitud con los servicios que ofrece la Sala.
+
+
+Durante el proceso de Habilitación de la Sala de Infusión Pediátrica se diseñaron y adecuaron guías, procesos, protocolos y Manual de Atención, como requisito exigido por la resolución 1043 de 2006, estos fueron elaborados con la ayuda del área de calidad y de planeación del HUSJ, demostrando su necesidad e importancia para la prestación del servicio con calidad.
+
+
+Los investigadores recomiendan:
+
+
+Capacitar a las poblaciones indígenas y comunidad en general en prevención y detección temprana de patologías genéticas.
+
+
+Socializar los resultados de este estudio con los funcionarios y personal administrativo del Hospital Universitario San José de Popayán; con el fin de dar a conocer la investigación sobre el Proceso de Habilitación - Sala de Infusión Pediátrica, HUSJ, Popayán, Febrero - Marzo 2012, para contribuir al mejoramiento de calidad en la atención, que deben recibir los usuarios quienes son la razón de ser de las instituciones de salud.
+
+Invitar a la Universidad del Cauca debido al convenio docente asistencial para que los estudiantes de las distintas áreas de la salud realicen rotaciones con cumplimiento de objetivos claros en la Sala de Infusión Pediátrica.
+
+
+Socializar con prontitud los Protocolos, guías y procesos de la Sala de Infusión Pediátrica con el personal asistencial implicado en el tratamiento de reemplazo enzimático (salas de pediatría, UCI pediátrica, Urgencias de Pediatría) para aclarar el rol que cada persona debe cumplir durante y después de la infusión y cómo actuar en caso de Emergencia.
+
+
+Implementar los correctivos pertinentes derivados de este estudio a la Sala de Infusión Pediátrica del Hospital Universitario San José de Popayán.
+
+BIBLIOGRAFIA
+
+
+Administración de medicamentos por infusión contínua. Ensayos y documentos. 2011. Fecha	de	consulta:	31/07/11.	Disponible	en	internet. http://www.buenastareas.com/temas/administraci%C3%B3n-de-medicamentos-por- infusi%C3%B3n-continua/80
+
+
+Agrado, Martha Lucía y otros. Procedimientos de Enfermería. Primera edición, 1994. Hospital Universitario del Valle. Departamento de Enfermería. Aspromédica.
+
+
+BIOMARIN. Mucopolisacaridosis tipo VI. 2011. Fecha de consulta: 7/11/11. Disponible en Internet: http://www.maroteaux-lamy.com/Espanol/HCP/Glossary.aspx#
+
+
+Centro de infusión de Texas Children's. Baylor College of medicine. 2011. Fecha de consulta:	7/11/11.	Disponible	en	Internet: http://es.texaschildrens.org/enes/carecenters/InfusionCenter/Default.aspx
+
+
+FERNÁNDEZ, Oscar Adolfo. Gestión de Calidad en Servicios Odontológicos. Cátedra de Patología y Clínica Bucodental, Facultad de Odontología, Universidad de Buenos Aires, 2008
+
+
+GARCIA VALENZUELA, María, et al Nivel de adaptación de los pacientes oncológicos a la quimioterapia ambulatoria. México. Disponible en línea en http://dieumsnh.gfb.umich.mx/nivel.htm
+
+
+Guía Código Azul Empresa Social del Estado Centro de Salud “San Antonio” Socota. Fecha de consulta: 16/05/2011. Disponible en internet. http://esesocota.net63.net/files/Codigo%20Azul%20Socota.pdf
+
+
+H. Sáenz, L. Barrera. LA TERAPIA DE REEMPLAZO ENZIMÁTICO EN EL TRATAMIENTO DE ENFERMEDADES GENÉTICAS. 2003. Pontificia Universidad Javeriana. Bogotá, Colombia. Fecha de consulta: 7/11/11. Disponible en Internet: http://redalyc.uaemex.mx/pdf/499/49980204.pdf
+
+http://www.acopel.org.co/cms/Default.asp?Page=170
+
+
+http://www.childrensmn.org/web/hemonc/141661.asp
+
+
+http://www.cliditer.com/infusion.html
+
+
+http://www.clinicadam.com/salud/5/001176.html
+
+
+http://www.corteconstitucional.gov.co/inicio/SEGUIMIENTO%20EN%20SALUD/Ley%20 1392%20del%2002%20de%20Julio%20de%202010.htm
+
+
+http://www.dmsjuridica.com/CODIGOS/LEGISLACION/LEYES/2010/1392.htm
+
+
+http://www.eumed.net/libros/2008b/408/SISTEMA%20UNICO%20DE%20HABILITACIO N.htm
+
+
+http://www.farmanews.com/notas_de_prensa/N2114.html
+
+
+http://www.fepeldasha.org/file-pacientes/file-tratamiento/TRATAMIENTO.html
+
+
+http://www.gerenciasalud.com
+
+
+http://www.hospitalinfantildesanjose.org.co/index.php?option=com_content&view=categ ory&layout=blog&id=36&Itemid=144&limitsta
+
+
+http://www.iatreia.udea.edu.co/index.php/iatreia/article/viewArticle/1534
+
+
+http://immunotrax.globered.com/categoria.asp?idcat=21
+
+
+http://www.mch.com/
+
+http://mps.minproteccionsocial.gov.co/vbecontent/NewsDetail.asp?ID=15214&IDCompa ny=11 http://www.minproteccionsocial.gov.co/Documentos%20y%20Publicaciones/MANUAL% 20DE%20PROCEDIMIENTOS%20ANEXO%20T%C3%89CNICO%20NO.%202%20RE SOLUCI%C3%93N%201043%20DE%202006.pdf
+
+
+http://www.osteogenesis.info/ques/definic.htm
+
+
+http://pachajoa.110mb.com/a9inf.htmç
+
+
+http://www.partidodelau.com/minisitios/files/PL130enferhuerfanas.pdf
+
+
+http://www.saludcapital.gov.co/Paginas/sistemaobligatorio.aspx
+
+
+http://www.saludymedicinas.com.mx/articulos/1614/sexo-entre-parientes-hijos-con- anomalias-geneticas/1
+
+
+http://www.slideshare.net/johanmcp/sistema-obligatorio-de-garantia-de-calidad
+
+
+http://www.sld.cu/galerias/pdf/sitios/neurologia/libro_de_resumenes_neuropediatria.pdf
+
+
+http://www.urmc.rochester.edu/childrens-hospital/general-peds/treatment-center.cfm
+
+
+INSTITUTO COLOMBIANO DE NORMAS TECNICAS Y CERTIFICACION.	Tesis y
+otros trabajos de grado. Compendio. Bogotá, D.C.: ICONTEC, 2004.
+
+
+IRURETAGOYENA, Marcelo A. nociones básicas de calidad en la atención dental. Disponible en < http://www.sdpt.net/calidad/calidadenlaatenciondental.htm>; revisado 26 de enero, 2009.
+
+
+Jean A. Proehl, RN, MN, CEN, CC RN. Procedimientos en enfermería de urgencias. Segunda Edición. 2001. Interamericana- McGRAW-HI.
+
+Kozier, Erb, Olivieri. Enfermería Fundamental. Cuarta Edición 1994. Interamericana. Mc.GRAW-HILL. Volumen II.
+
+MALAGON-LONDOÑO y cols. Garantía de calidad en Salud. 2 ed., Bogotá: Editorial Médica Panamericana; 2006.
+
+
+Mathews C y Van Hold K. Polisacáridos. Segunda edición. Madrid. Mc. Graw- Hill/ Interamericana de España, 1998:329–348
+
+
+McCleary B y Matheson N. Enzimatic analysis of Polisaccharide Estructures. Adv Carbohydr Chem Biochem, 1986;44:147-276
+
+
+MINISTERIO DE LA PROTECCION SOCIAL.	Ley 100 de 1993.	Archivo en PDF
+disponible en Internet: www.mindelaproteccionsocial.gov.co
+
+
+Muenzer J. Mucopolysaccharidoses. Adv. Pediatr. 1996;33:269.
+
+
+Murray R, Mayes P. et al. Bioquímica de Harper. 15ª edición. Manual Moderno. México, D.F. 2001;802-809
+
+
+NANDA International. Diagnósticos enfermeros 2009-2011. Barcelona. España
+
+
+Naglazyme (Galsulfasa). 2009. Fecha de consulta: 31/07/11. Disponible en internet. http://www.prescripcioninteligente.com/ippafullwh.php?id=4493
+
+
+Neufeld E, Muenzer J. The Mucopolysaccharidoses. En Scriver C, Beaudet A, Sly W. The Metabolic Basis of Inherited Disease. Eightd edition. New York. Mc Graw- Hill, 2001 Chapter 136
+
+OTERO M., Jaime. ¿Qué es calidad en salud? (Documento en Word	publicado en Noviembre de 2002), disponible en Internet: http://www.sld.cu/galerias/doc/sitios/infodir/que_es_calidad_en_salud.doc
+
+
+Parker	K,	Melniczek	J.	Terapeutic	neonatal	hepatic	gene	therapy	in mucopolysaccharidoses VII dogs. PNAS, 2002;99(2):13102-13107.
+
+Procedimientos de acceso vascular. 2011. Fecha de consulta: 31/07/11. Disponible en internet. http://www.radiologyinfo.org/sp/info.cfm?pg=vasc_access
+Protocolo de Código Azul. Hospital Universitario San José de Popayán.
+
+
+Q. Quesada. Reservorio venoso subcutáneo y demás catéteres venosos de larga duración. 2007. Fecha de consulta: 31/07/11. Disponible en internet. file:///C:/Users/User/AppData/Local/Temp/capitulo45.htm
+
+
+Real academia de la lengua. diccionario de la lengua española, 19 edición, tomo i, España: espasa calpe, 1970.
+
+
+Stop sanfilippo. terapia de reemplazo enzimatico. 2011. Fecha de consulta: 7/11/11. Disponible en Internet: http://www.stopsanfilippo.org/investigacion/reemplazo- enzimatico/
+
+
+Vial, Blanca, Soto, Ingrid. Figueroa, Martha. Procedimientos de enfermería Medicoquirúrgica. Publicaciones Mediterráneo. Santiago de Chile. 1995. Pag. 262 – 263.
+
+
+Vogler C, Galvin N, LEVY B. et al Transgene produces massive over expression of human β−glucuronidase in mice, lysosomal storage of enzyme, and straindependent tumors. PNAS, 2003;100(5):2669-2673.
+
+
+Y. Martínez, C. Martínez. Cuidados en el reservorio subcutáneo y Hickman. 23 de Noviembre de 2000.
+
+
+Your port Access advantage. 2005. Fecha de consulta: 31/07/11. Disponible en internet. http://www.portadvantage.com/language/Spanish/patient/about_implanted_ports.html
+
+
+
+ANEXOS.
+
+
+ANEXO 1
+
+FICHA BIBLIOGRÁFICATIPOInvestigación formativaTITULOPROCESO DE	HABILITACIÓN - SALA DE INFUSIÓN PEDIÁTRICA, HUSJ, POPAYÁN,	FEBRERO -	MARZO
+2012.PROGRAMAAuditoria de Epidemiologia.laCalidadenSaludconÉnfasisenMODALIDAD PROGRAMAPostgradoGRUPO DE INVESTIGACIÓNBogotá D.C. Universidad EAN 2012EDICIÓNPopayán, Cauca, Universidad del Cauca, en convenio con la EAN, Facultad de postgrados, 2012AUTORESAndrea Isabella, Bastidas Oviedo; Yecid, Garzón Molano; María Alejandra Hurtado Acosta.PALABRAS CLAVESAsesorar, Estándar, habilitación, Infusión, Sala, Proceso.DESCRIPCIÓNEste estudio pretende brindar asesoría en el proceso de habilitación de la Sala de Infusión Pediátrica, del Hospital Universitario San José en la ciudad de Popayán – Cauca para atender de manera integral a los pacientes que presenten patologías genéticas en el departamento del
+Cauca.FUENTES1MALAGON-LONDOÑO y cols. Garantía de calidad en Salud. 2 ed., Bogotá: Editorial Médica Panamericana; 2006. www.mindelaproteccionsocial.gov.co
+4http://www.acopel.org.co/cms/Default.asp?Page=170CONTENIDOTeniendo en cuenta que la Sala de Infusión fue definida con anterioridad por el HUSJ, como consultorio de procedimientos menores, por no existir en la Resolución 1043 de 2006, estándares para dicha sala, fue necesario realizar un acompañamiento al Departamento de auditoría y Calidad del Hospital y la coordinación de la Sala de Infusión para establecer los requisitos mínimos para su habilitación de acuerdo a los servicios ofrecidos.
+Al realizar la verificación de la resolución 1043 de 2006, se encontró que aunque la Sala no cumple con todos los estándares será llamada Sala de Infusión con estándares de habilitación para sala de Quimioterapia y sala de procedimientos menores pues se observó mayor afinidad
+entre estos servicios.METODOLOGÍAEl presente proyecto se basa en un tipo de estudio Descriptivo. Prospectivo. Se aplico el método experiencial,
+descriptivo, observacional.CONCLUSIONESEs necesario la habilitación de la Sala de Infusión con requisitos de habilitación para una Sala de Quimioterapia y Sala de Procedimientos Menores.PERIODO ACADÉMICO2012-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+68
+
+
+
+ANEXO 3 - PROPUESTA
+
+
+Teniendo en cuenta que la Sala de Infusión Pediátrica del HUSJ de Popayán, en el momento ofrece sus servicios con estándares definidos para los consultorios de Procedimientos Menores, es necesario considerar la habilitación de dicho servicio acorde a los tratamientos que se realizan debido a que requieren de una serie de condiciones específicas para la prestación del servicio.
+
+
+Esta investigación inicialmente aborda la importancia de habilitar La Sala de infusión Pediátrica como Sala de Infusión Pediátrica con estándares de Habilitación de Sala de Quimioterapia y Sala de Procedimientos Menores, debido a que al analizar los estándares que debe cumplir según la Resolución 1043 de 2006, se acopla más a la misión de la Sala de Infusión, pues en esta se ofrecen servicios institucionalizados a personas con discapacidad severa, en condiciones de dependencia en las actividades de la vida diaria y que requieren cuidados especiales. El objetivo de estas salas es proveer cuidados básicos, mantener funciones y prevenir el deterioro de la calidad de vida de los pacientes.
+
+
+Se pretende asesorar a la Institución en lo referente a la Habilitación del servicio hasta la culminación de la adecuación de la Sala de Infusión.
+
+
+Se hace necesario también capacitar al personal asistencial en las Guías, protocolos y procesos; adecuados y diseñados para la atención de los pacientes de la Sala.
+
+
+Para que la Sala de Infusión Pediátrica, funcione tal y como lo exige la normatividad vigente, es indispensable que el área administrativa y asistencial del hospital se apersonen de la única sala que ofrece tratamiento a personas con patologías genéticas en el Departamento del Cauca y que se trabaje en equipo, realizando vigilancia y control a los procesos que se llevan a cabo, en pro de permitir una vida más saludable a quienes requieren del servicio.
+
+ANEXO 4
+CARACTERISTICAS SOCIODEMOGRÁFICAS DE PACIENTES ATENDIDOS EN LA SALA DEINFUSION PEDIATRICA.
+
+
+TABLA N° 1. CARACTERISTICAS SOCIODEMOGRÁFICAS DE PACIENTES ATENDIDOS EN LA SALA DE INFUSION PEDIATRICA
+
+
+
+
+
+PATOLOGIAN° PACIE NTESRANGOS DE EDADGENE ROPROCEDE NCIAPARENTEZCO DE LOS PADRES1-56-1011-15FMRU1234Mucopolisacaridosis
+Tipo II11111Mucopolisacaridosis
+Tipo VI10433739146Osteogénesis
+Imperfecta32112321Enfermedad
+Autoinmune11111FUENTE DE INFORMACIÓN: Estadísticas Sala de Infusión Pediatrica..
+
+
+Convenciones:
+
+
+PARENTEZCO DE LOS PADRES
+
+1. Hermanos
+2. Primos
+3. Sobrino-Tío.
+4. Ninguno.
+
+ANEXO 5.
+
+
+
+
+
+
+
+
+
+
+
+Protocolos, Procesos, guías.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROCESO DE ENFERMERIA EN EL PACIENTE CON MUCOPOLISACARIDOSIS
+
+VALORACIÓN DE ENFERMERIA EN EL PACIENTE CON MUCOPOLISACARIDOSIS
+
+
+Objetivo: Brindar al paciente una atención integral acorde con sus necesidades.
+
+
+VALORACIÓN:
+MOTILIDAD- ACTIVIDAD:
+Autónomo. Ayuda parcial. Ayuda total.
+
+
+ESTADO DE CONCIENCIA:
+Alerta. Confuso. Somnoliento. Estupor.
+Coma.
+
+
+SIGNOS VITALES.
+Respiración ( ruidosa, disnea). Cuadro Viral.
+Rinorrea, sinusitis, neumonía.
+
+
+ORGANOS DE LOS SENTIDOS.
+Visión (Utiliza gafas). Audición. (Usa audífono).
+
+
+ESTADO DE ÁNIMO
+Facies de felicidad. Facies de tristeza. Facies de dolor.
+Timidez.
+
+
+PRESENCIA DE DISPOSITIVOS MÉDICOS:
+Catéter subdérmico, subclavio u otro tipo. Sondas y drenes.
+Traqueostomía. Oxígeno suplementario.
+
+HIGIENE (corporal, oral) – VESTUARIO. FAMILIA.
+
+
+DATOS SUBJETIVOS:
+• Disnea.
+• Disfagia.
+• Odontalgia.
+• Cefalea.
+• Visión borrosa.
+• Hipoacusia.
+• Palpitaciones.
+• Constipación y/o diarrea.
+• Dolor en articulaciones.
+• Parestesias y/o dolor en puntas de los dedos.
+• Dificultad en realizar movimientos finos.
+• Maltrato físico y/o verbal.
+
+
+DATOS OBJETIVOS:
+
+
+ESTADO DE CONCIENCIA: Escala de coma Glasgow.
+
+
+SIGNOS VITALES:
+• Taquicardia- bradicardia.
+• Taquipnea-bradipnea-disnea-apnea-ortopnea.
+• Hipertensión-hipotensión.
+• Hipertermia-hipotermia.
+
+
+EXAMEN FISICO:
+
+
+
+SNC:
+
+
+Hidrocefalia.
+Posición de reposo y/o sueño.
+
+
+
+OJOS:
+Opacidad corneal.
+Fotofobia.
+
+OIDOS:
+Hipoacusia (conductiva). Otitis.
+
+
+NARIZ:
+Sinusitis.
+Rinorrea.
+
+
+BOCA:
+Amigdalitis.
+Estomatitis.
+Caries, abscesos.
+Macroglosia.
+Secreción mucosa. Cuello corto.
+
+
+TORAX:
+Forma. Movilidad.
+Estertores, sibilancias.
+
+
+CORAZÓN:
+Soplo cardiaco.
+
+
+ABDOMEN:
+Prominente. Hepatomegalia. Esplenomegalia. Hernia umbilical. Hernia inguinal. Peristaltismo.
+Abdomen doloroso, blando.
+
+
+HUESOS Y ARTICULACIONES:
+Cifosis – escoliosis.
+Displasia odontoidea. ( cuello inestable). Rigidez articular.
+Manos cortas y anchas. Dedos gruesos.
+Camina en punta de pies ( tendón de Aquiles corto). Genu Valgum.
+
+Síndrome del túnel carpiano.
+
+
+PIEL:
+
+
+Gruesa y áspera.
+Hirsutismo.
+Diaforesis. Vasoconstricción periférica.
+
+LISTA DE CHEQUEO PARA LA VALORACIÓN DE ENFERMERÍA EN EL PACIENTE CON MUCOPOLISACARIDOSIS
+LISTA DE CHEQUEO
+
+
+NOMBRE:	CARGO:	 	
+
+FECHA:	 		SERVICIO:  	
+
+
+TABLA N° 2. CONTROL DE EJECUCIÓN
+
+
+
+CONDUCTAS IMPORTANTESCUMPLIMIENTOSINOOBSERVACION1. Valora la motilidad-actividad del paciente2. Valora el estado de conciencia del paciente3. Toma e interpreta los signos vitales del paciente.4. Valora los órganos de los sentidos.5. Valora el estado de ánimo del paciente.6. Determina la presencia de dispositivos médicos en el paciente7. Valora la higiene y vestido de paciente.8. Valora el entorno familiar.
+
+TABLA N°3 DE VERIFICACIÓN
+
+CALIFICACIONPORCENTAJE DE CUMPLIMIENTONUMERO DE PUNTOSEXCELENTE98% A 100%7 A 8 PUNTOSBUENO94% A 96%5 A 6 PUNTOSDEFICIENTEMENOS DE 94%MENOS DE 5 PUNTOS
+
+FIRMAS:
+
+ENFERMERA(O):  	
+
+AUXILIAR DE ENFERMERÍA:  	
+
+DIAGNÓSTICOS DE ENFERMERÍA SEGÚN NANDA INTERNATIONAL 2009- 2011.
+PATRÓN RESPIRATORIO INEFICAZ DEFINICIÓN
+La inspiración o espiración no proporciona una ventilación adecuada.
+
+
+CARACTERÍSTICAS DEFINITORIAS.
+Alteraciones en la profundidad respiratoria. Alteraciones de los movimientos torácicos.
+
+
+MEDICIÓN:
+Valores normales de saturación de Oxígeno: Mayor a 90%
+
+
+FACTORES RELACIONADOS.
+Deformidad ósea. Hepatoesplenomegalia.
+
+
+INTERVENCIONES DE ENFERMERÍA
+
+
+• Medir oximetría de pulso de manera constante durante la infusión. Si la saturación es menor a 90% se debe administrar oxígeno por cánula nasal. Continuar con dispositivos de alto flujo de no mejorar saturometría.
+• Mantener al paciente en posición semifowler.
+• Aspiración de secreciones según necesidad.
+• Informar al médico si a la auscultación hay presencia de estertores y/o sibilancias.
+
+
+RESULTADOS ESPERADOS
+
+
+• Adecuada saturación de oxígeno.
+• Vía aérea permeable.
+
+LISTA DE CHEQUEO PARA PATRÓN RESPIRATORIO INEFICAZ DEL PACIENTE CON MUCOPOLISACARIDOSIS
+LISTA DE CHEQUEO
+
+
+NOMBRE:	CARGO:	 	
+
+FECHA:	 		SERVICIO:  	
+
+
+TABLA N°4 CONTROL DE EJECUCIÓN
+
+
+
+CONDUCTAS IMPORTANTESCUMPLIMIENTOSINOOBSERVACION1. Mide la oximetría de pulso de manera constante durante la infusión. Si la saturación es menor a 90% administra oxígeno por cánula nasal. Continúa con dispositivos de alto flujo de no mejorar saturometría.2. Mantiene al paciente en posición semifowler.3. Aspira secreciones según necesidad.4. Informa al médico si a la auscultación hay
+presencia de estertores y/o sibilancias.
+TABLA N°5 DE VERIFICACIÓN
+
+CALIFICACIONPORCENTAJE DE CUMPLIMIENTONUMERO DE PUNTOSEXCELENTE98% A 100%3 A 4 PUNTOSDEFICIENTEMENOS DE 94%MENOS DE 2 PUNTOS
+FIRMAS:
+
+ENFERMERA(O):  	
+
+AUXILIAR DE ENFERMERÍA:  	
+
+DETERIORO DE LA DEGLUCIÓN
+
+
+DEFINICIÓN
+
+
+Funcionamiento anormal del mecanismo de la deglución asociado con déficit de la estructura o función oral, faríngea o esofágica.
+
+
+CARACTERÍSTICAS DEFINITORIAS.
+
+
+Estasis de los alimentos en la cavidad oral, tos, atragantamiento. Vómito.
+Babeo.
+Caída de la comida de la boca. Cierre incompleto de los labios.
+
+
+FACTORES RELACIONADOS
+
+
+Trastornos respiratorios. Anomalías de la vía aérea superior.
+
+
+INTERVENCIONES DE ENFERMERÍA
+
+
+• Proporcionar dieta blanda y	educar a la familia en el régimen alimentario adecuado para este tipo de pacientes (fraccionado, masticación lenta).
+• Proveer comodidad y adecuada posición durante las comidas.
+• Mantener en la sala de Infusión	insumos que faciliten la ingestión de los alimentos (pitillos).
+
+
+RESULTADOS ESPERADOS
+
+
+• El paciente recibe y tolera la vía oral ( no emesis)
+• No broncoaspiración.
+• No desaturación durante la ingestión de los alimentos.
+• No residuo de comida en la vía oral.
+
+LISTA DE CHEQUEO PARA DETERIORO DE LA DEGLUCIÓN EN EL PACIENTE CON MUCOPOLISACARIDOSIS
+LISTA DE CHEQUEO
+
+
+
+NOMBRE:	CARGO:	_ 	
+
+FECHA:	 		SERVICIO:  	
+
+
+TABLA N° 6 CONTROL DE EJECUCIÓN
+
+
+CONDUCTAS IMPORTANTESCUMPLIMIENTOSINOOBSERVACION1. Proporciona dieta blanda y   educa a la familia en el régimen alimentario adecuado para pacientes con	Mucopolisacaridosis	(fraccionado, masticación lenta).2. Provee comodidad y adecuada posición durante
+las comidas.3. Mantiene en la sala de Infusión	insumos que faciliten la ingestión de los alimentos (pitillos).
+TABLA N° 7 DE VERIFICACIÓN
+
+CALIFICACIONPORCENTAJE DE CUMPLIMIENTONUMERO DE PUNTOSEXCELENTE98% A 100%2 A 3 PUNTOSDEFICIENTEMENOS DE 94%1 PUNTO
+FIRMAS:
+
+ENFERMERA(O):  	
+
+AUXILIAR DE ENFERMERÍA:  	
+
+DÉFICIT DE AUTOCUIDADO
+(Alimentación, baño, uso del inodoro, vestido)
+
+
+DEFINICIÓN
+Deterioro de la habilidad para realizar o completar las actividades.
+
+
+CARACTERÍSTICAS DEFINITORIAS.
+Incapacidad para manejar los utensilios. Incapacidad para lavarse y secarse el cuerpo.
+Incapacidad para llegar, sentarse y levantarse del inodoro. Incapacidad para ponerse y quitarse la ropa.
+
+
+MEDICIÓN:
+
+
+Observe al paciente mientras desarrolla sus actividades y pregúntele (si tiene capacidad de responder) cómo se siente realizando dichas acciones.
+
+
+FACTORES RELACIONADOS
+
+
+Deterioro músculo esquelético. Dolor.
+Barreras ambientales.
+
+
+INTERVENCIONES DE ENFERMERÍA
+
+
+• Proveer al paciente de insumos (pitillos) de fácil manejo.
+• Intervenir con ayuda de terapia ocupacional en la forma en que el paciente realiza sus actividades diarias para facilitar su ejecución.
+• Administrar según orden médica, analgésicos, en busca de mejorar su movilidad.
+
+
+RESULTADOS ESPERADOS
+
+
+• El paciente ingiere sus alimentos de manera autónoma.
+• Se evidencia el progreso en la manipulación de los objetos.
+• El paciente muestra interés en el aprendizaje.
+
+LISTA DE CHEQUEO PARA DÉFICIT DE AUTOCUIDADO EN EL PACIENTE CON MUCOPOLISACARIDOSIS
+LISTA DE CHEQUEO
+
+
+NOMBRE:	CARGO:	 	
+
+FECHA:	 		SERVICIO:  	
+
+
+TABLA N° 8 CONTROL DE EJECUCIÓN
+
+
+CONDUCTAS IMPORTANTESCUMPLIMIENTOSINOOBSERVACION1. Provee al paciente de insumos (pitillos) de fácil manejo.2. Interviene con ayuda de terapia ocupacional en la forma en que el paciente realiza sus actividades diarias para facilitar su ejecución.3. Administra según orden médica, analgésicos, en busca de mejorar su movilidad.
+TABLA N° 9 TABLA DE VERIFICACIÓN
+
+CALIFICACIONPORCENTAJE DE CUMPLIMIENTONUMERO DE PUNTOSEXCELENTE98% A 100%2 A 3 PUNTOSDEFICIENTEMENOS DE 94%1 PUNTO
+
+FIRMAS:
+
+ENFERMERA(O):  	
+
+AUXILIAR DE ENFERMERÍA:  	
+
+Elaborado por:
+Andrea Isabella Bastidas Oviedo. Yecid Garzón Molano
+María Alejandra Hurtado Acosta.
+
+Revisado por:
+
+María Amparo Acosta. PHD. Genética Clínica. Coordinadora Sala de Infusión Pediátrica.
+Enfermera. Fanny Cisneros. Coordinadora de Enfermería Hospital Universitario San José.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROCESO DE ATENCIÓN DE PACIENTES EN LA SALA DE INFUSIÓN PEDIATRICA
+
+OBJETIVO DEL PROCEDIMIENTO
+
+1. Realizar en forma estandarizada el proceso de atención de pacientes en la Sala de Infusión Pediátrica.
+2. Asignar las actividades a realizar por cada uno de las personas relacionadas con el proceso.
+3. Definir la forma de ingreso y salida de los pacientes a las terapias de reemplazo enzimático.
+
+
+ALCANCE
+
+
+Desde: que el paciente tiene diagnóstico de enfermedad que amerita tratamiento de reemplazo enzimático, firma el consentimiento informado, tiene orden de apoyo para el hospital o ha cancelado el valor de la infusión como particular y tiene medicamento disponible en el servicio farmacéutico del HUSJ a su nombre.
+
+
+Hasta: que el paciente egresa del procedimiento de infusión de terapia de reemplazo enzimático.
+
+
+RESPONSABLE
+
+
+Médico Especialista tratante del paciente. Enfermero de la sala SIP
+
+
+REQUERIMIENTOS
+
+
+Orden de apoyo o recibo de pago de la infusión. Historia Clínica del paciente.
+Medicamento formulado por el médico especialista tratante del paciente en el servicio farmacéutico del HUSJ.
+
+
+DEFINICIONES
+
+
+Sala de infusión Pediátrica: La sala de Infusión pediátrica es un servicio del Hospital Universitario San José en donde se realizan tratamientos de reemplazo enzimático a
+
+pacientes con alteraciones genéticas diagnosticados por médicos especialistas y en donde son monitorizados electrocardiográficamente y se vigila constantemente la saturación durante todo el procedimiento. Estas infusiones ameritan entre 5 a 6 horas en donde el paciente además del tratamiento recibe terapia ocupacional y pedagógica.
+
+Terapia de reemplazo enzimático (TRE): Consiste en suministrarle a un paciente una proteína exógena, que en su organismo está siendo sintetizada anormalmente. La proteína puede provenir de tejidos y fluidos humanos, ser sintetizada en bacterias, células de mamífero o levaduras, a las cuales se les ha introducido el gen correspondiente.
+
+
+RECOMENDACIONES GENERALES
+
+
+El médico tratante diligenciará a cada paciente el consentimiento informado, según formato institucional, el primer día de infusión, considerándose como la fecha de inicio del tratamiento de reemplazo enzimático. Este será anexado a la Historia Clínica del paciente y se conservará una copia en el archivo de la Sala de Infusión Pediátrica, sirviendo como soporte de las infusiones futuras.
+
+
+El representante legal del paciente deberá estar debidamente registrado como tal por parte de los padres, mediante documento suscrito ante notario. El documento original reposará en los archivos de la Sala de Infusión.
+
+
+El trámite para programación de la infusión, se inicia el día anterior (24 horas antes mínimo), cuando uno de los padres del menor o su representante legal, deberá realizar los trámites ante la EPS para la consecución de la orden de apoyo y traerla al siguiente día como requisito indispensable para que la oficina de facturación ordene la apertura de la Historia Clínica. La entrega de la orden de apoyo se deberá hacer a primera hora del turno que la Institución ha asignado previamente al menor para la realización de la atención.
+
+
+En caso de que el valor de la infusión sea cancelado como PACIENTE PARTICULAR, el día anterior a la infusión deberá realizar dicho pago considerando como hora límite de facturación las 5:00 p.m. El enfermero de turno se comunicará vía telefónica con el Coordinador de facturación para corroborar el pago de la atención y proceder a confirmar el paciente dentro de la programación del día siguiente.
+
+
+El no cumplimiento del anterior requisito obligará a la suspensión inmediata de la atención del paciente dentro de la programación del día siguiente.
+
+Los medicamentos serán preparados en la central de mezclas de la FARMACIA DEL HOSPITAL SAN JOSÉ con fórmula realizada por el médico tratante, mínimo 24 horas antes del día de la infusión. Dicha fórmula deberá ser entregada por el Enfermero a farmacia, mínimo con 24 horas de anticipación al inicio de la infusión.
+
+
+Los medicamentos se prepararán única y exclusivamente en la Central de mezclas del Hospital Universitario San José, a cargo de un químico farmacéutico siguiendo estrictamente las normas del INVIMA.
+
+
+La única persona habilitada para realizar la programación y citar a tratamiento a los pacientes mediante comunicación con sus padres o representante legal, será el Enfermero de turno, previa verificación de la existencia del medicamento mediante llamado al Jefe de farmacia.
+
+
+En caso contrario, es también el Enfermero de Turno el único responsable de suspender la infusión y de informar mínimo a las 6:00 p.m del día anterior, al médico tratante, al padre o representante legal del paciente, de la suspensión de la infusión por el no cumplimiento por parte de la EPS con el horario fijado para la entrega del medicamento.
+
+
+Los horarios de infusión son de 7:00 a.m a 1:00 p.m y de 1:00 p.m a 7:00 p.m. Si en alguna ocasión el paciente llega a la Sala de Infusión después de la hora Institucional establecida para la programación de la atención y del horario del personal de enfermería, se deberá consultar con la Coordinadora de la Sala de Infusión Pediátrica y con el médico tratante para definir en una fecha próxima la infusión del paciente.
+
+
+Las modificaciones extraordinarias en cuanto al día y/o hora de la infusión de los pacientes, deberán estar previamente autorizadas por la médica Coordinadora de la Sala de infusión Pediátrica. El enfermero de turno deberá comunicarse el día anterior a la infusión, antes de las 5:00 p.m, con el Químico farmacéutico para informar de la novedad, además es el Enfermero quien llevará la fórmula médica a la farmacia y llamará al servicio de estadística para que adicionen la Historia Clínica del paciente a la solicitud de Historias de los pacientes previamente programados o como caso único para su atención extraordinaria.
+
+
+El Enfermero de turno llevará semestralmente el listado de pacientes programados al servicio de estadística (Nombre, número de H.C, día y horas programadas para las infusiones semanales durante ese semestre). En caso de alguna novedad, el Enfermero informará vía telefónica el cambio realizado en la programación y  en caso de ser
+
+permanente, deberá entregar un nuevo listado actualizado con el/los cambios autorizados por la Coordinación de la Sala de Infusión.
+
+
+Los auxiliares de facturación, no podrán hacer la apertura de la Historia Clínica sin que se cumpla con el pago en caso de ser particular y/o con la orden de apoyo en caso de ser pagado por la EPS. Las excepciones a esta norma sólo podrán ser autorizadas por escrito por la Sub-dirección científica o la Gerencia del Hospital.
+
+
+El padre/madre o el representante legal del paciente (menor), deberá permanecer junto a él durante todo el tiempo que dure la infusión y la posterior observación reglamentaria de 2 horas post-infusión según protocolo. Por ningún motivo podrá ausentarse, ni tampoco delegar en otras personas el cuidado del menor.
+
+
+El médico general hospitalario de la sala de pediatría, será quien valore al paciente antes del inicio de la administración del medicamento, realice el ingreso y/o evolución/es, responda ante eventualidades y/o emergencias (ver protocolo código Azul) y vigile el estado hemodinámico del paciente durante la infusión.
+
+
+El médico tratante es el encargado de diligenciar las órdenes de apoyo diagnóstico u otros exámenes médicos que considere pertinentes para su paciente y de la formulación y de la solicitud escrita de los insumos médicos necesarios para el tratamiento. Deberá realizar las anteriores actividades en el tiempo ordenado de infusión para dar cumplimiento a la hora de ingreso y egreso de los pacientes.
+
+
+El médico general hospitalario será el encargado de ponerse en contacto inmediato con el médico tratante en caso de cualquier emergencia, eventualidad o irregularidad que se presente durante el tiempo que dura el protocolo de la infusión.
+
+
+En la sala de infusión no se permitirá el consumo de ningún tipo de alimentos, los pacientes y familiares, deberán ingerir su dieta fuera de la sala de Infusión en la mesa destinada para tal fin. Posteriormente el paciente y su acudiente o representante legal deberán lavarse las manos antes de ingresar nuevamente a la sala de Infusión.
+
+
+La sala de Infusión es de acceso restringido, por lo cual, cada paciente deberá ingresar con un solo acompañante. Éste, deberá hacer uso de las sillas para acompañantes y no podrá utilizar bajo ninguna circunstancia las sillas reclinables utilizadas como camillas para los pacientes.
+
+Durante cada infusión, la puerta de la Sala permanecerá cerrada para restringir el paso a personal no autorizado.
+
+
+El padre o representante legal del menor deberá dejar sus pertenencias en los lockers destinados para tal fin, no será permitido ningún tipo de prenda ni accesorio que no pertenezca a la sala de Infusión junto al paciente.
+
+
+Al momento del egreso el Enfermero Jefe brindará educación al acudiente o representante legal del menor acerca de las posibles complicaciones de la infusión y entregará el plan de alta.
+
+
+INDICACIONES
+
+
+La terapia de reemplazo enzimático debe ser prioridad en aquellos pacientes en donde se compruebe a través de estudios genéticos especializados, poca producción o síntesis anormal de la (las) enzima(s) involucrada(s) en la patología.
+
+
+Ventajas: La mejoría clínica de los pacientes se hace evidente en el transcurso del tratamiento, ofreciendo avances en su calidad de vida.
+Seguimiento semanal del cuadro clínico del paciente, interviniendo oportunamente en sus necesidades.
+
+
+Desventajas: Una de las limitantes de la TRE ha sido su alto costo, debido al relativamente pequeño número de pacientes que se tratan a nivel mundial y a que el sistema usado hasta ahora, es decir, la expresión en células de mamífero, requiere procedimientos muy costosos.
+
+
+Los efectos secundarios son pocos frecuentes e incluyen: urticaria, prurito, náuseas vómito, diarrea y mialgias que son fácilmente tratados con antihistamínicos y no precisan interrumpir el tratamiento. Sin embargo dicha sintomatología puede avanzar a un shock anafiláctico que probablemente desencadenaría un paro Cardio-respiratorio y consecuentemente la muerte del paciente.
+
+PRECAUCIONES Y CONTRAINDICACIONES:
+
+
+En caso de que el médico tratante solicite valoración por otra especialidad, imágenes diagnósticas o exámenes de laboratorio, el Enfermero Jefe debe informar dicha orden al servicio de facturación para solicitar la autorización respectiva por parte de la EPS.
+
+
+PELIGROS Y COMPLICACIONES
+
+
+Durante o posterior a la infusión, el paciente puede presentar reacción adversa al medicamento, de acuerdo al criterio médico el paciente puede continuar la infusión, suspenderla y controlar los signos y síntomas en la sala de infusión o ser remitido al servicio de Urgencias.
+
+TABLA N°10 DESARROLLO DE ACTIVIDADES
+
+
+DESCRIPCIÓN DE ACTIVIDADES
+No
+ACTIVIDADQUIEN LO DEBE HACERCUANDO LO DEBE HACERDOCUMENTO GENERADO1DefinicióndelanecesidaddeterapiadeMédicoCuandolaOrden médicareemplazo enzimático y del plan de infusiones.Especialistacondiciónpara inicio detratanteclínicadelterapiapacienteasíenzimática.lo amerite.
+2
+Diligenciamiento del consentimiento informado.Médico Especialista tratanteEl primer día de infusión.Consentimient o informado.
+
+
+
+
+
+
+3
+
+
+
+
+
+
+Programación de las citas para la infusión.
+
+
+
+
+Médico Especialista tratante.
+Enfermero del área.Cuando el asegurador del paciente haya generado la orden de apoyo o el acudiente o representant e legal haya cancelado el valor de la infusión como PARTICU
+
+
+
+
+
+Agenda de citasLAR.
+
+4Generar listado de pacientes citados para terapia de reemplazo enzimático. Este listado debe contener: Nombres y Apellidos completos, número de historia clínica, Fecha y hora de la cita.
+Enfermero del área.
+Semestral mente.
+Listado de pacientes citados.5Entregar el listado de pacientes citados al área de estadísticas.Enfermero del área.Semestral mente.
+6Buscar las historias clínicas y dejarlas en el estante de historias solicitadas por especialidades bajo el rotulo de “SIP”.Auxiliar	de estadísticasEl	día
+anterior a la infusión.
+
+
+
+
+
+7
+
+
+Entrega de las Historias Clínicas en la Sala de infusión pediátrica al Enfermero Jefe Encargado posterior a su apertura por parte del acudiente del paciente.
+
+
+
+Camillero de Salas de Pediatría.Cuando		el acudiente del paciente entregue			a facturación la orden	de apoyo respectiva			o factura	de
+pago del valor de la infusión.
+8
+Realizar la nota de ingreso del paciente
+Enfermero del áreaCuando ingrese paciente servicio
+el al
+Nota enfermería.
+de
+9Generar Historia clínica de ingreso del paciente o evolución médica, indicando el manejo a realizar.Médico Hospitalario de la Sala de Pediatría.Al momento de llegada del paciente al área.
+Nota de ingreso.
+10
+Realizar las ordenes médicasMédico Especialista tratante.Al momento de llegada del paciente al área.
+Ordenes médicas.
+11
+Realizar la formula médica y la solicitud de insumos.Médico Especialista tratante.Una vez escritas las ordenes médicas
+Formula médica.
+
+12
+Reclamar farmacia.
+los
+medicamentos
+e
+insumos
+en
+Enfermero del áreaUna	vez
+realizado	el
+ingreso	del
+paciente	en facturación.
+13Procurar un acceso venoso periférico permeable , monitorizar e Iniciar la infusión del pacienteEnfermero del áreaPosterior a las órdenes médicas.
+
+
+14El Enfermero Jefe toma los Signos vitales cada 15 minutos e informa cualquier tipo de reacción adversa al medicamento al médico tratante. Registra en la Hoja de tratamientos los insumos utilizados en el paciente y realiza la nota de enfermería especificando la dosis del medicamento administrado, el número de la infusión, los procedimientos realizados y las alteraciones observadas en el paciente.
+
+
+Enfermero del área
+Durante	la
+infusión	del
+paciente	y según evolución del mismo.
+
+
+  Control de Signos vitales
+15Realizar el cierre del procedimiento de infusión indicando los signos vitales finales y la condición en que se encuentra el paciente.Enfermero del áreaAl finalizar la infusión Nota de enfermería
+
+16En el salón de pedagogía próximo a la Sala de Infusión, el paciente recibe terapia Ocupacional y pedagógica durante 1 hora.
+ Terapeuta Ocupacional
+Al finalizar la infusión.
+ Nota de evolución
+
+17Al finalizar la infusión, el paciente es valorado por el médico tratante quien especifica en la evolución o Historia clínica las condiciones en las que egresa el paciente del servicio y define la fecha de la próxima infusión.Médico Especialista tratante, médico hospitalario o Enfermero Jefe.
+
+Al finalizar la infusión.
+
+Historia Clínica o evolución médica.
+18El enfermero Jefe organiza la Historia clínica y la lleva a facturación en compañía del acudiente para que éste realice los trámites de salida.Enfermero del áreaAl finalizar la infusión
+
+
+Elaborado por:
+Andrea Isabella Bastidas Oviedo. Yecid Garzón Molano
+María Alejandra Hurtado Acosta.
+
+
+Revisado por:
+María Amparo Acosta. PHD. Genética Clínica. Coordinadora Sala de Infusión Pediátrica.
+Enfermera. Fanny Cisneros. Coordinadora de Enfermería Hospital Universitario San José.
+
+LISTA DE CHEQUEO
+
+
+NOMBRE:		 FECHA :  	
+  
+CARGO:		 SERVICIO:  	
+
+
+TABLA N° 11. CONTROL DE EJECUCIÓN
+
+
+Conductas importantesCumplimientoSÍNOOBSERVACIONES1. Genera el listado de pacientes citados para terapia de reemplazo enzimático. Este listado debe contener: Nombres y Apellidos completos, número de historia clínica, fecha y hora de la cita.2. Entrega el listado de pacientes citados al área de estadística.3. Revisa las órdenes médicas previo a la infusión.4. Realiza la nota de ingreso del paciente5. Reclama los medicamentos e insumos en farmacia.6. Procura un acceso venoso periférico permeable , monitoriza e Inicia la infusión del paciente7. Realiza las anotaciones pertinentes en la historia clínica incluyendo, Registro de tratamiento de reemplazo enzimático, control de medicamentos, registro de signos vitales, etc.8. Realiza el cierre del procedimiento de infusión indicando los signos vitales finales y la condición en que se va el paciente.9. Indica al paciente y su acudiente la fecha y hora de la próxima infusión.10. Regresa las estadística.historiasclínicasalserviciode
+
+TABLA N° 12 DE VERIFICACIÓN
+
+CALIFICACIÓNPORCENTAJE DE CUMPLIMIENTONUMERO DE PUNTOSEXCELENTE90% A 100%9-10 puntosBUENO70% A 80%7-8 puntosDEFICIENTEMENOS DE 70 %Menos de 7 puntos
+FIRMAS:
+ENFERMERO  	
+
+
+Elaborado por:
+Andrea Isabella Bastidas Oviedo. Yecid Garzón Molano
+María Alejandra Hurtado Acosta.
+
+
+Revisado por:
+María Amparo Acosta. PHD. Genética Clínica. Coordinadora Sala de Infusión Pediátrica.
+Enfermera. Fanny Cisneros. Coordinadora de Enfermería Hospital Universitario San José.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROTOCOLO DE PREPARACIÓN Y ADMINISTRACIÓN DE MEDICAMENTOS PARA EL TRATAMIENTO DE MUCOPOLISACARIDOSIS.
+
+OBJETIVOS.
+
+
+Disminuir riesgos y complicaciones en la administración de medicamentos para Mucopolisacaridosis.
+Estandarizar la preparación y administración de medicamentos para el tratamiento de Mucopolisacaridosis en la sala de Infusión Pediátrica del Hospital Universitario San José.
+
+ALCANCE
+
+
+Desde: Que se expide la orden médica.
+Hasta: Que se realiza el registro en la Historia Clínica.
+
+
+RESPONSABLE
+
+
+Enfermera(o).
+Químico Farmacéutico de la Central de mezclas de la Farmacia del Hospital Universitario San José
+
+
+REQUERIMIENTOS
+
+
+Legales: Decreto. 1011 de 2006, SOGC;  Res. 1043 de 2006, Habilitación. Anexo Técnico 1 Res. 1445 de 2006, Sistema Único de Acreditación.
+
+Otros: Reglamento interno de la institución; Protocolos establecidos por la institución.
+
+Equipo:
+
+Bandeja con: tapabocas, gorro, guantes limpios, medicamento preparado por la Central de Mezclas del HUSJ (según el tipo de Mucopolisacaridosis), aguja, torundas estériles, alcohol al 70%.
+Guardián.
+Hoja para registro.
+Recipiente para segregación de residuos.
+
+DEFINICIONES
+
+
+La preparación y administración de los medicamentos para el tratamiento de Mucopolisacaridosis debe ser un procedimiento que cumpla con los estándares de las casas productoras debido a que se trata de enzimas vivas que se desnaturalizan y pueden perder fácilmente su función parcial o totalmente. Igualmente la infusión de los mismos es de estricto cumplimiento según las órdenes del médico especialista y solo en caso de reacción de hipersensibilidad debe ser modificado.
+
+RECOMENDACIONES GENERALES
+
+
+Tenga en cuenta el tipo de Mucopolisacaridosis, para cada una se utilizan enzimas diferentes. Es muy importante verificar la fecha de vencimiento, la dosis correcta que dependerá del peso del paciente (seguir orden médica). Recuerde que solo el profesional en Enfermería puede reclamar el medicamento en la farmacia y transportarlo hasta la sala de infusión conservando la cadena de frío.
+
+Es un procedimiento que debe realizarse con técnica aséptica, recordar que son enzimas vivas susceptibles a cualquier tipo de contaminante.
+
+Este tipo de medicamentos se diluyen según la condición del paciente y las recomendaciones de la casa productora. La mayoría de los usuarios presentan patologías cardiacas y no toleran altos volúmenes de líquidos por lo cual se debe diluir el medicamento según orden del médico especialista.
+
+Tenga en cuenta que el medicamento debe permanecer a temperatura ambiente entre 20 y 30 minutos antes de ser preparado y administrado al paciente. Evite que se forme espuma y enváselo lentamente en la jeringa para evitar la alteración de la enzima.
+
+Algunas de estas enzimas se adhieren a la bolsa de solución salina por lo que se debe utilizar buretrol (Siga las recomendaciones de la casa productora) según el tipo de medicamento. Mézclelo lentamente en la bolsa de SSN 0.9%, evite formar espuma. No agite.
+
+La dosis administrada al paciente debe ser exacta y en el tiempo estipulado por el médico especialista. Si el equipo se purga con solución salina y luego se diluye el medicamento, en las primeras horas no se podrá determinar si el paciente hace reacción de hipersensibilidad. El filtro intrapure 0.2 evita el paso de moléculas mayores
+
+a 0.2 micras disminuyendo de manera considerable reacciones relacionadas con el medicamento.
+
+En algunas instituciones no se suministra el equipo de infusión fotosensible por lo cual se debe cubrir con material oscuro para evitar que la luz desnaturalice las enzimas.
+
+Los medicamentos serán preparados en la Central de mezclas de la Farmacia del HUSJ con fórmula realizada por el médico tratante, mínimo 24 horas antes del día de la infusión. Dicha fórmula deberá ser entregada por el Enfermero de turno al Químico Farmacéutico, mínimo con 24 horas de anticipación al inicio de la infusión.
+
+6.9 Los medicamentos se prepararán única y exclusivamente en la Central de Mezclas del Hospital a cargo de un Químico farmacéutico siguiendo estrictamente las normas del INVIMA.
+
+El medicamento ya preparado, será entregado al Enfermero Jefe de turno dentro de los primeros 40 minutos del tiempo asignado para el inicio de la infusión, en bolsa fotoprotectora, debidamente rotulada que incluya: Fecha y hora de preparación, nombre del paciente, nombre del medicamento, concentración, volumen de dilución, número de lote del medicamento preparado y registro INVIMA.
+
+Las etiquetas del medicamento deben ir anexas a la Historia Clínica como soporte de la infusión, por lo anterior, los frascos vacíos del medicamento serán entregados al Enfermero de turno junto con el medicamento ya preparado.
+
+Para que la farmacia del HUSJ pueda llevar a cabo todos los trámites que le corresponden, los medicamentos deberán encontrarse en farmacia mínimo desde el día anterior a la fecha programada para realizar la infusión, con hora límite 5:00 p.m. La entrega deberá ser realizada directamente por funcionarios de la EPS al auxiliar que para tal fin tenga asignado la farmacia.
+
+Dado que los pacientes que se atienden en la Sala de Infusión Pediátrica, son pacientes crónicos, la no colocación de una de las dosis programadas para la terapia de reemplazo enzimático semanal, no representará en ningún caso ordinario un peligro para su vida, en consecuencia, bajo ninguna circunstancia se harán préstamos de medicamentos entre pacientes. Si existe alguna excepción por razón o razones extraordinarias, esta deberá ser realizada con firma de la Subdirección científica del HUSJ, previa autorización del préstamo por parte de los padres o representante legal y de la EPS dueña del medicamento mediante documento firmado por las tres partes.
+
+Las modificaciones extraordinarias en cuanto al día y/hora de infusión de los pacientes, deberán estar previamente autorizadas por la médica coordinadora de la Sala de Infusión Pediátrica. El Enfermero deberá comunicarse el día anterior a la infusión antes de las 5:00 p.m con el Químico Farmacéutico responsable de la preparación del medicamento para informar la novedad, además, es el Enfermero quién llevará la fórmula médica a la farmacia.
+
+La canalización de este tipo de pacientes es complicada por sus características morfológicas propias de la patología. El acceso venoso debe resistir el tiempo y volumen de la infusión (Mínimo cuatro horas) y se debe garantizar un acceso venoso alterno el cual será utilizado en caso de reacción de hipersensibilidad.
+
+Debe utilizarse bomba de infusión para la administración del medicamento. La rata de infusión dependerá de lo ordenado por el médico especialista. El control de los signos vitales debe realizarse estrictamente cada 15 minutos (la sala de infusión debe contar con monitor electrocardiográfico).
+
+
+PRECAUCIONES
+
+
+Con el paciente:
+
+
+Explicar el procedimiento al paciente y/o familiar en menores de edad y pacientes con deterioro mental.
+Administre antihistamínico (Loratadina) según el peso del paciente antes de iniciar la infusión, esto disminuirá la gravedad de las posibles reacciones de hipersensibilidad.
+
+
+Con el equipo:
+
+
+Conocer el funcionamiento del equipo y las instrucciones del fabricante.
+Mantenga al alcance el carro de paro actualizado. Recuerde que el medicamento puede causar reacción de hipersensibilidad.
+Verifique que las balas y/o red de oxígeno se encuentran en adecuadas condiciones.
+
+
+Con el procedimiento:
+
+
+Lea cuidadosamente la orden médica e identifique al paciente.
+
+Vigile constantemente al paciente durante el procedimiento buscando cualquier reacción adversa.
+Informe a tiempo las alteraciones identificadas en la infusión y durante las horas de observación.
+
+
+Seguridad personal: Normas de bioseguridad (mascarilla, gafas, guantes, gorro).
+
+
+TABLA N° 13 DESARROLLO DE ACTIVIDADES
+
+
+
+
+No.
+ACTIVIDADQUIEN LO HACECUANDO LO HACEDOCUMENT O GENERADO
+1Entregar la fórmula médica el día anterior a la infusión programada.Enfermera (o)El día anterior a la infusión. Hora límite 5:00 p.mFórmula médica.
+
+2Recoger el medicamento preparado y llevarlo desde la farmacia hasta la Sala de Infusión conservando la cadena de frío.Enfermera (o)Dentro	de primeros minutos		de llegada paciente.los 40
+ la del
+
+3
+
+Organizar el equipo.
+
+Enfermera (o).
+4Verificar los cinco correctos de la administración de medicamentos antes de iniciar el procedimiento.Enfermera (o).5Explicar el acudiente.procedimientoalpacientey/oEnfermera (o).Antes de iniciar el procedimiento6Lavarse las manos.Enfermera (o).Antes de iniciar el procedimiento
+7
+Administrar el antihistamínico vía oral según el peso del paciente antes de iniciar la infusión.Enfermera (o).Antes de iniciar el procedimiento8Utilizar gorro, tapabocas y guantes limpios.Enfermera (o)9Verificar la permeabilidad de los accesos venosos antes de iniciar la infusión.Enfermera (o).
+10Iniciar la infusión controlando signos vitales
+cada 15 minutos.Enfermera (o).
+
+11Registrar adecuadamente el procedimiento y las posibles reacciones adversas.Enfermera (o).Registro	de notas	de enfermería, tratamiento y signos vitales.
+ANEXOS
+
+
+Protocolo de lavado de manos.
+Protocolo Normas estándar de bioseguridad. Protocolo de segregación de residuos hospitalarios. Guía de preparación de medicamentos Institucional.
+Conocer	indicaciones,	contraindicaciones,	efectos	adversos,	interacciones medicamentosas.
+
+LISTA DE CHEQUEO
+
+
+NOMBRE:	CARGO:	 	
+
+FECHA:	 		SERVICIO:  	
+
+
+TABLA N° 14 CONTROL DE EJECUCIÓN
+
+
+
+CONDUCTAS IMPORTANTESCUMPLIMIENTOSINOOBSERVACION1. Organiza el equipo.2. Lee cuidadosamente las órdenes médicas verificando volumen y rata de infusión.3. Explica el procedimiento al paciente.4. Se lava de las manos.5. Administra el antihistamínico vía oral según el peso del paciente antes de iniciar la infusión.
+6. Recoge el medicamento preparado en farmacia y lo traslada hasta la sala de Infusión Pediátrica conservando la cadena de frío.7. Deja el medicamento al medio ambiente entre 20 a 30 minutos antes de su administración.8. Verifica la permeabilidad de los accesos venosos.9. Tiene el carro de paro cerca del sitio de la infusión actualizado.10. Verifica que las balas y/o red de oxígeno se encuentran en adecuadas condiciones.11. Inicia la administración del medicamento utilizando bomba de infusión y monitorización continua. Goteo según orden médica.12. Registra en la hoja de signos vitales estado del paciente cada 15 minutos.13. Informa a tiempo cualquier tipo de alteración identificada en el paciente durante la infusión.14. Educa al paciente y su familia acerca del procedimiento y las posibles reacciones que puede presentar al medicamento. Entrega el plan de alta.
+
+
+TABLA N° 15 DE VERIFICACIÓN
+
+
+
+CALIFICACIONPORCENTAJE DE CUMPLIMIENTONUMERO DE PUNTOSEXCELENTE94% A 100%16 A 17 PUNTOSBUENO82% A 88%14 A 15 PUNTOSDEFICIENTEMENOS DE 82%MENOS DE 14 PUNTOS
+
+FIRMAS:
+
+
+ENFERMERA:  	
+
+AUXILIAR DE ENFERMERÍA:  	
+
+Elaborado por:
+
+Andrea Isabella Bastidas Oviedo. Yecid Garzón Molano
+María Alejandra Hurtado Acosta.
+
+Revisado por:
+
+María Amparo Acosta. PHD. Genética Clínica. Coordinadora Sala de Infusión Pediátrica.
+Enfermera. Fanny Cisneros. Coordinadora de Enfermería Hospital Universitario San José.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROTOCOLO DE ADMINISTRACIÓN DE MEDICAMENTOS A TRAVÉS DE UN CATÉTER VENOSO SUBCUTÁNEO
+
+OBJETIVOS
+
+
+Administrar el fármaco directamente al torrente circulatorio.
+
+Facilitar una absorción y acción más rápida del medicamento en el organismo y/o en áreas específicas.
+Conservar la funcionalidad del catéter venoso subcutáneo. Evitar infecciones relacionadas al procedimiento.
+
+ALCANCE
+
+
+Desde: Que se expide la orden médica.
+Hasta: Que se hace regístro en la Historia Clínica.
+
+
+RESPONSABLE
+
+Enfermera(o).
+
+REQUERIMIENTOS
+
+
+Legales: Dec. 1011 de 2006, SOGC; Res. 1043 de 2006, Habilitación. Anexo Técnico 1 Res. 1445 de 2006, Sistema Único de Acreditación.
+
+Otros: Reglamento interno de la institución; Protocolos establecidos por la institución.
+
+Equipo:
+
+Bandeja con: Jeringas, agujas, aguja surecan, torundas de algodón, gasas estériles, guantes limpios, guantes estériles, alcohol, isodine espuma y solución (clorhexidina si está disponible), tarjeta de medicamentos, solución salina normal, equipo de infusión, medicamentos, campo estéril, esparadrapo y/o micropore.
+Guardián.
+
+Hoja para registro de resultado, lapicero tinta negra. Recipiente para segregación de residuos.
+
+DEFINICIONES
+
+
+La administración a través de un catéter venoso subcutáneo, es la introducción de una solución, medicamento, sangre o sus derivados directamente al torrente sanguíneo utilizando un reservorio de larga duración implantable.
+
+
+Las frecuentes venopunciones deterioran de forma muy importante el acceso vascular periférico y la extravasación accidental del agente causa con frecuencia celulitis, inflamación de los tejidos blandos e incluso necrosis de estos. A esto se suma el continuo sufrimiento del paciente en terapias prolongadas lo que conlleva a un serio disconfort.
+
+
+Por lo anterior, los catéteres venosos centrales de larga duración son de gran ayuda al disminuir la agresividad de las técnicas y las complicaciones, propiciar la comodidad, mejorar la calidad de vida y reducir costos.
+
+
+Los catéteres venosos centrales de larga duración son catéteres que van a estar implantados durante largo tiempo, y que teóricamente van a presentar menos incidencias de complicaciones trombóticas y de lesiones de la pared vascular.
+
+
+Requieren ser insertados y retirados quirúrgicamente, y el criterio de retirada vendrá dado por el fin de la necesidad por la que fue instaurado o por problemas graves a los que no se pueda dar solución. Constan de un portal o cámara con una membrana de silicona autosellante unido a un catéter tunelizado bajo la piel que se extiende hasta vena cava superior. A este reservorio de accede por punción a través de piel intacta, y permite múltiples punciones.
+
+Algunas indicaciones son: Una vía IV durante un período prolongado (de 3 a 6 meses) o que el paciente carezca de acceso intravenoso periférico disponible, administración repetida y a largo plazo de tratamiento quimioterápico, terapias sistémicas antibacterianas prolongadas, nutrición parenteral total durante largos períodos, acceso a largo plazo, continuo o intermitente, para toma de muestras sanguíneas.
+
+Descripción del dispositivo:
+
+
+Los catéteres tipo reservorio constan de:
+
+    Reservorio.
+Radiopaco y fabricado en titanio (generalmente) o acero inoxidable y polietileno, en su base posee orificios para su fijación en tejido celular subcutáneo.
+    Catéter.
+De silicona o poliuretano, es radiopaco. Los calibres van de 4,5 Fr a 12 Fr. Se inserta en el portal o reservorio a través de la conexión.
+Los reservorios pueden ser de cámara única o doble. Los de doble cámara pueden estar conectados a un catéter de una o dos luces (estos últimos permiten la administración simultánea de fármacos incompatibles entre sí).
+También pueden ser de alto o bajo perfil. Los de bajo perfil (menor grosor) se caracterizan por tener un menor espesor, lo que permite un mejor y amplio uso en niños pequeños y recién nacidos.
+
+    Agujas:
+La utilización de agujas convencionales puede dañar la membrana de silicona del reservorio. Para puncionar el reservorio es necesario utilizar agujas especiales. Con ellas se atraviesa el tejido subcutáneo llegando hasta la cámara que va unida al catéter.
+
+RECOMENDACIONES GENERALES
+
+Cuando el reservorio está en reposo (no está siendo utilizado), la aguja no está insertada. El único cuidado que se requiere es mantener la zona limpia y seca, manipulando lo menos posible en dicha zona y preservando la zona de golpes.
+
+
+Con la mano no dominante, localizar e inmovilizar la cámara del reservorio y sujetarla entre el dedo índice y el pulgar de forma suave pero firme, con el fin de que no se mueva la cámara.
+
+
+Introducir la aguja a través de la piel de forma perpendicular al reservorio. Si desea puede solicitar al paciente que inspire, esto ayudará a mantener la cámara fija.
+
+
+Se notará una pequeña resistencia al atravesar la membrana de silicona; continuar presionando hasta llegar al suelo de la cámara, momento en el que se sentirá que la punta de la aguja toca una zona metálica.
+
+
+Comprobar la permeabilidad del catéter aspirando sangre. Introducir 3-5 ml. de SSN 0.9% a la vez que se gira 360º la aguja en el portal (así se asegurará la correcta limpieza de la cámara, procurando no dejar sangre en la alargadera.
+
+Es necesario heparinizar el catéter después de cada uso y periódicamente cada mes de la siguiente manera: Preparar suero salino heparinizado a una concentración de 20 U.I./ml. (1 ml. de Heparina en 50 ml. de SSN 0.9%). Introducir 3-5 ml. Vigilar signos de sangrado y registrar en la Historia clínica.
+
+
+Retirar la aguja sujetando la cámara para evitar su movilización con el dedo índice y pulgar de la mano no dominante junto con una gasa estéril. Coger la aguja con la mano dominante y, dado un tirón seco hacia fuera perpendicular a la piel extraer la aguja. Presionar ligeramente con la gasa la zona de punción.
+
+
+Colocar apósito estéril en la zona de punción. Puede ser retirado a los 20 min.
+
+
+Durante los primeros quince minutos (15) de administración del medicamento se deben vigilar la aparición de signos de reacción alérgica y/o cambios en el estado hemodinámico.
+
+
+No mezclar dos medicamentos en una misma infusión, puesto que si se presenta una reacción adversa no se puede identificar el medicamento causante.
+
+
+Se debe diluir muy bien el medicamento con la solución y verificar que no haya formación de cristales, ni presencia de solución lechosa. Si al adicionar el disolvente hay formación de espuma se debe dejar en reposo, permitir la reconstitución espontánea del medicamento y luego envasar.
+
+
+No se debe administrar un medicamento cuando: No hay orden médica (OM) escrita (excepto que se encuentre con un paciente en reanimación o trauma y se requiera la administración en forma inmediata); la OM está enmendada, incompleta o confusa; la hoja de OM está errada; se debe verifica con el médico que la escribió; se tiene alguna duda referente a la preparación, forma de administración y/o condiciones físicas, químicas o asépticas del medicamento.
+
+
+La administración de medicamentos exige: conocimiento del estado clínico del paciente; nombre genérico y comercial del medicamento; efectos primarios y secundarios del medicamento; presentación y concentración; dosis terapéutica máxima y mínima; vida media del medicamento en la sangre; metabolismo y forma de eliminación del fármaco; sinergismo y antagonismo del medicamento con otros medicamentos que esté recibiendo el paciente; requerimientos para la conservación de las cualidades físicas y químicas del medicamento. Remitirse a la Guía de Preparación de Medicamentos Institucional.
+
+
+PRECAUCIONES
+
+Con el paciente:
+
+
+Explicar el procedimiento al paciente y/o familiar en menores de edad y pacientes con deterioro mental.
+
+Interrogar al paciente sobre antecedentes alérgicos.
+
+Comprobar que la vía venosa esté correctamente canalizada. No hay signos de edema, eritema y/o dolor en sitio de punción. Si el paciente presenta los anteriores signos y síntomas reubicar la aguja, no es necesario retirarla completamente.
+
+Usar guantes estériles debido a la conexión directa a las vías venosas cardiacas.
+
+Explique al familiar y al paciente la importancia de la higiene que debe mantener para evitar migración bacteriana al torrente sanguíneo a través del catéter.
+
+Recuerde la importancia de interconsultar con cirugía pediátrica cada 6 – 12 meses, con radiografía de tórax previa para determinar las condiciones en las que se encuentra el reservorio subcutáneo.
+
+Estar alerta a signos y síntomas (fiebre, sudoración, hipotensión, cefalea, etc.) que evidencien procesos infecciosos.
+
+Con el equipo:
+
+Alistar los elementos necesarios de acuerdo a la edad del paciente.
+
+Desinfecte diariamente el área donde se prepara los medicamentos con solución de hipoclorito a 5000 ppm (900 cc de agua + 100cc de hipoclorito).
+
+Desinfecte con alcohol al 70% el área y bandejas de preparación de los medicamentos en cada turno o antes si es necesario.
+
+Una vez extraída la jeringuilla de su envase, se debe de seguir conservando la esterilidad del cono y del émbolo, de éste solo se debe de tocar la lengüeta a la hora de manipularlo.
+
+Se debe utilizar dos agujas: una para cargar el medicamento en la jeringuilla y otra para administrarlo, con la manipulación es probable que se pierda la esterilidad.
+
+Purgar adecuadamente el equipo evitando formación de burbujas.
+
+
+Con el procedimiento:
+
+Realizar estricta técnica aséptica: colocarse guantes limpios para la preparación del medicamento y del área a puncionar. Posteriormente para introducir la aguja, utilizar guantes estériles.
+
+Verificar siempre los cinco correctos.
+
+Una vez terminada la infusión lavar con solución salina y heparinizada como se explicó anteriormente.
+
+Comprobar la permeabilidad de   la vía venosa mediante la aspiración y/o retorno del flujo de sangre antes de cada administración.
+
+Inyectar previamente en el interior del vial un volumen de aire igual al volumen de la sustancia que albergan para poder extraer sin dificultad su contenido.
+
+Leer siempre las instrucciones previas a la preparación para conocer cómo se debe realizar la mezcla, la cantidad de disolvente que se precisa, si se puede desechar o no parte de éste y cuál es su composición, etc.
+
+El antiséptico más recomendable es el alcohol etílico al 70%. Su eficacia es del 90% si se deja dos minutos, mientras que si se hace una friega rápida es del 75%, además es incoloro, ello nos permitirá observar con mayor facilidad cualquier posible complicación (eritemas, sangrado, etc.).
+
+Fijar la aguja adecuadamente con micropore y/o esparadrapo para evitar desplazamiento de la misma y extravasación de la mezcla.
+
+El equipo de infusión no debe hallarse al alcance del paciente y de ser posible, colocarle seguro a la bomba de infusión para que no haya manipulación accidental o intencional.
+
+Seguridad personal:
+
+Lavado de manos, guantes, mascarilla. Solo se requiere blusa y gorro en pacientes inmunocomprometidos, inmunodeprimidos e infectados con organismos multiresistentes.
+
+TABLA N° 16 DESARROLLO DE ACTIVIDADES
+
+
+No.ACTIVIDADQUIEN LO HACECUANDO LO HACEDOCUMENTO GENERADO
+1Explicar el procedimiento al paciente y/o familiar.Enfermera(o).Antes	de
+iniciar	el procedimiento.2Limpiar y desinfectar el área de preparación de los medicamentos.Enfermera(o).
+
+
+3
+
+
+Organizar el equipo.
+
+
+Enfermera(o).Cuando		al paciente se le prescribe		el medicamento para	ser administrado por	vía
+endovenosa.4Colocarse la mascarilla.Enfermera(o).
+5Lavarse las manos.Enfermera(o).Antes	de
+envasar	el medicamento.
+6Verificar   la identidad del paciente aplicando los cinco correctos: paciente, medicamento, dosis, vía ordenada, y horario correcto.Enfermera(o).Antes	de
+proceder	a
+realizar	el procedimiento.
+
+7
+
+Colocarse guantes estériles.
+
+Enfermera (o)Antes	de
+proceder	a
+realizar	el procedimiento.
+
+8Preparar el medicamento según las indicaciones médicas y edad del paciente. Purgar el equipo de infusión por bomba.
+
+Enfermera (o)Cada vez que se		administre medicamento a	un	nuevo paciente.
+
+9
+Limpiar el área de inserción del catéter con isodine espuma, isodine solución y alcohol. (utilizar clorhexidina si está disponible)
+
+
+Enfermera(o).Antes	de
+canalizar	el catéter venosos subcutáneo.
+
+
+10
+
+Cambiar los guantes. Utilizar estériles.
+
+
+Enfermera(o).Antes	de
+canalizar	el catéter venosos subcutáneo.
+
+11Purgar la aguja surecan con SSN 0.9% y dejar sobre un campo estéril.
+
+
+Enfermera(o).Antes	de
+canalizar	el catéter venosos subcutáneo.
+
+12Localizar e inmovilizar la cámara del reservorio y sujetarla entre el dedo índice y el pulgar de forma suave pero firme con la mano no dominante. Solicitar al paciente que inspire si considera necesario.Enfermera (o)Antes	de
+canalizar	el catéter venosos subcutáneo.
+13Introducir la aguja a través de la piel de forma perpendicular al reservorio. Continuar presionando hasta llegar al suelo de la cámara, momento en el que se sentirá que la
+punta de la aguja toca una zona metálicaEnfermera (o)
+14Aspirar el catéter para determinar permeabilidad del mismo. Lavar con SSN 0.9% de 3 a 5 ml. Girar 360º la aguja en el portal.Enfermera (o)Antes	de administrar el medicamento o solución.
+15Cubrir con gasa estéril la aguja surecan y fijar con micropore y/o esparadrapo.Enfermera (o)Antes	de administrar el medicamento o solución.
+16Conectar la aguja al equipo de infusión ya purgado.Enfermera (o)
+17Observar signos y síntomas de extravasación de la solución.Enfermera (o)18Si hay edema, eritema y/o dolor reubicar la aguja. No es necesario retirarla.Enfermera(o).19Iniciar la infusión a la rata determinada según el fin terapéutico.Enfermera(o).20Al terminar la infusión preparar suero salino
+heparinizado a una concentración de 20 U.I./ml. (1 ml. de Heparina en 50 ml. de SSNEnfermera (o)Al finalizar la infusión.
+0.9%). Introducir 3-5 ml. Vigilar signos de
+sangrado.
+
+21Retirar la aguja sujetando la cámara para evitar su movilización con el dedo índice y pulgar de la mano no dominante junto con una gasa estéril. Coger la aguja con la mano dominante y, dando un tirón seco hacia fuera
+perpendicular a la piel extraer la aguja.Enfermera (o)22Presionar ligeramente con la gasa la zona de
+punción.Enfermera (o)23Colocar apósito estéril en la zona de punción.Enfermera (o)24
+Lavarse las manosEnfermera (o)Al finalizar la infusión.
+25
+
+Registrar en la Historia ClínicaRegistro Notas de Enfermería, Sabana UCI, UCINT.
+
+ANEXOS
+Protocolo de lavado de manos y fricción antiséptica con alcohol glicerinado. Protocolo Normas estándar de bioseguridad.
+Protocolo de segregación de residuos hospitalarios. Guía de preparación de medicamentos Institucional.
+
+Elaborado por:
+
+Andrea Isabella Bastidas Oviedo. Yecid Garzón Molano
+María Alejandra Hurtado Acosta.
+
+Revisado por:
+
+María   Amparo   Acosta.   PHD.   Genética   Clínica.   Coordinadora	Sala de Infusión Pediátrica.
+Enfermera. Fanny Cisneros. Coordinadora de Enfermería Hospital Universitario San José.
+
+LISTA DE CHEQUEO
+
+
+
+NOMBRE:	CARGO:	 	
+
+FECHA:	 		SERVICIO:  	
+
+
+TABLA N° 17 CONTROL DE EJECUCIÓN
+
+
+CONDUCTAS IMPORTANTESCUMPLIMIENTOSINOOBSERVACION1. Explica el procedimiento al paciente y/o familiar.2. Limpia y desinfecta el área de preparación de los medicamentos.3. Organiza el equipo.4. Se coloca la mascarilla.5. Se lava las manos.6. Verifica	la identidad del paciente aplicando los cinco correctos: paciente, medicamento, dosis, vía ordenada, y horario correcto.
+
+7. Se coloca guantes estériles.8. Prepara el medicamento según las indicaciones médicas y edad del paciente. Purga el equipo de infusión por bomba.9. Limpia el área de inserción del catéter con isodine espuma, isodine solución y alcohol. (utiliza clorhexidina si está disponible).10. Cambia los guantes. Utiliza estériles.11. Purga la aguja surecan con SSN 0.9% y la deja sobre un campo estéril.12. Localiza e inmoviliza la cámara del reservorio y la sujeta entre el dedo índice y el pulgar de forma suave pero firme con la mano no dominante. Solicita al paciente que inspire si considera necesario.13. Introduce la aguja a través de la piel de forma perpendicular al
+reservorio. Continua presionando hasta llegar al suelo de la cámara,
+momento en el que siente que la punta de la aguja toca una zona
+metálica.14. Aspira el catéter para determinar permeabilidad del mismo. Lava con SSN 0.9% de 3 a 5 ml. Gira 360º la aguja en el portal.15. Cubre con gasa estéril la aguja surecan y la fija con micropore y/o
+esparadrapo.16. Conecta la aguja al equipo de infusión ya purgado.17. Observa signos y síntomas de extravasación de la solución.18. Si hay edema, eritema y/o dolor reubica la aguja. No es necesario retirarla.19. Inicia la infusión a la rata determinada según el fin terapéutico.20. Al terminar la infusión prepara suero salino heparinizado a una concentración de 20 U.I./ml. (1 ml. de Heparina en 50 ml. de SSN
+0.9%). Introduce 3-5 ml. Vigila signos de sangrado.21. Retira la aguja sujetando la cámara para evitar su movilización con el dedo índice y pulgar de la mano no dominante junto con una gasa estéril. Coge la aguja con la mano dominante y, dando un tirón seco
+hacia fuera perpendicular a la piel extrae la aguja.22. Presiona ligeramente con la gasa la zona de punción.23. Coloca apósito estéril en la zona de punción.24. Se lava las manos.25. Registra en la Historia Clínica.
+
+TABLA N°18 DE VERIFICACIÓN
+
+
+CALIFICACIONPORCENTAJE DE CUMPLIMIENTONUMERO DE PUNTOSEXCELENTE96% A 100%24 A 25 PUNTOSBUENO88% A 92%22 A 23 PUNTOSDEFICIENTEMENOS DE 88%MENOS DE 22 PUNTOS
+
+
+
+FIRMAS:
+
+
+
+ENFERMERA:  	
+
+
+
+AUXILIAR DE ENFERMERÍA:  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROTOCOLO CÓDIGO AZUL
+
+OBJETIVOS
+
+
+Realizar una guía de manejo de la reanimación cerebro cardio-pulmonar en la Sala de Infusión Pediátrica para optimizar el trabajo del personal de la salud y la sobrevida de los pacientes que presentan un paro cardio respiratorio.
+
+ALCANCE
+
+Desde: La activación del código azul.
+Hasta: La decisión medica de terminar labores de resucitación.
+
+RESPONSABLE
+
+Médicos, Fisioterapeuta respiratorio, Enfermera(o), Auxiliar de Enfermería.
+
+
+REQUERIMIENTOS
+
+Legales:
+Dec. N°. 1011 de 2006, SOGC.
+Anexo Técnico No.1 de la Res. N°. 1043 de 2006, Habilitación. Res. N°. 1445 de 2006, Sistema Único de Acreditación.
+
+Otros: Reglamento interno de la institución; Protocolos establecidos por la institución.
+
+
+Equipo:
+
+Bomba de vacío para aspiración.
+Monitor de signos vitales con sus accesorios.
+Carro de paro completamente equipado con desfibrilador. Electrodos.
+
+DEFINICIONES
+
+El código azul es un sistema de alarma que implica el manejo de los pacientes en paro cardio-respiratorio por un grupo entrenado, con funciones previamente asignadas, con lo cual el procedimiento se efectúa en el menor tiempo posible y con coordinación entre todos ellos, logrando así la mejor eficiencia y la reducción de la morbi–mortalidad de los pacientes que se encuentren en paro cardio-respiratorio.
+
+El código azul es un llamado de alerta del equipo o del personal a cargo de la atención del paciente cuando se identifica una situación en la cual el paciente está en condición inminente de paro cardiorespiratorio o en paro respiratorio y/o cardiaco.
+
+El código azul es:
+
+Una señal de alarma. Un llamado de urgencia.
+Actitud obsesiva por salvar una vida. Unión de esfuerzos.
+Trabajo en equipo.
+Un examen de conocimientos.
+
+El código azul sirve para:
+
+Trabajar organizados. Asumir responsabilidades.
+Mantener área designada organizada. Optimizar los recursos.
+Autoaprender.
+
+Enfermero No.1: es el enfermero que tiene asignado el paciente que requiere código azul.
+Enfermero No. 2: es el enfermero de la sala de Pediatría que se encuentra de turno, que por asignación tiene a su cargo el carro de emergencia.
+Auxiliar No. 1: es el auxiliar de enfermería de la sala de Pediatría que tiene la asignación de las camas conjuntas a la sala de Infusión.
+Médico No. 1: es el médico especialista o el médico que atiende el llamado de activación del código azul de acuerdo a la disponibilidad del servicio en el momento, y es quien dirige el código (voz de mando), y decide cuando terminar la reanimación.
+Médico No. 2: es el médico especialista, médico hospitalario, médico residente o médico Interno de turno quien sirve de apoyo al médico No. 1.
+Fisioterapeuta Respiratorio: es el Fisioterapeuta que está de turno en la Sala de Pediatría.
+
+RECOMENDACIONES GENERALES
+
+Atienda inmediatamente el código e Interrumpa lo que está realizando ante el llamado. Realice las actividades según la asignación correspondiente.
+No interrumpa su función hasta que el médico o quien dirige la reanimación lo solicite. Guarde absoluto silencio.
+Evite dar órdenes repetidas, innecesarias y contradictorias. Si es la voz de respuesta, conteste a las órdenes firmemente.
+Mantenga activada la cadena verbal de la administración de medicamentos.
+
+Mantener una actitud de respeto y discreción hacia el paciente y hacia el equipo de salud que interviene en el código. Evite comentarios inadecuados en el área de código azul.
+
+Evalúe el proceso del código azul para tomar correctivos si es necesario.
+
+La evaluación la realizará el grupo de personas que participó en el código azul.
+
+En ausencia del médico asumirá la voz de mando la persona con entrenamiento en RCCP (Enfermera(o) o Fisioterapeuta respiratorio).
+
+PRECAUCIONES CON EL PACIENTE:
+
+Evitar reanimar en presencia de familiares. Maniobrar con la puerta abierta.
+Vociferar los errores cometidos. Dar contraórdenes.
+Suspender las maniobras sin autorización de quien dirige.
+
+Con el equipo:
+
+Verificar al iniciar el turno que los equipos de reanimación se encuentren en perfecto estado y funcionando.
+Reponer de inmediato los insumos y medicamentos agotados del carro de paro.
+
+Con el procedimiento:
+
+Acudir a la voz de alerta dada por el personal del equipo de salud.
+
+Responder cuanto se escuche la señal de alarma o llamado de urgencia, en menos de 20 segundos.
+
+
+Evitar:
+
+Ingresar si no está autorizado.
+
+Realizar funciones que no le correspondan.
+
+Dar órdenes si no está dirigiendo las maniobras de reanimación. Estorbar.
+
+Seguridad personal:
+
+Todo el personal del equipo de salud que participe en el código, sin excepción debe portar los elementos de bioseguridad básicos.
+
+Todo paciente debe manejarse como posible riesgo de contacto y se debe cumplir con las normas estándar de bioseguridad.
+
+
+TABLA N°19 DESARROLLO DE ACTIVIDADES
+
+No.ACTIVIDADQUIEN LO HACECUANDO LO HACEDOCUMENTO GENERADO1Comprobar si el paciente responde y si respira o no respira con normalidad.Cualquier persona	del equipo de salud que detecte que el paciente está en paro.Cuando	el
+paciente	no
+responde,	no
+respira	y
+disminuyen los parámetros hemodinámicos y ventilatorios.
+2
+Activar el sistema de código azul.3Dar órdenes médicas y dirigir acciones del código.
+
+
+Médico No. 1Durante		el reconocimiento inmediato	del paro cardíaco.4Intubar al paciente, si es necesario.
+5Participar en el relevo de las maniobras de resucitación.Cada 2 minutos.
+
+6Dar masaje cardiaco, si es necesario.
+
+
+
+
+Médico No. 2Durante		el reconocimiento inmediato	del paro cardíaco.7Aplicar descargas eléctricas si procede.Al comprobar el ritmo cardiaco.8Realizar los respectivos registros en la HCAl culminar la reanimación.9Pasar las Cánulas de Guedell.
+
+
+
+
+
+
+
+
+Fisioterapeuta Respiratorio.
+
+
+
+
+
+Durante		el reconocimiento inmediato	del paro cardíaco.10Pre oxigenar al paciente con sistema bolsa- válvula-máscara o bolsa-válvula- tubo.11Pasar el laringoscopio montado.12Pasar el tubo endotraqueal listo con el balón probado.13Asistir al médico durante la intubación.14Pasar el aspirador de secreciones probado y con sonda lista.15Participar en el relevo de las maniobras de resucitación.Cada 2 minutos.16Dejar todo en orden al culminar la reanimaciónAl culminar la reanimación.17Realizar los respectivos registros en la HC18Administrar los medicamentos y responder en voz alta el nombre del medicamento.
+
+
+
+
+Enfermera(o) No. 1.Durante	la reanimación.19Participar en el relevo de las maniobras de resucitación.Cada 2 minutos.20Dejar todo en orden al culminar la reanimaciónAl culminar la reanimación.
+21Realizar los respectivos registros en la HC22Tomar EKG 12 derivaciones, si es necesario.Durante	la reanimación.23Preparar medicamentos EV ó Intraóseo y expresar verbalmente medicamento listo.24Programar el desfibrilador según orden médicaAl comprobar el ritmo cardiaco.
+25Supervisar el cumplimiento de las funciones asignadas al auxiliar de enfermería.
+
+
+
+
+Enfermera(o) No. 2Durante	la reanimación.26Participar en el relevo de las maniobras de resucitación.Cada 2 minutos.27Reponer los insumos y medicamentos	con formula médica y solicitar un nuevo candado.Al culminar la reanimación.
+28Registrar en la relación: el INVIMA, la fecha de vencimiento de los insumos y medicamentos que se cambiaron.29Monitorizar al paciente.
+
+
+
+
+
+
+
+
+
+
+
+
+Auxiliar No. 1Siempre.30Administrar líquidos endovenosos.Durante	la reanimación.31Vigilar permeabilidad de venopunción.32Preparar y administrar goteos especiales.33Participar en el relevo de las maniobras de resucitación.Cada 2 minutos.34Dejar todo en orden al culminar la reanimaciónAl culminar la reanimación.35Realizar los respectivos registros en la HC.36Canalizar vena, tomar muestras de sangre y enviarlas al laboratorio.Durante	la reanimación.37Participar en el relevo de las maniobras de resucitación.Cada 2 minutos.38Ejecutar las órdenes medicas y de enfermeríaDurante	la reanimación.
+39Dejar todo en orden al culminar la reanimaciónAl culminar la reanimación.Registro diario de atención en UCI, UCINT, Historia Clínica.
+
+ANEXOS
+
+Protocolo de lavado de manos.
+Protocolo Normas estándar de bioseguridad. Protocolo de segregación de residuos hospitalarios.
+
+Elaborado por:
+
+Andrea Isabella Bastidas Oviedo. Yecid Garzón Molano
+María Alejandra Hurtado Acosta.
+
+
+Revisado por:
+María Amparo Acosta. PHD. Genética Clínica. Coordinadora Sala de Infusión Pediátrica.
+Enfermera. Fanny Cisneros. Coordinadora de Enfermería Hospital Universitario San José.
+
+
+
+ElaboróYISSEL OSPINO P.
+
+MARIO GERMAN PALACIOS P.RevisóFANNY CISNEROSAprobóCargoEnfermera(o) UCI, UCINT.CargoEnfermera CoordinadoraCargoFirmaFirmaFirmaFechaMayo de 2011FechaMayo de 2011Fecha
+LISTA DE CHEQUEO
+
+
+NOMBRE:	CARGO:
+
+
+FECHA:	 		SERVICIO: -
+
+
+
+TABLA N°20 CONTROL DE EJECUCIÓN
+
+
+
+CONDUCTAS IMPORTANTESCUMPLIMIENTOSINOOBSERVACIONCualquier persona del equipo de salud que detecte que el paciente está en paro.1.	Comprueba si el paciente responde y si respira o no
+respira con normalidad.2.	Activa el sistema de código azul.Médico No. 13.	Da órdenes médicas y dirige acciones del código.4.	Intuba al paciente, si es necesario.5.	Participa en el relevo de las maniobras de resucitación.Médico No. 26.	Da masaje cardiaco, si es necesario.7.	Aplica descargas eléctricas si procede.8.	Realiza los respectivos registros en la Historia Clínica.Fisioterapeuta respiratorio9.	Pasa las Cánulas de Guedell.10. Pre oxigena al paciente con sistema bolsa-válvula-
+máscara o bolsa-válvula- tubo.
+11. Pasa el laringoscopio montado.12. Pasa el tubo endotraqueal listo con el balón probado.13. Asiste al médico durante la intubación.14. Pasa el aspirador de secreciones probado y con sonda
+lista.15. Participa en el relevo de las maniobras de resucitación.16. Deja todo en orden al culminar la reanimación.17. Realiza los respectivos registros en la HC.Enfermera(o) No. 1.18. Administra los medicamentos y responde en voz alta el
+nombre del medicamento.19. Participa en el relevo de las maniobras de resucitación.20. Deja todo en orden al culminar la reanimación.21. Realiza los respectivos registros en la HC.Enfermera(o) No. 222. Toma EKG 12 derivaciones, si es necesario.23. Prepara medicamentos EV o Intraóseo y expresa
+verbalmente medicamento listo.24. Programa el desfibrilador según orden médica.25. Supervisa el cumplimiento de las funciones asignadas
+al auxiliar de enfermería.26. Participa en el relevo de las maniobras de resucitación.27. Repone los insumos y medicamentos	con formula
+médica y solicita un nuevo candado.28. Registra en la relación: el INVIMA, la fecha de vencimiento de los insumos y medicamentos	que se
+cambiaron.Auxiliar No. 129. Monitoriza al paciente.30. Administra líquidos endovenosos.
+31. Vigila permeabilidad de venopunción32. Prepara y administra goteos especiales.33. Participa en el relevo de las maniobras de resucitación.34. Deja todo en orden al culminar la reanimación.35. Realiza los respectivos registros en la HC.36. Canaliza vena, toma muestras de sangre y las envía al
+laboratorio37. Participa en el relevo de las maniobras de resucitación.38. Ejecuta las órdenes médicas y de enfermería.39. Deja todo en orden al culminar la reanimación.
+
+TABLA N° 21 DE VERIFICACIÓN
+
+CALIFICACIÓNPORCENTAJE DE
+CUMPLIMIENTONUMERO DE PUNTOSEXCELENTE97 % A 100%38 A 39 PUNTOSBUENO92% A % 9536 A 37 PUNTOSDEFICIENTEMENOS DE 92%MENOS DE 36 PUNTOS
+
+FIRMAS:
+
+
+ENFERMERA:  	
+
+
+
+AUXILIAR DE ENFERMERÍA:  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROCESO DE MANEJO DE RESIDUOS Y ROPA CONTAMINADA EN LA SALA DE INFUSIÓN PEDIÁTRICA
+
+OBJETIVO DEL PROCEDIMIENTO
+
+Realizar en forma estandarizada el proceso de manejo de residuos orgánicos, reciclables y biológicos, además el manejo de la ropa contaminada al finalizar el tratamiento en la Sala de Infusión Pediátrica.
+
+Asignar las actividades a realizar por cada uno de las personas relacionadas con el proceso.
+
+Procurar un ambiente aséptico para los pacientes programados.
+
+ALCANCE
+
+Desde: que el paciente inicia la terapia de reemplazo enzimático.
+Hasta: que el paciente egresa de la Sala de Infusión.
+
+RESPONSABLE
+Enfermero de la sala SIP Personal de lavandería. Personal de aseo.
+
+REQUERIMIENTOS
+
+Cuarto de manejo intermedio de residuos. Depósito de ropa sucia.
+Depósito de ropa limpia.
+
+
+DEFINICIONES
+
+
+Sala de infusión Pediátrica: La sala de Infusión pediátrica es un servicio del Hospital Universitario San José en donde se realizan tratamientos de reemplazo enzimático a pacientes con alteraciones genéticas diagnosticados por médicos especialistas y en donde son monitorizados electrocardiográficamente y se vigila constantemente la saturación durante todo el procedimiento. Estas infusiones ameritan entre 5 a 6 horas
+
+en donde el paciente además del tratamiento recibe terapia ocupacional y pedagógica. Dichos pacientes tienen compromiso de su sistema inmunológico, por lo cual son susceptibles a cualquier tipo de sustancia exógena en el ambiente en donde se encuentran ocasionando graves daños en su salud.
+
+RECOMENDACIONES GENERALES
+
+
+El personal de aseo de la Institución, deberá realizar la limpieza diaria de la Sala de Infusión Pediátrica de manera prolija, como lo requiere el servicio y el tipo de pacientes atendidos. La basura orgánica y reciclable se deberá recoger al final de la última infusión del día y la basura de riesgo biológico deberá recogerse al finalizar cada infusión, es decir, cada 6 horas.
+
+De ninguna manera se podrá cerrar la sala después de la última infusión con la basura aún en los recipientes de depósito inicial.
+
+Los desechos deben ser llevados al cuarto de depósito intermedio según protocolo Institucional.
+
+Debido a que en la Sala de Infusión no se atienden pacientes todos los días, el Coordinador del servicio de Aseo del HUSJ utilizará la copia de las llaves de la sala entregadas previamente para realizar el aseo diario. La custodia de las llaves lo hará responsable junto con el personal de salud que labora en este servicio por el daño o pérdida de lo que se encuentra en la sala de infusión.
+
+Al finalizar la última infusión del día, la ropa utilizada será depositada en el recipiente de la ropa sucia de la Sala de Infusión ubicada en el mismo lugar que la sala de Pediatría. Esta deberá ser entregada a las 7:00 a.m de los días programados para las terapias de reemplazo enzimático, debidamente lavada al Enfermero Jefe de la Sala de Infusión Pediátrica. De ninguna manera la ropa limpia podrá ser recibida por el personal de enfermería de la sala de Pediatría.
+
+
+INDICACIONES
+
+El adecuado manejo de los residuos orgánicos, reciclables y biológicos, además de mantener ropa limpia en la sala de Infusión Pediátrica disminuye en una gran proporción los riesgos a los que se somete un paciente con este tipo de terapia de reemplazo enzimático.
+
+TABLA N° 22 DESARROLLO DE ACTIVIDADES
+
+
+
+DESCRIPCIÓN DE ACTIVIDADES
+No
+ACTIVIDADQUIEN LO DEBE HACERCUANDO LO DEBE HACERDOCUMENTO GENERADO1Limpieza diaria y prolija de la Sala de Infusión Pediátrica.Personal de aseo HUSJ.Diariamente
+2Retiro de desechos orgánicos, reciclables y biológicos de la sala de infusión Pediátrica al terminar cada infusión y al finalizar el día.Personal de aseo HUSJ.Diariamente
+.
+3Depósito de la ropa contaminada en el cuarto destinado al finalizar la infusión.Enfermero Jefe.Al finalizar el día de infusiones.
+4Entrega de la ropa limpia al enfermero Jefe de la Sala de Infusión a las 7:00 a.mPersonal de lavandería.Antes de iniciar la infusión.
+
+Elaborado por:
+
+Andrea Isabella Bastidas Oviedo. Yecid Garzón Molano
+María Alejandra Hurtado Acosta.
+
+Revisado por:
+
+María   Amparo   Acosta.   PHD.	Genética Clínica. Coordinadora Sala de Infusión Pediátrica.
+Enfermera. Fanny Cisneros. Coordinadora de Enfermería Hospital Universitario San José.
+
+LISTA DE CHEQUEO
+
+
+NOMBRE:	 		 FECHA	:  		
+
+CARGO:		 SERVICIO:  		
+
+
+
+TABLA N° 23 CONTROL DE EJECUCIÓN
+
+
+Conductas importantesCumplimientoSÍNOOBSERVACIONES11. Revisa diariamente que los depósitos iniciales de los residuos de la Sala de Infusión Pediátrica sean recolectados al terminar cada infusión (residuos biológicos) y al finalizar la última infusión del día (residuos orgánicos y reciclables).12. Coloca la ropa sucia en el recipiente adecuado y en el cuarto asignado al finalizar la última infusión programada.13. Recibe la ropa limpia al personal de lavandería antes de iniciar la primera infusión del día.
+
+TABLA N° 24 DE VERIFICACIÓN
+
+
+CALIFICACIÓNPORCENTAJE DE
+CUMPLIMIENTONUMERO DE PUNTOSEXCELENTE90% A 100%9-10 puntosBUENO70% A 80%7-8 puntosDEFICIENTEMENOS DE 70 %Menos de 7 puntos
+
+FIRMAS:
+
+ENFERMERO  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

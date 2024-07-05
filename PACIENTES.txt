@@ -1,0 +1,545 @@
+﻿
+
+
+
+
+
+PACIENTES ATENDIDOS EN LA CONSULTA DE HABILITACION INFANTIL DE LA FUNDACIÓN HOSPITAL LA MISERICORDIA.
+1992-2008
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEIBY ALEXANDRA SÁNCHEZ CALLEJAS CÓDIGO 597931
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNIVERSIDAD NACIONAL DE COLOMBIA FACULTAD DE MEDICINA
+DEPARTAMENTO DE MEDICINA FÍSICA Y REHABILITACIÓN 2010
+
+
+
+PACIENTES ATENDIDOS EN LA CONSULTA DE HABILITACION INFANTIL DE LA FUNDACIÓN HOSPITAL LA MISERICORDIA.
+1992-2008
+
+
+
+
+
+
+
+HEIBY ALEXANDRA SÁNCHEZ CALLEJAS CODIGO 597931
+
+
+
+
+
+
+Trabajo de grado presentado para optar al título de ESPECIALISTA EN MEDICINA FÍSICA Y REHABILITACIÓN
+
+
+
+
+
+
+
+       DIRIGIDO POR: DORIS VALENCIA VALENCIA
+
+
+
+
+
+
+
+UNIVERSIDAD NACIONAL DE COLOMBIA FACULTAD DE MEDICINA
+Bogotá, 2010
+
+
+
+
+
+CONTENIDO
+
+
+RESUMEN INTRODUCCIÓN
+1. EL PROBLEMA
+1.1 PLANTEAMIENTO
+1.2 OBJETIVO GENERAL
+1.3 OBJETIVOS ESPECÍFICOS
+1.4 JUSTIFICACIÓN
+1.5 POBLACIÓN
+1.6 METODOLOGÍA
+1.7 RECURSOS
+1.8 CONSIDERACIONES ÉTICAS
+2. MARCO REFERENCIAL
+3. RESULTADOS
+3.1 CARACTERÍSTICAS DEMOGRÁFICAS
+3.2 ANTECEDENTES PRENATALES
+3.3 CONDICIONES PERINATALES
+3.4 DIAGNOSTICOS POSTNATALES
+3.5 VALORACIÓN CLÍNICA
+3.6 OTROS DIAGNÓSTICOS
+4. DISCUSIÓN
+5. CONCLUSIONES
+6. RECOMENDACIONES BIBLIOGRAFÍA ANEXOS
+
+
+
+
+
+RESUMEN
+
+
+Objetivo. Describir en el grupo de pacientes atendido en la consulta de habilitación infantil características generales, morbilidad y discapacidad asociadas.
+Pacientes, materiales y métodos. Estudio descriptivo retrospectivo de corte transversal de 937 pacientes, edades entre 0-17 años, atendidos en consulta externa del servicio de habilitación infantil en la Fundación Hospital la Misericordia entre enero del 1992 y diciembre del 2008. Se utilizo información registrada en los formatos de historia clínica y evaluación establecidos por el servicio durante el período evaluado. Se determinaron variables de trabajo, de acuerdo a su importancia para la determinación de alteraciones del neurodesarrollo.
+Resultados. Se evaluaron 937 formatos de historia clínica. Distribución por género fue 60,62% hombres y   39.38% mujeres. Distribución por grupo etario 57.52% de los pacientes fueron menores de 1 año, predominando el género masculino en la mayoría de los grupos etarios. Los antecedentes prenatales más frecuentes: 27.86% normales, 10.86% infección urinaria, 8.36% síndromes hipertensivos. Edad gestacional: 78.87% nacidos a término y 20.6% pretérminos, de los cuales 0.48% fueron pretérminos extremos; 59.55% de pacientes nacieron por parto vaginal, 31.8% por cesárea. Diagnósticos postnatales más frecuentes: secuelas encefalopatía hipóxico isquémica 16.33%, malformaciones del sistema nervioso central 13.66% y alto riesgo neurológico 10.35%. Diagnósticos de rehabilitación más frecuentes: alteración auditiva 18.04%, alteración mixta del neurodesarrollo 17.6% y alteración musculoesquelética en extremidades 16.9%. Se realizaron análisis adicionales para los pacientes prematuros.
+Conclusiones: El grupo de pacientes evaluado con alteraciones del neurodesarrollo, presenta antecedentes, características generales y morbilidad similares a los datos reportados en la literatura disponible.
+
+
+
+
+
+INTRODUCCIÓN
+
+
+El auge de los últimos años en nuestro país de motivar la prevención como base del funcionamiento del sistema de salud actual colombiano, ha provocado un cambio en el manejo de pacientes pediátricos que presentan alteraciones en el desarrollo neurológico esperado para la edad, y de aquellos clasificados muy genéricamente como de alto riesgo neurológico.
+
+
+En los últimos años se han elaborado nuevas leyes, normas y decretos encaminados a la prevención, la detección temprana y el manejo interdisciplinario para éste grupo de pacientes. Es así como en Colombia, la especialidad de Medicina física y rehabilitación viene abriéndose campo en la implementación de servicios y programas de atención temprana en alteraciones del neurodesarrollo; campo que en otros países, aún latinoamericanos siguen siendo desarrollados por otras especialidades (1).
+
+
+El conocimiento de las características generales de los pacientes tratados en los diferentes centros de referencia, crea las bases para la orientación de la atención, el manejo y seguimiento; armonizando el ejercicio profesional y enriqueciendo la experiencia del grupo médico.
+
+
+Por lo anteriormente expuesto, el presente estudio se planteó como el primer intento en caracterizar de manera general, un numeroso grupo de pacientes atendido en los últimos 16 años, servicio de habilitación infantil establecido en la Fundación Hospital de la Misericordia, en convenio académico con la Universidad Nacional de Colombia; el cual enfatiza la atención de pacientes con alteraciones en el neurodesarrollo.
+
+
+
+
+
+1. EL PROBLEMA
+
+
+1.1 PLANTEAMIENTO
+
+
+Es necesario establecer de manera objetiva las características generales de los pacientes atendidos, evaluados y tratados en los servicios de habilitación infantil; al igual que obtener datos estadísticos sobre factores de riesgo, etiologías, comorbilidades, grados de compromiso funcional y las discapacidades asociadas.
+
+
+1.2 OBJETIVO GENERAL
+
+
+Describir en el grupo de pacientes atendidos en el servicio de habilitación pediátrica, sus características generales, morbilidad y discapacidad asociadas, con el propósito de establecer datos objetivos que permitan posteriormente, unificar criterios y métodos de evaluación, e implementar guías de manejo que orienten a los profesionales que conforman el equipo de habilitación en la análisis, manejo y seguimiento de los pacientes con el fin de mejorar su calidad de vida.
+
+
+1.3 OBJETIVOS ESPECÍFICOS
+
+
+• Establecer las características generales de los pacientes atendidos en el servicio.
+• Analizar el grado de compromiso neurológico de los pacientes mediante la clasificación topográfica, características de tono y uso de escalas establecidas por el servicio.
+• Conocer la morbilidad asociada en los pacientes y sus frecuencias.
+• Determinar los diagnósticos más frecuentemente derivados de la consulta rehabilitación.
+• Evaluar la calidad de los registros en los formatos de historia clínica usados en el servicio.
+
+
+
+
+
+1.4 JUSTIFICACIÓN
+
+
+La Fundación Hospital de la Misericordia fue fundado en 1897 como el primer hospital pediátrico colombiano. Es una IPS de atención pediátrica especializada, de referencia a nivel nacional, que atiende población entre los 0 y 17 años, de todos los estratos socieoeconómicos, predominando estratos 1, 2 y 3; con mayores convenios contractuales con empresas de salud de Bogotá, Cundinamarca y Boyacá.
+
+
+Dentro del amplio portafolio de servicio que presta la institución, el servicio de habilitación infantil funciona hace más de una década, atendiendo pacientes principalmente referidos de especialidades como pediatría, ortopedia, neuropediatría, oncología, entre otros; teniendo como énfasis de su consulta la prevención y detección temprana de alteraciones en el neurodesarrollo.
+
+
+Debido a la alta referencia de pacientes al servicio de fisiatría infantil de mucha partes del país, se hace necesario identificar las características generales de los pacientes atendidos, los antecedentes relevantes a problemas del neurodesarrollo y las patologías que más frecuentemente originan remisión al servicio; con el fin de mejorar los registros, unificar métodos de evaluación y optimizar la toma de decisiones y tratamientos.
+
+
+1.5 POBLACIÓN
+
+
+Para la realización del presente estudio, se incluyeron pacientes atendidos en la consulta externa del servicio de habilitación infantil de la Fundación Hospital de la misericordia entre enero de 1992 y diciembre del 2008, con edades entre 0 y 17 años, pertenecientes a todos los estratos socioeconómicos y procedentes de Bogotá, Cundinamarca y otros lugares de referencia del país; a quienes se les diligenció el formato de historia clínica y evaluación, establecido por el jefe del servicio durante el período de tiempo estudiado.
+1.6 METODOLOGÍA
+
+
+
+
+
+Se realizo el presente estudio de tipo descriptivo, retrospectivo, de corte transversal.   Se utilizó   la información registrada en los formatos de historia clínica y evaluación de primera consulta del servicio, empleados en el servicio durante el tiempo estudiado; estableciéndose por la directora y autora del trabajo, los datos de registro requeridos y las variables a manejar, teniendo en cuenta las de mayor relevancia para la prevención y determinación de alteraciones en el neurodesarrollo.
+La información obtenida de la revisión de los formatos de historia clínica, fue registrada y consolidada en una base de datos de Excel; posteriormente se realizó una depuración de la misma, con lo cual se realizó la cuantificación de datos y cruce de variables mediante tablas y gráficos dinámicos en Excel. Se elaboró un análisis final de los resultados obtenidos.
+
+
+1.7 RECURSOS
+
+
+• Recursos humanos: Docente jefe del departamento, médicos residentes de fisiatría rotantes por la unidad de habilitación infantil del hospital de la Misericordia en los años evaluados.
+• Recursos físicos: Servicio de consulta externa del Hospital de la Misericordia, papelería de formatos de historias clínicas y de evaluación del servicio de habilitación infantil.
+
+
+1.8 CONSIDERACIONES ÉTICAS
+
+
+La población incluida en el presente estudio corresponde a menores de edad, algunos con variado grado de discapacidad física y cognitiva, razón por la cual se obtuvo autorización para la realización del mismo y uso de información de historias clínicas por la Fundación Hospital de la Misericordia; adicionalmente, cuenta con la aprobación del comité de ética médica de la Facultad de medicina de la Universidad Nacional de Colombia.
+
+
+
+Todos los pacientes que son atendidos en el servicio de rehabilitación infantil cuentan con una autorización escrita y consentimiento informado firmado por los padres o acudientes para la inclusión al programa de Habilitación Pediátrica de la unidad.
+
+
+
+
+
+2. MARCO REFERENCIAL
+
+
+El desarrollo infantil es un proceso gradual, progresivo, dinámico y complejo, siendo el resultado de la interacción entre la maduración biológica, la interacción social y experiencias específicas del aprendizaje. El desarrollo armónico de nuestras estructuras neurológicas permiten que a través de la especialización neuronal y la mielinización de las vías nerviosas, el nuevo ser humano vaya adquiriendo habilidades perceptivas, motrices, cognitivas, lingüísticas y sociales(10).
+
+
+El desarrollo infantil presenta unas etapas en las cuales es mayor la vulnerabilidad del sistema nervioso central (SNC) a las diferentes noxas que pueden presentarse, ellas son: la etapa intrauterina (organogénesis e instauración de primeras funciones) y los primeros tres años de vida. Las noxas que pueden influenciar de forma desfavorable los procesos madurativos nerviosos son de diversos tipos: factores genéticos de características predeterminadas o específicas y factores ambientales tanto biológicos como psicosociales (13).
+
+
+Desde el nacimiento hasta la edad adulta el SNC mantiene una constante interrelación entre los procesos madurativos, su vulnerabilidad y los procesos de plasticidad neuronal; del equilibrio de ésta relación va a depender el resultado final del proceso madurativo. En los trastornos del neurodesarrollo las secuelas permanentes van a depender de la severidad, el tipo y tiempo de exposición a una noxa o varias noxas (9).
+
+
+Los trastornos del neurodesarrollo están definidos como alteraciones significativas del proceso de desarrollo neurológico, comprometiendo el avance del individuo dentro de los parámetros de normalidad establecidos para la población. Es así como la atención temprana, la detección del grado de compromiso y un manejo idóneo y responsable, se convierten en las armas de la medicina para hacerle frente a una potencial alteración neurológica permanente.
+
+
+
+La atención temprana consiste en conocer y establecer una serie de riesgos pre, peri y postnatales, que hace al paciente pediátrico susceptible (de “alto riesgo neurológico”; una vez establecidos los riesgos se deben instaurar estrategias y acciones con el fin potenciar la plasticidad cerebral característica en los niños, previniendo así alteraciones permanentes. Por otro lado, ante la evidencia de alteraciones ya establecidas, se debe prever la aparición de complicaciones asociadas que empobrezcan a largo plazo la calidad de vida del paciente.
+
+
+Se deben tener claros, por supuesto, las definiciones de deficiencia y discapacidad en el pacientes pediátrico, para poder orientar la intervención habilitadora. La DEFICIENCIA se define como “ la carencia o mal funcionamiento de un órgano, que se constata principalmente en el recién nacido (RN), y discapacidad es la ausencia o restricción de cierta capacidad para hacer, sentir o expresar algo; por tanto esta definición está más en consonancia con el desarrollo de funciones, y por eso se manifiesta en edades posteriores a la neonatológica” (4).
+
+
+La parálisis cerebral debe considerarse, más que como una entidad única, como un grupo de síndromes que puede comprometer todos los aspectos del neurodesarrollo, siendo predominante su la alteración de las habilidades motoras. Se relaciona con alteraciones durante el proceso de desarrollo y debe considerarse secuelar a lesiones permanente, claramente no progresivas, del SNC (16). Se ha establecido su fuerte relación con varias entidades, siendo las más importantes: la prematurez, el bajo peso al nacer, la hipoxia perinatal, noxas infecciosas y metabólicas (8).
+
+
+
+
+
+
+
+3. RESULTADOS
+
+
+Se determinaron 26 datos de historia clínica de importancia para el registro, se incluyeron historias clínicas que tuvieran 15 o más de los datos definidos para incluirse en la en base de datos. Se revisaron 1100 formatos de historias clínicas de pacientes atendidos entre enero de 1992 a diciembre del 2008; luego de la depuración de formatos se dejaron para el análisis estadístico 937 pacientes y 20 variables (ver Anexo 1).
+
+
+3.1CARACTERÍSTICAS DEMOGRÁFICAS
+
+
+Los formatos de historia clínica usados para análisis se tomaron de un período de 16 años (ver tabla 1), para efectos de análisis se agruparon en períodos de 4 años así: 35.54% correspondieron al período 1992-1995, 27.96% a 1996-1999, 15.05%
+a 2000-2003 y el 21.45% a 2004-2008.
+
+Tabla 1. Distribución del grupo de pacientes por año de primera consulta en el servicio de habilitación infantil Fundación HOMI
+
+AÑO DE CONSULTANÚMERO DE PACIENTESPORCENTAJE1992-199533335.541996-199926227.962000-200314115.052004-200820121.45TOTAL937100
+
+La distribución de los pacientes evaluados según el lugar de procedencia fue la siguiente (ver tabla 2): Bogotá D.C el 70.12%, Tolima-Huila el 7.58%, Cundinamarca 5.55%, Boyacá 4.91% y otros lugares de procedencia el 8,86%; sin información el 2,99%.
+
+
+
+Tabla 2. Distribución del grupo de pacientes por lugar de procedencia.
+
+LUGAR DE PROCEDENCIANÚMERO DE PACIENTESPORCENTAJEBOGOTÁ D.C65770,12OTROS LUGARES838,88TOLIMA-HUILA717,58CUNDINAMARCA525,55BOYACÁ464,91SIN INFORMACIÓN282,99TOTAL937100
+
+Para el total de registros pacientes analizado (n=937), 568 pertenecían al género masculino y 369 al género femenino, correspondiendo al 60,62% y 39.38% respectivamente (Gráfico 1).
+Gráfico 1. Distribución del grupo de pacientes por género
+
+
+
+
+En la distribución por grupos etarios (ver tabla 3) el 57,52% de pacientes al momento de la consulta era menor de 12 meses, 27,32% se encontraba en el grupo de 13 a 24 meses, 5.34% tenía 25 a 36 meses, 2.24% 37 a 48 meses,
+2.77% 49 a 60 meses y mayores de 60 meses correspondió al 4,80% de los pacientes.
+
+
+
+
+
+Tabla 3. Distribución del grupo de pacientes analizado por grupos etarios.
+
+GRUPO ETARIONÚMERO DE PACIENTESPORCENTAJEMenores de 12 meses53957,5213 a 24meses25627,3225 a 36 meses505.3437 a 48 meses212.2449 a 60 meses262.77Mayores de 60 meses454.8TOTAL937100
+
+Al realizarse la distribución de pacientes por género según los grupos etarios (ver Gráfico 2) se evidenció un predominio del género masculino en la mayoría de los grupos por edad.
+Gráfico 2. Distribución de pacientes por género según el grupo etario.
+
+
+
+
+3.2 ANTECEDENTES PRENATALES
+
+
+En cuanto a los antecedentes prenatales en 655 pacientes (69.68%) se encontró ésta información registrada, algunos con más de un antecedente prenatal de
+
+
+
+relevancia para el trabajo, con una ausencia de información en 282 formatos de historia clínica (30.09%).
+
+
+Respecto al grupo de pacientes en quien se encontró registro del dato (ver gráfico 3), 365 (55.73%) no registraban antecedentes patológicos durante la gestación;
+290 (44.2%) registraban antecedentes prenatales de relevancia para riesgo neurológico, siendo dentro de los 655 registros obtenidos los mas frecuentes: las infecciones del tracto urinario en 30.69% (201 pacientes), síndromes hipertensivos durante el embarazo 16.03% (105 pacientes) y sufrimiento fetal por diversas causas con 16.03% (85 pacientes).
+Gráfico 3. Distribución de frecuencias de antecedentes prenatales en el grupo de pacientes con registro en formato de historia clínica. Se presentan los 10 más frecuentes. El dato desconocido corresponde a pacientes adoptados o bajo custodia del Estado, en quien el acudiente no conoce información, pero se encuentra registro en historia clínica.
+
+
+
+
+3.3 CONDICIONES PERINATALES
+
+
+En el grupo de pacientes el 739 nacieron a término (78,87%), 193 (20,6%) nacieron antes de cumplir las 37 semanas de gestación; en 5 formatos no se encontró dato (0.53%). Al realizarse la distribución de los registros por edad gestacional en semanas al momento del nacimiento (ver gráfico 4) un 87.24% nació entre la semana 37 a la 42, 11.96% nació antes de la semana 37 con 0.43% tuvo un parto antes de la semana 27 de gestación; los registros en ésta variable tuvieron un mayor porcentaje de ausencia de dato 4.8%.
+
+
+
+Con fines descriptivos se realizó el análisis de parto a término y pretermino según género (ver gráfico 5), encontrandose predominio del género masculino en el grupo de prématuros.
+Gráfico 4. Distribución de los registros por edad gestacional en semanas al momento del nacimiento.
+
+
+
+Gráfico 5. Distribución de parto a término-pretérmino según género.
+
+
+
+La forma de parto predominante en el grupo total de pacientes fue la vaginal sin requerimiento de instrumentación correspondiendo a 59.55% (n=558), seguida del 31.8% nacidos por cesárea (n=298), 3.42% por parto vaginal instrumentado (n=32), el 1.6% con información registrada como dato desconocido (n=15); en el 3.63% no se encontraba dato registrado (n=34).
+
+
+
+En la tabla 4 se presenta la distribución por peso al nacer del grupo de pacientes, el mayor porcentaje de pacientes (60.41%) mostró un peso normal al nacer (entre 2500 y 3500grs), peso bajo (entre 1000 y 2499grs) correspondió al 18.04%, extremos (menores de 1000grs) 1.81%, macrosomicos (mayor de 3500grs) el 2.77%, con información registrada como desconocida 0.85%; porcentaje de pacientes sin información registrada 16.12%. Se realizó el análisis de frecuencias de la variable adaptación neonatal dependiendo la necesidad de conducir o asistir al paciente en el proceso, predominaron los pacientes que presentaron una adaptación espontánea al nacer 51.23%, requerimiento de oxígeno 14.09% y ventilación mecánica el 11.21%; un importante porcentaje de ausencia de resgistro se dio para ésta variable 22.2% (ver tabla 5).   Con fines descriptivos se realizó cruce entre variables de peso al nacer y necesidad de oxígeno o ventilación mecánica durante la adaptación neonatal, el gráfico 6 muestra la distribución de frecuencias.
+Tabla 4. Distribución del grupo de pacientes según peso al nacer.
+
+PESO AL NACERNÚMERO DE PACIENTESPORCENTAJENORMAL (2500-3500gr)56660,41BAJO PESO (1000-2499gr)16918,08NO INFORMACIÓN15116,12MACROSOMÍA (mayor de 3500gr)262,77EXTREMOS (menores de 1000grs)171,81INFORMACIÓN DESCONOCIDA80.85TOTAL937100
+
+Tabla 5. Distribución del grupo de pacientes según forma de adaptación neonatal.
+
+ADAPTACIÓN NEONATALNÚMERO DE PACIENTESPORCENTAJEESPONTÁNEA48051,23NO INFORMACIÓN20822,2OXÍGENO13214,09VENTILACIÓN MECÁNICA10511,21INFORMACIÓN DESCONOCIDA121,28TOTAL937100
+
+
+Gráfico 6. Distribución en el grupo de pacientes de la forma de adaptación neonatal, según el peso al nacer. Se tomaron los pacientes con datos de las dos variables.
+
+
+
+
+3.4 DIAGNÓSTICOS POSTNATALES
+
+
+Se tomaron en cuenta los registros de diagnósticos postnatales con relevancia para alteraciones neurológicas (ver gráfico 7 muestra los 10 diagnósticos de mayor frecuencia en el grupo de pacientes), encontrando en mayor frecuencia: secuelas de encefalopatía hipóxico-isquémica 16.33%, malformaciones del SNC 16.01% y alto riesgo neurológico 10.35%.
+
+
+Para el grupo de prematuros se realizó la distribución de diagnósticos postnatales específico (ver gráfico 8), siendo los más frecuentes: las secuelas de encefalopatía hipoxico isquémica 25.91% (n=50), PC 10.36% (n=20) y alto riesgo neurológico como diagnóstico único 9.33% (n=18).
+
+
+
+Gráfico 7.	Distribución de pacientes según diagnósticos postnatales.	Se presentan los 10 diagnósticos de mayor frecuencia.
+
+
+
+
+Gráfico 8. Distribución de pacientes prematuros según diagnósticos postnatales. Se presentan los 10 diagnósticos de mayor frecuencia.
+
+
+
+3.5 VALORACIÓN CLÍNICA
+
+Como parte de la evalución clínica que se realiza durante la consulta de habilitación infantil se tuvieron en cuenta varias variables: valoración del tono según método propuesto por Claudine Tison (17), la distribución topográfica del compromiso motor, diagnóstico según edad neurológica vs. Cronológica por
+
+
+
+escala de Munich aplicada en niños con edad neurológica menor o igual a 12m y diagnóstico de severidad de la alteración en el neurodesarrollo dado por el cálculo del coeficiente de desarrollo, aplicado a todas las edades. Los gráficos 9, 10, 11 y 12 muestran las distribuciones por procentajes.
+Gráfico 9. Distribución del grupo de pacientes según la clasificación del tono muscular por hallazgos en la valoración inicial del servicio, por método de C. Tison.
+
+
+
+Gráfico 10. Distribución del grupo de pacientes según la clasificación topográfica del compromiso motor por hallazgos en la valoración inicial del servicio.
+
+
+
+
+Gráfico 11. Distribución del grupo de pacientes con edad neurológica menor o igual a 12meses según el diagnóstico de la alteración en el neurodesarrollo, según escala de Munich.
+
+
+
+Gráfico 12. Distribución del grupo de pacientes total según el grado de severidad del trastorno del neurodesarrollo, calculado por el coeficiente de desarrollo.
+
+
+Para fines de asociación y explorar los hallazgos de la evaluación clínica y con el uso de instrumentos cualitativos y cuantitativos para neurodesarrollo, se realizaron asociaciones de algunas variables. Se realizó la distribución de los pacientes según la localización del compromiso motor, comparándola con los hallazgos en el tono muscular; se calculó para el grupo de pacientes con registro de las dos variables (ver gráfico 13). En los pacientes sin focalización motora al exámen físico predominó el tono normal 25.46% (n=209), presentando alteraciones inespecíficas del tono en un 35.81% (n=294); para los pacientes con paraparesia predominó la hipotonía 2.07% (n=17); en pacientes con hemiparesia el tipo espástico fue el de mayor porcentaje 8.89% (n=73); pacientes con cuadriparesia y diplejia el tipo espástico fue el más frecuente, 12.79% (n=105) y 0.73% (n=6) respectivamente.
+
+
+
+Gráfico 13. Distribución de los pacientes según la clasificación topográfica del compromiso motor, comparándola con los hallazgos en el tono muscular. Se calculó para el grupo de pacientes con registro de las dos variables.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.6 OTROS DIAGNÓSTICOS
+
+
+Se realizaron frecuencias de otros diagnósticos asociados a los diagnósticos de riesgo neurológico (ver gráfico 14), en los pacientes evaluados que tenían registro de ésta variable (40.76%, n=382); los que predominaron fueron: displasia y otras patologías de cadera 32.72% (n=125), desnutrición crónica en 24.35% (n=93) y microcefalia 24.35% (n=33).
+
+
+Se evalúo la distribución del diagnóstico de epilepsia en el grupo de pacientes, como variable aislada obteniendose que un 20.70% tenían diagnóstico de epilepsia de diversos tipos (n=194); en el 0.64% no se encontró registro de ésta información (n=6).
+
+
+Se elaboró la distribución de diagnósticos derivados de la consulta de habilitación infantil (ver gráfico 15), en el grupo de pacientes explorado con registro de la información en ésta variable (91,56%, n=858), encontrando el mayor porcentaje para alteraciones auditivas de varios tipos en el 18,04% de los pacientes (n=169), seguido por alteraciones mixtas de neurodesarrollo en el 17,6% (n=151) y alteraciones musculoesqueléticas en extremidades en el 16.9% (n=145).
+
+
+
+Gráfico 14. Distribución de los pacientes según diagnósticos asociados.	Se calculó para los pacientes con registro de la variable. Se presentan los 10 diagnósticos más frecuentes.
+
+
+
+
+
+Gráfico 15. Distribución de los pacientes según diagnósticos derivados del servicio de habilitación infantil. Se calculó para los pacientes con registro de la variable.
+
+
+
+
+
+
+
+
+4. DISCUSIÓN
+
+
+En la evaluación y análisis general de la consulta de un servicio de habilitación es difícil establecer un homogenización de pacientes y datos, si se tiene en cuenta el espectro etiológico tan amplio   que comprenden los trastornos del neurodesarrollo; a pesar de esto, se debe considerar el haber logrado describir el grupo de pacientes mediante variables importantes en el análisis de los pacientes con éstos trastornos. Por otro lado, el número de total de pacientes evaluados fue grande, al compararse con otros estudios realizados en servicios de rehabilitación infantil de centros de referencia publicados (5, 6, 9, 10).
+
+
+El estudio presenta limitaciones con respecto al nivel de evidencia de los resultados, que son inherentes al de diseño y metodología, cuando se usa información de pacientes atendidos en centros de referencia y no muestras poblacionales; sin embargo no es despreciable el período de tiempo analizado y la trayectoria de éste servicio en el ámbito nacional.
+
+
+En el grupo de pacientes presentó un predominio del grupo etario menor de 1 año; el género masculino también fue predominante en el grupo total de pacientes y en la distribución por grupos etarios.
+
+
+La mayor parte de los pacientes no presentaban antecedentes prenatales relevantes. En los pacientes con antecedentes prenatales positivos las condiciones más frecuentes fueron la infección del tracto urinario, los síndromes hipertensivos y el sufrimiento fetal; hallazgos similares a los datos publicados por otros autores (3, 5, 8, 9). La edad materna por encima de los 35 años de edad durante la gestación, presentó una frecuencia de presentación relevante en el grupo evaluado; éste antecedente se menciona en algunas publicaciones pero con una menor representación en los grupos estudiados (5, 9,15, 16). Para nuestro medio es importante evaluar como posible causa de ésta alta frecuencia, la multiparidad en las mujeres, la cual es mucho mayor que en países industrializados.
+
+
+
+Los diagnósticos postnatales más frecuentes fueron la encefalopatía hipoxico- isquémica y malformaciones del SNC, predominio que se relaciona con la literatura disponible (5, 6, 9, 15, 17); un tercer diagnóstico es el alto riesgo neurológico que para efectos del estudio fue tomado como registrado en historia clínica, sin embargo debe evaluarse para posteriores estudios los criterios diagnósticos y de definición de caso para considerarlo como diagnóstico postnatal aislado.
+
+
+Respecto a las variables usadas para evaluación clínica, basadas en las herramientas utilizadas en el servicio: en la clasificación topográfica de las alteraciones motoras se encontró predominio de pacientes normales, pero al ser relacionadas con la valoración del tono muscular, un porcentaje importante de pacientes presentaba cambios inespecíficos del tono, lo que podría relacionarse con el mayor porcentaje de pacientes pertenecientes a los grupos etarios menores de 12 meses, considerándose como pacientes en el período de “duda”, en el cual los hallazgos al examen físico no tienen un valor predictivo de persistencia del trastorno luego de éste período (15,18). También debe tenerse en cuenta las dificultades claras existentes para la evaluación de tono muscular en niños, asociado a las diferencias interevaluador y en personas en entrenamiento con experiencia escasa (médicos residentes). En el resto de pacientes predomino el compromiso tipo cuadriparesia y hemiparesia espástica, lo que se correlaciona con la literatura (4,5,8,12). La medida de coeficiente de desarrollo fue el instrumento de registro más constante en el grupo de pacientes, con un predominio de diagnóstico de trastornos del neurodesarrollo moderados, que por ser una medida numérica podría considerarse información más objetiva; sin embargo su valor pronóstico en edades tempranas es aún debatido.(2, 14, 18).
+
+
+Las comorbilidades asociadas de mayor frecuencia fueron la desnutrición crónica y las patologías de la cadera. La epilepsia estuvo presente en el 20.7% de los pacientes, se han reportado frecuencias hasta el 42% (4, 5, 9).
+
+
+Los diagnósticos derivados de la consulta de rehabilitación predominaron las alteraciones auditivas y las alteraciones mixtas del neurodesarrollo, relacionándose con lo reportado por otros autores; sin embargo la frecuencia fue más alta en nuestra muestra, en otras series las alteraciones visuales han sido más frecuentes (5, 9, 15). Lo anterior puede relacionarse con los protocolos de tamizaje usados en el servicio de habilitación, con acceso y conocimientos de
+
+
+
+electrofisiología que hace más constante la toma de estudios para descartar hipoacusia. Por otro lado, las alteraciones musculoesqueléticas de columna y extremidades tuvieron una frecuencia importante en el grupo de pacientes, lo cual debe tenerse en cuenta para iniciar acercamientos entre los servicios de habilitación y ortopedia infantil para unificar protocolos de manejo y seguimiento en estos pacientes.
+
+
+En los pacientes prematuros del grupo se evidenció un predomino el género masculino con mayores frecuencias de requerimientos de adaptación neonatal conducida y asistida; formas de adaptación a la vez asociadas con bajo peso al nacer (menor de 2500gr) y haciéndose más evidente en los prematuros con pesos menores de 1000grs. Lo anterior se correlaciona con datos bibliográficos. (7, 8, 4,5, 17, 18).
+
+
+En los pacientes prematuros del grupo evaluado, los diagnósticos postnatales de mayor frecuencia fueron la encefalopatía hipóxico-isquémica, PC y las malformaciones del sistema nervioso central diferentes a la hidrocefalia; otros autores han reportado la asociación de prematurez con encefalopatía hipóxico- isquémica y mayor riesgo de secuelas neurológicas permanentes permanentes (4, 5, 17, 18).
+
+
+.Este estudio abre muchos interrogantes para trabajos futuros, con diseños metodológicos más estrictos, mejores definiciones de casos y evaluación de patologías específicas.
+
+
+
+
+
+
+
+5. CONCLUSIONES
+
+
+• El grupo de pacientes evaluado presenta múltiples factores pre, peri y postnatales relacionadas con alteraciones del neurodesarrollo y alto riesgo neurológico.
+• El grupo de pacientes evaluado en la consulta externa de habilitación infantil de la Fundación HOMI, durante el período de enero 1992 y diciembre 2008, presenta características demográficas y generales similares a las reportadas en la literatura disponible.
+• A pesar de contar con formatos de historia clínica para la evaluación y seguimiento de los pacientes, se presenta un subregistro importante en el servicio.
+
+
+
+
+
+
+
+6. RECOMENDACIONES
+
+
+• Estímular el conocimiento de las características generales de los pacientes atendidos en los diferentes servicios y especialidades médicas sirve de base para orientar la atención y manejo de los mismos.
+• Implementar el uso de herramientas de evaluación y seguimiento en los diferentes servicios, con el fin de unificar criterios y lograr datos objetivos de las poblaciones atendidas en los diferentes centros de referencia que realizan consulta de habilitación infantil.
+• Analizar los criterios de selección de las variables a utilizar en los instrumentos de evaluación, para incluir aquellas que tengan mayor evidencia para prevención, evaluación, diagnostico temprano, toma decisiones y seguimiento de los pacientes con alteraciones del neurodesarrollo.
+• Evaluar en el equipo de trabajo las posibles causas de subregistro de información durante el ejercicio médico y buscar soluciones que estimulen el diligenciamiento correcto y completo de los formatos de historia clínica.
+
+
+
+
+
+
+
+BIBLIOGRAFÍA
+
+
+1. Aguilar, E. El programa NAR, una iniciativa iberoamericana para prevenir los trastornos del desarrollo y la discapacidad intelectual. Fuente: INTERPSIQUIS 2007.
+2. Alvarez, M. Desnutrición infantil, coeficiente de desarrollo y su relación con el medio ambiente: estudio piloto. Rev. Saúde. Púb. 1991; 25 (4): 282-288.
+3. Aneja, S. Evaluation on a child with cerebral palsy. Indian. J. Pediactric. 2004; 71 (7): 627-634.
+4. Arizcun-Pineda, J. Aspectos neonatológicos y factores de riesgo en atención temprana. Rev. Neurol 2002; 34 (S1): S 136-139.
+5. Bringas-Grande, A. Parálisis cerebral infantil: estudio de 250 casos. Rev. neurol, 2000, 35 (9): 812-817.
+6. Farmer, J. Treating neurodevelopmental disabilities: clinical research and practice. Editorial The Guilford press. 2006.
+7. Lin, J. The cerebral palsies: a physiological approach. J. Neurol. Neurosurg. Psychiatric. 2003. 74: 23-29.
+8. López- Gómez, L. Evaluación precoz de la hipoxia perinatal: Marcadores pronósticos. Rev. Neurol, 2000; 31: 1136-42.
+9. Miller, F. Cerebral palsy. Editorial Springer. 2005.
+
+10. Olhweiler, L. Estudio del desarrollo psicomotor en pacientes prematuros durante el primer año de vida. Rev. Neurol. 2002; 35 (8): 727-730.
+11. Pascual, J.M. Parálisis cerebral: factores de riesgo prenatales. Revista de neurología 2003, 37: 275 – 280.
+12. Ponte, J y cols. Libro de atención temprana Grupo de atención temprana. España.
+13. Reddihough, D. The epidemiology and causes in cerebral palsy. Australia Journal of physiotherapy 2003, 49: 7 – 12.
+
+
+
+14. Rice, P. Desarrollo humano: studio del ciclo vital. Segunda edición. Editorial Pearson- Prentice Hall 2000. Madrid.
+15. Rodríguez-Barrionuevo, A.C. Clínica de la parálisis infantil. Rev. Neurol 2001; 2 (1): 225-235.
+16. Sankar, C.	Cerebral palsy: definition, calssification, etiology and early dagnosis. Indian. J. Pediactric. 2005; 72 (10): 865-868.
+17. Tison, C. Neurología perinatal. Editorial Masson 2001. Madrid.
+
+18. Tison, C. Vigilancia neurológica durante el primer año de vida. Editorial Masson 1998. Madrid
+
+
+
+
+
+ANEXOS
+
+
+Anexo 1. Variables depuradas para análisis.
+
+VARIABLES PARA ANÁLISISOBSERVACIONES1. Año de consulta2. Prematurez3. Género4. Grupo etário5. Procedencia6. Edad gestacional al nacimiento7. Manera de parto8. Antecedentes prenatales9. Peso al nacer10. Adaptación neonatal11. Diagnóstico	por	escala	de MunichEn pacientes con edad menor o igual a 12 mesesneurológica12.Grado	de	severidad	por coeficiente de desarrollo (CD)Para todas las edades13. Diagnóstico de epilepsia14.Diagnósticos postnatales15. Diagnósticos asociados16. Diagnósticos de la consulta de habilitación infantil

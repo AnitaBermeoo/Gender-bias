@@ -1,0 +1,362 @@
+﻿REVISIÓN
+
+
+Rehabilitación de las funciones ejecutivas
+J.M. Muñoz-Céspedes a,b, J. Tirapu-Ustárroz c
+
+
+REHABILITATION PROGRAMS OF EXECUTIVE FUNCTIONS
+Summary. Introduction. The executive functions are the high level functions that more studies have generated. These functions comprise a whole of cognitive abilities related to novelty problem solving. So, it includes: goal selection, planning, initiation of activity, self regulation and use of feed-back. There are many papers about the definition of executive functions and about their deficits in different pathologies. However, only exist a few works about the possibility of recovering of these functions and the elaboration of programs of cognitive rehabilitation. Aim and method. The aim of this report is to review the main rehabilitation programs of executive functions and to adapt them to our culture and context from a theoretical-practice perspective. In spite of the utility of these programs we make a reflection on their limitations. In this sense, we emphasized the oversight of emotional aspects involved in decision making. Besides, new directions for the investigation in this area are pointed out. [REV NEUROL 2004; 38: 656-63]
+Key words. Cognitive rehabilitation. Disexecutive syndrome. Executive functions. Problem solving. Social reasoning.
+
+
+INTRODUCCIÓN
+El espectacular avance de las neurociencias, en general, y de la neuropsicología, en particular, se ha acompañado de un crecien- te interés por comprender las funciones y los sustratos neurales de los procesos cognitivos más complejos.
+   En esta línea, podemos afirmar que en los últimos años los investigadores han roto con el dualismo cartesiano que ha inun- dado la investigación durante siglos para sentar una premisa fundamental: todo lo que somos y hacemos responde a pautas de actividad cerebral. Así, la investigación se ha embarcado a la búsqueda de ‘El Dorado’; de aquello que nos hace más radical- mente humanos y que refleja más nuestra especificidad; el sus- trato neural y la manera de operar de aspectos tan complejos como el razonamiento, la toma de decisiones, la resolución de problemas (RP), el juicio social y ético o la conciencia.
+   Dentro de las funciones cognitivas de alto nivel –o funcio- nes corticales superiores en la terminología de Luria [1]–, entre las que más profusión de artículos e investigación han genera- do, figuran las denominadas funciones ejecutivas (FE). Las FE se han definido como los procesos que asocian ideas, movi- mientos y acciones simples y los orientan hacia la resolución de situaciones complejas. Lezak [2,3], considerada como la autora que acuñó este concepto, definió las FE como las capacidades para llevar a cabo una conducta eficaz, creativa y socialmente aceptada. A su vez, Sholberg y Mateer [4] consideran que las FE abarcan una serie de procesos cognitivos entre los que desta- can la anticipación, la elección de objetivos, la planificación, la selección de la conducta, la autorregulación, el autocontrol y el uso de realimentación (feedback).
+   En términos genéricos, pues, las FE hacen referencia a una constelación de capacidades cognitivas implicadas en la resolu- ción de situaciones novedosas, imprevistas o cambiantes y, de for- ma consensuada, pueden agruparse en una serie de componentes:
+
+Recibido: 09.09.03. Aceptado tras revisión externa sin modificaciones: 02.12.03.
+a Unidad de Daño Cerebral. Hospital Beata M.ª Ana. b Departamento de Psicología Básica (Procesos Cognitivos). Universidad Complutense de Ma- drid. Madrid. c Servicio de Neuropsicología. Clínica Ubarmin. Elcano, Na- varra, España.
+Correspondencia: Dr. J.M. Muñoz Céspedes. Unidad de Daño Cerebral. Hospital Beata M.ª Ana. Vaquerías, 7. E-28007 Madrid. E-mail: jmcespedes@ correo.cop.es.
+c 2004, REVISTA DE NEUROLOGÍA
+– 
+Las capacidades necesarias para formular metas.
+– Las facultades implicadas en la planificación de los proce- sos y las estrategias para lograr los objetivos.
+– Las habilidades implicadas en la ejecución de los planes.
+– El reconocimiento del logro/no logro y de la necesidad de al- terar la actividad, detenerla y generar nuevos planes de acción.
+
+De hecho, nos encontramos con nuevos conceptos que, aunque formulados en un lenguaje ‘más cibernético’, no se alejan de- masiado de viejas definiciones, como la prototípica de la psico- logía cognitivoconductual, cuando se refería a las técnicas de RP: definir el problema, plantear posibles alternativas, aplicar el plan, valorar el resultado e introducir alternativas correctoras si el resultado no es adecuado. Asimismo, parece que en la actua- lidad todos los profesionales que se dedican a temas como la discapacidad intelectual están de acuerdo en definir la inteligen- cia como ‘la capacidad para resolver situaciones novedosas de forma adaptativa’, con lo que se han distanciado definitivamen- te de la clásica relación entre el nivel cultural y la inteligencia y se ha acercado mucho más este concepto al de FE [5].
+   A su vez, y en un contexto más clínico, se ha acuñado el tér- mino de síndrome disejecutivo (SD) para definir una constela- ción de alteraciones cognitivoconductuales relacionadas con la afectación de las FE y que comprende los siguientes elementos:
+1. Dificultad para centrarse en una tarea y finalizarla sin un control ambiental externo.
+2. Presencia de un comportamiento rígido, perseverante, a ve- ces con conductas estereotipadas.
+3. Dificultades en el establecimiento de nuevos repertorios conductuales junto con una falta de capacidad para utilizar estrategias operativas.
+4. Limitaciones en la productividad y la creatividad con falta de flexibilidad cognitiva [6].
+
+Por último, la conducta de las personas afectadas por alteracio- nes en el funcionamiento ejecutivo pone de manifiesto una inca- pacidad para la abstracción y dificultades para anticipar las con- secuencias de su comportamiento.
+   Como se observa, demasiada multiplicidad de manifestacio- nes clínicas, demasiada confusión entre manifestaciones cogni- tivas y conductuales; en definitiva, confusión conceptual. Dicho de otro modo, es obligado reconocer que cuando nos referimos
+
+
+
+Tabla I. Elementos del funcionamiento ejecutivo y alteraciones observa- das en la clínica [7].
+
+Función ejecutiva	Alteraciones observadas
+Atención sostenida	Disminución del rendimiento Impersistencia
+
+rehabilitación neuropsicológica. De hecho, la reducción o pérdi- da de estas funciones afecta a la capacidad del individuo para lle- var una vida independiente socialmente aceptada. Su limitada capacidad para gobernar su propia vida y atender a las necesida- des de los de su entorno se ve afectada gravemente, lo que, a su vez, resulta muy difícil de entender, tanto para su entorno como
+
+		para los propios profesionales; todo ello se traduce en cierto re-
+
+Inhibición de interferencias	Distracción Fragmentación
+Desorganización de la conducta Conducta de utilización
+Planificación	Impulsividad
+
+
+Comportamiento errático
+
+chazo y aislamiento social. El juicio social, la habilidad para ge- nerar una teoría de la mente, la toma de decisiones o la capacidad de marcar las experiencias con una valencia emocional, no es al- go ‘observable’ como lo es una afasia de Wernicke, por lo que se le atribuye más fácilmente ese apriorismo del ‘querer es poder’.
+   Se ha señalado, asimismo, que las personas con deterioro en el funcionamiento ejecutivo presentan graves dificultades para organizar y utilizar de forma eficiente las capacidades conserva-
+
+		das, muestran un comportamiento inconsistente y resulta difícil
+
+Supervisión y control de la conducta  Desinhibición
+Escasa corrección de errores
+
+confiar en una adecuada generalización de los aprendizajes. Por tanto, no debe extrañar que las alteraciones ejecutivas constitu-
+
+		yan un objetivo esencial de cualquier programa de rehabilita-
+
+Flexibilidad conceptual	Perseveración Rigidez
+Fracaso ante tareas novedosas
+
+
+a las FE –y en la actualidad nos referimos a ellas cuando se habla de prácticamente todas las patologías que afectan al siste- ma nervioso central (SNC)–, cuando pretendemos establecer una relación clara y diáfana entre estructura, función, cognición y conducta, no poseemos un modelo sólido, único y firme; es decir, una descripción ‘transparente’ y compartida por todos los estudiosos que se refieren al concepto –se nota, por ejemplo, que cuando se hace referencia a una ‘afasia de Broca’ todos sabemos que nos está comprendiendo nuestro interlocutor, pero no sucede lo mismo al hablar de alteraciones en el funciona- miento ejecutivo– [7]. Por ello, se puede afirmar que el concep- to de función ejecutiva no resulta un buen ‘marcador neuropsi- cológico’ –algo así como ocurre con la serotonina y los modelos psicopatológicos provenientes de la psiquiatría biológica– [8].
+   Finalmente, cuando se hace referencia a las FE, resulta obli- gado nombrar a autores como Lezak [2], Baddeley [9], Shallice [10,11], Burgess [12,13], Stuss y Benson [14], Cummings [15] o Damasio [16], y nadie puede dudar de las valiosísimas aporta- ciones de estos autores al enriquecimiento y a la clarificación del concepto ‘ejecutivo’; aunque no es menos cierto que el término precisa una unificación de las aportaciones de los diferentes autores que nos permita no perder excesivo tiempo en definir qué son las FE, sino plantear cómo opera este sofisticadísimo mecanismo cerebral, con el fin de llegar a un discurso común entre todos los investigadores dedicados a este campo –acabar con la sensación íntima de que cuando conversamos con colegas sobre este asunto no parece que hablemos de lo mismo.
+   Es propósito de este artículo realizar una revisión sobre los principales modelos de rehabilitación de las FE.
+
+REHABILITACIÓN DE LAS FUNCIONES EJECUTIVAS: CONSIDERACIONES GENERALES
+Junto a la alta prevalencia de este tipo de problemas, el interés por este campo de la Neuropsicología aumenta porque el estudio de las capacidades ejecutivas es esencial para los objetivos de la
+
+ción neuropsicológica, puesto que este tipo de déficit es respon- sable de algunos de los obstáculos más importantes que impi- den a estos individuos enfrentarse a situaciones novedosas o imprevistas. Para precisar de forma más adecuada los objetivos de la rehabilitación, resulta pertinente establecer en primer lugar qué elementos del funcionamiento ejecutivo se relacionan con alteraciones concretas en el funcionamiento cotidiano [17] (Tabla I).
+   En el contexto de la rehabilitación, la intervención sobre las FE implica la mejora de la capacidad para programar la conduc- ta y orientarla hacia la consecución de los objetivos pretendidos. Para ello, puede utilizarse una variedad de actividades, cuya fina- lidad es la restauración de la función y otras cuyo fin sería la compensación de las mismas. En este sentido, hay que señalar que la rehabilitación debe entenderse como un proceso dinámi- co, donde las variables ‘tiempo’ desde la lesión y ‘espacio’ ocu- pado por la misma deben establecer la idoneidad de un programa de rehabilitación basado en la restauración o en la compensación. Hay que considerar también que estos pacientes presentan serias dificultades para guiar su conducta en diferentes situacio- nes, por una dificultad en responder adecuadamente a los estí- mulos, alteraciones en la atención o en la memoria operativa, o escasa capacidad de autoconciencia. Por tanto, parece razonable entrenar al paciente en el aprendizaje de secuencias de conduc- ta en ambientes altamente regulares, como pueden ser las que se precisan para asearse, vestirse, prepararse el desayuno u otras actividades básicas de la vida diaria Por otra parte, las aproxi- maciones basadas en la restauración de funciones incluyen una variedad de ejercicios estructurados que elicitan múltiples opor- tunidades para que el sujeto inicie, planifique y lleve a cabo actividades orientadas a la consecución de un objetivo concreto. Para este tipo de intervención, la planificación de las activida- des y del tiempo se hallan –al menos en las fases iniciales– bajo el control del terapeuta. Así, éste decidirá qué tipo de activida- des debe llevar a cabo cada paciente, cuál será la duración de cada actividad y en qué orden de dificultad se graduarán las tareas. Como consejos generales para este tipo de abordaje, se
+pueden señalar los siguientes [17]:
+– Graduar la complejidad de las tareas.
+– Dividir la tarea en sus diferentes componentes.
+– Impartir instrucciones simples y claras que ayuden a estruc- turar y ejecutar la tarea.
+
+
+
+Tabla II. Selección y ejecución de planes cognitivos. Ejemplos de activi- dades (modificado de [7]).
+
+
+
+
+
+
+
+
+Figura 1. Hoja de registro para ejercicios de establecimiento de priorida- des; nivel de dificultad: fácil, medio, difícil; nivel de urgencia: urgente, en el día, en la semana.
+
+– Fomentar el empleo de estrategias internas para situaciones específicas (p. ej., autoinstrucciones como ‘piensa antes de actuar’ o ‘hazlo más despacio’).
+– Acudir a otras estrategias internas cuando el paciente sea capaz de anticipar problemas a los que debe hacer frente (p. ej., planificar el contenido de una conversación telefónica).
+– Utilizar recursos que sean más accesibles para el paciente (p. ej., consultar el itinerario de un autobús puede ser más sencillo realizando una llamada telefónica que consultando un mapa de rutas).
+– Tener en cuenta las habilidades premórbidas del sujeto y plantear actividades que puedan llevarse a cabo en su con- texto natural (generalización de los aprendizajes e interven- ción ecológica).
+Programa de rehabilitación de las funciones ejecutivas de Sohlberg y Mateer
+Estas autoras han presentado en diferentes obras [4,18-20] un programa de rehabilitación para el SD, a partir de un modelo que incide en tres grandes áreas:
+– Selección y ejecución de planes cognitivos.
+– Control del tiempo.
+– Autorregulación conductual.
+Selección y ejecución de planes cognitivos
+Hace referencia al comportamiento requerido para elegir, llevar a cabo y completar una actividad dirigida a la consecución de un objetivo. Comprende el conocimiento de los pasos que re- quiere seguir una actividad compleja, el establecimiento de la secuencia de fases, el inicio de la actividad dirigida al objetivo, las habilidades de organización de los objetivos, la revisión del plan e introducción de mecanismos correctores, y la velocidad de la ejecución.
+   En una primera etapa, se ofrece al paciente una actividad ante la que debe indicar los pasos para llevarla a cabo sin tener en cuenta el orden de los mismos (p. ej., poner la mesa, asearse, hacer la compra, cambiar una cita con el dentista, solicitar una tarjeta de crédito, lavar el coche, encontrar un piso de alquiler, etc.). A continuación, se le pide ordenar los pasos anteriormen- te enumerados y, más tarde, se le solicita que enumere directa- mente y en el orden correcto los pasos necesarios para la reali- zación de las distintas actividades solicitadas.
+   Después se realiza el mismo proceso, pero con un listado de recados (p. ej., averiguar el horario de una línea de autobuses, plantearse qué regalaría a un amigo, conseguir folletos para organizar sus vacaciones, etc.).
+   En una tercera fase se solicita al paciente que planifique una actividad en grupo (p. ej., una excursión o una fiesta de cumple- años) y se introducen dificultades que obliguen al paciente a modificar el plan inicial y a buscar soluciones alternativas (Ta- bla II).
+
+Conocimiento de los pasos requeridos para una actividad compleja Preparar un desayuno
+Elaborar un menú
+
+Solicitar una tarjeta de crédito Organizar la compra de la semana Planchar una camisa
+Habilidades de organización de objetivos
+
+Ir a una tienda para ver los precios más accesibles Comprar ropa para una celebración
+Elegir la compañía telefónica o de Internet más barata
+
+Solicitar información sobre medios de transporte y los horarios de una ciudad
+
+Planificación de actividades en grupo Organizar una fiesta de cumpleaños Organizar una comida familiar Organizar una barbacoa con los amigos
+Revisión de los planes
+
+Varios invitados no pueden venir a la comida Hay huelga de autobuses
+El día de la barbacoa llueve
+
+
+
+Control del tiempo
+Implica calcular de forma aproximada el tiempo necesario para llevar a cabo el plan, crear horarios, ejecutar el plan conforme al intervalo temporal establecido y revisar continuamente el tiem- po que se invierte en la ejecución.
+   En las tareas de estimación del tiempo se solicita al paciente que avise cuando crea que ha transcurrido un determinado perio- do. Las actividades se pueden realizar sin distractores o con dis- tractores –realizar una prueba neuropsicológica que exija recur- sos atencionales–, y en el contexto de la consulta o en el entorno natural –minutos que tarda en acudir de casa a la unidad de reha- bilitación, tiempo que le lleva ir a comprar el pan y el periódico. En las tareas de programación de actividades se presenta al paciente un listado de actividades cotidianas y se le solicita que organice en qué orden va a llevarlas a cabo, que estime el tiem- po que precisa la realización de cada una de las tareas, que lle- ve a cabo las actividades programadas y, en la etapa final, se introducen cambios en su rutina habitual (p. ej., necesidad de una revisión médica, visita a un familiar enfermo, etc.) que requieran el reajuste de la distribución de las actividades habi-
+tuales (Fig. 1).
+Autorregulación de la conducta
+La autorregulación de la conducta tiene como componentes el conocimiento de la propia conducta y la de los otros, la capaci- dad de controlar los impulsos y aumentar la capacidad reflexi- va, la extinción de conductas inapropiadas y repetitivas y la ha-
+
+
+
+bilidad para exhibir conductas consistentes, apropiadas y autó- nomas con respecto al ambiente. Para ello, hay que seguir los si- guientes pasos:
+1. Seleccionar una conducta inadecuada del paciente (definida de forma operativa).
+2. Explicar de forma comprensible, estructurada y específica la adecuación/inadecuación de dicho comportamiento –adecuación e inadecuación hace referencia a múltiples variables del contexto que hay que explicitar y concretar en lo posible.
+3. Observar la aparición de la conducta objeto de cambio, infor- mar al individuo y explicar las razones por las que ese com- portamiento es inapropiado en ese momento y situación.
+4. Entregar una hoja de registro para dicha conducta e instruir al paciente para que registre cuándo ocurre dicho comporta- miento en un periodo de tiempo prefijado.
+5. Anotar las características de esa conducta en una hoja de registro similar a la del paciente y comparar ambos registros.
+6. Adiestrar al paciente en alternativas conductuales adecua- das (explicar por qué la nueva conducta resulta más adapta- tiva que la anterior).
+
+En los últimos años, estas mismas autoras han planteado un mo- delo que ya no denominan de rehabilitación, sino de ‘afronta- miento’ de los síntomas disejecutivos. Contiene los siguientes aspectos (modificado):
+– Desarrollo de una buena relación terapéutica.
+– Manipulación del ambiente o entorno.
+– Adiestramiento en estrategias para tareas rutinarias específicas.
+– Entrenamiento en selección y ejecución de planes cognitivos.
+– Estrategias metacognitivas y entrenamiento en autoinstruc- ciones.
+Desarrollo de una buena relación terapéutica
+Para ello resulta imprescindible:
+1. Establecer una alianza terapéutica basada en consensuar objetivos con el paciente y su familia.
+2. Mantener una distancia emocional hacia las conductas des- adaptadas para reforzar las conductas adaptativas.
+3. Facilitar la comunicación y la empatía utilizando tanto el lenguaje verbal como el gestual.
+Manipulación del ambiente o entorno
+– Organización del espacio físico: incluye actividades tales co- mo ordenar la ropa en los armarios, organizar la comida en distintos estantes o armarios, utilizar un tablón de anuncios para los recados y mensajes, designar un lugar para los obje- tos que no pueden ordenarse en otros espacios, mantener ordenados los espacios de uso cotidiano, utilizar calendarios de planificación (del tipo de los existentes en los hospitales), establecer un sistema adecuado y operativo para el pago de las facturas, utilizar pegatinas en lugares estratégicos que faciliten el recuerdo de los objetos necesarios para una activi- dad concreta, elaboración de menús y recetas, notas recorda- torias de procedimientos e instrucciones para el manejo de electrodomésticos, incitadores de la interacción social como álbumes de fotos, películas, noticias del periódico, etc.
+– Cuidado de variables que intervienen en la salud: se hace re- ferencia a las pautas de alimentación saludables, higiene de los ciclos de sueño y vigilia, mantenimiento de un grado de acti- vidad adecuado y adhesión a las pautas de toma de medicación.
+
+Adiestramiento en estrategias para tareas rutinarias específicas
+Comprenden aseo, vestido, uso del transporte público, tareas domésticas, escribir cartas, hacer solitarios, escribir correos electrónicos, realizar llamadas telefónicas, desarrollo de aficio- nes que impliquen tareas secuenciales (jardinería, pintura, etc.). En esta línea de entrenamiento en tareas específicas, Martelli
+[21] propone una serie de consideraciones generales de tipo práctico que deberían iluminar cualquier intervención en esta área y que son las siguientes: dividir la tarea en secuencias o eta- pas que llevan a su consecución, utilizar un registro que le sirva al paciente de guía para conocer en qué etapa de la tarea se en- cuentra en ese momento, proporcionar suficiente práctica para cada etapa utilizando el aprendizaje sin errores y el refuerzo po- sitivo. Nosotros añadiríamos la conveniencia de utilizar la técni- ca del encadenamiento hacia atrás en aquellos pacientes que pre- sentan mayores dificultades en la realización de algunas tareas.
+   Todas estas tareas rutinarias las incluyen Sholberg y Mateer en su programa para los síntomas disejecutivos, aunque en princi- pio parece que ‘rutinario’ y ‘ejecutivo’ son conceptos excluyentes, ya que estas funciones están bien delimitadas por el ambiente; por ello,–para llevarlas a cabo de forma eficaz –de acuerdo con el mo- delo de Shallice (1989)–, sería suficiente con una memoria de tra- bajo adecuada y la participación del dirimidor o gestor de conflic- tos (contention scheduling) para llevarlas a cabo de forma eficaz. Sin embargo, es frecuente observar en la clínica una falta de ‘acti- vación’ o motivación del individuo, fenómeno que parece tener más relación con la afectación conductual del síndrome apático, como alteración de la conducta relacionada con el cíngulo anterior [22-24], que con las FE como proceso cognitivo de ‘alto nivel’.
+Entrenamiento en la selección y ejecución de planes cognitivos
+– Planificación: establecimiento de las fases esenciales que componen un plan complejo, ordenación de las fases y orga- nización eficaz de la conducta (establecimiento de priorida- des ante diferentes actividades).
+– Ejercicios para el cumplimiento de tareas: dentro del ámbi- to hospitalario (ir a la cafetería, preguntar en el control so- bre algún paciente, etc.), en la comunidad (solicitar un me- nú y su precio, cómo conseguir un bonobús o un horario de autobuses, etc.), tareas que requieren planificación comple- ja en el ámbito comunitario (tramitación de documentación, tramitación de una solicitud para un préstamo, etc.).
+– Manejo del tiempo: definir subobjetivos del plan, estimar el tiempo para cada etapa del plan, calcular el paso del tiempo con o sin distractores, etc.
+Estrategias metacognitivas y entrenamiento en autoinstrucciones
+El objetivo se centraría en la reducción de la impulsividad, dis- minuir el déficit en la planificación y mejorar la capacidad para la flexibilidad conductual:
+– Estrategias metacognitivas (identificar, seleccionar, aplicar y comprobar).
+– Automonitorización y utilización de realimentación exter- na. Recientemente, Manly et al [25] han propuesto un siste- ma de alertas auditivas periódicas como sistema de aviso para facilitar el proceso de comprobación del nivel de cum- plimiento de los objetivos.
+– Mediación verbal: autoinstrucciones.
+– Proceso de RP (véase programa IDEAL).
+– Proceso de cumplimentación de tareas: entrenamiento en el manejo de objetivos, como parar, definir, lista de pasos,
+
+
+
+Tabla III. Ejemplos de situaciones de razonamiento social (modificado de [7]).
+
+¿Qué deberías hacer si...?
+
+El desagüe de tu casa no va bien
+y cuando abres el grifo se llena la fregadera
+
+Cuando vas a pagar tus compras
+te das cuenta de que no has cogido la cartera
+
+Se avería el coche en una autopista El frigorífico no funciona
+  Estás presenciando una pelea callejera desde tu ventana Señala algunas razones por las cuales la mayoría de la gente...
+Se lava las manos después de ir al baño Se limpia los dientes después de comer
+Hace regalos a sus familiares y amigos en su cumpleaños Enciende las luces cuando pasa por un túnel
+Le gustaría dejar de fumar
+
+Va al médico cuando lleva unos días con fiebre Duerme un mínimo de siete horas
+Intenta cuidar su estética al vestir
+
+Trata de identificar a quien llama al portero automático Paga sus impuestos
+Cumple sus promesas
+
+No tiene varias parejas al mismo tiempo
+
+Se asegura de que los fuegos están apagados al terminar de cocinar Se emociona cuando ve las escenas de un niño abandonado
+
+
+
+¿Qué cosas diferentes serían probables que te ocurrieran si...? Bebes demasiado y vuelves conduciendo a casa
+Te saltas un semáforo en rojo Te olvidas de hacer la compra
+Te irritas y gritas demasiado en un grupo Llegas a una cita una hora tarde Estornudas mientras cocinas
+Te olvidas de dar un recado a un familiar
+
+¿Cuando sería socialmente apropiado y socialmente inapropiado que...? Dieras un consejo
+Gritaras o te rieras
+
+Hicieras una llamada a cobro revertido Te quitases los zapatos
+Hicieras a alguien una foto con tu cámara Cancelases una cita para ir a cenar
+¿Que sería lo apropiado cuando…?
+
+Un amigo te dice que su padre acaba de fallecer
+
+Tienes planeado salir con un amigo y surge un imprevisto Un vendedor te insiste en que le compres algo
+No vienen a cobrarte en un restaurante y tienes prisa Un agente de policía te informa sobre una infracción Has comprado algo y está en mal estado
+
+
+
+aprender pasos, ejecutar tarea y comprobar. Una versión actualizada de este tipo de intervenciones puede consultarse en Levine et al [26].
+Programa de resolución de problemas y
+funciones ejecutivas de von Cramon y von Cramon
+Estos autores [27,28] diseñaron un programa de tratamiento destinado especialmente a pacientes con daño cerebral adquiri- do con las siguientes características:
+1. Actúan de forma impulsiva, sin reflexión previa.
+2. Ignoran información relevante para enfrentarse a las tareas.
+3. Son incapaces de anticipar las consecuencias de sus acciones.
+4. Tienen dificultades para encontrar soluciones alternativas cuando fracasan.
+5. No son conscientes de sus errores o no los corrigen cuando se dan cuenta de los mismos.
+
+El modelo de rehabilitación elaborado integra e incorpora muchas de las ideas y descubrimientos de investigaciones recientes sobre los procesos implicados en la RP, e incluye la puesta en marcha de habilidades de razonamiento, producción de ideas, estrategias de solución y comprensión y juicio social (Tabla III):
+– Razonamiento: habilidades fundamentales de secuenciación y clasificación, razonamiento deductivo, razonamiento in- ductivo y razonamiento convergente.
+– 
+Producción de ideas: pensamiento divergente, capacidad de abstracción.
+– Estrategias de solución: selección de estrategias (identifica- ción del problema y creación de hipótesis de solución), apli- cación de estrategias, evaluación del resultado.
+– Comprensión y juicio social.
+
+Recientemente, Evans [29] ha publicado su modelo de rehabili- tación en la RP, que toma como base el formato propuesto por von Cramon en un marco de intervención grupal; se reúnen dos veces por semana durante 8-10 semanas, y se sigue un marco de planificación y RP. El plan de tratamiento implica la toma de conciencia del problema, la monitorización, la evaluación, el desarrollo de un plan y la iniciación de la acción dirigida a su resolución (Fig. 2).
+   Otros autores, como Robertson [30] y Burgess y Robertson [31], insisten desde hace años en esta idea, y plantean una serie de situaciones para mejorar la capacidad de RP que pueden utilizar- se como material básico con este propósito. En todas ellas se fami- liariza al paciente con el uso de un proceso de razonamiento, que podemos denominar con las siglas IDEAL, donde cada una de estas letras designa un aspecto de la actividad que se ha de llevar a cabo y que tiene relevancia en cualquier proceso de RP:
+– I: identificación del problema.
+– D: definición y representación del problema.
+
+
+
+
+
+Figura 2. Marco para la planificación y solución de problemas [29].
+
+– E: elección de posibles estrategias.
+– A: actuación basada en una estrategia.
+– L: logros. Evaluación de los resultados.
+
+CONCLUSIONES
+En la rehabilitación de las FE, podemos establecer una declara- ción de principios generales que emergen de las hipótesis actua- les sobre el funcionamiento de los lóbulos frontales.
+1. Aplicación de una estrategia de RP IDEAL (I: identificar, D: definir, E: elegir, A: aplicar, L: ver logro).
+2. Intervención sobre las variables cognitivas relacionadas con un buen funcionamiento ejecutivo (memoria de trabajo, aten- ción dividida, habilidades pragmáticas, motivación).
+3. Uso de técnicas de modificación de conducta para incidir so- bre comportamientos relacionadas con el SD (especialmente distracción, impulsividad, desinhibición y perseveración).
+4. Empleo de técnicas de refuerzo diferencial (preferiblemente coste de respuesta) [32,33].
+5. Las variables de situación deben tenerse en cuenta en un buen programa rehabilitador (interés de la actividad, presen- cia de distractores externos, velocidad de presentación de los estímulos, etc.).
+6. Los programas de rehabilitación deben ser ecológicos, por lo que deben contener estrategias específicas de generalización.
+
+Conviene reconocer que, aun cuando se han realizado esfuerzos importantes en los últimos años, escasean todavía los progra- mas de rehabilitación basados en formulaciones teóricas y que ofrezcan estrategias de intervención diferenciadas para cada uno de los componentes y de los diferentes síndromes que se han explicado anteriormente. Se precisan, por lo tanto, nuevas investigaciones que nos ayuden a determinar la efectividad dife- rencial de algunas técnicas y programas en distintos grupos de pacientes con alteraciones en el funcionamiento ejecutivo. No obstante, los resultados iniciales de algunos estudios recientes en esta dirección son prometedores [34].
+   Aunque en la literatura es fácil encontrar numerosos traba- jos sobre las FE, la inmensa mayoría de dichos trabajos se cen-
+
+tran en la definición del concepto y, sobre todo, en la evaluación de las alteraciones del funcionamiento ejecutivo en las enferme- dades neurológicas y en los trastornos mentales. Así, escasean los artículos o capítulos que se centran en la rehabilitación de dichas funciones; además, casi todos plantean exclusivamente el objetivo que se debe rehabilitar, lo que está delimitado por la propia definición de qué son las FE, y pocos son los que plan- tean cómo se debe rehabilitar. De alguna manera, utilizando tér- minos ejecutivos, podemos afirmar que se conoce y se ha opera- tivizado la ‘misión’ de nuestra empresa, pero se sabe menos sobre el plan estratégico para lograrla.
+   En este sentido, es imprescindible plantear que un buen fun- cionamiento ejecutivo está condicionado por el adecuado fun- cionamiento de los sistemas de los que depende este sistema cognitivo de alto nivel. Resulta difícil concebir un funciona- miento ejecutivo satisfactorio sin un eficiente sistema atencio- nal, una buena memoria operativa, una adecuada motivación y unas emociones que nos guíen adecuadamente en nuestra toma de decisiones. Esta división de las FE y la propuesta de interve- nir sobre cada una de ellas no garantiza el éxito, ya que las FE precisan, posiblemente, un buen funcionamiento de estos siste- mas ‘esclavos’, aunque el resultado no es la simple suma de dichas funciones, sino una realidad emergente –como la unión de átomos de hidrógeno y oxígeno produce agua, la cual posee propiedades que no pueden explicarse por la suma de las pro- piedades de ambos elementos químicos.
+   En esta línea de argumentación, se ha de remarcar que el SD debe entenderse como una constelación de síntomas definidos tanto en el concepto de FE –déficit en estas funciones– como en el concepto de SD –aparición de estas alteraciones–, por lo que parece lógico que cada individuo debe entenderse como un caso único en el que debe actuarse sobre el síntoma. De hecho, es muy diferente que un paciente padezca un SD por falta de inhibición de respuestas irrelevantes, por emitir conductas impulsivas, por un problema de falta de generación de planes alternativos o por una falta de conducta autoiniciada. Si logramos definir en térmi- nos operativos el síntoma disejecutivo, nuestra labor rehabilitado- ra será más efectiva, aunque desde la perspectiva conceptual esto nos genere algunas preguntas: ¿cuál es la heterogeneidad de los síntomas disejecutivos? ¿Existe un síntoma disejecutivo patogno- mónico y el resto son ‘fenocopias’ de ese síntoma?, ¿Responde cada síntoma disejecutivo a señales cerebrales diferenciadas?
+   Un aspecto de especial relevancia en la rehabilitación de las FE es el papel que desempeñan las emociones en la toma de decisiones, el cual parece ser un aspecto crucial en la rehabilita- ción de estos pacientes. De hecho, en la clínica cotidiana, lo más disruptivo es la disociación entre ‘lo que saben que deben hacer y lo que realmente hacen’ (saber-actuar), y es en este aspecto de la conducta humana donde encontramos más proble- mas, ya que esto genera una gran desadaptación personal y social. Debemos reconocer, con humildad, que en la actualidad no hemos encontrado la solución a este grave problema, y que éste es uno de los grandes retos para el futuro de la rehabilita- ción de las FE. Y ello, no sólo por el hecho de que estos pacien- tes mejoren en la capacidad para resolver situaciones novedo- sas, sino porque cuando vemos a estos individuos nos embarga la sensación de que se han despojado de la condición más inhe- rentemente humana, como es la capacidad de unir cognición y emoción en una única realidad.
+   En definitiva, en lo que a las FE se refiere, podemos afirmar que sólo hemos comenzado la andadura de un largo camino, en
+
+
+
+el que nos encontramos en la fase ejecutiva de la ‘definición del problema’; por tanto, nos queda un gran trecho por recorrer. Algunos aspectos reseñables para orientar este camino en el futuro serían los siguientes:
+1. Consensuar una definición sobre las FE y lo que dichas fun- ciones contienen y cómo operan.
+2. Optimizar los instrumentos de evaluación (sensibilidad y especificidad) [35] y, sobre todo, mejorar la validez ecológi- ca de dichos instrumentos [36].
+3. Llegar a acuerdos entre los profesionales sobre protocolos de evaluación.
+4. Investigar métodos de evaluación de las capacidades ejecu- tivas premórbidas del paciente (las FE tienen una naturale- za dimensional, por lo que todos poseemos un ‘umbral dis- ejecutivo’).
+5. Establecer protocolos de rehabilitación que, aunque indivi-
+
+dualizados, tengan más en cuenta la naturaleza del síntoma que la categorización del síndrome.
+6. Diseñar estrategias específicas de generalización de los pro- gramas de rehabilitación.
+7. Formalizar criterios consensuados entre la comunidad cien- tífica sobre la efectividad de los programas de rehabilitación (p. ej., sobre utilización de grupos de control, medidas de evaluación sensibles a los cambios, etc.), que favorezcan la realización de estudios de carácter multicéntrico.
+8. Profundizar en el diseño y la aplicación de técnicas conduc- tuales, cognitivas y farmacológicas para las alteraciones emo- cionales y conductuales asociadas al SD (sobre todo, para el síndrome apático).
+9. Diseñar programas de rehabilitación que tengan en cuenta las variables no sólo cognitivas, sino emocionales y com- portamentales, que implica la afectación de las FE.
+
+
+BIBLIOGRAFÍA
+
+1. Luria A.R. Higher cortical functions in man. New York: Basic Books; 1966.
+2. Lezak MD. Relationship between personality disorders, social distur- bances and physical disability following traumatic brain injury. J Head Trauma Rehabil 1987; 2: 57-69.
+3. Lezak MD. The problem of assessing executive functions. Int J Psy- chol 1982; 17: 281-97.
+4. Sholberg MM, Mateer CA. Introduction to cognitive rehabilitation. New York: The Guilford Press; 1989.
+5. Ardila A. A neuropsychological approach to intelligence. Neuropsy- chol Rev 1999; 9: 117-36.
+6. Baddeley AD, Wilson B. Frontal amnesia and dysexecutive syndrome. Brain Cogn 1988; 7: 212-30.
+7. Tirapu J, Muñoz-Céspedes JM, Pelegrín C. Funciones ejecutivas: ne- cesidad de una integración conceptual. Rev Neurol 2002; 34: 673-85.
+8. Tirapu J, Muñoz-Céspedes JM. Neurociencia, neuropsicología y psi- cología clínica: necesidad de un encuentro. Psicología.com [in press].
+9. Baddeley AD. Exploring the central executive. Q J Exp Psychol 1996; 49: 5-28.
+10. Shallice T. From neuropsychology of mental structure. Cambridge: Cambridge University Press; 1988.
+11. Shallice T. Fractionation of the supervisory system. In Stuss DT, Knight RT, eds. Principles of frontal lobe function. New York: Oxford University Press; 2002.
+12. Burgess PW, Shallice T. Response suppression, imitation and strategy use following frontal lobe lesions. Neuropsychologia 1996; 34: 263-73.
+13. Shallice T, Burgess PW. Deficits in strategy application following frontal lobe damage in man. Brain 1991; 114: 727-41.
+14. Stuss D, Benson DF. The frontal lobes. New York: Raven Press; 1986.
+15. Cummings SJ. Frontal subcortical circuits and human behavior. Arch Neurol 1993; 50: 873-80.
+16. Damasio AR. Descartes’ error: emotion, reason and human brain. New York: Putman & Sons; 1994.
+17. Muñoz-Céspedes JM, Tirapu J. Rehabilitación neuropsicológica. Ma- drid: Síntesis; 2001.
+18. Mateer CA. The rehabilitation of executive disorders. In Stuss DT, Winocur G, Robertson IH, eds. Cognitive neurorehabilitation. Cam- bridge: Cambridge University Press; 1999. p. 314-32.
+19. Sholberg MM, Mateer CA. Cognitive rehabilitation. New York: The Guilford Press; 2001.
+20. Sohlberg MM, Mateer CA, Stuss DT. Contemporary approaches to the management of executive control dysfunction. J Head Trauma Rehabil 1993; 8: 45-58.
+21. 
+Martelli M. Protocol for increasing initiation, decreasing adynamia. HeadsUp: RSS Newsletter; 1999; 3: 2-9.
+22. Marin RS. Apathy and related disorders of diminished motivation. Rev Psychiatry 1997; 15: 205-42.
+23. Alexander MP, Stuss DT. Disorders of frontal lobe functioning. Semin Neurol 2000; 20: 427-37.
+24. Andersson S, Gundersen PM, Finset A. Emotional activation during ther- apeutic interaction in traumatic brain injury: effect of apathy, self-awa- reness and implications for rehabilitation. Brain Inj 1999; 13: 393-404.
+25. Manly T, Hawkins K, Evans J, Woldt K, Robertson IH. Rehabilitation of executive function: facilitation of effective goal management on complex tasks using periodic auditory alerts. Neuropsychologia 2002; 40: 271-81.
+26. Levine B, Robertson IH, Clare L, Carter G, Hong J, Wilson BA, et al. Re- habilitation of executive functioning: An experimental-clinical validation of goal management training. J Int Neuropsychol Soc 2000; 6: 299-312.
+27. Von Cramon D, Von Cramon G. Problem solving deficit in brain injured patients: A therapeutic approach. Neuropsychol Rehabil 1991; 1: 45-64.
+28. Von Cramon D, Von Cramon G. Reflections on the treatment of brain injured patients suffering from problem-solving disorders. Neuropsy- chol Rehabil 1992; 2: 207-30.
+29. Evans JJ. Rehabilitation of the dysexecutive syndrome. In Wood RLL, McMillan T, eds. Neurobehavioural disability and social handicap follow- ing traumatic brain injury. London: Psychology Press; 2001. p. 209-27.
+30. Robertson IH. Goal management training: a clinical manual. Cam- bridge UK: PsyConsult; 1996.
+31. Burgess PW, Robertson IH. Principles of rehabilitation of frontal lobe function. In Stuss DT, Knight TR, eds. Principles of frontal lobe func- tion. Oxford: Oxford University Press; 2002. páginas??
+32. Alderman N, Fry RK, Youngson HA. Improvement of self-monitoring skills, reduction of behavior disturbance and dysexecutive syndrome. Neuropsychol Rehabil 1995; 5: 193-221.
+33. Alderman N. Central executive deficit and response to operant condi- tioning methods. Neuropsychol Rehabil 1996; 6: 161-86.
+34. Tirapu J, Martínez M, Casi A, Albéniz A, Muñoz-Céspedes JM. Evalu- ación de un programa de rehabilitación para pacientes afectados por sín- drome frontal. Análisis y Modificación de Conducta 1999; 101: 405-28.
+35. Lezak MD. Newer contributions to the neuropsychological assessment of the executive functions. J Head Trauma Rehabil 1993; 8: 24-31.
+36. Burgess PW, Alderman N, Evans J, Emslie H, Wilson BA. The ecologi- cal validity of tests of executive function. J Int Neuropsychol Soc 1998; 4: 547-58.
+
+
+
+REHABILITACIÓN DE LAS FUNCIONES EJECUTIVAS
+Resumen. Introducción. Dentro de las funciones cognitivas de alto nivel, de las que más profusión de trabajos han generado son las fun- ciones ejecutivas. En términos genéricos, estas funciones hacen refe- rencia a una constelación de capacidades cognitivas implicadas en la resolución de situaciones novedosas, como son la formulación de objetivos, la planificación de estrategias, las habilidades implicadas en la ejecución de los planes y el reconocimiento del logro/no logro.
+
+REABILITAÇÃO DE FUNÇÕES EXECUTIVAS
+Resumo. Introdução. Dentro das funções cognitivas de alto nível, uma das que maior profusão de trabalhos gerou são as funções executivas. Em termos genéricos, estas funções fazem referência a uma constelação de capacidades cognitivas envolvidas na resolu- ção de situações inovadoras, como a formulação de objectivos, a planificação de estratégias, as capacidades envolvidas na execu- ção dos planos e o reconhecimento do logro/não logro. Contudo,
+
+
+
+Sin embargo, aunque son muchos los artículos que versan sobre la definición del término y sobre la afectación de estas funciones en diversas patologías, son pocos los trabajos que se han ocupado de la posibilidad de recuperación de estas funciones y de la elaboración de programas concretos de rehabilitación cognitiva. Objetivo y desarro- llo. Es propósito de este artículo realizar una revisión sobre los prin- cipales programas de rehabilitación de las funciones ejecutivas que conocemos y que hemos modificado para adaptarlos a nuestra cultu- ra y entorno, desde una perspectiva teoricopráctica. Aunque conside- ramos útiles estos programas, reflexionamos sobre algunas limitacio- nes de los mismos, como puede ser la poca preocupación de trabajar sobre los aspectos emocionales implicados en la toma de decisiones. Asimismo, se señalan posibles nuevas direcciones que debe tomar la investigación en este campo. [REV NEUROL 2004; 38: 656-63] Palabras clave. Funciones ejecutivas. Razonamiento social. Rehabi- litación cognitiva. Resolución de problemas. Síndrome disejecutivo.
+
+embora sejam muitos os artigos quer versam sobre a definição do termo e sobre o envolvimento destas funções em diversas patolo- gias, são poucos os trabalhos que se ocuparam da possibilidade de recuperação destas funções e da elaboração de programas concre- tos de reabilitação cognitiva. Objectivo e desenvolvimento. É pro- pósito deste artigo realizar uma revisão sobre os principais pro- gramas de reabilitação das funções executivas que conhecemos e que modificámos para adaptá-los à nossa cultura e meio, sob uma perspectiva teórico-prática. Embora consideramos úteis estes pro- gramas, reflectimos sobre algumas limitações dos mesmos, como pode ser a pouca preocupação de trabalhar sobre os aspectos emocionais envolvidos na tomada de decisões. Deste modo, assi- nalam-se possíveis novos rumos que deve tomar a investigação neste campo. [REV NEUROL 2004; 38: 656-63]
+Palavras chave. Funções executivas. Raciocínio social. Reabilita- ção cognitiva. Resolução de problemas. Síndroma disexecutiva.
+
+
+
+
+
+
+
+
+
+
+
+

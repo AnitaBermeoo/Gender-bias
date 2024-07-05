@@ -1,0 +1,489 @@
+﻿
+
+
+
+
+
+A S P E C T O S	C L Í N I C O S
+
+
+Indicadores antropométricos para evaluar sobrepeso y obesidad en pediatría
+Anthropometric indexes to evaluate pediatric overweight and obesity
+
+Martha Kaufer-Horwitz1, Georgina Toussaint2
+
+
+1Clínica de Obesidad y Trastornos de Alimentación, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán; 2Servicio
+de Nutrición, Hospital Infantil de México Federico Gómez, México, D. F., México.
+
+
+Resumen
+El sobrepeso y la obesidad en la edad pediátrica son, hoy en día, problemas de salud pública en países desarrollados y en vías de desarrollo. Su presencia en edades tempranas es factor de riesgo de obesidad y de riesgo coronario en la edad adulta; de ahí la importancia de prevenirla, detectarla y tratarla oportunamente. Para hacer el diagnóstico de sobrepeso y obesidad es necesario contar con indicadores antropométricos que se asocien con la adiposidad. El índice de masa corporal (IMC) ha resultado útil para la evaluación en el adulto, y en tiempos recientes se ha recomendado para la evaluación de niños y adolescentes. Dife- rentes grupos de expertos y organismos internacionales se han dado a la tarea de proponer estándares de referencia del IMC para uso internacional; entre ellos el Centro de Control de En- fermedades (CDC) de Estados Unidos de Norteamérica y el Grupo de Trabajo sobre Obesidad (IOTF) de la Organización Mundial de la Salud. En el presente artículo de revisión se presentan y se discuten estos estándares de referencia. Parece haber consenso en que los diferentes criterios internacionales, actualmente dis- ponibles, son útiles y pueden usarse de manera indistinta en la evaluación del sobrepeso y la obesidad en la infancia y en la adolescencia; sin embargo, los datos deben interpretarse con cautela y considerar las posibles ventajas y limitaciones de cada uno de los criterios.
+Palabras clave. Obesidad; sobrepeso; antropometría; índice de
+
+Summary
+Overweight and obesity in children and adolescents are public health problems in developed and developing countries. Its pre- sence at such an early age is a risk factor for obesity and coronary risk in adulthood, hence the importance of prevention, detec- tion and treatment on time. In order to diagnose overweight and obesity, anthropometric indicators linked to adiposity are needed. The body mass index (BMI) has proven useful for the evaluation of obesity in adults and more recently it has been recommended for the assessment of children and adolescents. Different groups of experts and international agencies including the Center for Disease Control (CDC) in the USA and the International Obesity Task Force (IOTF) from the World Health Organization have proposed BMI reference standards for inter- national use. In this review article, the standards of reference are presented and discussed. There seems to be consensus that the different international criteria currently available are useful and can be used interchangeably in the assessment of overweight and obesity in childhood and adolescence; however, data must be interpreted with caution and the possible advantages and limitations of each criterion must be considered.
+Key words. Obesity; weight gain, overweight; anthropometry; body mass index; child; adolescence.
+
+masa corporal; estándares; niños; adolescwentews.
+
+w.medigraphic.com
+
+Solicitud de sobretiros: Martha Kaufer Horwitz, Clínica de Obe- sidad y Trastornos de Alimentación, Instituto Nacional de Cien- cias Médicas y Nutrición Salvador Zubirán, Vasco de Quiroga Núm. 15, Col. Sección XVI, Deleg. Tlalpan, C. P. 14000, México,
+D. F., México.
+Fecha de recepción: 08-09-2008. Fecha de aprobación: 09-10-2008.
+
+
+
+
+El sobrepeso y la obesidad han aumentado en los últimos 30 años al grado de convertirse en un pro- blema de proporciones epidémicas en adultos y en niños, tanto en países desarrollados como en aqué- llos en vías de desarrollo; México no es la excep- ción.1 Hasta hace poco, prácticamente no se habla- ba de obesidad en la infancia y en la adolescencia, y la desnutrición dominaba los espacios en revistas es- pecializadas de nutrición y salud (Fig. 1). El caso es distinto hoy día; debido a esto, es de gran relevancia monitorizar los patrones de crecimiento de la pobla- ción y documentar las desviaciones de la normali- dad (llámese desnutrición o sobrepeso y obesidad), para de esta manera poder formular políticas de sa- lud, planear intervenciones, monitorizar su efectivi- dad, y, de esta forma, dirigir los esfuerzos a la pre- vención.2 Este abordaje serviría para focalizar de manera más eficiente los recursos disponibles.
+
+Consecuencias de la obesidad en la infancia e importancia de detectarla oportunamente y establecer esquemas de prevención
+Se tiene amplia evidencia en la literatura que apo- ya la asociación entre obesidad en la edad pediá-
+
+
+trica y diversas enfermedades.3 Los mecanismos del cómo se dan esas asociaciones entre las anormali- dades y la enfermedad, y cómo afectan los dife- rentes órganos y sistemas, es tema de actuales in- vestigaciones. La realidad es que un niño con sobrepeso u obesidad, que no es tratado, persisti- rá con el problema hasta la vida adulta, con la resultante de enfermedades crónicas asociadas como hipertensión arterial, dislipidemias, ateroes- clerosis, morbilidad cardiovascular y diabetes mellitus tipo 2, entre otras.4
+  Desde que un niño desarrolla el sobrepeso pre- senta complicaciones que se pueden clasificar en inmediatas, intermedias y tardías de acuerdo al lapso que transcurre entre el inicio del sobrepeso y la aparición de las manifestaciones asociadas:5
+
+a) Inmediatas. Con el simple hecho de presen- tar sobrepeso, se observa un incremento de las alteraciones ortopédicas como pie plano, resistencia a la insulina, incremento de andró- genos, aumento de colesterol, lipoproteínas de baja densidad y triglicéridos, así como al- teraciones pulmonares, menstruales, diabetes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sidad y desnutrición citadas en Pub- Med (1950-junio 2008). Adultos y
+
+
+
+
+tipo 2 y psicológicas, como autoimagen dete- riorada.
+b) Mediatas. En un lapso de dos a cuatro años posterior al inicio de la obesidad, se incremen- ta el riesgo de presentar, además de las mani- festaciones inmediatas: hipertensión arterial (10 veces más), hipercolesterolemia (2.4 ve- ces más), lipoproteínas de baja densidad altas (tres veces más) y lipoproteínas de alta den- sidad bajas (ocho veces más).
+c) Tardías. Si la obesidad persiste hasta la edad adulta, además del agravamiento de las com- plicaciones mediatas, se tendrán incidencias y prevalencias altas de enfermedades corona- rias, hipertensión vascular, enfermedad renal vascular, ateroesclerosis, artritis y ciertas neo- plasias que son las que elevan la morbilidad y explican la mortalidad en la vida adulta.5,6
+
+  Además de lo anterior, dentro de las comor- bilidades de la obesidad en la edad pediátrica están: apnea del sueño, esteatohepatitis no al- cohólica, colelitiasis, pseudotumor  cerebri, reflu- jo gastrointestinal y síndrome de ovario poliquís- tico.7
+
+Necesidad de contar con indicadores para evaluar el crecimiento y detectar la obesidad de manera oportuna
+La evaluación antropométrica es la medición de las dimensiones físicas del cuerpo humano en di- ferentes edades y su comparación con estándares de referencia. A partir de ello, el clínico puede determinar las anormalidades en el crecimiento
+y desarrollo como resultado de conocer el esta-
+
+
+  Los índices antropométricos para individuos o poblaciones pueden ser utilizados con diferentes objetivos y convertirse en indicadores para la iden- tificación de riesgo, para intervención, evaluación de impacto sobre el estado nutricio o salud, para exclusión de ciertos tratamientos, entre otros. Dependiendo de las circunstancias, el mismo in- dicador antropométrico puede estar influenciado por la nutrición o la salud, o más por una que por la otra y por consiguiente puede ser un indicador del estado de nutrición o de salud, o de ambos; incluso, en algunos casos, se puede utilizar indi- rectamente como un indicador socioeconómico.8
+  Es claro que el diagnóstico de sobrepeso y la obesidad en pediatría debe ser integral, de ahí que los indicadores antropométricos tienen un gran valor de tamizaje en la construcción del diagnós- tico. Sin embargo, no hay que perder de vista que éstos deben complementarse con indicadores clí- nicos, y en ocasiones bioquímicos, pues los alcan- ces de la antropometría no permiten establecer las causas de la obesidad y establecer un diagnóstico final completo.
+  La Organización Mundial de la Salud (OMS), ha definido a la obesidad como la condición en la cual el exceso de tejido adiposo afecta de manera adversa la salud y el bienestar.8 Según esta defini- ción, los indicadores idóneos para definirla deben ser aquellos que cuantifiquen la magnitud del te- jido adiposo, de ahí que la definición ideal ten- dría que basarse en la estimación del porcentaje de grasa corporal. Sin embargo, esto es imprácti- co para propósitos epidemiológicos e, incluso, en casos clínicos. Por tal razón, la obesidad en el adul- to tradicionalmente se ha medido con indicado- res que, más que adiposidad, cuantifican la masa
+
+do  nutricio  de  un  individuo  o  wun wgruwpo.mqueeeds- igracporphoircal..cSeohman  explorado  distintas  relaciones
+
+tán en riesgo de alteraciones. Repetir estas me- diciones en un niño a través del tiempo proporciona datos objetivos sobre su estado de nutrición y de salud. Para evaluar el crecimiento se necesita conocer el peso, la longitud o la esta- tura, la edad exacta y el sexo.
+
+entre el peso y la estatura con el fin de encontrar la que más claramente representa la relación de estas mediciones.
+  El índice de masa corporal (IMC) o índice de Quételet, es el cociente que resulta de dividir el peso corporal (en kilogramos) entre el cuadrado
+
+
+
+
+de la estatura (en metros cuadrados) y se usa co- múnmente, y a gran escala, en estudios epidemio- lógicos para estimar la gravedad de la obesidad en adultos. En el caso de la población adulta, un pun- to de corte de 25 es indicativo de sobrepeso, y un IMC de 30 ó superior indica obesidad. Estos pun- tos de corte están relacionados con un aumento en las comorbilidades y en la mortalidad por en- fermedades asociadas al sobrepeso y a la obesi- dad, y se han reconocido internacionalmente por lo que se usan para hacer comparaciones entre estudios y entre países.8 Es importante comentar que en los últimos años se ha dado una interesan- te discusión acerca de la conveniencia de estable- cer puntos de corte específicos para distintas po- blaciones debido a que la asociación del IMC con la mortalidad (particularmente la cardiovascular) y la morbilidad es distinta en diferentes grupos de población.9
+  Además de su uso en adultos, actualmente va- rios comités de expertos de distintos ámbitos y países,10-13 incluyendo México,5 han recomenda- do que el indicador IMC para la edad sea utiliza- do para evaluar sobrepeso y obesidad en niños y adolescentes, por lo que hoy día es el indicador aceptado para comparaciones internacionales.8 Su recomendación se basa, entre otros aspectos, en que presenta una correlación positiva con la adi-
+
+
+posidad en estas edades;14,15 el IMC en la infan- cia, así como sus cambios en esta etapa, se aso- cian con factores de riesgo para el desarrollo sub- secuente de enfermedad coronaria y de otras enfermedades crónicas.16,17 Además, presenta una correlación más fuerte con el IMC en la edad adul- ta temprana que otras mediciones, como las de panículo adiposo (Cuadro 1).18
+  A pesar de su utilidad práctica, es importante dejar en claro que el IMC representa tanto la masa grasa como la masa libre de grasa, por lo que es un indicador de peso (o masa) y no de adiposidad como tal.19 La ventaja que se le atribuye a este índice, por sobre otras mediciones, es que es in- dependiente de la estatura, permitiendo la com- paración de los pesos corporales de individuos de distintas estaturas.20 Esta independencia de la ta- lla, se da principalmente en los valores centrales de la distribución de estatura,21 y se ha cuestiona- do su utilidad en poblaciones donde la estatura baja es muy prevalente.17
+  El IMC en general presenta una alta correla- ción con la adiposidad, por lo que en poblacio- nes, en las cuales los altos niveles de adiposidad son comunes, este índice sí puede considerarse como un indicador del contenido corporal de gra- sa.22 Sin embargo, el IMC se afecta por factores
+
+
+
+
+
+
+
+
+como variaciones en el contenido de agua corpo- ral, en la masa ósea y en el tejido muscular, de tal suerte que puede clasificar de manera errónea el contenido total de tejido adiposo en niños con mayor desarrollo muscular o con un índice córmi- co alto.23 Aún con estas limitantes, y dado lo cos- toso y poco accesible de los métodos para deter- minar masa magra y masa grasa, sigue siendo el indicador más práctico (tanto de peso relativo como del grado de adiposidad) para ser utilizado en estudios poblacionales, en adultos y en niños.19
+  La definición de sobrepeso y obesidad en niños es más compleja que en el adulto, donde la clasi- ficación del IMC es independiente de la edad y del sexo. El uso de puntos de corte de distintos indicadores antropométricos, basados en las dis- tribuciones de los indicadores en diferentes po- blaciones, se ha generalizado debido a la ausencia de criterios claros para definir sobrepeso y obesi- dad en la infancia, tomando en cuenta la adiposi- dad corporal y su relación con eventos de salud. En la edad pediátrica, el IMC es muy cambiante y dependiente de la edad, al grado en que éste pre- senta un aumento importante del nacimiento a la adultez temprana.24 Por tal razón, a diferencia del adulto, donde se establecen puntos de corte fijos para sobrepeso y obesidad, en la edad pediátrica no es posible establecer un punto de corte único y deben establecerse, para niños y niñas, cortes de- pendientes de la edad.
+  A lo largo del crecimiento y el desarrollo, el IMC tiene un patrón diferente que el del peso y la estatura: lo normal es que haya un descenso en éste entre los dos y los cinco o seis años de edad, y que posteriormente aumente de nuevo. Este des- censo temprano corresponde a una disminución
+en el tejido adiposo subcutáneo y al porcentaje
+
+
+riores, o a niños que cruzan de un percentil a otro superior.27 La ganancia de peso acelerada en la infancia predice obesidad posterior.28-30 En eda- des posteriores a los seis años, debido a la relación del peso y la estatura, el IMC no presenta un in- cremento marcado (como en el caso del peso y la estatura) durante el segundo brote de crecimien- to.24 Debido a las diferencias fisiológicas entre ni- ños y niñas, es claro que los percentiles de IMC deben construirse para cada sexo.29
+  Por otra parte, la validez del IMC depende, en gran parte, de los puntos de corte utilizados. Al igual que los niveles de grasa corporal, el IMC y sus valores percentilares son continuos, y cualquier punto de corte que se elija será imperfecto para distinguir aquellos individuos con riesgos para la salud de los que no los tienen. Cuando se selec- ciona un punto de corte alto, los sujetos identifi- cados como “normales” pueden clasificarse inco- rrectamente como sanos a pesar de tener niveles de grasa corporal altos. Por el contrario, cuando el punto de corte es bajo, los individuos con IMC alto pueden clasificarse erróneamente como en- fermos a pesar de tener niveles de grasa normales (por ejemplo, los atletas musculosos). Por lo an- terior, el punto de corte seleccionado debe lograr un equilibrio entre el sobrediagnóstico y el sub- diagnóstico, y debe obedecer al objetivo de la evaluación. Dado que los niveles de grasa corpo- ral y los riesgos para la salud son continuos, el re- sultado de elegir puntos de corte para delimitar la normalidad debe tomarse con cautela.31
+  A la fecha, varios grupos han recomendado al IMC como el indicador de elección para evaluar obesidad en niños y adolescentes de dos a 19 años de edad.29,32-34 El motivo para hacer esta recomen-
+dación es que el IMC expresa la relación entre el
+
+de grasa corporal, y es lo que sewcownocwe c.ommoerde-igrappesohyicla .ecstoatumra como una razón, puede obtener-
+
+bote de adiposidad.25 El rebote de adiposidad tem- prano se ha documentado como factor de riesgo para el desarrollo y la instalación de la obesidad en edades posteriores,26 y refleja un crecimiento rápido temprano en la infancia, identificando a niños con valores de IMC en los percentiles supe-
+
+se fácilmente, tiene una correlación fuerte con el porcentaje de grasa corporal (particularmente en los valores extremos), su asociación con la estatura es débil, e identifica correctamente a los individuos con mayor adiposidad en el extremo superior de la distribución (( percentil 85 para edad y sexo).29
+
+
+
+Expresión de los índices antropométricos
+Cuando lo que se desea es comparar a un niño o un grupo de niños con una población de refe- rencia, cada uno de los índices, como es el caso del IMC, puede ser expresado de distintas for- mas, dependiendo del objetivo que se persiga; el puntaje z y los percentiles son las formas más comunes.
+a) Puntaje z. Éste ha sido recomendado por la Organización Mundial de la Salud (OMS)35,36 para utilizarse en los indicadores de peso para la estatura y estatura para la edad, debido a que es más sensible a los cambios que cuando se utiliza el porcentaje del indicador respecto a la media de referencia. Una ventaja impor- tante de este sistema es que para grupos de población permite calcular la media y la des- viación estándar (DE) en toda la población en su conjunto. Es la desviación del valor de un individuo desde el valor de la mediana de una población de referencia para sexo, edad, peso y estatura, dividida entre la DE de la re- ferencia poblacional. Se expresa en unidades de DE y se define como normal (+ 1 a -1 DE), sobrepeso (> + 1 DE), obesidad (( + 2 DE).37
+
+valor antropométrico actual -
+Puntaje z = valor de la media de referencia
+
+DE
+
+  Cuando en la evaluación clínica diaria se re- quiere graficar el resultado del puntaje z, se puede recurrir a programas disponibles en Internet.38
+b) Percentil. Es la posición de un individuo res-
+
+
+ción de la referencia, y por consiguiente 90% tendrá un peso o IMC superior. Los percenti- les son de uso general en clínica dado que pue- den utilizarse para monitorizar crecimiento o evolución del indicador en el tiempo; sobre todo si se usan como “carriles de crecimien- to”. Su interpretación es directa como en el caso del IMC; sin embargo, para el mismo in- tervalo o valor del percentil corresponden diferentes cambios en valores absolutos de peso.
+
+El IMC como indicador antropométrico de tamizaje y de riesgo
+En los últimos años, el IMC ha cobrado utilidad en el campo de la pediatría para coadyuvar en la detección de enfermedades crónicas o del riesgo de desarrollarlas. A pesar de que existen pocos estudios longitudinales que vayan desde la infan- cia hasta la adultez; estudios de cohorte como los de Baker y col.,39 han demostrado que tener un IMC elevado, indicativo de sobrepeso u obe- sidad entre los 7 a 13 años de edad, incrementa el riesgo de presentar enfermedades coronarias en la edad adulta. Asimismo, varios estudios transversales realizados en diferentes poblaciones de edad pediátrica, asocian al sobrepeso y a la obesidad, representados por el IMC, con altera- ciones metabólicas como glucosa alterada en ayu- no y resistencia a la insulina,40,41 hipertensión ar- terial,42,43 y dislipidemias caracterizadas por hipertrigliceridemia, hipercolesterolemia, lipo- proteínas de baja y muy baja densidad incremen- tadas y lipoproteínas de alta densidad bajas.41-44 Estos resultados también se han encontrado en
+población pediátrica mexicana.45  Existen otros
+
+pecto  al  dado  por  una  poblwaciwón wde .rmefeeredn- igraepstuhdiiocs .qcuoe  hman  evaluado  el  daño  ya  presente
+
+cia, expresada en términos de qué porcentaje del grupo de individuos es igual o diferente. Así, si se tiene un niño de una determinada edad con un peso o IMC que cae en el per- centil 10, el porcentaje de la población que pesa igual o menos que él es 10% de la pobla-
+
+sobre sistemas, como es el caso de los niños y adolescentes con obesidad, donde se ha demos- trado mayor susceptibilidad a la ateroesclerosis (por medio de la medición de la íntima media de la arteria carótida) y esteatosis hepática no alco- hólica.46
+
+
+
+
+
+
+
+
+
+Indicadores antropométricos
+Índice	Riesgo de
+cintura/	síndromeIMCestaturametabólicoNormal< 0.51.00Normal> 0.54.01Sobrepeso< 0.53.34Sobrepeso> 0.58.16Obesidad> 0.512.11
+
+  Si bien se han estudiado los efectos a largo pla- zo de la obesidad en la edad pediátrica, en la ac- tualidad se estudia su impacto sobre ciertos indi- cadores mediatos como el aumento de los días de estancia hospitalaria47 o el aumento significativo de la mortalidad en terapias intensivas pediátri- cas en poblaciones mexicanas.48
+  Se sabe que en ocasiones, cuando se relacionan dos indicadores antropométricos, tienden a au- mentar su sensibilidad y especificidad, y tal es el caso del trabajo desarrollado por Maffeis y col.,49 donde se encontró que cuando la relación del IMC de niños obesos con el índice cintura/estatura era mayor de 0.5, el riesgo de presentar síndrome metabólico fue 12.11 veces más alto en compara- ción con niños con IMC normal y una relación de cintura/estatura menor de 0.5 (Cuadro 2).
+  Por lo anterior, al evaluar el estado nutricio de un niño con sobrepeso u obesidad por IMC, es importante buscar la presencia de alteraciones a nivel de diferentes órganos y sistemas y de ser po-
+sible incluso las psicológicas, con el objetivo de
+
+Necesidad de contar con instrumentos de comparación internacional
+Hasta hace poco, debido a la ausencia de criterios internacionales ampliamente aceptados, cada país establecía sus propios criterios para definir sobre- peso y obesidad para elegir los indicadores con que evaluarlos y para definir los estándares de referen- cia y los puntos de corte; por tal razón, la mayoría de los estudios sobre sobrepeso u obesidad en la infancia o en la adolescencia utilizaban criterios y referencias diversas, de tal forma que la compara- ción entre países y entre estudios era difícil.51-53 La forma habitual de evaluar el crecimiento y la adiposidad infantil era a través de curvas de cre- cimiento basadas en peso y estatura; desde hace alrededor de 10 años, el IMC empezó a adquirir importancia como indicador para evaluar la adi- posidad en la infancia y en la adolescencia, parti- cularmente en estudios poblacionales.51 Es así como se inician los esfuerzos para homogeneizar los estándares y las definiciones de sobrepeso y obesidad en la infancia pero persisten aún las di- ferencias entre países. Por ejemplo, en América Latina aún se usa para estos fines el peso para la estatura; mientras que en Estados Unidos de Nor- teamérica (EUA) y algunos países europeos se ha adoptado el IMC para la edad y sexo, han acepta- do los percentiles 85 y 95 para denotar alteración, pero usan estándares propios para realizar la eva- luación. Esto dificulta comparar las tendencias del problema entre países, pues las prevalencias obte- nidas al usar un criterio u otro pueden variar de manera importante. Lo anterior hace manifiesto la urgencia de contar con indicadores y criterios que permitan estas comparaciones. El mejor cri- terio deberá ser aquel que permita una mayor ge- neralización y que demuestre una asociación con
+
+intervenir oportunamente y prevwenwir ewl de.msarreoldloigraepvehntiocs  d.ce  soalmud.
+
+de enfermedades futuras. Es por eso que se reco- mienda tomar exámenes de laboratorio como glu- cosa en ayunas y perfil de lípidos completo a par- tir de que un niño es detectado con sobrepeso por IMC como medida de prevención y diagnóstico temprano.50
+  
+Además del IMC, más recientemente se han iniciado estudios para proponer al perímetro de cintura o al índice cintura/estatura como indi- cador para evaluar obesidad en niños y adoles- centes, particularmente debido a acumulación de tejido adiposo en la región central; sin em-
+
+
+
+
+bargo, a la fecha no se han logrado consensos que permitan hacer comparaciones entre países o poblaciones.
+Indicadores antropométricos para evaluar obe- sidad y sobrepeso en la infancia y adolescencia
+
+a) Estándares basados en el peso y la estatura: IMC
+Para el uso e interpretación correctos de los es- tándares basados en peso y estatura, una condi- ción sine que non es la medición exacta y precisa del peso y de la estatura de los niños, y el conoci- miento de la fecha de nacimiento para establecer la edad exacta y poderlos ubicar en una gráfica de crecimiento. Esta gráfica puede ser de peso para la edad, de peso para la estatura o de IMC para la edad; en todos los casos las gráficas se diferencian por sexo debido a las particulares del crecimiento en niñas y niños, y los momentos distintos del se- gundo brote de crecimiento. El uso de una tabla o gráfica de IMC por edad y sexo es de gran utilidad y es más exacta que las de peso para la edad y peso para la estatura para evaluar la ganancia de peso con relación a la ganancia en estatura, de ahí que dichos estándares han caído en desuso, particularmente cuando lo que se busca es eva- luar sobrepeso u obesidad.54
+  Para usar adecuadamente el IMC es indispen- sable contar con mediciones precisas tanto del peso como de la estatura, pues pequeños errores en cualquiera de estas mediciones (o en ambas) pueden resultar en modificaciones importantes en el cálculo del IMC que incluso pueden implicar errores en la ubicación de los niños, particular- mente en valores cercanos a los puntos de corte o
+
+
+bles a los grupos de niños y adolescentes con ma- yor vulnerabilidad, en términos de incluir sujetos con sobrepeso y obesidad dentro de una muestra de población general.55
+  Desde la perspectiva clínica, la intención de los estándares de crecimiento no es la de ser un ins- trumento diagnóstico único, y mas bien constitu- yen herramientas de tamizaje para que el clínico se forme una impresión general del niño que se está evaluando.56
+
+Centro de Control de Enfermedades-2000
+En 1977, el Centro Nacional para Estadísticas en Salud (NCHS, por sus siglas en inglés) de EUA desarrolló unas tablas de crecimiento para que los profesionales de la salud contaran con una herra- mienta clínica para evaluar el crecimiento. En el año 2000, el Centro de Control de Enfermedades (CDC, por sus siglas en inglés) de EUA presentó la versión revisada de las tablas de 1977. Es im- portante puntualizar que las tablas de crecimien- to CDC-2000 no se desarrollaron como estánda- res de cómo debía ser el crecimiento de niños sanos. La mayoría de los datos de estas tablas pro- vienen de las Encuestas Nacionales de Nutrición y Salud (NHANES) que se realizan de manera periódica en ese país y presentan valores percen- tilares como puntos de referencia.
+  Los estándares de crecimiento CDC-2000 in- trodujeron las tablas de IMC para niños y niñas en edades de 2 a 20 años. Estas nuevas tablas tienen el propósito de sustituir las tablas de peso para la estatura de 1977.56 En estas tablas, como en las anteriores, se usaron datos de las NHANES; sin
+embargo, se decidió no incluir los datos de niños
+
+a los cambios de percentil.
+
+www.medigradpe sheiiscañ.cosoo mmayores de NHANES-III para cal-
+
+  Pueden darse situaciones en las que se desco- noce el valor de la estatura o no se tienen medi- ciones precisas para calcular el IMC. En estos ca- sos, y sólo cuando se cuenta con bases de datos preexistentes, es posible usar los percentiles de peso para la edad para dirigir los recursos disponi-
+
+cular los percentiles de IMC de la versión CDC- 2000, debido al marcado incremento de peso de los niños de estas edades en comparación con en- cuestas estadounidenses anteriores. De no haber- se excluido estos datos habría un subdiagnóstico de obesidad en niños y adolescentes.
+
+
+
+
+  En las tablas de IMC para edad y sexo de CDC- 2000, se usan criterios percentilares para definir riesgo de sobrepeso y sobrepeso, de tal manera que los valores iguales o mayores del percentil 85 y menores del percentil 95 definen riesgo de sobre- peso y los valores iguales o mayores del percentil 95 definen sobrepeso en niños y adolescentes (Figs. 2A y 2B). Debido a las fluctuaciones del IMC durante el crecimiento (ver más adelante), los valores de IMC incluidos en estos intervalos per- centilares varían desde alrededor de 18 hasta casi
+32. En las referencias de CDC-2000 no se usa el término obesidad debido a que se consideró que podría tomarse como un término ofensivo para referirse a niños y porque los datos de peso y esta- tura, aun integrados en el IMC, no tienen la capa- cidad de medir específicamente grasa corporal.
+
+
+  Debido a la gran cantidad de información ge- nerada en los últimos años, en 2005, la Asocia- ción Americana de Medicina en colaboración con la Administración de Recursos y Servicios de Sa- lud y el CDC, formaron un nuevo comité de ex- pertos con representantes de 15 organizaciones nacionales de salud, para revisar y actualizar las recomendaciones para la evaluación y el trata- miento de la valoración infantil, basadas en evi- dencia y en experiencia clínica.31 En sus infor- mes,29,31 retomaron la recomendación del CDC-2000 en cuanto a los criterios para definir anormalidad en el IMC, y reiteraron la utilidad de dos puntos de corte -en lugar de uno solo- para reducir los errores por sobre o subdiagnóstico. En este sentido, los valores de IMC por debajo del percentil 85 se asocian con reservas de tejido adi-
+
+
+
+ 
+
+A. Niños de 2 a 20 años de edad	B. Niñas de 2 a 20 años de edad
+Figura 2. Tablas percentilares de IMC del CDC-2000 para niños y niñas.
+
+
+
+
+poso que son indicativas de bajo riesgo; mientras que en los valores de IMC por arriba del percentil 95, muy probablemente la reserva de grasa sea alta y por ende se traduzca en un alto riesgo. Los valo- res intermedios, es decir, valores de IMC ubica- dos en los percentiles 85 a 94, indican riesgos de- pendientes de la composición corporal, la trayectoria del IMC en el tiempo, la historia fami- liar y otros factores.31 Debido a que en los adoles- centes cercanos a la adultez, el percentil 95 es su- perior a un IMC de 30, el comité de 2005 recomendó que la definición de obesidad en ado- lescentes se estableciera con base en el valor del percentil 95 ó un IMC de 30, tomando el valor más bajo. Para los niños menores de dos años de- berá seguirse utilizando el indicador peso para la estatura y los valores superiores al percentil 95 entrarían en la categoría de sobrepeso.29
+  En la revisión de las recomendaciones, los ex- pertos del comité de 2005 optaron por llamarle so- brepeso y obesidad a los valores de IMC corres- pondientes a los percentiles iguales o mayores de 85 y menores de 95, e iguales o menores de 95, respectivamente (en lugar de riesgo de sobrepe- so y sobrepeso), y argumentaron que el término obesidad tiene una connotación más precisa para el exceso de grasa y refleja más claramente que el término sobrepeso los riesgos asociados a la salud. Por otra parte, el término sobrepeso no está reconocido clínicamente para denotar adiposidad y se refiere simplemente a un peso alto por una gran masa magra o masa grasa, pero no atribui- ble a una o a otra. Es por ello que es el término idóneo para referirse a la categoría intermedia (valores entre el percentil 85 y 94), y así lo defi-
+nió el comité.31 Por otra parte, esta terminología (sobrepeso y obesidad) permite establecer un
+
+
+no. Sin embargo, el comité de 2005 hizo una re- comendación para que el personal clínico apren- da a manejar los conceptos de manera respetuo- sa en el encuentro con los pacientes y sus familias, pues el uso correcto de los términos presenta más ventajas que desventajas.
+  A raíz de la evolución del problema de sobre- peso y obesidad en la infancia, la clasificación pediátrica actual parece insuficiente, al menos para la población estadounidense. Un adolescen- te de 90 kg y uno de 125 kg, se encuentran en la misma categoría de acuerdo con el IMC (ambos por arriba del percentil 95), pero enfrentan efec- tos médicos y sociales muy distintos. La creación de una nueva categoría para la obesidad extrema en niños y adolescentes ayudaría a identificar a estos niños y a apresurar las medidas necesarias para evitar riesgos a la salud. El comité de exper- tos de 2005 ha propuesto que se reconozca el per- centil 99 del IMC (correspondiente a valores de IMC de alrededor de 30 hasta 32 para niños de 10 a 12 años y a 34 para jóvenes de 14 a 16 años). Debido a que el percentil 97 es el más alto inclui- do en las curvas percentilares del CDC, el comité proporciona en su publicación los valores corres- pondientes al percentil 99 para los distintos sexos y edades.31
+
+OMS 2006
+El origen de los estándares de crecimiento de la OMS data de la primera mitad de la década de 1990 cuando un grupo de expertos se dieron a la tarea de evaluar los estándares de crecimien- to del NCHS y la OMS que se habían usado como referentes internacionales desde la déca-
+da de los años setenta del siglo pasado.8 Las li-
+
+continuo  con  el  adulto  y  evitawla wcownfu.smióneddeligrampithaciicon.ecs odemestas  referencias  han  sido  docu-
+
+término en riesgo de sobrepeso, que es poco com- prendido por los pacientes y, en muchos casos, por los mismos profesionales de la salud. Una de las razones por las que se había evitado usar el término obesidad en las clasificaciones anterio- res en EUA es el estigma que acompaña al térmi-
+
+mentadas con anterioridad, y concluyen que las tablas anteriores no representan de manera ade- cuada el crecimiento normal en la infancia.57 Con esto, se formó el grupo que tendría por ob- jetivo documentar cómo debería ser el creci- miento normal en  todos los países, en condicio-
+
+
+
+
+nes óptimas, más que en un país en particular. La solidez de estos nuevos estándares de creci- miento radica en que se basan en niños sanos que viven en condiciones óptimas, conducen- tes a favorecer la expresión de sus potenciali- dades genéticas de crecimiento. Además, las madres de los niños seleccionados para la cons- trucción de los estándares tenían prácticas salu- dables; es decir, practicaban la lactancia al seno materno y no fumaban.2,58 Al seleccionar pobla- ciones privilegiadas y sanas se pretendió redu- cir el efecto de la variabilidad ambiental. Ade- más, la variabilidad del crecimiento lineal entre las seis poblaciones (California, EUA; Muscat, Oman; Oslo, Noruega; Pelotas, Brasil; y locali- dades afluentes de Accra, Ghana y el Sur de Delhi, India) seleccionadas fue  pequeña.59,60
+  Los nuevos estándares de la OMS reflejan el crecimiento temprano (de cero a 60 meses) nor- mal bajo condiciones ambientales óptimas y pue- den usarse para evaluar el crecimiento infantil independientemente del grupo étnico, el esta- do socioeconómico y el tipo de alimentación. Tienen la ventaja, sobre los estándares anterio- res (NCHS/OMS), de estar basadas en un grupo internacional de niños en vez de aquellos de un solo país, y de reconocer que cuando se cubren las necesidades básicas y de salud, el crecimien- to infantil es similar, independientemente del país.2
+
+Grupo de Trabajo sobre Obesidad
+En 1998, la OMS convocó al Grupo de Trabajo sobre Obesidad (IOTF por sus siglas en inglés: International Obesity Task Force) con la consigna
+de obtener una definición de sobrepeso y obesi-
+
+
+peso (IMC   25) y obesidad (IMC   30) en el adulto, con los valores percentilares en niños, con la finalidad de establecer puntos de corte pediá- tricos. El Grupo de Trabajo recomendó también que estos puntos de corte deberían derivarse de una población internacional de referencia34 y, en respuesta a esto, Cole y col.63 se dieron a la tarea de compilar y promediar las curvas percentilares de IMC de seis muestras con representatividad nacional (Brasil, Gran Bretaña, Hong Kong, Ho- landa, Singapur y EUA) para obtener los puntos de corte correspondientes a valores de IMC de 25 y 30 a la edad de 18 años para cada sexo. Lo que se obtuvo fueron puntos de corte específicos por sexo para edades de 2 a 18 años, donde los valores a los 18 años correspondían a los del adul- to; es decir, valores de IMC de 25 para sobrepe- so y de 30 para obesidad (Cuadro 3).
+  Desde una perspectiva teórica, el punto de corte percentilar idóneo es el punto de la dis- tribución del IMC, donde el riesgo a la salud por obesidad empieza a aumentar de manera pronunciada y no necesariamente los puntos de corte establecidos por el Grupo de Trabajo. Desafortunadamente, en el caso de los niños, el establecimiento de este punto no es posible en la actualidad, debido, en parte, a que los niños tienen menos enfermedades que los adul- tos y a que la asociación entre la obesidad en la infancia y los riesgos subsecuentes a la salud pueden estar mediados por la misma obesidad en el adulto, que actúa como un potente con- fusor en esta relación. Aun cuando los puntos de corte propuestos por el IOTF son superio- res a otros, es importante tener en cuenta que la definición de sobrepeso y obesidad que se obtiene es estadística.63
+
+dad  en  la  infancia  que  fuera  acweptwadawen.mel eámd-igrapEhl eincfo.qcuoe pmropuesto por el IOTF, permite com-
+
+bito internacional.61 Esta definición debería es- pecificar el indicador, la población de referencia, y los puntos de corte específicos para distintos grupos de edad y sexo. El grupo basó su propues- ta en el Grupo Europeo de Obesidad Infantil,62 que propuso vincular las definiciones de sobre-
+
+parar las prevalencias de obesidad y sobrepeso en niños y adolescentes entre estudios y entre pobla- ciones, y establecer un continuo en la evaluación del sobrepeso y la obesidad que abarca desde la infancia hasta la edad adulta; sin embargo, no se ha establecido con claridad si estos puntos de corte
+
+
+
+
+en la infancia se asocian con riesgos a la salud si- milares a los del adulto, aunque se ha encontrado que los niños y adolescentes con sobrepeso tienen un mayor riesgo de presentar enfermedades cróni- cas en la vida adulta que sus pares delgados.17,34 A la fecha se desconoce la validez de estos puntos de corte en poblaciones con alta prevalencia de
+
+
+
+
+
+
+
+
+
+
+
+
+218.4118.0220.0919.812.518.1317.7619.8019.55317.8917.5619.5719.363.517.6917.4019.3919.23417.5517.2819.2919.154.517.4717.1919.2619.12517.4217.1519.3019.175.517.4517.2019.4719.34617.5517.3419.7819.656.517.7117.5320.2320.08717.9217.7520.6320.517.518.1618.0321.0921.01818.4418.3521.6021.578.518.7618.6922.1722.18919.1019.0722.7722.819.519.4619.4523.3923.461019.8419.8624.0024.1110.520.2020.2924.5724.771120.5520.7425.1025.4211.520.8921.2025.5826.051221.2221.6826.0226.6712.521.5622.1426.4327.241321.9122.5826.8427.7613.522.2722.9827.2528.201422.6223.3427.6328.5714.522.9623.6627.9828.871523.2923.9428.3029.1115.523.6024.1728.6029.291623.9024.3728.8829.4316.524.1924.5429.1429.561724.4624.7029.4129.6917.524.7324.8529.7029.841825253030
+
+estatura baja. En la última Encuesta Nacional de Salud y Nutrición que se levantó en México en 2006,1 se utilizaron los criterios de IOTF para eva- luar sobrepeso y obesidad en niños y adolescen- tes, razón por la cual es posible contrastar la in- formación obtenida con prevalencias en otros países.
+
+b) Estándares basados en otros estimadores de obesidad: perímetro de cintura
+El perímetro de la cintura es una medida útil en la evaluación antropométrica de la obesidad, pues se asocia con morbilidad cardiovascular en adul- tos.43 Además, el IMC no aporta información en la variabilidad que existe en la distribución de la grasa corporal, y se sabe que la grasa abdominal representa un riesgo metabólico en una gran va- riedad de enfermedades crónicas.64 El perímetro de cintura se recomienda hoy día como el indica- dor antropométrico más práctico y sencillo para evaluar la grasa abdominal en adultos,8 y cada vez hay más evidencia de que su uso no está limitado a los adultos, y que la asociación del perímetro de la cintura y un perfil aterogénico también se pre- senta en niños.65-67 El perímetro de la cintura se asocia con la grasa visceral en niños, cuando se usa, como estándar de oro para la validación, la resonancia magnética.67 Sin embargo, la evalua- ción del perímetro de la cintura en niños ha sido controvertida debido a la dificultad para tener mediciones precisas y a los cambios fenotípicos en niños y niñas durante el crecimiento. El CDC re- comienda que la medición se realice horizontal- mente justo por arriba de la cresta iliaca derecha pero al día de hoy no hay acuerdo en el sitio pre- ciso donde debe realizarse la medición y existe una gran diversidad de técnicas y sitios de medición que generan resultados diferentes.68
+  Por otra parte, el perímetro de cintura es difícil de medir en el niño obeso debido a la dificultad de palpar los referentes óseos necesarios para realizar correctamente la medición, a la presencia de va- rios pliegues cutáneos y a la dificultad para utilizar
+
+
+
+
+la cicatriz umbilical como guía, dado que puede estar desplazada debido a la protuberancia del ab- domen.54 En algunos casos, es posible localizar los referentes óseos en niños obesos si se les coloca en decúbito lateral, de uno y otro lado. De esta mane- ra, la protuberancia del abdomen se desplaza y que- dan palpables los puntos óseos. Una vez localiza- dos éstos, se procede a realizar la medición de la manera habitual. Los valores que resulten de esta medición deben interpretarse con cautela.
+  De momento no se dispone de puntos de corte internacionales para el perímetro de cintura que sean apropiados para identificar a los niños o ado- lescentes con mayor cantidad de grasa corporal o con mayor riesgo cardiovascular o metabólico, ya sea usando como indicador exclusivo al perímetro de cintura o en conjunción con el IMC, por lo que no existe una recomendación para su uso.29 Sin embargo, se han publicado algunas guías en pobla- ciones específicas.69-71 En México, existen unas ta- blas de distribución percentilar del perímetro de cintura para niños de 6 a 10 años de edad.72 El pe- rímetro de cintura y el índice cintura/estatura pro- meten ser un indicador complementario en la iden- tificación de obesidad en población pediátrica en un futuro, cuando se cuente con valores de refe- rencia (específicos para edad, sexo, posiblemente estatura, e incluso percentiles de IMC), dado que se asocian con riesgos futuros (Cuadro 2).49
+
+Comentarios
+Es claro que el exceso de grasa corporal se asocie con riesgos aumentados a la salud. Sin embargo, no existe una medición única de grasa corporal (ya sea que mida directamente la masa grasa o
+como porcentaje del peso corporal) que pueda
+
+
+  La elección del criterio antropométrico de eva- luación es de importancia en casos individuales y en la evaluación de grupos o poblaciones. Cada vez resultan más claras las ventajas de usar están- dares internacionales sobre los locales, tanto para fines de evaluación como de comparación. Como es de esperarse, debido a las diferencias entre cri- terios, las prevalencias de sobrepeso y obesidad obtenidas a partir de ellos serán diferentes al utili- zar estándares distintos. Por ejemplo, el uso de los nuevos estándares de la OMS resultará en una mayor prevalencia de sobrepeso que el detectado con las tablas de NCHS/OMS,8,73 que variará de acuerdo con la edad, el sexo y el estado nutricio de la población índice.2 Por otra parte, al preferir los criterios de la IOTF y las tablas de crecimien- to de Cole y col.,63 se obtendrán prevalencias marcadamente menores de sobrepeso en niños desde los dos hasta los 17 años de edad que si se usaran las referencias de CDC-2000.74
+  Los estándares de referencia de CDC-2000 y de IOTF, son los más aceptados para uso internacio- nal en la actualidad, y se utilizan en la evaluación de la obesidad infantil en el ámbito clínico y en investigación epidemiológica (Cuadro 4). Resulta claro que la tendencia es a elegir un estándar que tenga mayor capacidad para predecir riesgos futu- ros. Janssen y col.75 condujeron un estudio para determinar qué puntos de corte de IMC, para cla- sificar el estado de adiposidad en niños, eran más efectivos para predecir riesgos futuros a la salud; los del CDC o los del IOTF. Evaluaron a 1 709 niños de 4 a 15 años de edad del estudio Bogalusa con los criterios del CDC y del IOTF al inicio, y determinaron la habilidad del diagnóstico de so- brepeso u obesidad basada en ambos criterios para
+predecir obesidad y síndrome metabólico en la edad
+
+discernir  claramente  entre  la  sawludwy wla  e.nmferemde-igraapduhltai,cd.ecspouéms  de  13  a  24  años  de  seguimiento.
+
+dad, o el riesgo de enfermedad en niños. Esto es debido a que, aún si fuera posible contar con una medición precisa de la grasa corporal, existen otros factores que contribuyen a la evaluación, entre ellos: la distribución de la grasa, el factor genéti- co y la condición física.11
+
+Encontraron que, independientemente de la clasi- ficación, los niños con sobrepeso u obesidad en la niñez son predictores fuertes de obesidad y de fac- tores de riesgo de enfermedad coronaria en la adul- tez temprana. Las diferencias en la capacidad pre- dictiva de ambos criterios fueron mínimas.
+
+
+
+  Al parecer, hay consenso en que los diferentes criterios internacionales actualmente disponibles son útiles y pueden usarse de manera indistinta en la evaluación del sobrepeso y la obesidad en la infancia y en la adolescencia, pues arrojan re- sultados similares. Es necesario, sin embargo, in- terpretar los datos con cautela y considerar las posibles ventajas y limitaciones de cada uno de los criterios, sobre todo al hacer comparaciones de estudios que utilizan criterios diferentes.74 Tal es el caso, como por ejemplo, si la estatura está por debajo o por arriba de dos DE de la pobla- ción de referencia. En este caso, ¿se debería ajus- tar el IMC para la edad en función de la estatu- ra? Si bien aún no se tiene una sola respuesta, lo importante es que un niño llame la atención del clínico y que durante su crecimiento, el IMC sea una herramienta más de prevención y diagnósti- co de obesidad.
+
+
+
+
+Referencias
+1. Olaiz-Fernández G, Rivera-Dommarco J, Shamah-Levy T, Rojas R, Villalpando-Hernández S, Hernández-Ávila M, et al. Encuesta Nacional de Salud y Nutrición 2006. Cuernavaca, México: Instituto Nacional de Salud Públi- ca; 2006.
+2. World Health Organization (WHO). WHO Child Growth Standards: Length/height-for-age, weight-for-age, weight-for-length, weight-for-height and body mass in- dex-for-age. Methods and development. Ginebra: 2006. Disponible en: http://www.who.int/childgrowth/stan- dards/technical_report/en/index.html
+3. Katzmarzyk PT, Tremblay A, Perusse L, Despres JP, Bouchard C. The utility of the international child and ado- lescent overweight guidelines for predicting coronary heart disease risk factors. J Clin Epidemiol. 2003; 56: 456-62.
+4. Srinivasan SR, Myers L, Berenson GS. Rate of change in
+adiposity and its relationship to concomitant changes in
+7. 
+Ebbeling CB, Pawlak DB, Ludwig DS. Childhood obesi- ty: Public-health crisis, common sense cure. Lancet. 2002; 360: 473-82.
+8. World Health Organization (WHO). Physical status: the use and interpretation of anthropometry. Report of a WHO Expert Committee. Technical Report Series No. 854. Geneva: World Health Organization; 1995.
+9. WHO-Western Pacific Region. The Asia-Pacific perspec- tive: redefining obesity and its treatment. Regional Offi- ce for the Western Pacific, World Health Organization, International Association for the Study of Obesity, Int Obes Task Force; 2000. p. 1-55.
+10. Himes JH, Dietz WH. Guidelines for overweight in ado- lescent preventive services: Recommendations from an expert committee. The Expert Committee on Clinical Guidelines for Overweight in Adolescent Preventive Services. Am J Clin Nutr. 1994; 59: 307-16.
+11. Barlow SE, Dietz WH. Obesity Evaluation and Treat-
+ment: Expert Committee Recommendations. Pediatrics.
+
+cardiovascular risk variables amonwg biwraciwal (b.mlack-ewdhi- igraph19i9c8; 1.c02o: e2m9. http://pediatrics.aappublications.org/cgi/
+
+te) children and young adults: The Bogalusa Heart Stu- dy. Metabolism. 2001; 50: 299-305.
+5. Calzada-León R. Obesidad en niños y adolescentes. México: Academia Americana de Pediatría. Editores de Textos Mexicanos; 2003.
+6. Dietz WH. Childhood weight affects adult morbidity and mortality. J Nutr. 1998; 128; 411S-4.
+
+content/full/102/3/e29
+12. Dietz WH, Bellizzi MC. Introduction: the use of body mass index to assess obesity in children. Am J Clin Nutr. 1999; 70: 123S-5S.
+13. Bellizzi MC, Dietz WH. Workshop on childhood obesi- ty: Summary of the discussion. Am J Clin Nutr. 1999; 70: 173S-5S.
+
+
+
+
+14. Pietrobelli A, Faith MS, Allison DB, Gallagher D, Chiu- mello G, Heymsfield SB. Body mass index as a measure of adiposity among children and adolescents. A valida- tion study. J Pediatr. 1998; 132: 204-10.
+15. Mei Z, Grummer-Strawn LM, Pietrobelli A, Goulding A, Goran MI, Dietz WH. Validity of body mass index com- pared with other body-composition screening indexes for the assessment of body fatness in children and ado- lescents. Am J Clin Nutr. 2002; 75: 978-85.
+16. Dwyer T, Blizzard CL. Defining obesity in childhood by biological endpoint rather than population distribution. Int J Obes Relat Metab Disord. 1996; 20: 472-80.
+17. Gibson RS. Principles of nutritional assessment. 2nd ed. Oxford: Oxford University Press; 2005.
+18. Guo SM, Roche AF, Chumlea WC, Gardner JD, Siervo- gel RM. The predictive value of childhood body mass index values for overweight at age 35 y. Am J Clin Nutr. 1994; 59: 810-9.
+19. VanItallie TB. Body weight, morbidity, and longevity. En: Björntorp P, Brodoff BN, editores. Obesity. Philadelphia, EUA: JB Lippincott Co.; 1992. p. 55-66.
+20. Micozzi MS, Albanes D, Jones DY, Chumlea WC. Co- rrelations of body mass indexes with weight, stature, and body composition in men and women in NHANES I and II. Am J Clin Nutr. 1986; 44: 725-31.
+21. Freeman J, Power C, Rodgers B. Weight for height in- dexes of adiposity in childhood and early adult life. Int J Epidemiol. 1995; 24: 970-6.
+22. Björntorp P. Fat cell distribution and metabolism. En: Wurtman RJ, Wurtman JJ, editores. Human obesity. Ann N Y Acad Sci. 1987; 499: 66-72.
+23. Roberts SB, Dallal GE. The new childhood growth char- ts. Nutr Rev. 2001; 59: 31-6.
+24. Rolland-Cachera MF, Sempé M, Guilloud-Bataille M, Pa- tois E, Pequignot-Guggenbuhl F, Fautrad V. Adiposity indexes in children. Am J Clin Nutr. 1982; 36: 178-84.
+25. Rolland-Cachera MF, Deheeger M, Bellisle F, Sempe M, Guilloud-Bataille M, Patois E. Adiposity rebound in chil- dren: a simple indicator for predicting obesity. Am J Clin Nutr. 1984; 39: 129-35.
+26. Dietz WH. Periods of risk in childhood for the develop- ment of adult obesity: What do we need to learn? J Nutr. 1997; 127: 1884S-6S.
+27. Cole TJ. Children grow and horses race: Is the adiposity
+
+
+30. Baird J, Fisher D, Lucas P, Kleijnen J, Roberts H, Law C. Being big or growing fast: systematic review of size and growth in infancy and later obesity. BMJ. 2005; 331: 929.
+31. Barlow SE and the Expert Committee. Report and treat- ment of child and adolescent overweight and obesity: Sum- mary Expert Committee Recommendations Regarding the Prevention, Assessment. Pediatrics. 2007; 120: S164-S92.
+32. Himes JH, Dietz WH. Guidelines for overweight in ado- lescent preventive services: Recommendations from an expert committee: The Expert Committee on Clinical Guidelines for Overweight in Adolescent Preventive Services. Am J Clin Nutr. 1994; 59: 307-16.
+33. Koplan JP, Liverman CT, Kraak VI. Preventing childhood obesity: Health in the balance. Washington, DC: Natio- nal Academics Press; 2005.
+34. WHO. Obesity: preventing and managing the global epidemic. Report of a WHO consultation. World Heal- th Organ Tech Rep Ser. 2000; 894: i-xii, 1-253.
+35. WHO. Measuring change in nutritional status. Ginebra: WHO; 1983.
+36. Dibley MJ, Staehling N, Nieburg P, Trowbridge L. Inter- pretation of Z-score anthropometric indicators derived from the international growth reference. Am J Clin Nutr. 1987; 46: 749-62.
+37. Aparicio M, Estrada LA, Fernández C, Hernández RM. Manual de antropometría. Departamento de Nutrición Aplicada y Educación Nutricional. Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán. México: CONACYT; 2004.
+38. Calculadora de IMC y de puntaje-z. Organización Mun- dial de la Salud. www.who.int/childgrowth/software/en/
+39. Baker JL, Olsen LW, Sorensen T. Childhood body mass index and the risk of coronary heart disease in adultho- od. N Engl J Med. 2007; 357: 2329-37.
+40. Manios Y, Kourlaba G, Kafatos A, Cook T, Spyridaki A, Fragiadakis GA. Associations of several anthropometric indexes with insulin resistance in children: The children study. Acta Paediatr. 2008; 97: 494-9.
+41. Kelishadi R, Ardalan G, Gheiratmand R, Adeli K. Paediatric metabolic syndrome and associated anthropometric indexes: The CASPIAN Study. Acta Paediatr. 2006; 95: 1625-34.
+42. Denney-Wilson E, Hardy L, Dobbins T, Okely AD, Baur
+LA. Body mass index, waist circumference, and chronic disease risk factors in Australian adolescents. Arch Pe-
+
+rebound a critical period for later owbeswity?wBM.CmPeediadtr. igraphdiaitcr A.dcoolesmc Med. 2008; 162: 566-73.
+
+2004; 4: 6.
+28. Reilly JJ, Armstrong J, Dorosty AR, Emmett PM, Ness A, Rogers I, et al. Early life risk factors for obesity in child- hood: cohort study. BMJ. 2005; 330: 1357.
+29. Krebs NK, Himes JH, Jacobson D, Nicklas TA, Guilday P, Styne D. Assessment of child and adolescent overweig- ht and obesity. Pediatrics. 2007; 120: S193-S228.
+43. 
+Katzmarzyk PT, Srinivasan SR, Chen W, Malina RM, Bouchard C, Berenson GS. Body mass index, waist cir- cumference and clustering of cardiovascular disease risk factors in biracial sample of children and adolescents. Pediatrics. 2004; 114: e199-e205.
+44. Boyd GS, Koenigsberg J, Falker B, Gidding S, Hassink S. Effect of obesity and high blood pressure on plasma
+
+
+
+
+lipid levels in children and adolescents. Pediatrics. 2005; 116: 442-6.
+45. Perichart-Perera O, Balas-Nakash M, Schiffman-Selech- nick E, Barbato-Dosal A, Vadillo-Ortega F. Obesity in- creases metabolic syndrome risk factors in school-aged children from an urban school in Mexico City. J Am Diet Assoc. 2007; 107: 81-91.
+46. Demircio lu F, Koçyi it A, Arslan N, Cakmakçi H, Hizli S, Sedat AT. Intima-media thickness of carotid artery and susceptibility to atherosclerosis in obese children with nonalcoholic fatty liver disease. J Pediatr Gastroen- terol Nutr. 2008; 47: 68-75.
+47. Vellinga A, Odonovan D, de la Harpe D. Length of stay and associated cost of obesity related hospi- tal admission in Ireland. BMC Health Serv Res. 2008; 8: 88.
+48. Toussaint G, Amarante M, Carrillo H, Crabtree U, Jarillo A, Libreros A. Nutritional status in children at admission at the intensive care unit: a mortality risk factor. Pediatr Crit Care. 2007; 8: A200.
+49. Maffeis C, Banzato C, Talamini G. Waist to height ratio, a useful index to identify high metabolic risk in overweight children. J Pediatr. 2008; 152: 207-13.
+50. Barlow SD and the Expert Committee. Expert Commit- tee Recommendations Regarding the Prevention, As- sessment, and Treatment of Child and Adolescent Overweight and Obesity: Summary Report. Pediatrics. 2007; 120: 164-92.
+51. Guillaume M. Defining obesity in childhood: current prac- tice. Am J Clin Nutr. 1999; 70: 126S-30S.
+52. Power C, Lake JK, Cole TJ. Measurement and long-term health risks of child and adolescent fatness. Int J Obes Relat Metab Disord. 1997; 2: 507-26.
+53. Wang Y, Wang JQ. A comparison of international refe- rences for the assessment of child and adolescent overweight and obesity in different populations. Eur J Clin Nutr. 2002; 56: 973-82.
+54. Rudolf MCJ. The obese child. Arch Dis Child Ed Pract. 2004; 89; 57-62.
+55. Stettler N, Arezoo Z, Posner JC. Predictive value of weight-for-age to identify overweight children. Obesity. 2007; 15: 3106-12.
+56. 2000 CDC Growth Charts: United States. Disponible
+en: http://www.cdc.gov/GROWTHCHARTS/
+
+
+59. De Onis M, Garza C, Victora CG, Bhan MK, Norum KR. WHO Multicentre Growth Reference Study (MGRS): Rationale, planning and implementation. Food Nutr Bull. 2004; 25 Suppl 1: S1-S89.
+60. WHO Multicentre Growth Reference Study Group. As- sessment of differences in linear growth among popula- tions in the WHO Multicentre Growth Reference Study. Acta Paediatr. 2006; 95 Suppl 450: 56-66.
+61. Bellizzi MC, Dietz WH. Workshop on childhood obesi- ty: summary of the discussion. Am J Clin Nutr. 1999; 70: 173-5S.
+62. Poskitt EM. Defining childhood obesity: the relative body mass index /BMI). European Childhood Obesity Group. Acta Paediatr. 1995; 84: 961-3.
+63. Cole TJ, Bellizzi MC, Flegal KM, Dietz WH. Establishing a standard definition for child overweight and obesity world- wide: International survey. BMJ. 2000; 320: 1240-5.
+64. Björntorp P. Visceral obesity: a “civilization syndrome”. Obes Res. 1993; 1: 206-22.
+65. Goran MI, Gower BA, Treuth MT, Nagy TR. Prediction of intra-abdominal and subcutaneous abdominal adipo- se tissue in healthy pre-pubertal children. Int J Obes. 1998; 22: 549-58.
+66. Freedman DS, Serdula MK, Srinivasan SR, Berenson GS. Relation of circumferences and skinfold thicknesses to lipid and insulin concentrations in children and adoles- cents: the Bogalusa Heart Study. Am J Clin Nutr. 1999; 69: 308-17.
+67. Brambilla P, Bedogni G, Moreno LA. Cross validation of anthropometry against magnetic resonance imaging for the assessment of visceral and subcutaneous adipose tissue in children. Int J Obes. 2006; 30: 23-30.
+68. Wang J, Thornton JC, Bari S, Williamson B, Gallagher D, Heymsfield SB, et al. Comparisons of waist circumferen- ces measured at 4 sites. Am J Clin Nutr. 2003; 77: 379-84.
+69. Fernández JR, Redden DT, Pietrobelli A, Allison DB. Waist circumference percentiles in nationally representative samples of African-American, European-American, and Mexican-American children and adolescents. J Pediatr. 2004; 145: 439-44.
+70. McCarthy HD, Jarrett KV, Crawley HF. The develop-
+ment of waist circumference percentiles in British chil- dren aged 5.0-16.9 y. Eur J Clin Nutr. 2001; 55: 902-7.
+
+57. De Onis M, Habicht JP. Anthropomwetrwic rwefer.emnceedadta igra7p1. hAridcern.cCIo, Jamnssen I, Ross R, Katzmarzyk PT. Develop-
+
+for international use: recommendations from a World Health Organization Expert Committee. Am J Clin Nutr. 1996; 64: 650-8.
+58. Garza C, de Onis M, for the WHO Multicentre Growth Reference Study Group. Rationale for developing a new international growth reference. Food Nutr Bull. 2004; 25 Suppl 1: S5-S14.
+
+ment of health-related waist circumference thresholds within BMI categories. Obes Res. 2004; 12: 1094-103.
+72. Gómez-Díaz R, Martínez-Hernández AJ, Aguilar Salinas CA, Violante R, López-Alarcón M, Jiménez-Villarruel M, et al. Percentile distribution of the waist circumference among Mexican pre-adolescents of a primary school in Mexico City. Diabetes Obes Metab. 2005; 7: 716-21.
+
+
+
+
+73. Must A, Dallal GE, Dietz WH. Reference data for obesi- ty: 85th and 95th percentiles of body mass index (wt/ ht2) and triceps skinfold thickness. Am J Clin Nutr. 1991; 53: 839-46.
+74. Flegal KM, Ogden CL, Wei R, Kuczmarski RL, Johnson CL. Prevalence of overweight in US children: compari- son of US growth charts from the Centers for Disease
+
+
+Control and Prevention with other reference values for body mass index. Am J Clin Nutr. 2001; 73: 1086-93.
+75. Janssen I, Katzmarzyk PT, Srinivasan SS, Chen W, Ma- lina RM, Bouchard C, et al. Utility of childhood BMI in the prediction of adulthood disease: comparison of national and international references. Obes Res. 2005; 13: 1106-15.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+www.medigraphic.com
+
+
+
+
+
+
+
+
+
+
+
+

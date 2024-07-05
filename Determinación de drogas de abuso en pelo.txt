@@ -1,0 +1,268 @@
+﻿Rev Esp Med Legal. 2011; 37(2): 59-66
+
+
+
+
+
+
+
+
+ARTÍCULO ESPECIAL
+Determinación de drogas de abuso en pelo
+Ana María Bermejo Barrera * y María Jesús Tabernero Duque
+
+Inst i t ut o Universit ario de Medicina Legal, Facult ad de Medicina, Sant iago de Compost ela, La Coruña, España
+
+ReCibido el 7 de febrero de 2011; aCept ado el 23 de febrero de 2011
+
+
+Resumen
+La det erminaCión de drogas de abuso en pelo es hoy en dÍa una t éCniCa habit ual implan- t ada en los laborat orios de t oxiCologÍa forense que siguen las reComendaCiones propues- t as por la SoCiet y of Hair Test ing en el año 2004. Es una muest ra biológiCa alt ernat iva de fáCil reCogida, dif ÍCil adult eraCión, que no neCesit a CondiCiones espeCiales de Conserva- Ción y, además, permit e demost rar Consumos ant eriores a la t oma de muest ra. Es por ello que sus apliCaCiones son Cada dÍa numerosas, inCluida la posibilidad de det erminaCión de marCadores de Consumo CróniCo de al Cohol et Íl iCo. No obst ant e, los mét odos anal Ít iCos no est án aún est andarizados por lo que ha de realizarse una CorreCt a int erpret aCión de result ados y t ener en Cuent a las l imit aCiones que est a muest ra biológiCa present a.
+© 2011 AsoCiaCión NaCional de MédiCos Forenses. PubliCado por Elsevier España, S. L. Todos los dereChos reservados.
+Determination of drugs of abuse in hair Abstract
+The det erminat ion of drugs of abuse in hair is now a rout ine t eChnique in forensiC t oxiCology laborat ories following t he SoCiet y of Hair Test ing reCommendat ions in 2004. It is an alt ernat ive biologiCal sample t hat is, easily obt ained, dif fiCult t o adult erat e, does not require speCial st orage Condit ions, and, furt hermore, it demonst rat es shows Consumpt ion prior t o obt aining a blood or urine sample. For t his reason, it s appliCat ions are inCreasing in number, inCluding t he possibilit y of det ermining markers of ChroniC et hyl al Cohol use. However, t he analyt iCal met hods are not yet st andardized; t herefore, a CorreCt int erpret at ion of result s must be performed, and t he l imit at ions of t his biologiCal sample must be t aken int o aCCount .
+© 2011 AsoCiaCión NaCional de MédiCos Forenses. Published by Elsevier España, S. L. All right s reserved.
+
+
+
+* Aut or para CorrespondenCia.
+   Correo elect rónico: anamaria. bermej o@usC. es (A. M. Bermej o Barrera).
+
+0377-4732/ $ - see f ront mat t er © 2011 AsoCiaCión NaCional de MédiCos Forenses. PubliCado por Elsevier España, S. L. Todos los dereChos reservados.
+
+
+
+Introducción
+
+La invest igaCiÓn t OXiCOl ÓgiCa de drOgas de abusO en dist in- t as mat riCes biOl ÓgiCas ha sidO siempre Obj et O de est udiO y se ha desarrOlladO enOrmement e en l Os últ imOs añOs.
+   La sangre y la Orina han sidO, a l O largO del t iempO, las muest ras biOl ÓgiCas más ut il izadas para el análisis de drOgas de abusO. La inCOrpOraCiÓn de las drOgas en est Os fluidOs es bien COnOCida y el análisis y la int erpret aCiÓn de result adOs se han COnvert idO ya en hábit O en l Os labOrat OriOs de t OXiCO- l OgÍa. Sin embargO, en las últ imas déCadas se han COmenza- dO a ut il izar las “ muest ras alt ernat ivas” , que OfreCen mu- Chas vent aj as f rent e a las muest ras COnvenCiOnales. Est O ha sidO pOsible pOr el desarrOll O reCient e de t éCniCas anal Ít iCas de alt a sensibilidad, que permit en la ut il izaCiÓn de est as mat riCes, en las que, generalment e, se dispOne de pOCa Can- t idad de muest ra y COn baj as COnCent raCiOnes de t ÓXiCO, perO que sOn más fáCiles de reCOger y dif ÍCiles de adult erar. Tras la absOrCiÓn de una drOga, la dist ribuCiÓn, el met a- bOlismO y las vÍas de eXCreCiÓn j ust ifiCan la apariCiÓn se- CuenCial de est a y sus met abOlit Os en diferent es t ej idOs y fluidOs. Las prOpiedades fisiCOquÍmiCas de la drOga y del
+fluidO biOl ÓgiCO pueden ser ut il izadas para raCiOnalizar la
+apariCiÓn de la drOga en un fluidO COrpOral O COmpart iment O COrpOral. El pKa, la l ipOsOlubilidad, enlaCe a prOt eÍnas y la COmpOsiCiÓn de l Os fluidOs biOl ÓgiCOs det erminan en gran medida en qué fluidOs la drOga est á present e.
+  En general, la eleCCiÓn de muest ra biOl ÓgiCa que analizar est á COndiCiOnada pOr una serie de faCt Ores:
+
+1. ReCOgida de muest ra.
+2. Análisis prOpiament e diChO.
+3. Int erpret aCiÓn de result adOs.
+
+  En Cuant O a la reCOgida de muest ra, se val Orará: la inva- sividad, el riesgO de infeCCiÓn, la faCilidad y rapidez de re- COgida, la neCesidad de t ener persOnal espeCializadO para la t Oma, la faCilidad de adult eraCiÓn, la pOsible COnt amina- CiÓn, asÍ COmO el vOlumen de muest ra reCOgida.
+En relaCiÓn COn el análisis, su finalidad Cualit at iva O Cuan-
+t it at iva, la vent ana de det eCCiÓn, la COnCent raCiÓn/ aCumu- laCiÓn de drOga en la muest ra, la est abilidad de la drOga, la neCesidad de almaCenamient O espeCial, el pret rat amient O, asÍ COmO la pOsibilidad de int erferenCias, dispOnibilidad de t éCniCas anal Ít iCas, la rapidez de análisis y el requerimient O de persOnal espeCializadO, sOn t ambién COndiCiOnant es en la eleCCiÓn de la muest ra biOl ÓgiCa que analizar.
+  POr últ imO, la int erpret aCiÓn de result adOs es t ambién un det erminant e, en relaCiÓn COn l Os pOsibles efeCt Os farmaCO- l ÓgiCOs y el indiCadOr de usO reCient e de drOga (hOras), eX- pOsiCiÓn a COrt O plazO (dÍas), eXpOsiCiÓn a largO plazO (se- manas), sin Olvidar en algunOs CasOs la validez mediCOlegal del análisis CuandO est a es impOrt ant e.
+  Es impOrt ant e, además, COnOCer l Os t iempOs de apariCiÓn y desapariCiÓn de las drOgas de las diferent es muest ras biO- l ÓgiCas (t abla 1), sObre t OdO de aquellas de gran ut il idad en t OXiCOl OgÍa Cl ÍniCa y f Orense.
+  ACt ualment e el prinCipal Obst áCul O al usO de t Oda la va- riedad de mat riCes alt ernat ivas est á represent adO pOr la ausenCia de mét OdOs de análisis universalment e aCept adOs y est andarizadOs. AsÍ, el pel O y las mat riCes querat ÍniCas,
+
+
+Tabla 1 TiempO de apariCiÓn y desapariCiÓn de las drOgasMat rizApariCiÓnDesapariCiÓnPlasma1-2 hMenOs 24 hSal iva1-2 h24-26 hOrina2-4 h3-6 dÍasSudOr2-4 h3-6 dÍasPel O1 semanaHast a 1-2 añOs
+
+en general, est án adquiriendO relevanCia dent rO de las muest ras biOl ÓgiCas, eXist iendO ya mat eriales de referenCia y val Ores de COrt e a que at enerse. POr el COnt rariO, mues- t ras COmO la saliva O el sudOr est án aún en fase de est udiO, aunque la SAHMSA (Subst anCe Abuse Ment al Healt h ServiCe Administ rat iOn) haya est ableCidO una guÍa y val Ores de COr- t e t ambién para est as dOs muest ras.
+
+
+Muestras biológicas alternativas
+
+Est as muest ras present an muChas vent aj as f rent e a las COn- venCiOnales COmO, prinCipalment e, la faCilidad de reCOgida, la difiCult ad de adult eraCiÓn y las diferent es vent anas de det eCCiÓn que present an. DiChas vent anas, COmO puede verse en la figura 1, van desde pOCas hOras hast a añOs, pOr l O que, según la finalidad de nuest rO análisis, la eleCCiÓn de la muest ra puede ser diferent e.
+   Dent rO de las muest ras biOl ÓgiCas alt ernat ivas, el pel O ha COmenzadO ya a ut il izarse COmO muest ra biOl ÓgiCa en l Os añOs sesent a-set ent a para evaluar la eXpOsiCiÓn a met ales COmO el arséniCO O el merCuriO, al pensar que en diCha muest ra est Os COmpuest Os serÍan almaCenadOs pOr algún t iempO, pOr l O que su ut il izaCiÓn era más reCOmendable que la de la sangre O la Orina. AñOs más t arde, COmienzan a realizarse análisis de COmpuest Os OrgániCOs, ent re ell Os las drOgas de abusO. Baumgart ner (1979)1 publiCÓ un t rabaj O sObre la det erminaCiÓn de herOÍna en pel O pOr radiOinmu- nOensayO y, a part ir de ese mOment O, COmenzÓ a ut il izarse t OdO t ipO de t éCniCas anal Ít iCas para est e t ipO de det ermi- naCiOnes. En 1995 se fundÓ la SOCiet y Of Hair Test ing (SOHT), que ha est ableCidO las l Íneas que deben seguirse en l Os aná- l isis de pel O, desde la reCOgida de la muest ra, COmO su pre- paraCiÓn y análisis prOpiament e diChO, est ableCiendO ade- más val Ores de  cut -of f  de  referenCia  t ant O  para  l Os
+prOCedimient Os de CribadO COmO l Os de COnfirmaCiÓn. De
+heChO, en la aCt ualidad es ut il izadO para det erminaCiÓn de t OdO t ipO de XenObiÓt iCOs (drOgas, fármaCOs, hOrmOnas, COnt aminant es ambient ales,  et C.) en CienCias f Orenses, t OXiCOl OgÍa Cl ÍniCa, et C.
+  HOy en dÍa es la muest ra nO COnvenCiOnal Cuya ut il izaCiÓn se ha implant adO más en l Os labOrat OriOs de t OXiCOl OgÍa, al present arse COmO una muest ra alt ernat iva a la Orina para el análisis de drOgas de abusO, prinCipalment e CuandO est a nO es válida pOr haber t ransCurridO demasiadO t iempO t ras el últ imO COnsumO.
+  La muest ra de pel O permit e demOst rar COnsumO de drO- gas en mOment Os ant eriOres a la t Oma de muest ra, ya que
+
+
+
+  Pelo Sudor Orina Saliva Sangre
+N.° dÍas 0,1	1	10	100	1.000
+
+
+De 1 semana hasta años
+
+2-3 dÍas
+
+2-3 dÍas
+
+24 horas
+
+24 horas
+
+t all O del CreCimient O del pel O. AdemáS, l legan t ambién deS- de el SudOr y laS SeCreCiOneS de laS glándulaS SebáCeaS y apOCrinaS que rOdean al f Ol ÍCul O pil OSO, y pOr eSt a VÍa Se inCOrpOran ya en el pel O definit iVO. ESt O eXpliCarÍa unO de l OS mOt iVOS de la gran Variabilidad que eXiSt e en laS COnCen- t raCiOneS det eCt adaS en el pel O ent re indiViduOS que COnSu- men la miSma dOSiS, debidO a la gran Variabilidad indiVidual que eXiSt e en eSt e t ipO de SeCreCiOneS.
+  POr últ imO, nO Se puede dej ar de menCiOnar el t erCer meCaniSmO de inCOrpOraCiÓn, la COnt aminaCiÓn eXt erna, SO- bre t OdO en el CaSO de laS drOgaS que Se COnSumen pOr VÍa inhalat Oria O en laS perSOnaS que manipulan grandeS Cant i- dadeS de drOga3. ESt a VÍa ha de t enerSe en Cuent a Siempre
+
+Figura 1  Vent anaS de det eCCiÓn de diferent eS mueSt raS biOl Ó-
+giCaS.
+
+
+en ella apareCen laS drOgaS a l OS 7-10 dÍaS t raS el COnSumO y ahÍ permaneCen ret enidaS indefinidament e. ESt O eS debi- dO a laS prOpiedadeS que t iene el pel O de almaCenar, Sin met abOlizar, laS diferent eS SuSt anCiaS que l legan a él t ranS- pOrt adaS pOr la Sangre O el SudOr, repreSent andO una alt er- nat iVa al análiSiS de Orina y de Sangre CuandO ha t ranSCurri- dO demaSiadO t iempO deSde el últ imO COnSumO.
+  ES impOrt ant e deSt aCar, ademáS, la faCilidad de t Oma de mueSt ra, aSÍ COmO el heChO de que nO neCeSit a COndiCiOneS eSpeCialeS de almaCenamient O y COnSerVaCiÓn.
+  El análiSiS de pelO nO debe COnSiderarSe eXCluyent e del de la Orina, SinO máS bien COmO una prueba COmplement aria, aunque el reSult adO Cuant it at iVO que prOpOrCiOna SirVe para eValuar la SeVeridad y el mOdelO indiVidual de COnSumO, COSa que nO OCurre COn lOS reSult adOS Obt enidOS en la Orina.
+   El meCaniSmO pOr el que laS drOgaS Se inCOrpOran al pel O eS bien COnOCidO ya deSde haCe algunaS déCadaS. El mOdel O mult iCOmpart iment al prOpueSt O pOr HenderSOn (fig. 2) eS hOy en dÍa el máS aCept adO2. Según eSt e mOdel O, laS drOgaS l legan al pel O pOr VariaS VÍaS: primerO deSde la Sangre que irriga el f Ol ÍCul O pil OSO, pOr l O que la drOga Se inCOrpOra al
+
+para eVit ar dar un fal SO reSult adO pOSit iVO. POr ell O Se reCO- mienda un rigurOSO laVadO de la mueSt ra ant eS del análiSiS.
+   Una Vez inCOrpOradaS, quedan ret enidaS en funCiÓn de faCt OreS que dependen del pel O (Cut ÍCula, médula, COl Or) y faCt OreS que dependen de la drOga (eSt ruCt ura quÍmiCa, l i- pOfilia, afinidad pOr la melanina, CapaCidad de penet raCiÓn pOr la membrana). El efeCt O de la melanina SObre la inCOr- pOraCiÓn de laS drOgaS al pel O fue Obj et O de eSt udiOS pOr numerOSOS aut OreS4,5, demOSt rándOSe que, en general, laS COnCent raCiOneS de drOga SOn máS alt aS en l OS pel OS pig- ment adOS. En efeCt O, Se ha SeñaladO que laS drOgaS eSt able- Cen un enlaCe COn la melanina que faCilit a Su ret enCiÓn6,7. Nakahara (1992)8 diSeñÓ un mOdel O eXperiment al para eSt u- diar la “ CapaCidad inCOrpOrat iVa de laS drOgaS en el pel O (ICR)” , eSt udiandO la relaCiÓn eXiSt ent e ent re la COnCent ra- CiÓn de drOga en Sangre y en el pel O. LOS reSult adOS Obt eni-
+dOS han SerVidO para ClaSifiCarlaS en t reS grupOS Según Sea Su ICR: alt O, mediO O baj O. En eSt a ClaSifiCaCiÓn, SuSt anCiaS COmO la COCaÍna, COn un ICR alt O, SOn ret enidaS COn faCili- dad en el pel O, al COnt rariO de l O que OCurre COn Ot raS SuS- t anCiaS COmO el met abOlit O hidrOXiladO del CannabiS, que pOr SuS prOpiedadeS fiSiCOquÍmiCaS t iene difiCult ad para in- COrpOrarSe a la mat riz querat ÍniCa.
+  Una Vez inCOrpOradaS laS drOgaS al pel O permaneCen al- maCenadaS en él Sin Sufrir alt eraCiOneS durant e un t iempO,
+
+
+
+Figura 2  MeCaniSmO de inCOrpOraCiÓn de laS drOgaS al pel O.
+
+
+
+Siempre y CuandO el pel O nO haya reCibidO t rat amient OS COS- mét iCOS. En eSt e CaSO, la eSt abilidad de laS drOgaS en la mat riz querat ÍniCa eSt á afeCt ada. ASi, Mart inS et al 9 demOS- t rarOn la diSminuCiÓn en la COnCent raCiÓn de COmpueSt OS anfet amÍniCOS en pel OS que preViament e habÍan SidO deCO- l OradOS en COmparaCiÓn COn aquell OS que nO habÍan reCibi- dO ningún t rat amient O COSmét iCO. ESt udiOS SimilareS han SidO publiCadOS para Ot raS drOgaS10. AdemáS, Se ha demOS- t radO t ambién que algunOS t rat amient OS COSmét iCOS prOdu- Cen int erferenCiaS anal Ít iCaS que pueden difiCult ar la det eC- CiÓn de laS drOgaS. ESt e eS el CaSO del MinOXidil®, que impide la det eCCiÓn de l OS deriVadOS t rimet il SiladOS de la COCaÍna y SuS met abOlit OS11.
+   LOS diferent eS t ipOS de pel O que Se enCuent ran en el CuerpO humanO han SidO prOpueSt OS para el análiSiS de drO- gaS; nO ObSt ant e, laS diferenCiaS en la biOl OgÍa de Cada unO de ell OS han de Ser COnSideradaS para una COrreCt a int erpre- t aCiÓn de l OS reSult adOS anal Ít iCOS.
+  En general, el pel O del CuerO CabelludO eS el que Se ana- l iza COn máS f reCuenCia pOr Ser el máS fáCil de reCOger y t ener mayOr gradO de CreCimient O, aunque eS el máS eX- pueSt O a COnt aminaCiÓn eXt erna y Su int egridad fiSiOl ÓgiCa eSt á máS alt erada pOr l OS pOSibleS t rat amient OS COSmét iCOS que SObre él Se realizan. El Vell O púbiCO y el aXilar t ambién Se analizan a menudO; en eSt OS t ipOS de pel O, la COnt amina- CiÓn pOr SeCreCiOneS de laS glándulaS SudOrÍparaS apOCrinaS y SebáCeaS eS mayOr. NO ObSt ant e, en algunOS CaSOS eS ne- CeSariO reCOgerl OS pOr t ener una Vel OCidad de CreCimient O muChO máS lent a que el pel O del CuerO CabelludO y, pOr l O t ant O, Su análiSiS prOpOrCiOna una inf OrmaCiÓn máS prOl On- gada en el t iempO, aunque en eSt e CaSO el análiSiS SeCuen- Cial nO eS pOSible.
+  LOS reSult adOS Obt enidOS analizandO l OS diferent eS t ipOS de pel O nO SOn COmparableS, ya que Se ha demOSt radO en numerOSOS eSt udiOS que el Vell O púbiCO eS el que almaCena mayOr Cant idad de drOgaS, debidO a Su lent a Vel OCidad de CreCimient O12,13 y a la pOSibilidad de COnt aminaCiÓn eXt erna pOr la Orina.
+
+
+RecOmendaciOnes de la SOHT
+
+  La SOCiet y Of Hair TeSt ing (SOHT, 2004)14, t raS diVerSaS reuniOneS COn diferent eS labOrat OriOS, ha l legadO a un COn- SenSO para eSt ableCer unaS guÍaS para el análiSiS de eSt a mat riz biOl ÓgiCa COn reCOmendaCiOneS que afeCt an a VariOS aSpeCt OS:
+
+  Recogida, t ransport e y conservación. La COrreCt a reCOgi- da de pel O eS fundament al para la realizaCiÓn del análiSiS. La mueSt ra Se debe reCOger de la zOna OCCipit al y COrt arSe l O máS CerCa pOSible de la raÍz, en una Cant idad SufiCient e (200 mg, el diámet rO de un lápiz), SeñalizandO l OS eXt remOS prOXimal y diSt al. Si Se SOliCit a un análiSiS SeCuenCial, el meChÓn de pel O Se debe COger COn una Cint a adheSiVa ant eS del COrt e. El pel O de eleCCiÓn eS el del CuerO CabelludO, perO Si nO eSt á diSpOnible, Se reCurre a Ot raS part eS del CuerpO, COmO Se ha menCiOnadO ant eriOrment e.
+   AdemáS, eS impOrt ant e el enVÍO de la mueSt ra COn la in- f OrmaCiÓn neCeSaria para Cada CaSO, anOt andO la l Ongit ud, el COl Or y la pOSibilidad de apliCaCiÓn de t rat amient OS COS-
+
+mét iCOS preViOS y, pOr SupueSt O, la zOna del CuerpO dOnde Se ha reCOgidO la mueSt ra.
+  LaS COndiCiOneS de almaCenamient O nO deben alt erar la mueSt ra, pOr ell O, Se reCOmienda almaCenar laS mueSt raS en una habit aCiÓn OSCura a t emperat ura ambient e.
+  En l OS CaSOS pOSt mÓrt em, el pel O debe Ser reCOgidO ant eS de empezar la aut OpSia, a fin de eVit ar pOSible COnt amina- CiÓn pOr Ot raS mueSt raS biOl ÓgiCaS.
+  La cont aminación ext erna eS COnSiderada una de laS prin- CipaleS l imit aCiOneS del análiSiS del pel O y, pOr ell O, debe Ser eliminada COmplet ament e O minimizada apliCandO di- VerSOS mét OdOS:
+
+— EliminadO fuent eS de COnt aminaCiÓn eXt erna en el prOpiO labOrat OriO.
+— Ut il izandO Val OreS aprOpiadOS de cut -of f .
+— Real izandO múlt ipleS laVadOS COn diSOl Vent eS OrgániCOS O diSOluCiOneS aCuOSaS.
+— COnSerVandO el l ÍquidO del últ imO análiSiS para realizar eVent ualeS análiSiS.
+
+  La desint egración o digest ión del pelo y la ext racción de laS SuSt anCiaS SOn diferent eS para Cada labOrat OriO, perO ha de aSegurar que nO prOduCe alt eraCiOneS en el pat rÓn met a- bÓliCO de Cada SuSt anCia.
+Análisis de cr ibado y confi rmación. LOS primerOS pueden
+efeCt uarSe deSpuéS de la ValidaCiÓn de un mét OdO anal Ít iCO que permit a la COrreCt a ident i fiCaCiÓn de l OS analit OS, COn un cut -of f que nO dé fal SOS reSult adOS negat iVOS. En l O que reSpeCt a a l OS análiSiS de COnfirmaCiÓn, que generalment e Se baSan en mét OdOS eSpeCt rOf Ot Omét riCOS, deben Ser t am- bién ValidadOS y l OS reSult adOS de pOSit iVidad dadOS Según l OS Crit eriOS reCOmendadOS pOr laS SOCiedadeS Cient ÍfiCaS aCept adaS int ernaCiOnalment e.
+  Valores de cort e (Cut -Off). Se han eSt ableCidO Val OreS de COrt e, a part ir de l OS CualeS un reSult adO debe COnSiderarSe pOSit iVO para l OS diferent eS t ipOS de drOgaS. ASÍ:
+
+— OpiáCeOS: Se COnSidera pOSit iVO a part ir de 0, 2 ng/ mg en l OS análiSiS de CribadO y 0, 2 ng/ mg para Cada SuSt anCia en l OS análiSiS de COnfirmaCiÓn. AdemáS, debe diferenCiarSe el uSO de herOÍna COn el de COdeÍna O mOrfina, l O que úniCament e Se COnSigue COn la ident i fiCaCiÓn de la 6-mO- nOaCet ilmOrfina (MAM).
+— COCaÍna: en eSt e CaSO el punt O de COrt e eS de 0, 5 ng/ mg para laS t éCniCaS de CribadO y 0, 5 ng/ mg para la COCaÍna y 0, 05 ng/ mg para Cada unO de SuS met abOlit OS en laS t éCniCaS de COnfirmaCiÓn. En eSt e CaSO, al menOS unO de SuS met abOlit OS debe Ser ident ifiCadO (benzOileCgOnina, eCgOnina met iléSt er, COCaet ilenO O nOrCOCaÍna).
+—Anfet aminaS: Se COnSidera pOSit iVO a part ir de 0, 2 ng/ mg en laS t éCniCaS de CribadO y 0, 2 ng/ mg de Cada anfet ami- na en laS t éCniCaS de COnfirmaCiÓn.
+— CannabiS: 0, 1 ng/ mg Se COnSidera el Val Or mÍnimO det eC- t able en l OS mét OdOS anal Ít iCOS de CribadO, y l OS miSmOS Val OreS para el THC en laS t éCniCaS de COnfirmaCiÓn, mient raS que para Su met abOlit O el THC-COOH, 0, 2 pg/ mg eS la Cant idad mÍnima det eCt able. La ident i fiCaCiÓn de eSt e últ imO, aunque Sea a baj aS COnCent raCiOneS, eS impreSCindible para pOder eSt ableCer un COnSumO de Can- nabiS.
+
+
+
+  Cont roles de cal idad int ernos. En el CaSO del pel O, nO eS fáCil al nO pOSeer mat erialeS de referenCia. COmO alt ernat i- Va, mueSt raS pOSit iVaS y negat iVaS deben Ser t rat adaS y ana- l izadaS COnj unt ament e COn mueSt raS realeS para garant izar la Calidad del análiSiS.
+  Cont roles de cal idad ext ernos. El labOrat OriO debe part i- Cipar en COnt rOleS int erlabOrat OriOS que reCiben aut ént iCOS eSt ándar de pel O para analizar COnj unt ament e COn SuS mueSt raS habit ualeS.
+
+   ReCOmendaCiOneS SimilareS han SidO publiCadaS pOr la SAMSHA (SubSt anCe AbuSe and Ment al Healt h and SerViCe AdminiSt rat iOn)15 que ha eSt ableCidO nOrmaS para la reCOgi- da de mueSt ra y Val OreS de cut -of f .
+
+
+InterpretaciÓn de resultadOs
+
+La prinCipal Vent aj a del análiSiS de pel O eS Su CapaCidad de prOpOrCiOnar inf OrmaCiÓn SObre un perÍOdO preferent emen- t e largO, ademáS de aCumular la SuSt anCia inalt erada en mayOr COnCent raCiÓn que SuS met abOlit OS.
+  La aCumulaCiÓn de la SuSt anCia madre permit e nO SÓl O diSt inguir el COnSumO de herOÍna del de mOrfina O COdeÍna, a t raVéS de la ident i fiCaCiÓn de la MAM, SinO t ambién el uSO il ÍCit O de anfet aminaS de SuSt anCiaS que Se pueden met abO- l izar a COmpueSt OS SimilareS, COmO OCurre COn la fenet il ina, la Selegilina, el Cl ObenzOreX, et C. El pat rÓn met abÓliCO per- mit irá diSt inguir diferent eS Sit uaCiOneS y diferent eS COnSu- mOS que pueden prOduCir el miSmO met abOlit O.
+  De heChO, la SOHT ha eSt ableCidO unaS relaCiOneS mÍni- maS de COnCent raCiÓn ent re SuSt anCia madre y Su met abOli- t O para dar un reSult adO pOSit iVO y eXCluir la COnt aminaCiÓn eXt erna (MAM/ mOrfina > 1, 3; BEG/ COCaÍna > 0, 05 y preSen- Cia de THC-COOH para COnfirmar uSO de CannabiS).
+  A peSar de l OS eSfuerzOS efeCt uadOS para eSt ableCer Cri- t eriOS uniVerSaleS para dar un reSult adO de pOSit iVidad, Se deben COnSiderar Ciert OS art efaCt OS anal Ít iCOS que puedan alt erar la relaCiÓn de l OS met abOlit OS. NO Siempre la rela- CiÓn ent re la COnCent raCiÓn de la SuSt anCia madre y SuS me- t abOlit OS ent ra en l OS Crit eriOS de pOSit iVidad eSt ableCidOS, aun t rat ándOSe de COnSumidOreS habit ualeS. Un eSt udiO pu- bliCadO pOr CairnS et al 16 en 2004 ha pueSt O de manifieSt O t al aSeVeraCiÓn al analizar el pel O de 75 COnSumidOreS habi- t ualeS de COCaÍna, dOnde BEG/ COCaÍna nO Se aj uSt aba a l O eSt ableCidO pOr la SOHT, det eCt ándOSe, Sin embargO, la pre- SenCia de nOrCOCaÍna y COCaet ilenO, que indiCaban un COn- SumO preViO de la drOga. De heChO, Se COnSidera que Cuan- dO la COnCent raCiÓn de COCaÍna en el pel O eS SuperiOr a 2 ng/ mg, eSt e Crit eriO nO eS VálidO.
+AdemáS, eS neCeSariO eXCluir la COnt aminaCiÓn eXt erna
+perSiSt ent e debida a COnt aCt OS COn la drOga en ámbit OS de t rabaj O17. POr Ot rO ladO, la ut il izaCiÓn de Val OreS de COrt e (cut -of f ) adeCuadOS para eVit ar dar fal SOS reSult adOS pOSit i- VOS pOr COnt aminaCiÓn eXt erna puede aCarrear el rieSgO de dar fal SOS reSult adOS negat iVOS, aun diSpOniendO hOy en dÍa de t éCniCaS anal Ít iCaS de alt a SenSibilidad que permit irÍan det eCt ar Val OreS muChO máS baj OS al cut -of f .
+  La int erpret aCiÓn del reSult adO anal Ít iCO debe Ser efeC- t uada COnSiderandO numerOSaS VariableS, eSpeCialment e CuandO Se t rat a de análiSiS f OrenSeS. ASi, Felli et al 18 demOS-
+
+t rarOn la preSenCia de COCaÍna en pel O de Suj et OS t raS algún perÍOdO de abSt inenCia, pOr l O que Se deben eSt ableCer COn Caut ela l OS perÍOdOS de COnSumO/ abSt inenCia.
+  CuandO nO Se diSpOne de mueSt ra de Cabell O, Se puede reCurrir a Ot rOS t ipOS de pel O del CuerpO (pubiS, aXila, et C.), perO t eniendO en Cuent a la diferent e biOl OgÍa de Cada unO de ell OS. LOS meCaniSmOS y t iempOS de aCumulaCiÓn de l OS XenObiÓt iCOS en eSt aS mat riCeS nO eSt án t OdaVÍa aClaradOS, pOr ell O Se deben int erpret ar en eSt e CaSO l OS reSult adOS anal Ít iCOS COn muChÍSima Caut ela. NO Se t iene la Cert eza, ademáS, de la Vent ana de det eCCiÓn de laS diferent eS drO- gaS en eSt aS mueSt raS, COnSiderada quizá haSt a 2 añOS, ni laS relaCiOneS ent re la SuSt anCia madre y SuS met abOlit OS, que prObablement e SOn diferent eS que en el Cabell O.
+  NO Se puede eSt ableCer una COrrelaCiÓn ent re dOSiS COn- Sumida y COnCent raCiÓn det eCt ada, ya que eXiSt e una gran Variabilidad indiVidual en la ret enCiÓn de laS drOgaS en el pel O, COmO ya Se menCiOnÓ ant eriOrment e.
+  TampOCO Se ha eSt ableCidO la dOSiS mÍnima det eCt able, pOr l O que un negat iVO nO Siempre eXCluye un COnSumO y el reSult adO Cuant it at iVO del análiSiS SÓl O indiCa la SeVeridad del COnSumO.
+   En l OS últ imOS añOS, t OdOS eSt OS aSpeCt OS han SidO reCOgi- dOS pOr MuSShOff y Burkhard19, que han eSt udiadO laS difiCul- t adeS que a VeCeS SupOne la int erpret aCiÓn COrreCt a de l OS reSult adOS en l OS análiSiS de pel O.
+
+
+AplicaciOnes del analisis de pelO
+
+LaS prinCipaleS apliCaCiOneS del análiSiS de pel O SOn aque- l laS deriVadaS de la amplia Vent ana de det eCCiÓn de laS SuS- t anCiaS en la mat riz querat ÍniCa.
+   Al Ser una mueSt ra biOl ÓgiCa de fáCil reCOgida y que nO neCeSit a COndiCiOneS eSpeCialeS de COnSerVaCiÓn, l OS eSt u- diOS epidemiOl ÓgiCOS a gran eSCala SOn realizadOS SObre eSt a mat riz. De heChO, han SidO publiCadOS numerOSOS eSt udiOS a eSt e reSpeCt O, deSde COnt rOl de COnSumO de SuSt anCiaS de abuSO en pOblaCiÓn uniVerSit aria20 haSt a COnt rOl de COnSumO de COCaÍna durant e la geSt aCiÓn a t raVéS del análiSiS del pel O del reCién naCidO y del prOpiO Vell O púbiCO mat er- nO21-23.
+  Ent re laS múlt ipleS apliCaCiOneS que t iene el análiSiS de pel O, el Seguimient O de paCient eS SOmet idOS a CuraS de deS- habit uaCiÓn eS una de laS máS impOrt ant eS, ya que Se puede COnt rOlar de manera SeCuenCial el Cumplimient O t erapéut i- CO. De la miSma f Orma, eS de gran ut il idad en laS ej eCut OriaS penaleS, SuSt it uyendO de eSt a f Orma l OS f reCuent eS análiSiS de Orina. ES ut il izadO, ademáS, para demOSt rar COnSumOS habit ualeS de drOgaS de abuSO en Suj et OS que han paSadO a diSpOSiCiÓn j udiCial y Cuya reSpOnSabilidad penal puede Ser mOdifiCada pOr Su COndiCiÓn de drOgOdependient e. En eSt e CaSO, el médiCO f OrenSe eS el enCargadO de la t Oma de mueS- t ra y det ermina la neCeSidad de la realizaCiÓn de la prueba COmO mediO diagnÓSt iCO para COnSt at ar t al adiCCiÓn.
+  LOS análiSiS de pel O t ambién pueden Ser ut il izadOS en el ámbit O labOral para COnt rOlar el COnSumO de SuSt anCiaS de abuSO pOr l OS t rabaj adOreS.
+  ES t ambién ut il izadO COn f reCuenCia en prOCedimient OS CiVileS relat iVOS a la CuSt Odia de hij OS COn el fin de COnt rOlar el COnSumO de drOgaS pOr part e de algunO de l OS prOgenit O-
+
+
+
+reS. De heChO, ya han SidO publiCadOS t rabaj OS que pOnen de manifieSt O la ut il idad de eSt a mueSt ra biOl ÓgiCa para eSt e fin2,25.
+   En l OS últ imOS añOS ha COmenzadO a ut il izarSe eSt a mueS- t ra biOl ÓgiCa para demOSt rar la adminiSt raCiÓn de SuSt an- CiaS depreSOraS (benzOdiaCepinaS, GHB, ket amina, et C.) a anCianOS COn fineS CriminaleS26 O en CaSOS de agreSiOneS SeXualeS27. En eSt e CaSO ha l legadO a det erminarSe la SuS- t anCia deSpuéS de una úniCa dOSiS adminiSt rada t raS el paSO de un breVe perÍOdO. Para t al fin, ha de t enerSe en Cuent a que deben paSar al menOS 4 SemanaS para la t Oma de mueS- t ra del pel O, para dar t iempO a que laS SuSt anCiaS Se depO- Sit en en la querat ina en CreCimient O y, ademáS, reCOger una Cant idad de mueSt ra SufiCient e para realizar el análiSiS de drOgaS en SeCCiOneS SeriadaS del Cabell O.
+
+
+DiagnÓsticO del abusO de alcOhOl
+
+Si bien durant e muChO t iempO el análiSiS del pel O SOlament e Se relaCiOnaba COn laS drOgaS de abuSO, en l OS últ imOS añOS ha COmenzadO a ut il izarSe para la det erminaCiÓn de marCa- dOreS direCt OS de COnSumO de al COhOl et Íl iCO.
+   EXiSt en VariOS t ipOS de marCadOreS de COnSumO de al CO- hOl et Íl iCO dent rO de l OS CualeS l OS marCadOreS de eSt adO SOn l OS máS impOrt ant eS y l OS que Se eSt án ut il izandO aC- t ualment e. ESt OS pueden Ser direCt OS O indireCt OS.
+   LOS marCadOreS direCt OS SOn prinCipalment e aquell OS de- riVadOS de SuS prOpiOS prOCeSOS met abÓliCOS, SiendO l OS máS impOrt ant eS el et ilgluCurÓnidO, l OS éSt ereS et Íl iCOS de l OS áCidOS graSOS (FAEES) y el COCaet ilenO, que ya deSde haCe algún t iempO han COmenzadO a det erminarSe en mueSt raS de pel O28-30. POr el COnt rariO, l OS marCadOreS indireCt OS SOn aquell OS deriVadOS de laS alt eraCiOneS que el et anOl prOdu- Ce en el OrganiSmO (VCM, CDT, GGT, et C.).
+  En la aCt ualidad han SidO ya publiCadOS numerOSOS mét O- dOS anal Ít iCOS para la det erminaCiÓn del et ilgluCurÓnidO en pel O, ut il izandO t éCniCaS COmO la LC-MS31-35 O la GC-MS36-38. POr el COnt rariO, para la det erminaCiÓn de FAEES en pel O la miCrOeXt raCCiÓn en faSe SÓlida aCOplada a la GC-MS ha SidO el mét OdO máS ut il izadO39-41.
+  Igualment e, Se ha demOSt radO en numerOSOS eSt udiOS que la det erminaCiÓn de eSt OS dOS COmpueSt OS eS una pOde- rOSa herramient a para mOnit Orizar la abSt inenCia y diSt in- guir ent re bebedOreS SOCialeS y abuSiVOS.
+  En 2009 la SOCiet y Of Hair TeSt ing ha publiCadO l OS Val OreS de cut -of f para el et ilgluCurÓnidO y FAEE para diSt inguir a l OS bebedOreS SOCialeS de l OS COnSumidOreS CrÓniCOS. LOS Val OreS prOpueSt OS para el CuerO CabelludO han SidO de 30 pg/ mg para el et ilgluCurÓnidO y 0, 5 ng/ mg para la Suma de l OS 4 FAEE (et ilmiriSt at O, et ilpalmit at O, et il Oleat O y et ileS- t earat O).
+   A peSar de l OS numerOSOS eSt udiOS realizadOS haSt a la fe- Cha, la int erpret aCiÓn de reSult adOS nO eSt á t an Clara COmO en el CaSO de laS drOgaS de abuSO. De heChO, la abSt inenCia t Ot al nO puede Ser demOSt rada ya que eXiSt en pequeñaS COn- Cent raCiOneS de FAEE en el pel O de abSt emiOS y niñOS y Se han ViSt O CaSOS de bebedOreS mOderadOS en l OS que el et il - gluCurÓnidO nO fue det eCt adO en el pel O. LO que SÍ eS Ciert O eS que la preSenCia de et ilgluCurÓnidO en el pel O y el aumen- t O en la COnCent raCiÓn de FAEE eXCluye la abSt inenCia.
+   
+En la práCt iCa, en la mayOrÍa de l OS labOrat OriOS f OrenSeS SÓl O unO de l OS dOS marCadOreS eS det erminadO, part iCular- ment e el et ilgluCurÓnidO. Sin embargO, reCient ement e Se ha demOSt radO que el uSO COmbinadO de la det erminaCiÓn de l OS dOS marCadOreS mej Ora la SenSibilidad del diagnÓSt i- CO del abuSO de al COhOl et Íl iCO. Aun aSÍ, Se ha demOSt radO t ambién que nO hay prOpOrCiOnalidad ent re la dOSiS diaria COnSumida de al COhOl y la COnCent raCiÓn de FAEE y et ilglu- CurÓnidO en el pel O, al igual que OCurre COn laS drOgaS de abuSO, debidO a VariaCiOneS int erindiVidualeS SumadaS a l OS pOSibleS errOreS anal Ít iCOS ineVit ableS. POr t OdO ell O, Siem- pre eXiSt irá la pOSibilidad de fal SOS pOSit iVO O negat iVO, pO- Sibilidad que diSminuye Si Se ut il izan l OS dOS marCadOreS COnj unt ament e. AmbOS Se f Orman pOr diferent eS VÍaS met a- bÓliCaS del et anOl y Se inCOrpOran al pel O pOr diSt int aS VÍaS, Se eliminan del pel O pOr l OS t rat amient OS COSmét iCOS en di- ferent e Cant idad (l OS FAEE SOn l ipOf Íl iCOS y el et ilgluCurÓni- dO, hidrOf Íl iCO), y ademáS Se det erminan pOr diferent eS mét OdOS anal Ít iCOS. POr ell O, el uSO COmbinadO de ambOS eS l O máS reCOmendable.
+ReCient ement e, laS reCOmendaCiOneS de la SOHT al reS-
+peCt O han SidO CueSt iOnadaS pOr algunOS aut OreS pOr laS ra- zOneS ant eriOrment e eXpueSt aS43.
+
+
+LimitaciOnes del análisis del pelO
+
+El análiSiS de eSt a mueSt ra biOl ÓgiCa, que ha COmenzadO a ut il izarSe de f Orma eXt enSiVa en laS últ imaS déCadaS, nO eSt á eXent O de l imit aCiOneS que han de t enerSe en Cuent a. TOdaVÍa hOy falt a la t Ot al COmprenSiÓn de l OS meCaniSmOS de aCumulaCiÓn de laS drOgaS en el pel O y la eSt andarizaCiÓn de l OS mét OdOS anal Ít iCOS neCeSariOS, aSÍ COmO la COrreCt a int erpret aCiÓn de reSult adOS.
+   LOS primerOS prOblemaS pueden Surgir CuandO la reCOgida de la mueSt ra nO eS adeCuada (pOr ej empl O, l Ongit ud inade- Cuada del meChÓn). La mueSt ra debe ir aCOmpañada de la máXima inf OrmaCiÓn pOSible, inCluyendO dat OS de la hiSt O- ria Cl ÍniCa, el prOpÓSit O de la inVeSt igaCiÓn, SOSpeCha de drOgaS y t iempO de COnSumO, et C.
+  AdemáS, la pOSibilidad de dar un fal SO pOSit iVO pOr COnt a- minaCiÓn eXt erna Siempre eXiSt e Si el prOCeSO de laVadO de la mueSt ra nO ha SidO SufiCient ement e rigurOSO44.
+  Se ha demOSt radO en SuCeSiVaS OCaSiOneS que la COrrela- CiÓn eXiSt ent e ent re dOSiS COnSumida y COnCent raCiÓn de- t eCt ada eS l imit ada debidO a laS diferenCiaS int erindiVidua- leS que eXiSt en en relaCiÓn COn l OS prOCeSOS met abÓliCOS y piCOS plaSmát iCOS, aSÍ COmO de la prOpia inCOrpOraCiÓn de laS drOgaS en el pel O, Su pigment aCiÓn y Su eSt adO f ÍSiCO. POr t OdO ell O, Se aCOnSej a que Cada labOrat OriO, que ut il iza SuS prOpiOS mét OdOS anal Ít iCOS, Sea el enCargadO de realizar eSt adÍSt iCaS ent re SuS CaSOS.
+
+
+COnclusiOnes
+
+El pel O eS una mueSt ra biOl ÓgiCa alt ernat iVa de gran ut il idad hOy en dÍa en el CampO de la periCia mediCOlegal, perO l OS reSult adOS Obt enidOS en el análiSiS han de int erpret arSe COn Suma Caut ela pOr la Cant idad de parámet rOS que pueden afeCt arl O.
+
+BibliOgrafía
+
+1. Baumgart ner AM, JOneS PF, Baumgart ner WA, Blank CT. Ra- diOimmunOaSSay f Or hair f Or det erminat ing Opiat eS abuSe hiSt O- rieS. JNM. 1979; 20: 748-52.
+2. HenderSOn GL, Harkey MR, ZhOu C. InCOrpOrat iOn Of iSOt OpiCa- l ly labeled COCaine int O human hair: raCe aS a faCt Or. J Anal TOXiCOl. 1998; 22: 156-65.
+3. Blank DL, Kidwell DA. DeSCOnt aminat iOn prOCedureS f Or drug Of abuSe in hair. FOrenSiC SCi Int . 1996; 145: 143-7.
+4. PragSt F, BalikOVa M. St at e Of t he art in hair analySiS f Or det eC- t iOn Of drug and al COhOl abuSe. CliniCa ChÍmiCa ACt a. 2006; 370: 17-49.
+5. DOS Sant OS AC, Bermej O AM, Fernández P, TabernerO MJ. SOl id- phaSe miCrOeXt raCt iOn in t he det erminat iOn Of met hadOne in human SaliVa by gaS-ChrOmat Ography-maSS SpeCt rOmet ry. J Anal TOXiCOl. 2000; 24: 93-6.
+6. ROl l inS DE, WilkinS DG, Krueger GG, AugSburger MP, O’ Neal C, BOrgeS CR, et al. The ef feCt Of hair COl Or On t he inCOrpOrat iOn Of COdeine int O human hair. J Anal TOXiCOl. 2003; 27: 551.
+7. MieCzkOwSki T, Kruger M. Int erpret ing t he COl Or ef feCt Of mela- nine On COCaine and benzOileCgOnine aSSayS f Or hair analySiS: brOwn and blaCk SampleS COmpared. J FOrenSiC Leg Med. 2007; 14: 7-15.
+8. Nakahara Y, Shimamine M, TakahaShi K. Hair analySiS f Or drugS Of abuSe, III. MOVement and St abilit y Of met hOXyphenamine (aS a mOdel COmpOund Of met hamphet amine) al Ong hair Shaft wit h hair grOwt h. J Anal TOXiCOl. 1992; 16: 253-7.
+9. Mart inS L, Yegl eS M, Chung H, Wenning R. Simul t aneOuS det er- minat iOn Of amphet amine and COngenerS in hair SpeCimenS by negat iVe ChemiCal iOnizat iOn gaS ChrOmat Ography maSS-SpeC- t rOmet ry. J ChrOmat Ogr B. 2005; 82: 57-62.
+10. Yegl eS M, MarSOn Y, Wenning R. InfluenCe Of bleaChing On St abi-
+l it y Of benzOdiaCepineS in hair. FOrenSiC SCi Int . 2000; 107: 987- 92.
+11. ZuCChela A, St rameSi C, POlit i L, MOrini L, POlet ini A. Treat ment S againSt hair l OSS by hinder COCaine and met abOlit eS det eCt iOn. FOrenSiC SCienCe and MediCal Pat hOl Ogy. 2007; 3: 93-100.
+12. Of fidani C, St ranO ROSSi S, ChiarOt t i M. Drug diSt ribut iOn in t he
+head, aXillary and pubiC hair Of ChrOniC addiCt S. FOrenSiC SCi Int . 1993; 63: 105-8.
+13. Kint z P, Samyn N. UnCOnVent iOnal SampleS and alt ernat iVe ma- t riCeS. En: HandbOOk Of Analyt iCal Separat iOn. AmSt erdam: El- SerVier SCienCe; 2000. p. 459-88.
+14. SOCiet y Of Hair TeSt ing. St at ement Of t he SOCiet y Of Hair TeS- t ing COnCerning t he eXaminat iOn Of drugS in human hair. DiSpO- nible en: www. SOHT. Org
+15. SubSt anCe abuSe and ment al healt h SerViCeS adminiSt rat iOn (SAMHSA). PrOpOSed ReViSiOnS t O Mandat Ory GuidelineS f Or Fe- deral WOrkplaCe Drug TeSt ing PrOgram. Federal RegiSt er. 2004; 69: 19673.
+16. CairnS T, Hill V, SChaf fer M, ThiSt le W. LeVel S Of COCaine and it S met abOlit eS in waShed hair Of demOnSt rat ed COCaine uSerS and wOrkplaCe Subj eCt S. FOrenSiC SCi Int . 2004; 145: 175-84.
+17. HOelzle C, SCheufl er F, Uhl M, SaChS H, Thieme D. AppliCat iOn
+Of diSCriminant analySiS t O dif ferent iat e bet ween inCOrpOrat iOn Of COCaine and it S COngenerS int O hair and COnt aminat iOn. FO- renSiC SCi Int . 2008; 176: 13-21.
+18. Felli M, Mart ell O S, MarSili R, ChiarOt t i M. DiSappearanCe Of COCaine f rOm human hair af t er abSt inenCe. FOrenSiC SCi Int . 2005; 154: 96-102.
+19. MuSShOff F, Burkhard M. Analyt iCal pit fall S in hair t eSt ing. Anal BiOanal Chem. 2007; 388: 1475-94.
+20. Quint ela O, Bermej O AM, TabernerO MJ, St ranO-ROSSi S, Chia- rOt t i M, LuCaS ACS. EValuat iOn Of COCaine, amphet amineS and CannabiS uSe in uniVerSit y St udent S t hrOugh hair analySiS: Preli- minary reSult S. FOrenSiC SCi Int . 2000; 107: 273-9.
+
+
+21. Vinner E, Vignau J, Thibault D, COdaCCiOni X, BraSSart C, Hum- bert L, et al. NeOnat al hair analySiS COnt ribut iOn t O eSt abliSh a geSt at iOnal drug eXpOSure prOfile and prediCt ing a wit hdrawal SyndrOme. Therapeut iC Drug MOnit Oring. 2003; 25: 421-32.
+22. TSanakliS L, WiCkS JF. Pat t ernS in drug uSe in t he Unit ed King- dOm aS reVealed t hrOugh analySiS Of hair in a large pOpulat iOn Sample. FOrenSiC SCi Int . 2007; 170: 121-5.
+23. LÓpez P, Bermej O AM, TabernerO MJ, CabarCOS P, Ál Varez I, Fer- nández P. COCaine and Opiat eS uSe in pregnanCy. J Anal TOXiCOl. 2009; 33: 351-5.
+24. St ranO ROSSi S, ChiarOt t i M, FiOri A, Aurit i C, Segant i G. COCaine abuSe in pregnanCy: it S eValuat iOn t hrOugh hair analySiS Of pa- t hOl OgiCal new-bOrnS. Life SCienCeS. 1996; 59: 1909-23.
+25. Bermej O AM, LuCaS ACS, TabernerO MJ, Fernandez P. Simul t a- neOuS det erminat iOn Of met hadOne, herOin and t heir met abOlit eS in hair by GC-MS. Analyt iCal Let t erS. 2000; 334: 739-52.
+26. Kint z P. BiOanalyt iCal prOCedureS f Or det eCt iOn Of ChemiCal agent S in hair in t he CaSe Of drug-faCilit at ed CrimeS. Anal BiOa- nal Chem. 2007; 388: 1467-73.
+27. Chèze M, Duff Ort G, DeVeauX M, Pépin G. Hair analySiS by l iquid ChrOmat Ography-t andem maSS SpeCt rOmet ry in t OXiCOl OgiCal inVeSt igat iOn Of drug-faCilit at ed CrimeS: repOrt Of 128 CaSeS OVer t he periOd June 2003-May 2004 in met rOpOlit an PariS. FO- renSiC SCi Int . 2005; 153: 3-8.
+28. Bermej O AM, LÓpez P, Ál Varez I, TabernerO MJ, Fernández P. SOl id-phaSe miCrOeXt raCt iOn f Or t he det erminat iOn Of COCaine and COCaet hylene in human hair by gaS ChrOmat Ography-maSS SpeCt rOmet ry . FOrenSiC SCi Int . 2006; 156: 2-8.
+29. Ál Varez I, Bermej O AM, TabernerO MJ, Fernández P, CabarCOS P, LÓpez P. MiCrOwaVe-aSSiSt ed eXt raCt iOn: a Simpler and faSt er met hOd f Or t he det erminat iOn Of et hygluCurOnide in hair by gaS-ChrOmat Ography-maSS SpeCt rOmet ry. Anal BiOanal Chem. 2009; 393: 1345-50.
+30. CabarCOS P, Ál Varez A, Bermej O AM, TabernerO MJ, LÓpez P, Fer- nández P. AnalySiS Of fat t y aCid et hyl eSt erS in hair by headSpa- Ce SOlid phaSe miCrOeXt raCt iOn (SPME) and gaS ChrOmat Ogra- phy-maSS SpeCt rOmet ry. Analalyt iCal Let t erS. 2009; 42: 2962-73.
+31. Süße S, Sel aVka CM, MieczkOwSki T, PragSt F. Fat t y acid et hyl eSt erS cOncent rat iOnS in hair and Self-repOrt ed alcOhOl cOn- Sumpt iOn in 644 caSeS f rOm dif ferent Origin. FOrenSic Sci Int . 2010; 196: 111-7.
+32. PragSt F, ROt he M, MOench B, HaSt edt M, Herre S, Simmert D. COmbined uSe Of fat t y acid et hyl eSt erS and et hyl glucurOnide in hair f Or diagnOSiS Of alcOhOl abuSe: int erpret at iOn and ad- Vant ageS. FOrenSic Sci Int . 2010; 196: 101-10.
+33. SOciet y Of Hair TeSt ing COnSenSuS Of t he SOciet y Of Hair TeSt ing On hair t eSt ing f Or chrOnic exceSSiVe alcOhOl cOnSumpt iOn; 2009 [ cit adO 18 AgO 2009]. DiSpOnible en: ht t p:/ / www. SOht . Org/ pdf/ COnSenSuS_Et G_2009. pdf
+34. Schubert W, Mat t ern R. Beurt eilungSkrit erien zur FahreignungS- diagnOSt ik. 2. a ed. BOnn: KirSchbaum Verlag; 2009.
+35. KerekeS I, Yegl eS M, Grimm U, Wennig R. Et hyl glucurOnide de- t erminat iOn: head hair VerSuS nOn-head hair. AlcOhOl AlcOhOl. 2009; 44: 62-6.
+36. FOt i RS, FiSher MB. ASSeSSment Of UDP-glucurOnOSylt ranSferaSe cat alyzed f Ormat iOn Of et hyl glucurOnide in human l iVer micrO- SOmeS and recOmbinant UGTS. FOrenSic Sci Int . 2005; 153: 109- 16.
+37. LapOSat a EA, Lange LG. PreSence Of nOnOxidat iVe et hanOl me- t abOliSm in human OrganS cOmmOnly damaged by et hanOl abu- Se. Science. 1986; 231: 497-9.
+38. SOciet y Of TOxicOl Ogical and FOrenSic ChemiSt ry (GTFCh). An- f Orderungen an die Validierung VOn AnalySenmet hOden. T + K. 2009; 76: 185-208.
+39. PragSt F, Auwaert er V, SpOkert F, Spiegel K. AnalySiS Of fat t y acid et hyl eSt erS in hair aS pOSSible markerS Of chrOnically ele-
+
+
+Vat ed al COhOl COnSumpt iOn by headSpaCe SOlid-phaSe miCrOeX- t raCt iOn (HS-SPME) and gaS ChrOmat Ography-maSS SpeCt rOme- t ry (GC-MS). FOrenSiC SCi Int . 2001; 121: 76-88.
+40. PragSt F, Yegl eS M. Det erminat iOn Of fat t y aCid et hyl eSt erS (FAEE) and et hyl gluCurOnide (Et G) in hair: a prOmiSing way f Or ret rOSpeCt iVe det eCt iOn Of al COhOl abuSe during pregnanCy? Ther Drug MOnit Oring. 2008; 30: 255-63.
+41. Zimmermann CM, JaCkSOn G. GaS ChrOmat Ography t andem maSS SpeCt rOmet ry f Or biOmarkerS Of al COhOl abuSe in human hair. Ther Drug MOnit Oring. 2010; 32: 216-23.
+
+
+42. MOrini L. Et hylgluCurOnide and et hyl Sulfat e in meCOnium and hair-pOt ent ial biOmarkerS Of int raut erine eXpOSure t O et hanOl. FOrenSiC SCi Int . 2011 [ en prenSa].
+43. CaVeat S againSt an imprOper uSe Of hair t eSt ing t O SuppOrt t he diagnOSiS Of ChrOniC eXCeSSiVe al COhOl COnSumpt iOn, f Oll Owing t he “ COnSenSuS” Of t he SOCiet y Of Hair TeSt ing. FOrenSiC SCi Int . 2010; 196: 2.
+44. VillamOr J, Bermej O AM, Fernandez P, TabernerO MJ. A new GC/ MS met hOd f Or t he det erminat iOn Of fiVe amphet amineS in hu- man hair. J Anal TOXiCOl. 2005; 29: 135-9.
+
+
+
+
+
+

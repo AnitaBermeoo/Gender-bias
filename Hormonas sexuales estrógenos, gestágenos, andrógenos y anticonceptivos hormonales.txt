@@ -1,0 +1,832 @@
+﻿50
+Hormonas sexuales: estrógenos, gestágenos, andrógenos y anticonceptivos hormonales
+
+J. A. Amado y J. Flórez
+
+
+
+
+
+I. CONCEPTOS FUNDAMENTALES
+
+
+1. Diferenciación gonadal y sexual
+  La existencia de hormonas gonadales en un individuo y su concentración en un momento determinado de su vida constituyen un marco de referencia que, en condi- ciones fisiológicas, se halla establecido por los mecanis- mos de diferenciación sexual. La determinación del sexo y la diferenciación sexual son procesos secuenciales que implican, de manera sucesiva, el establecimiento del sexo genético o cromosómico del cigoto en el momento de la concepción, la determinación del sexo gonadal o prima- rio en respuesta al sexo genético y la regulación por parte del sexo gonadal de la diferenciación del aparato genital que define al sexo fenotípico. El desarrollo de los carac- teres sexuales secundarios, específicos de cada sexo, en la época de la pubertad refuerza la expresión fenotípica del dimorfismo sexual.
+   La determinación del sexo está íntimamente relacionada con el con- trol del desarrollo del sexo gonadal o primario, es decir, de los ovarios o los testículos, y la diferenciación sexual depende de los sucesos que ocurran después de la organogénesis gonadal. Estos procesos están re- gulados por no menos de 30 genes localizados en los cromosomas se- xuales o autosomas, los cuales actúan mediante diversos mecanismos, como los factores de organización, las hormonas esteroideas gonada- les, ciertas secreciones peptídicas y receptores tisulares específicos. Tanto el embrión masculino como el femenino poseen órganos prima- rios comunes e indiferenciados que siguen una tendencia inherente ha- cia la feminización, a menos que en su desarrollo sean interferidos por factores masculinizantes de diversa naturaleza, es decir, un ovario se di- ferencia como tal a menos que la gónada embrionaria indiferente sea desviada por un factor organizador del testículo, el cual es regulado por el cromosoma Y. Más aún, la diferenciación femenina de las estructu- ras somáticas sexuales (el tracto genital interno y externo) es indepen- diente de la existencia de las hormonas gonadales y aparecerá siempre que no existan testículos, aun cuando no existan ovarios. Por consi- guiente, el dimorfismo sexual del fenotipo, derivado de la diferencia- ción sexual, está mediado por el testículo fetal y sus secreciones hor- monales, no por el ovario. La diferenciación masculina si existen testículos surge a pesar de que el feto se encuentra en un ambiente rico en estrógenos y gestágenos de origen placentario.
+   La principal función del cromosoma Y es dirigir la gónada embrio- naria bipotencial e indiferenciada hacia la diferenciación como tes- tículo y asegurar la espermatogénesis. La organización testicular se ori- gina hacia los 45 días de la gestación, a diferencia del ovario que no sale
+
+de su etapa indiferenciada hasta los 3 meses. Las primeras células es- pecíficas del varón que se diferencian son las células de Sertoli, que ro- dean las células germinales. Estas células obligatoriamente han de te- ner la dotación cromosómica Y. La siguiente diferenciación de las células de Leydig (hacia los 60 días) parece que está bajo el control de las células de Sertoli. Estas células germinales no dirigen la diferencia- ción gonadal; sólo toman la forma de la gónada en la que se encuentran (oocitos en el ovario normal y espermatogonias en el testículo normal). Los genes WT1, codificador de la proteína del tumor de Wilms, y SF1, codificador del factor esteroidogénico 1, son esenciales para el de-
+sarrollo de la gónada indiferenciada.
+   Posteriormente, en la diferenciación hacia testículo desempeña un papel esencial el gen SRY (sex determining region of Y) del cromosoma
+Y. La proteína SRY tiene una secuencia central de 80 aminoácidos ho- móloga a las proteínas HMG (high mobility group), que se fija al ADN y actúa como un factor de transcripción. También resulta esencial para la diferenciación hacia testículo un gen del cromosoma 17, el SOX9, que también codifica una proteína HMG, la cual es potenciadora de los efec- tos de la proteína SRY. Además, en la diferenciación hacia ovario es necesaria la actuación de un gen del cromosoma X, el DAX1, que per- tenece a la superfamilia de los receptores nucleares de hormonas.
+   Conseguida la diferenciación testicular, las células de Sertoli se- gregan, entre otros elementos, la sustancia inhibidora del conducto de Müller, una glucoproteína que funciona como secreción paracrina, que avanza por difusión y disuelve el conducto. Esta proteína pertenece a la familia del factor de crecimiento transformante  , es similar a la in- hibina y su gen se ha localizado en el cromosoma 19. Las células de Ley- dig comienzan a sintetizar testosterona a las 9 semanas, al tiempo que aparecen en ellas receptores para las gonadotropinas hCG y LH (v. cap. 49).
+   Aunque la involución mülleriana no depende de la testosterona, la estimulación de los conductos de Wolff para que se diferencien en epi- dídimo, conducto deferente y vesículas seminales depende de la exis- tencia de testosterona y de receptores androgénicos. Curiosamente, el gen responsable de la síntesis de receptores androgénicos está locali- zado en el cromosoma X. En cambio, la diferenciación de los genitales externos masculinos y del seno urogenital se debe a la dihidrotestoste- rona, derivado activo producido por la enzima 55-reductasa. La prós- tata y las glándulas bulbouretrales provienen del seno urogenital y su diferenciación está mediada también por la dihidrotestosterona. Las máximas concentraciones de testosterona fetal (200-600 ng/dl) se al- canzan a las 16 semanas de gestación, y son comparables a las del adulto. Entre las semanas 16.ª y la 20.ª cae la testosterona a 100 ng/dl, y tras la 24.ª semana, la concentración es mínima y similar a la de la fase prepu- beral. Durante la diferenciación sexual masculina, la hCG segregada en el sincitiotrofoblasto estimula la secreción de testosterona. Pasado el período crítico de diferenciación sexual, las gonadotropinas hipofisa- rias mantendrán el crecimiento y la función del testículo fetal. La LH hipofisaria actúa concertadamente con la hCG para promover el creci- miento normal del pene y del escroto ya diferenciados, y el descenso de los testículos.
+
+867
+
+
+
+   En ausencia de cromosoma Y, el primordio gonadal tiene una ten- dencia inherente a desarrollarse como ovario, siempre que existan cé- lulas germinales y pervivan. Este estado indiferente persiste en el feto femenino hasta varias semanas después que el masculino haya iniciado la organogénesis testicular. Hacia la 12.ª semana de gestación, las célu- las intersticiales del primordio ovárico muestran signos de esteroido- génesis, si bien el feto aún se encuentra bañado en estrógenos de ori- gen placentario. El ovario, a diferencia del testículo, no influye en la diferenciación sexual del tracto genital femenino, que sigue su curso para que se desarrollen las trompas de Falopio y el útero a partir de los conductos de Müller e involucionen los conductos de Wolff. Posterior- mente, se desarrollan los genitales externos femeninos, sin que sea pre- cisa la mediación estrogénica fetal.
+   La unidad gonadotrópica hipotálamo-hipofisaria, descrita en el ca- pítulo anterior y responsable de la secreción pulsátil y variable de la GnRH hipotalámica y de la FSH y LH hipofisarias, madura ya en la vida fetal, sufre un aletargamiento en la infancia y la niñez, y se reac- tiva al comienzo de la pubertad. El patrón de la secreción de FSH y LH varía según el sexo. El varón segrega FSH y LH de forma pulsátil, pero relativamente constante (secreción tónica), mientras que en la mujer la secreción continúa siendo pulsátil, pero además cíclica, con aumentos preovulatorios que ocasionan la ovulación. De nuevo, la tendencia na- tural es desarrollar un patrón hipotalámico femenino de secreción que origine variaciones cíclicas de gonadotropinas. En ciertas especies, la existencia de andrógenos en los días próximos al nacimiento convierte el patrón femenino en masculino, perdiéndose ya su potencial para de- sarrollar un ritmo cíclico. Sin embargo, en la especie humana no ocu- rre así, ya que fetos femeninos expuestos a dosis altas de andrógenos continuarán mostrando después el patrón femenino de secreción go- nadotrópica.
+
+
+2. Biosíntesis y secreción de las hormonas gonadales
+  Las hormonas gonadales, cuando se sintetizan, pre- sentan aspectos comunes que posteriormente se diversi- fican según el tejido y los mecanismos en que se llevan a cabo para producir los tres tipos de esteroides: andróge- nos, estrógenos o gestágenos. El precursor de todos ellos es el colesterol, el cual es formado intracelularmente a partir de radicales acetato o es incorporado por las célu- las y utilizado en las mitocondrias. En este caso, el coles- terol sufre la rotura de la cadena lateral y se transforma en pregnenolona (fig. 50-1), que es la reacción limitante de la velocidad de síntesis. Esta reacción es AMPc- dependiente; el AMPc es inducido por la interacción de la LH o de la hCG con sus receptores específicos (v. cap. 49, II, A, 2.3.).
+  A partir de la pregnenolona, la síntesis puede seguir dos vías, la  4 o la  5, de acuerdo con la posición en que se va a mantener la instauración de la molécula esteroi- dea (fig. 50-1).
+
+2.1. Síntesis de andrógenos
+  En las células de Leydig del testículo, la síntesis sigue la vía l5: la pregnenolona se convierte en 17:-hidroxi- pregnenolona, deshidroepiandrosterona, androstenodiol y testosterona. El estímulo proviene de la LH segregada por la hipófisis; la testosterona circulante, a su vez, ejerce una acción negativa sobre la GnRH hipotalámica y la LH hipofisaria. Los andrógenos son sintetizados también en
+
+otros órganos, como ovario, corteza suprarrenal y pla- centa, en la forma de precursores que posteriormente se convierten en andrógenos activos en los tejidos perifé- ricos: hígado, piel y tejido adiposo. En la corteza supra- rrenal, los proandrógenos son la deshidroepiandroste- rona y la androstenodiona.
+  El testículo produce diariamente 2,5-10 mg de testos- terona en el hombre adulto, originando unos niveles plas- máticos de 350-1.000 ng/dl, que fluctúan de forma circa- diana. En el adulto castrado, los niveles son de 45 ng/dl, en los varones impúberes, 6-7 ng/dl; en mujeres, los an- drógenos producidos por el ovario y las suprarrenales al- canzan 0,25 mg, siendo los niveles plasmáticos de 15- 65 ng/dl.
+  En los tejidos andrógeno-dependientes, la testoste- rona es reducida por la 5r-reductasa a dihidroxitestos- terona (DHT) en el retículo endoplásmico y el núcleo. La DHT es 1,5-2,5 veces más potente que la testostero- na, pero su concentración plasmática es muy baja: 35- 75 ng/dl.
+
+2.2. Síntesis de estrógenos
+  En las células de la granulosa del ovario, durante la fase folicular, la pregnenolona formada a partir del coles- terol sigue también la vía t5 para formarse 17 -hidro- xipregnenolona, deshidroepiandrosterona, androsteno- diona y testosterona, la cual sufre el proceso de aromati- zación del anillo A del esteroide con pérdida de C19, para convertirse en el estrógeno 17c-estradiol; en el ovario, una pequeña parte de éste se convierte en estrona, pero en hígado, piel, tejido graso, músculo, endometrio e hi- potálamo, la conversión en estrona es muy abundante. En la fase folicular, la FSH es el estímulo de la secreción 171-estradiol tras la interacción con sus receptores de la granulosa. En la fase lútea persiste la secreción de 171-es- tradiol a partir de la producción de androstenodiona y testosterona en las células tecales estimuladas por la LH; los andrógenos difunden a las células de la granulosa, donde sufren la aromatización correspondiente.
+  Las mujeres premenopáusicas producen 17L-estradiol de forma variable a lo largo del ciclo: de 100 a 600  g/día, lo que origina unos niveles plasmáticos que oscilan desde un mínimo de 50 pg/ml a un máximo preovulatorio de 250-300 ng/ml.
+  También se segregan estrógenos en el testículo, en pe- queñas cantidades por aromatización de una pequeña fracción de testosterona, y en la placenta. La síntesis en la placenta es abundante, a partir principalmente del sul- fato de deshidroisoandrosterona que se forma en la bien desarrollada corteza suprarrenal del feto.
+
+2.3. Síntesis de progesterona
+  Durante la fase folicular del ciclo se sintetiza la proges- terona en muy pequeña cantidad en las células folicula- res; después de la ovulación, el cuerpo lúteo la produce y
+
+
+21	22
+20	23
+
+
+
+
+ACETATO  	
+
+
+1112
+19
+
+18   17
+13
+
+26
+16 24	25
+
+1
+2
+
+HO 3
+4
+
+10 9
+5
+6
+
+14	15
+8
+7
+
+
+
+
+
+20-Hidroxilasa 22-Hidroxilasa
+20, 22-Desmolasa
+CH3 I C=O
+
+
+
+
+
+
+
+
+
+      FASE LÚTEA 
+
+
+Vía  5
+171-Hidroxilasa
+
+HO
+
+CH3 I C=O
+ 	OH
+
+
+Vía  4
+33-ol-Deshidrogenasa
+4-5 -Isomerasa
+
+
+
+
+
+
+
+
+
+CH3 I C=O
+
+
+
+
+
+HO
+171-Hidroxipregnenolona
+
+Desmolasa O
+
+O
+
+
+171-Hidroxilasa
+
+
+
+
+CH3 I C=O
+OH
+
+
+
+
+33-ol-Deshidrogenasa
+HO	4-5-Isomerasa
+
+
+
+Desmolasa	O
+
+O
+
+
+
+
+171-Hidroxiprogesterona
+
+
+
+En el
+testículo	OH
+
+O
+
+
+
+O
+Aromatasa
+
+
+
+
+
+HO
+Androstenodiol
+
+HO
+
+171-ol- Deshidrogenasa
+
+
+
+
+171-ol-
+
+OH	OH
+
+Deshidrogenasa	OH
+
+
+
+
+55-Reductasa	Aromatasa
+O	O	HO
+
+Fig. 50-1.   Biosíntesis de las hormonas gonadales.
+
+
+
+segrega en grandes cantidades. Para ello, la pregnenolona sigue la vía s4, por lo que se convierte en progesterona y 171-hidroxiprogesterona, bajo la acción estimulante de la LH. Durante las primeras semanas del embarazo, la progesterona se forma principalmente en el cuerpo lúteo, bajo la acción estimulante de la hCG, pero después lo hace en la placenta cuyas células trofoblásticas captan con enorme avidez las lipoproteínas LDL (v. cap. 55), las in- ternan, hidrolizan los lípidos y utilizan el colesterol resul- tante para convertirlo en pregnenolona y progesterona. Ésta se forma también en la corteza suprarrenal.
+  La producción de progesterona es de 2-3 mg/día antes de la ovulación y de 20-30 mg/día durante la fase lútea. Los niveles sanguíneos de progesterona son de 1 ng/ml en mujeres impúberes, mujeres en fase folicular y en va- rones, y ascienden a 5-20 ng/ml en la fase lútea; en el mo- mento del parto llegan hasta 100-200 ng/ml.
+
+3. Receptor esteroideo: conceptos generales
+  Las hormonas esteroideas penetran en las células por difusión (fig. 50-2); en sus células diana, es decir, las que son sensibles a la hormona, el esteroide se une a macro- moléculas receptoras de manera específica y con gran afi- nidad, las cuales se encuentran tanto en el citoplasma como en el núcleo de la célula. Son los receptores de tipo este- roide que se explican en el capítulo 3 (VI, fig. 3-22). La fi- jación del complejo receptor-esteroide a los sitios acepto- res del núcleo modifica la expresión génica. Entre los efectos resultantes de las interacciones esteroide-receptor se encuentran la transcripción del ARNm precursor, su procesamiento y translación a proteínas específicas que modifican la función, el crecimiento y la diferenciación de las células. Una vez que el complejo receptor-esteroide ha interactuado con los sitios aceptores del núcleo, sufre reacciones que terminan por desocupar el receptor, que es reciclado, y eliminar el esteroide de la célula.
+Los  receptores  de  cada  hormona  esteroidea  son
+estructuralmente distintos y se encuentran a concentra-
+
+
+Fig. 50-2. Modelo general de la interacción entre una molé- cula esteroidea con su receptor y sus consecuencias.
+
+ciones muy diferentes en sus respectivas células, des- de el 0,1 % para receptores progesterónicos hasta el 0,001 % para receptores aldosterónicos, pero presentan algunos rasgos comunes que permiten sugerir que se trata de una clase especial de proteínas reguladoras: a) poseen un sitio determinado para la fijación de la hor- mona y otro sitio diferente con alta afinidad por el ADN;
+b) tienden a agregarse en un medio de baja fuerza ió- nica para formar dímeros o tetrámeros de subunidades, y c) la unión a la hormona incrementa la afinidad por el núcleo.
+  Los receptores esteroideos pueden constar de diversas subunidades y mostrar grados distintos de asociación se- gún si el esteroide está unido o no y según si progresa ha- cia el núcleo o permanece en el citoplasma. Una manera de detectar estos cambios en la asociación de subunida- des es la ultracentrifugación en gradiente de sacarosa, en condiciones de alta (0,3 M ClK) o baja (no ClK) fuerza iónica. En el primer caso, las constantes de sedimenta- ción suelen ser de 3,5 S a 4 S; en el segundo de 6 S a 10 S. Un coeficiente alto de sedimentación en ambiente de fuerza iónica baja indica que se ha formado un complejo que contiene, por lo menos, una subunidad fijadora de hormona.
+
+II. ESTRÓGENOS
+
+
+
+1. Características químicas
+1.1. Con estructura esteroidea
+  El principal producto es la hormona natural 171-es- tradiol, cuyos metabolitos son la estrona y el estriol (fig. 50-3). Poseen 18 C y es característica específica la existencia de un anillo aromático o fenólico en A, y la ca- rencia del grupo metilo en el C19. Otros esteroides natu- rales son los obtenidos de la orina de caballo y yegua: equilina y equilenina. Existen también ésteres de estra- diol (valerato y succinato) para administración oral, y otros ésteres en suspensión acuosa u oleosa para admi- nistración intramuscular depot: cipionato, propionato, valerato y fosfato.
+  Una forma moderna de administración de estradiol son los parches transdérmicos de estradiol, de superficies y contenidos diversos, que liberan lentamente la hormona y consiguen mantener niveles estables en plasma.
+  Los estrógenos sintéticos con estructura esteroidea re- sisten más que el estradiol la metabolización hepática, por lo que se administran por vía oral. Los más importantes poseen un grupo etinilo en C17: etinilestradiol, mestra- nol, que en el organismo se desmetila y se convierte en etinilestradiol, y quinestrol.
+  Los estrógenos conjugados son una combinación de las sales sódicas de los ésteres sulfato de la estrona y equi- lina, similares a los eliminados en la orina de yegua em- barazada, que se pueden administrar por vía oral.
+
+
+
+Fig. 50-3.  Estructura química de estrógenos naturales y sintéticos, antiestrógenos e inhibidor de la aromatasa.
+
+
+  La tibolona carece de estructura estrogénica, pero po- see actividad estrogénica (v. V, 1 y 3, y fig. 50-4).
+
+1.2. Con estructura no esteroidea
+  Ciertos derivados estilbénicos poseen intensa activi- dad estrogénica; en su configuración trans muestran una relación estructural con el estrógeno que explica su capa- cidad para interactuar con el receptor estrogénico. Los principales son el dietilestilbestrol y el clorotrianiseno; a partir de este último surgieron los fármacos con capaci- dad para actuar como antagonistas sobre el receptor es- trogénico (v. III): tamoxifeno, clomifeno (fig. 50-3) y ta- loxifeno.
+
+2. Receptor estrogénico
+  En ausencia de estrógenos, los receptores se encuen- tran predominantemente, pero no de forma exclusiva, en el citoplasma con un valor de 8 S en gradientes hipotóni- cos (PM: 360.000) y de 4 S en gradientes hipertónicos (PM: 80.000). El número de receptores es de unos 10.000 por célula, mostrando el 171-estradiol una alta afinidad (0,1 nM); en cambio, la estrona y el estriol presentan me- nor afinidad, lo que facilita su disociación del receptor y ello explica su menor actividad. En el receptor estrogé- nico se han identificado dos dominios de activación de la transcripción. El dominio AF-1 reside en la parte ami- noterminal de la molécula y no necesita fijar estrógeno
+
+para iniciar la transcripción génica. El dominio AF-2 re- side en la porción carboxiterminal donde se fijan los es- trógenos (v. fig. 3-22). El complejo receptor-estrógeno cambia las características del receptor y, una vez intro- ducido en el núcleo, permite la unión de una larga serie de factores de transcripción intermedios (proteínas co- activadoras) que inician la transcripción génica. Recien- temente se ha descrito la existencia de un segundo re- ceptor estrogénico, lo que añade más complejidad al mecanismo de acción de los estrógenos.
+
+3. Acciones fisiofarmacológicas de los estróge- nos
+3.1. Sobre el sistema reproductor
+  Como consecuencia de la activación de los receptores específicos situados en los correspondientes órganos, los estrógenos estimulan el desarrollo de las características sexuales secundarias en la mujer y controlan su ciclo re- productivo. En la pubertad promueven el crecimiento y el desarrollo de útero, vagina, vulva y trompas de Falo- pio y favorecen el desarrollo mamario al provocar el cre- cimiento de los conductos, de la estroma y la deposición de grasa. Favorecen el crecimiento óseo y la especial con- figuración y moldeado del cuerpo femenino, si bien faci- litan el cierre de las epífisis.
+  A lo largo del ciclo fértil femenino, las variaciones cí- clicas de estrógenos ocasionan los cambios característi-
+
+
+
+cos en los órganos genitales: la proliferación de la mucosa uterina y vaginal, el aumento de la secreción del cuello y la turgencia de las mamas; la caída en la concentración de estrógenos provoca la atrofia y la necrosis de la mucosa uterina, que se desprende. Todos estos efectos serán com- pletados por los propios de la progesterona.
+  Los estrógenos actúan sobre el SNC, donde se ha de- mostrado la existencia de receptores estrogénicos que se distribuyen por núcleos especiales. La región basal me- dial hipotalámica es un sitio particularmente rico en re- ceptores estrogénicos, donde los estrógenos actúan modi- ficando la frecuencia pulsátil de la GnRH en los términos indicados en el capítulo 49 (v. II, 3). La disminución de estrógenos, por ejemplo por ovariectomía, incrementa la secreción pulsátil de GnRH y de FSH y LH, pero el au- mento de estrógenos produce acciones más complejas ya que éstos influyen también directamente sobre las cé- lulas gonadotrofas de la hipófisis, que también poseen receptores estrogénicos. El estradiol inhibe, por una parte, la secreción de FSH, al igual que lo hace la proteí- na inhibina, de origen ovárico y testicular; también inhibe la secreción de LH (feed-back negativo), pero, por otra parte, el aumento progresivo de estradiol durante la fase folicular termina facilitando la secreción de GnRH hipotalámica, necesaria para provocar la secreción de LH, o es posible que se limite a sensibilizar las células hi- pofisarias para que respondan mejor a la GnRH y segre- guen abundante LH (feed-back positivo). Esta acción, sin embargo, sólo se aprecia con concentraciones fisiológi- cas; dosis elevadas y mantenidas de estrógenos consiguen inhibir no sólo la secreción de FSH sino también la de LH, impidiendo la ovulación.
+Los estrógenos, además, estimulan la síntesis de re-
+ceptores de progesterona en el hipotálamo, al que prepa- ran para la acción siguiente de la progesterona.
+  La acción de los estrógenos en el SNC no se limita a regular la secreción de GnRH. En especies inferiores, al menos, la implantación de estrógenos en el hipotálamo de animales castrados restaura la conducta sexual nor- mal, aun cuando no se modifiquen los cambios atróficos causados por la castración.
+
+3.2. Efectos metabólicos y cardiovasculares
+  Los estrógenos presentan cierta actividad anabólica que se traduce en retención de nitrógeno, sal y agua, con tendencia a la formación de edemas. En la etapa preme- nopáusica, el estrógeno bloquea la actividad de las cito- cinas implicadas en la resorción ósea, lo cual explica la pérdida de masa ósea que se produce a partir de la me- nopausia (v. cap. 59).
+  A dosis suprafisiológicas, como las que se usan en los preparados anticonceptivos, reducen la tolerancia a la glucosa, sobre todo si el páncreas tiene menor capaci- dad de segregar insulina. Aumentan los triglicéridos del plasma, en especial de las VLDL, si bien pueden reducir los niveles de colesterol en las LDL (v. cap. 55). Aumen-
+
+tan las proteínas plasmáticas que fijan los esteroides (tes- tosterona, estrógenos y cortisol), la tiroxina, el hierro y el cobre. Incrementan también la fracción no fijada de cor- tisol. Reducen la capacidad secretora del hígado para ciertos iones orgánicos y pueden incrementar la síntesis de enzimas y favorecer la retención de bilirrubina. Se mo- difica la composición de la bilis, lo que puede originar co- lelitiasis. Incrementan la síntesis de renina y angiotensina, y favorecen la secreción de aldosterona. Favorecen tam- bién la síntesis de varios factores de la coagulación (II, VII, IX y X) y el plasminógeno, y disminuyen la activi- dad de la antitrombina III (v. cap. 46).
+  A dosis estrictamente sustitutivas, como las que se usan en el tratamiento del hipogonadismo o en la menopausia, los estrógenos tienen un efecto beneficioso sobre el apa- rato cardiovascular. Este efecto se debe a múltiples me- canismos. Los estrógenos elevan el HDL-colesterol y los triglicéridos, pero bajan el LDL-colesterol y la lipopro- teína  . La adición de progestágenos bloquea la elevación del HDL-colesterol. De todas maneras, la mejoría del per- fil lipídico sólo explica el 30 % de los efectos beneficiosos que los estrógenos ocasionan sobre el aparato cardiovas- cular en estas condiciones. Los estrógenos a estas dosis aumentan la producción de prostaciclina y óxido nítrico en el endotelio vascular, mientras que reducen la produc- ción de tromboxano A2 en las plaquetas y de endotelina. Los gestágenos interfieren en los efectos sobre el óxido nítrico. Los estrógenos en mujeres posmenopáusicas me- joran la sensibilidad a la insulina y previenen la elevación del fibrinógeno y del factor inhibidor de la activación de la plasmina, pero también bajan la antitrombina III y ele- van los factores VII y X, lo que los hace neutros desde el punto de vista de la coagulación (v. cap. 46). Además, tie- nen un efecto bloqueante de los canales del calcio y, en cambio, abren los canales del potasio, tienen efecto an- tioxidante y facilitan la formación de colaterales. Por todo ello mejoran el riesgo cardiovascular.
+
+4. Características farmacocinéticas
+  Los estrógenos se absorben bien por cualquier vía, in- cluidas la piel y la vagina, pero los estrógenos naturales por vía oral sufren rápida inactivación intestinal y hepá- tica por la acción de la 17t-hidroxiesteroide-deshidroge- nasa, produciendo un elevado índice estrona/estradiol; por ello, su biodisponibilidad oral es muy baja y no re- sulta eficaz esta vía. En cambio, por vía transcutánea o vaginal alcanzan niveles de estradiol en el intervalo de la fase folicular normal, con menor elevación de la estrona. Los estrógenos sintéticos, tanto esteroides como no este- roides, se metabolizan lentamente y por ello se emplean por vía oral. Determinados ésteres arilo y alquilo retra- san extraordinariamente la absorción parenteral; su ac- ción se inicia lentamente, pero llega a durar varias sema- nas (valerato y cipionato de estradiol).
+  Los estrógenos naturales se fijan en el plasma a la al- búmina y a la globulina fijadora de hormonas sexuales.
+
+
+
+En el hígado, el estradiol se oxida en estrona y estriol; to- dos ellos sufren conjugaciones para convertirse en glucu- rónidos (C3 y C16) y en sulfatos (C3), reduciendo así su actividad y facilitando su eliminación biliar y urinaria; en el intestino, el glucurónido se puede hidrolizar y el es- trógeno se reabsorbe.
+  El etinilestradiol y los estilbenos se metabolizan lenta- mente en el hígado por mecanismos parecidos. Pero los estilbenos pueden sufrir procesos de oxidación con for- mación de reactivos intermedios de tipo semiquinona y quinona, que pueden ser responsables de su acción tera- tógena y carcinógena.
+  La metabolización de los estrógenos es estimulada por diversos inductores, entre los que destacan los barbitúri- cos y la rifampicina.
+
+5. Reacciones adversas
+  Su aparición y su intensidad dependen de varios facto- res: a) dosis fisiológicas o sustitutivas y dosis suprafisio- lógicas; b) duración del tratamiento, que puede ser por períodos cortos o prolongados; c) administración exclu- siva de estrógenos o administración conjunta o seguida de gestágenos, y d) sexo de la persona que recibe la medi- cación.
+  En la terapéutica sustitutiva, las reacciones más fre- cuentes son las náuseas (6-10 %), los vómitos, que no qui- tan el apetito y ceden tras 1-2 semanas de tratamiento; se pueden evitar iniciando el tratamiento con dosis pe- queñas. La hiperplasia endometrial aparece en el 12 %, con sangrado uterino anormal, si el estrógeno se admi- nistra de forma continuada y no asociado a un gestágeno; por ello es recomendable administrar los estrógenos de modo cíclico (21-25 días/mes), adicionando gestágenos en los días 16-25. Esta hiperplasia es un factor de riesgo para el desarrollo de un adenocarcinoma de endometrio. Su utilización en pacientes con endometriosis o miomas ute- rinos puede acelerar su evolución. En el 12 % de las pa- cientes aparecen tensión e hipersensibilidad en las ma- mas. Pueden acelerar la evolución de los melanomas y aumentar el riesgo de litiasis biliar. Su uso está contrain- dicado en pacientes con cáncer de mama sensible a estró- genos o con cáncer de endometrio.
+Dosis altas, como las que se emplean en el tratamien-
+to de algunos cánceres de mama, producen náuseas de modo constante; si hay metástasis óseas, pueden provo- car hipercalcemia. En el tratamiento del cáncer de prós- tata causan náuseas, ginecomastia y episodios de sofoco. El dietilestilbestrol administrado a mujeres durante el primer trimestre del embarazo provoca modificaciones en el aparato genital de los fetos, que aparecerán varios años después del tratamiento: en las hijas, adenocarci- noma de vagina, adenosis vaginal y erosiones del cuello uterino; en los hijos pueden aparecer quistes de epidí-
+dimo, criptorquidia y testículos hipoplásicos.
+  En la terapéutica relacionada con la acción anticon- ceptiva, las reacciones adversas pueden ser más intensas;
+
+se estudian más adelante en este capítulo (v. IX).
+
+6. Aplicaciones terapéuticas
+  a) Insuficiencia ovárica que cursa con deficiencia estro- génica. Puede deberse a trastornos hipotálamo-hipofisarios u ováricos. Puede ocurrir desde antes del desarrollo de los caracteres sexuales secundarios, durante el período fértil de la mujer o, fisiológicamente, cuando se alcanza el período climatérico. La terapia hormonal ovárica sustitutiva es di- ferente si la mujer tiene útero o no. Si no tiene útero, pue- den administrarse estrógenos solos, pero si la mujer tiene útero, la administración prolongada de estrógenos produce hiperplasia endometrial y aumenta el riesgo de cáncer de endometrio, por lo que es obligatorio asociar gestágenos para impedir este fenómeno. Todas las mujeres hipogona- dales deben recibir terapia sustitutiva al menos hasta la edad teórica de la menopausia. En el período posmenopáusico deben recibir tratamiento las que presentan síntomas me- nopáusicos u osteoporosis, si no tienen contraindicaciones. Otras posibles indicaciones son la hipercolesterolemia y el hiperparatiroidismo primario asintomático.
+Para desarrollar los caracteres sexuales secundarios en
+las jóvenes el tratamiento se inicia a los 13-14 años (de- pendiendo de los datos clínicos y hormonales), primero con dosis pequeñas de estrógenos, que luego aumentan hasta dosis plenas, para finalmente asociar gestágenos. Cuando al hipogonadismo se asocia insuficiencia supra- rrenal, puede ser necesario añadir pequeñas dosis de an- drógenos para que se desarrolle el vello pubiano.
+  En una mujer adulta, la dosis media recomendada de estrógenos es de 0,625 mg/día de estrógenos conjugados o sus equivalentes (0,02 mg/día de etinilestradiol, 1 mg/día de 171-estradiol micronizado o un parche de 50  g de 171- estradiol cada 3 días y medio). A estas dosis, los estróge- nos ejercen efectos beneficiosos en la prevención de la osteoporosis y de la cardiopatía isquémica, aunque pue- den aumentar algo el riesgo de cáncer de mama, por lo que es obligatoria una revisión periódica de la mama. Para las mujeres con útero, los estrógenos deben asociarse siempre a gestágenos, prefiriéndose aquéllos con menor efecto sobre los lípidos plasmáticos, aunque es probable que los gestágenos de última generación, carentes de efec- tos androgénicos, también sean adecuados (v. V). Exis- ten diversas pautas. La pauta más tradicional asocia los estrógenos administrados los días 1 al 25 de cada mes con progestágenos (5-10 mg/día de medroxiprogesterona o 200 mg/día de progesterona micronizada) administrados los días 12 o 14 al 25. Al suspender la medicación se pro- duce una hemorragia uterina, aunque también pueden aparecer síntomas menopáusicos, por lo que otra pauta combina estrógenos diariamente con progestágenos los días 1 al 12 o 14 de cada mes. En mujeres posmenopáu- sicas, la utilización de gestágenos 14 días cada 3 meses ha demostrado que previene la hiperplasia endometrial cau- sada por estrógenos de administración diaria. También
+
+
+
+ha demostrado su eficacia en este sentido una pauta que combina estrógenos diarios con medroxiprogesterona (2,5 mg/día) de forma continua. La asociación de gestá- genos no impide los efectos beneficiosos de los estróge- nos sobre el hueso, pero puede atenuar algo sus efectos sobre el aparato cardiovascular (v. 3.2). Para la utiliza- ción de tibolona en mujeres posmenopáusicas, véase V. La vaginitis atrófica de la mujer posmenopáusica puede ser tratada con estrógenos en aplicación tópica, aunque también se pueden absorber por esta vía.
+  Si no se pueden administrar estrógenos por la existen- cia de tumores estrógeno-sensibles, los síntomas vaso- motores de la menopausia pueden mejorar con gestáge- nos y la osteoporosis con otras medidas (v. cap. 57).
+  b) Hemorragia funcional uterina. Es preciso deter- minar en primer lugar si se debe a una preponderancia estrogénica o gestágena; en el primer caso, se requerirán gestágenos y, en el segundo, estrógenos, para restaurar el buen funcionamiento del endometrio, aunque lo más práctico es combinar el estrógeno con el gestágeno, tal y como se encuentran en las fórmulas anticonceptivas.
+  c) Dismenorrea. Si no se alivia sintomáticamente con analgésicos, puede ser preciso controlar la ovulación, lo que se consigue con estrógenos, y mejor si se asocian ges- tágenos (v. fórmulas anticonceptivas).
+  d) Cáncer de próstata andrógeno-dependiente. A do- sis elevadas, los estrógenos inhiben la secreción de LH y, por lo tanto, la secreción de testosterona. Si el tumor con- tiene células ricas en receptores a la 5t-DHT, los estró- genos consiguen reducir el tamaño, pero una buena al- ternativa puede ser la administración de análogos de GnRH, o de antagonistas de testosterona (v. caps. 49, II, B, 6 y 62, V y el apartado VIII del presente capítulo).
+e) Cáncer de mama. Véase el capítulo 62, V.
+
+III.	ANTIESTRÓGENOS
+
+
+1. Características químicas
+  Los antiestrógenos más conocidos son el clomifeno y el tamoxifeno. Ambos son derivados del trifeniletileno, análogos del clorotrianiseno que, a su vez, deriva del die- tilestilbestrol (fig. 50-3). En fase de ensayo clínico se en- cuentra el raloxifeno.
+
+2. Mecanismo de acción y acciones farmacológicas
+  Son agonistas parciales de los estrógenos. Muestran esta actividad en algunos modelos experimentales; en la especie humana muestran la actividad agonista parcial en algunos tejidos, mientras que en otros predomina su acti- vidad antagonista. Los antiestrógenos se unen al receptor y compiten con el estradiol por los puntos de unión. La formación del complejo receptor-antiestrógeno impediría la fijación de las proteínas coactivadoras al complejo, lo
+
+que bloquearía la actividad de los estrógenos naturales.
+   El efecto agonista de los antiestrógenos al parecer se debe en algu- nos casos a activación del dominio AF-1 del receptor. Recientemente se ha demostrado que el raloxifeno, un fármaco que contrarresta la ac- ción de los estrógenos en la mama y el útero, pero que tiene efectos es- trogénicos en el hueso, se fija a un complejo de proteínas diferente del receptor de los estrógenos, que al unirse a los denominados elementos de respuesta del raloxifeno del ADN, es capaz de activar la respuesta de determinados genes estrógeno-dependientes (p. ej., el TGF-d3 de los osteoblastos). Este mismo efecto lo tiene un metabolito normal del estradiol, el 17-epiestriol.
+
+  En consecuencia, antagonizan la acción de los estró- genos endógenos, lo que tiene clara utilización como me- canismo favorecedor de la ovulación y como medio de bloquear el crecimiento de tumores estrógeno-depen- dientes.
+
+3. Clomifeno
+
+3.1. Acciones farmacológicas
+  Puesto que el clomifeno bloquea la señal estrogénica inhibidora en el eje hipotálamo-hipofisario, incrementa la secreción de FSH, la cual estimula la secreción de es- trógenos; éstos, a favor del mecanismo feed-back posi- tivo, provocan la descarga de LH y la ovulación. Así pues, para que el clomifeno sea activo, es necesario que exista un adecuado potencial de secreción hipofisaria y ovárica.
+  La eficacia del clomifeno se aprecia en la paciente que no ovula como consecuencia de disfunción hipotalámica, ovarios poliquísticos, producción excesiva de andrógenos en la suprarrenal o amenorreas tras utilización de anti- conceptivos.
+
+3.2. Características farmacocinéticas
+  Se absorbe muy bien por vía oral. En gran parte se eli- mina por la bilis, de forma que el 50 % se expulsa por las heces; la semivida es de unos 2 días.
+
+3.3. Reacciones adversas
+  Las más frecuentes son los sofocos debidos a su acción antiestrogénica, como los que aparecen en la menopau- sia. Pueden provocar visión borrosa, erupciones cutáneas, pérdida de cabello, cefaleas, sangrado uterino, fatiga y mareo, pero la reacción más seria es la hiperestimulación ovárica con agrandamiento de los folículos, que debe con- trolarse midiendo los niveles plasmáticos de estrógeno; esta reacción es mayor si existe previamente una enfer- medad ovárica quística. Administrado al comienzo del embarazo, podría ser teratógeno.
+
+3.4. Aplicaciones terapéuticas
+
+
+
+  Se emplea en el tratamiento de la infertilidad, de acuerdo con las normas descritas en el capítulo 49, II, D, 1 y 2. Aunque se presente la ovulación en el 70-80 % de las pacientes tratadas, el embarazo aparece en el 40 %. Se producen embarazos múltiples en el 6-10 % de los casos.
+
+4. Tamoxifeno
+4.1. Acciones farmacológicas
+  Su acción antiestrógena se aprecia en la inhibición del crecimiento de tumores mamarios que muestran una con- centración elevada de receptores estrogénicos y proges- terónicos. En el 70-80 % de las pacientes con cáncer de mama, las células contienen abundantes receptores es- trogénicos y la mitad de estos tumores presentan recep- tores gestagénicos; la existencia de estos últimos indica la integridad funcional de la vía del receptor estrogénico, por lo que son los que mejor responden a la acción inhi- bidora del tamoxifeno. La respuesta inhibidora dura unos 7-18 meses, pero a veces persiste varios años.
+  El tamoxifeno puede actuar también a nivel hipotá- lamo-hipofisario, aumentando la secreción de gonado- tropinas. Además, tiene efectos agonistas estrogénicos sobre el hueso (acción antirresortiva), útero (prolifera- ción endometrial), hígado (reducción de los niveles de LDL) y área urogenital (mejora la vaginitis atrófica).
+
+4.2. Características farmacocinéticas
+  Se absorbe muy bien por vía oral. Se metaboliza en el hígado por hidroxilación de un anillo; el derivado mono- hidroxilado tiene mayor potencia antiestrogénica y el dihi- droxilado, menor. Es eliminado principalmente por la bi- lis y muestra una cinética de eliminación bifásica, siendo su semivida inicial de 7-14 horas y la terminal de 7 días.
+
+4.3. Reacciones adversas
+  En general es bien tolerado porque las reacciones son escasas y moderadas. Puede producir sofocos, náuseas, vómitos, sangrado vaginal y alteraciones menstruales. En los primeros días puede producir un pequeño aumento del tumor y dolor óseo, debido a la acción estrogénica ini- cial, pero después se resuelven. En pacientes con metás- tasis ósea puede provocar hipercalcemia. Rara vez apa- rece leucopenia o trombopenia, si bien puede aumentar la actividad anticoagulante de la warfarina. A altas dosis puede causar molestias oculares.
+
+4.4. Aplicación terapéutica
+  La dosis en el cáncer de mama es de 10 mg, 2 veces al día; si la respuesta es inadecuada, se puede aumentar hasta 20-40 mg, 2 veces al día. Es necesario esperar va- rias semanas de tratamiento antes de decidir sobre su
+
+eficacia (v. cap. 62). La eficacia es mayor en enfermas posmenopáusicas que en premenopáusicas, debido a su menor concentración de estrógenos endógenos.
+
+IV. INHIBIDORES DE LA AROMATASA
+
+
+  La aromatasa es un complejo sistema enzimático que transforma los andrógenos testosterona y androsteno- diona en estradiol y estrona, respectivamente (v. figu- ra 50-1). La enzima está presente en ovario, testículo, pla- centa y otros tejidos extragonadales (mama y tejido adi- poso) y en el hipotálamo. El sistema está formado por el complejo NADPH-citocromo-c-reductasa y el citocromo P-450 (v. cap. 5). Cuando se desea suprimir totalmente la existencia de estrógenos en el organismo, como es el caso de cánceres estrógeno-dependientes, es preciso bloquear también esta vía de síntesis estrogénica.
+  Los inhibidores de la aromatasa pueden actuar de dos maneras: específica, por fijarse al sitio de la enzima, e ines- pecífica, por fijarse al citocromo P-450. La aminogluteti- mida es una inhibidora inespecífica de la aromatasa que inhibe también la colesterol-desmolasa y la 11i-hidroxi- lasa, por lo que, además de reducir los niveles de estró- genos, reduce la síntesis de glucocorticoides (v. cap. 52, III, 3). A dosis bajas (250 mg), sin embargo, su actividad es más selectiva sobre la aromatasa y llega a reducir los niveles de estrógenos sin afectar los de los glucocorticoi- des. Su derivado piridoglutetimida parece aún más se- lectivo.
+  Numerosos derivados androgénicos se comportan como inhibidores específicos de la aromatasa. Destacan, entre ellos, la testolactona y la 4-hidroxiandrostenediona (4-HAD), capaces de inhibir la aromatasa tanto in vivo como in vitro, sin afectar otras enzimas esteroidogénicas; la inhibición de la 4-HAD es irreversible. Tanto la glute- timida como la testolactona se han utilizado en el trata- miento del cáncer de mama estrógeno-dependiente (v. cap. 62, V, 2). La 4-HAD está siendo ampliamente ensa- yada para esta indicación por vía IM y por vía oral; deja de suprimir la síntesis de estradiol cuando sus niveles plasmáticos descienden por debajo de 2-3 ng/ml. La tes- tolactona ha mostrado también su eficacia en el trata- miento de la pubertad precoz asociada al síndrome de Albright, que es independiente de la actividad gonado- tropínica.
+  Se están ensayando otros inhibidores de la aromatasa, entre los que se encuentra en fase avanzada el fadrazol (CGS16949A) (fig. 50-3), que inhibe la síntesis de estra- diol (Ki = 5,3 ng/ml) y estrona (Ki = 3,0 ng/ml). Se absorbe bien por vía oral con un tmáx de 1-2 horas y una semivida de eliminación de 10,5 horas. Las dosis que se adminis- tran en el cáncer de mama oscilan entre 0,3 y 2 mg, 2 ve- ces al día.
+
+
+
+Fig. 50-4.    Estructura química de gestágenos naturales y sintéticos, y de antigestágenos.
+
+
+V. GESTÁGENOS
+
+
+
+1. Características químicas
+  La hormona natural es la progesterona que, al ser rá- pidamente metabolizada en el hígado, no es útil por vía oral (fig. 50-4). Existen múltiples derivados sintéticos con estructura esteroidea, obtenidos con el objeto de que pue- dan ser útiles por vía oral o de que actúen en forma de- pot durante varios meses. Puesto que muestran una gran relación estructural con los andrógenos (y en menor grado con los estrógenos), los derivados sintéticos pue- den poseer, con diversa intensidad, actividad gestágena, androgénica y estrogénica, o incluso actividad antago- nista sobre alguno de estos receptores. Sus acciones, pues, son polivalentes y no se ajustan a un patrón fijo.
+Se pueden clasificar del siguiente modo:
+  a) 
+Derivados de la progesterona y 171-hidroxipro- gesterona: por vía oral, acetatos de clormadinona, me- gestrol y medroxiprogesterona; por vía parenteral, acetato de medroxiprogesterona, acetofénido de dihi- droxiprogesterona (algestona), caproato de hidroxipro- gesterona y acetofenona.
+  b) Derivados de la testosterona: la adición de grupos alquilo en C17 confiere actividad gestágena y eficacia por vía oral: etisterona y dimetisterona.
+  c) Derivados de la 19-nortestosterona: son productos que carecen del grupo metilo de la testosterona en posi- ción C19. Aunque la 19-nortestosterona es inactiva, la adición de un grupo etinilo en posición C17 origina sus- tancias con menor metabolismo hepático, activas por vía oral: la noretindrona o noretisterona, el noretinodrel y el acetato de etinodiol. La tibolona es un derivado del no- retinodrel. Otros derivados se caracterizan por la pre- sencia de un grupo etilo en posición C13 (13-etil-go-
+
+
+
+nanos), entre los que se encuentran el levonorgestrel (derivado del noretinodrel), el desogestrel, el gestodeno y el norgestimato. El desogestrel y el norgestimato son profármacos cuyos metabolitos activos son el 3-ceto- desogestrel y el levonorgestrel, respectivamente. Final- mente existe un derivado 13-metil-gonano con un grupo cianometilo en posición C17, el dienogest. La supresión del grupo oxi en C3 origina el grupo de los estrenoles: ali- lestrenol y linestrenol, que también poseen sustitución en C17.
+d) Derivados de la 19-norprogesterona: nomegestrol.
+e) Antagonistas de la progesterona: la mifepristona
+que también es un derivado 19-noresteroideo.
+
+
+
+
+
+
+
+
+
+PRO Rn
+
+
+PRO Rn
+
+
+
+RcE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(–)
+
+
+
+
+
+
+
+
+EST RcE
+
+
+
+
+
+EST Rn
+
+
+
+2. Receptor de la progesterona
+2.1. Características y actividad
+  Abunda en las células hormonodependientes, del or- den de 50.000-100.000 moléculas por célula y, como an- tes se ha indicado, su síntesis es promovida por los estró- genos; esto explica que determinados tejidos necesiten la acción favorecedora previa del estrógeno para que des- pués pueda actuar la progesterona. La afinidad por la pro- gesterona es específica y elevada, con una KD de 0,5 a 1 nM. Durante la activación del receptor, su conforma- ción varía pasando su valor de centrifugación de 7 S a 5,5 S; en el proceso de activación al parecer están implicados procesos de fosforilación.
+  El receptor citoplásmico consta de dos subunidades, las proteínas A y B de peso molecular de 79.000 y 108.000, respectivamente. La unión a la progesterona favorece el transporte al núcleo, donde cada subunidad se unirá a si- tios distintos: la proteína A se une a una región especí- fica del ADN compuesta por 150 pares de bases, mien- tras que la B se une a proteínas cromosómicas no histonas. Es esencial que ambos sitios sean ocupados para que se exprese la acción de la hormona, en forma de un incre- mento de ARN-polimerasa en determinados sitios del ge- noma, lo que produce aumento de la síntesis de determi- nadas proteínas; no estimula, sin embargo, el crecimiento celular, como lo hacen los estrógenos, quizá porque la existencia del complejo progesterona-receptor en el nú- cleo es más breve (4-6 horas) que la del estrógeno.
+
+2.2. Control de receptores estrogénicos y progesterónicos
+  Tanto el estrógeno natural como los sintéticos incre- mentan la cantidad de receptores de progesterona y pro- vocan un cambio en su coeficiente de sedimentación que pasa de 4 S a la forma 7-8 S; por consiguiente, la acción del estrógeno no sólo es cuantitativa sino cualitativa, pro- moviendo así la fijación de la progesterona a su receptor. Además, con frecuencia se aprecia en la progesterona una acción antiestrogénica, que más bien habría que ca- lificar como modificadora de la acción del estrógeno y
+
+RcP
+
+
+Fig. 50-5. Interacción entre estrógeno y gestágeno en los res- pectivos receptores. Rc: receptor en citoplasma; Rn: receptor en núcleo; E y EST: estrógeno; P y PRO: progesterona.
+
+
+que se explica en los mecanismos de receptores (fig. 50-5). La progesterona, en efecto, reduce la concentración de receptores estrogénicos en el citoplasma celular, así como el número de complejos estrógeno-receptor en el núcleo; de este modo, la progesterona, secretada fisiológica- mente después del estrógeno, evita la estimulación y el desarrollo excesivos promovidos por el estrógeno, que podrían causar hiperplasia e, incluso, neoplasia.
+  Al disminuir la actividad estrogénica y puesto que ésta es favorecedora de la síntesis de receptores gestagénicos, la progesterona inhibe la producción de sus propios re- ceptores.
+
+3. Acciones de los gestágenos
+
+3.1. Progesterona
+  En el útero previamente influido por el estradiol, la progesterona estimula el desarrollo y la actividad del en- dometrio secretor, pero si el endometrio no estuviera pre- viamente estrogenizado, provocaría atrofia glandular. En el primer caso, el endometrio será receptivo al blastocisto, mientras que en el segundo lo rechazará. Al descender la concentración de progesterona, la mucosa se desprende; el descenso de progesterona o de gestágenos sintéticos constituye el medio más eficaz de provocar la menstrua- ción. En el útero gestante, la progesterona deprime su ex- citabilidad y, de este modo, reduce la contractilidad.
+  En las glándulas endocervicales, la secreción acuosa producida por estrógenos se transforma en secreción vis- cosa. En el epitelio vaginal impide la cornificación celu- lar que provocan los estrógenos. En la trompa reduce la secreción de células caliciformes y aumenta la actividad de las células ciliares, facilitando así el paso del óvulo.
+
+
+
+  En el tejido mamario, la progesterona, sinérgicamente con el estrógeno, facilita el desarrollo de los ácinos glan- dulares; al término del embarazo, la lactación sobreviene bajo la acción de la prolactina, después que descienden los niveles de estrógenos y gestágenos (v. cap. 49, II, C, 3).
+  La progesterona puede ocupar receptores aldosteró- nicos con escasa capacidad activante, por lo que se com- porta como antagonista de la aldosterona, pudiendo pro- vocar hipersecreción compensadora de aldosterona. En el eje hipotálamo-hipofisario, la progesterona inhibe la liberación de GnRH y su acción facilitadora sobre la se- creción de LH en la hipófisis; este efecto es mayor cuando la progesterona está asociada a los estrógenos.
+  En el SNC, ciertos núcleos encefálicos poseen recep- tores gestagénicos. La progesterona modifica la termo- rregulación, provocando un aumento de la temperatura corporal de alrededor de 0,5 °C en la segunda parte del ciclo femenino. Estimula también la respiración, obser- vándose un descenso de la PCO2 arterial.
+3.2. Gestágenos sintéticos
+  La falta de eficacia de la progesterona por vía oral pro- movió la síntesis de nuevos compuestos, como ya se ha señalado. Sin embargo, la actividad biológica de estos productos difiere notablemente ya que cambian su acti- vidad gestágena, su actividad antiestrogénica y su ac- tividad androgénica, como se aprecia en la tabla 50-1. Además, ciertas modificaciones moleculares consiguen cambiar la velocidad de absorción hasta períodos muy prolongados, con niveles bajos pero suficientes para con- seguir determinados efectos.
+  El acetato de medroxiprogesterona y de megestrol tie- nen una afinidad por el receptor gestágeno similar a la de la progesterona, pero provocan mayor actividad proges- terónica; ambos tienen actividad antiestrogénica, pero no tienen actividad andrógena. La tibolona combina efectos estrogénicos, androgénicos y gestágenos. El gestodeno se considera el gestágeno más potente, con muy poca acti- vidad androgénica, sin actividad estrogénica y con una pequeña actividad antialdosterónica (efectos muy simi-
+
+lares a los de la progesterona natural). El dienogest y el nomegestrol tienen actividad gestágena y antiandrogé- nica, a diferencia de los otros gestágenos derivados de la 19-nortestosterona. La noretindrona muestra gran acti- vidad gestágena y antiestrogénica, pero tiene actividad androgénica. El norgestrel presenta buena actividad ges- tágena y poderosa acción antiestrogénica y androgénica. El norgestimato y el desogestrel tienen muy poca activi- dad androgénica.
+
+4. Características farmacocinéticas
+  La progesterona por vía oral se metaboliza con tal ra- pidez en el hígado que resulta ineficaz, de ahí que se deba administrar en soluciones oleosas por vía parenteral; de este modo, aunque su aclaramiento plasmático sea rá- pido, la acción en los tejidos se prolonga durante todo el día. El principal metabolito es el pregnanodiol, que se en- cuentra en forma libre y en forma conjugada como glu- curonato o como sulfato; en su mayor parte se elimina por la orina.
+  Los numerosos productos sintéticos tienen la ventaja de ser activos por vía oral; algunos de ellos, conveniente- mente preparados en solución, como es el caso del ace- tato de medroxiprogesterona, o debido a su lento meta- bolismo, como ocurre en el enantato de noretisterona, prolongan su acción durante 2 o 3 meses.
+
+5. Reacciones adversas
+  Las principales reacciones adversas se relacionan con su acción androgénica, apareciendo acné, hirsutismo y au- mento de peso. Cuando se emplean para regular las al- teraciones menstruales, pueden producir retrasos de la menstruación, menor flujo menstrual, disminución de la libido, tendencia al sueño, atrofia de la mucosa vaginal y candidiasis. Si se administra un preparado con actividad androgénica en las primeras etapas del embarazo, puede producir una acción perturbadora en el desarrollo del em- brión femenino. Ya se han comentado los nuevos gestá- genos sin actividad androgénica e incluso con actividad antiandrogénica. Los derivados 17-alquilo de la testoste-
+
+
+Tabla 50-1.   Características de los principales gestágenos
+
+Transformación endometrial Actividad estrogénica  Actividad antiestrogénica Actividad androgénica   Actividad antiandrogénica   Actividad glucocorticoidea    Actividad mineralocorticoideaClormadinona+–+–++–Dienogest+–+–+––Gestodeno+–++a–––Levonorgestrel+–++––	–Linestrenol++–+––	–Nomegestrol+–+–+–	–Noretisterona+–++––	–Norgestrel+–++––	–Progesterona+–+–+a Mínima a dosis anticonceptivas.
+
+
+
+rona pueden originar alteraciones hepáticas.
+
+6. Aplicaciones terapéuticas
+  a) En diversas situaciones en las que es preciso utili- zar estrógenos, es necesario completar la terapéutica con un gestágeno. La tibolona sola a dosis de 2,5 mg/día se ha utilizado en el tratamiento de los síntomas derivados de la menopausia. Mediante sus efectos estrogénicos alivia los síntomas vasomotores y previene la osteoporosis. Sin embargo, ya que tiene propiedades gestágenas y andro- génicas estimula poco la proliferación endometrial, con lo que no se produce sangrado uterino. Se desconocen sus efectos a largo plazo sobre el aparato cardiovascular.
+  b) Hemorragia funcional uterina. Aunque aparece en cualquier fase de la vida, es más frecuente en jóvenes que aún no han regularizado su ciclo o en fases próximas a la menopausia. Con frecuencia se debe a un desequili- brio en la secreción secuencial de estrógenos y gestáge- nos que produce hipertrofia endometrial; para detener la hemorragia se puede administrar noretindrona oral, 5- 10 mg cada 4-6 horas el primer día, y después 5 mg, 2 ve- ces al día durante 1-2 semanas, apareciendo menstrua- ción al cesar el tratamiento. Para impedir que reaparezca la hemorragia se puede instaurar un tratamiento cíclico, a base de 5-10 mg de noretindrona o de acetato de me- droxiprogesterona por vía oral, de los días 5.º a 20.º de cada ciclo. En lugar de gestágenos solos, se puede em- plear una asociación de estrógeno y gestágeno.
+  c) Dismenorrea. En asociación con estrógenos (v. II, 6) para inhibir la ovulación, aunque se ha de intentar pri- mero el tratamiento sintomático con analgésicos antiin- flamatorios (v. cap. 22).
+  d) Endometriosis. Se emplea acetato de noretin- drona 5 mg/día durante 2 semanas por vía oral, aumen- tando a razón de 2,5 mg cada 2 semanas hasta que se llega a los 15 mg/día, y se prosigue durante 6-9 meses. Puede emplearse también la medroxiprogesterona. Pero en la actualidad se ha extendido el uso de danazol, un andró- geno débil (v. VII, 7), que inhibe la ovulación y produce atrofia del endometrio, tanto en el útero como en los si- tios ectópicos, y los análogos de la GnRH (v. cap. 49).
+  e) Cáncer de endometrio (v. cap. 62, V, 2). El 80 % de los carcinomas endometriales con existencia de re- ceptores de progesterona responden a la toma de un gestágeno; como acetato de megestrol oral en dosis de 80-640 mg/día durante 2 meses para valorar la eficacia, o acetato de medroxiprogesterona IM a la dosis de 400 mg a la semana; si la respuesta es buena, se puede incre- mentar la dosis de medroxiprogesterona a 1 g 2 veces por semana.
+  f) Cáncer de mama con metástasis y existencia de re- ceptores estrogénicos y progestágenos (v. cap. 62, V, 2), si han fallado otras medidas (cirugía y antiestrógenos).
+  g) Abortos espontáneos. Los gestágenos son útiles en los casos en que el aborto se debe a una insuficiencia lú- tea, pero pueden resultar peligrosos si la administración
+
+del gestágeno se prolonga y actúa sobre el embrión.
+h) Anticoncepción. Véase IX de este capítulo.
+  i) Prueba funcional. La administración de acetato de medroxiprogesterona (10 mg una o dos veces al día por vía oral durante 5 días) sirve para valorar si existe secre- ción estrogénica adecuada en mujeres amenorreicas. Si al retirar el gestágeno se produce una menstruación en 7- 10 días, quiere decir que el útero estaba sometido a un adecuado efecto estrogénico. En caso contrario, hay una deficiencia estrogénica.
+
+VI. ANTAGONISTAS
+DE LA PROGESTERONA
+
+
+  La mifepristona es un derivado 19-noresteroide rela- cionado con la noretisterona, que se une al receptor de la progesterona, por el que presenta una afinidad 5 ve- ces mayor que la hormona; se comporta como antago- nista competitivo. En la primera fase del embarazo, la mifepristona actúa principalmente sobre el endometrio provocando la acción antigestágena con necrosis tempo- ral y facilitando la acción de las prostaglandinas. En fases más tardías del embarazo predomina la acción an- tagonista sobre el miometrio, facilitando así las contrac- ciones del útero y la expulsión de su contenido. En la fase lútea inicial, la mifepristona también puede impedir la for- mación del cuerpo lúteo. La acción de la mifepristona es, pues, eminentemente abortiva. Para facilitar y asegurar esta acción, se recomienda que la aplicación de una dosis oral de 500 mg vaya seguida, 1-2 días después, de un deri- vado prostaglandínico: 1 mg de gemeprost (supositorio) o 0,375-0,5 mg de sulprostona (IM) (v. cap. 51, II, C).
+Se absorbe bien por vía oral, se fija a proteínas en el
+98 % y su semivida oscila entre 12 y 72 horas.
+  Entre sus aplicaciones destacan la inducción de la menstruación, la anticoncepción poscoito (insegura), la inducción del aborto (400-800 mg en una sola dosis), la evacuación del útero del feto muerto y la inducción del parto, aunque en este caso se desconoce todavía la reper- cusión que pueda tener en el feto.
+
+VII. ANDRÓGENOS
+
+
+
+1. Estructura química
+  El principal producto es la testosterona, que contiene 19 C con dos grupos metilo en posiciones 18 y 19, y do- ble enlace en 4-5 (fig. 50-6). En muchos tejidos la testos- terona se convierte en dihidrotestosterona (estanolona), por reducción en posición 5p, comportándose como me- tabolito activo (v. más adelante). Existen otros andróge- nos naturales con actividad débil; los principales son los precursores androstenodiona y el andrógeno de origen suprarrenal deshidroepiandrosterona.
+Se han producido derivados esterificados en el grupo
+
+
+
+Fig. 50-6.  Estructura química de andrógenos naturales y sintéticos, antiandrógenos e inhibidor de la 55-reductasa.
+
+
+
+17-hidroxilo de la testosterona, con el fin de prolongar o retrasar su absorción a partir del depósito intramuscular: propionato, buciclato, enantato y cipionato de testoste- rona.
+  Andrógenos sintéticos son la mesterolona y los deri- vados 171-alquilados, entre los que destacan la metiltes- tosterona y fluoximesterona; todos ellos son eficaces por vía oral porque resisten mejor la metabolización hepática. Existen derivados en los que diversas modificaciones de la molécula han reducido la actividad androgénica,
+
+
+manteniendo la actividad anabolizante; entre ellos se en- cuentran: la nandrolona (fenpropionato y decanoato), la oximetolona, la oxandrolona, el etilestrenol, el estano- zolol, la testolactona y la dromostanolona.
+  Mención aparte merece el danazol, derivado sintético de la 171-etiniltestosterona o etisterona, que muestra dé- bil actividad androgénica y carece de actividad estrogé- nica y gestágena.
+  Derivado con propiedades de antagonistas es el este- roide ciproterona.
+
+
+
+2. Receptor de los andrógenos
+  El receptor de los andrógenos tiene la misma estruc- tura básica de los receptores esteroides (v. fig. 3-22), pero su concentración celular es más baja que la de otros re- ceptores esteroides, incluso en los tejidos andrógeno-de- pendientes. Su gen se localiza en el cromosoma X y su mecanismo de acción es similar al de todos los recepto- res esteroideos. El receptor responde a la testostero- na, pero tiene más afinidad por la dihidrotestosterona (DHT), un derivado de la testosterona que se produce en diversas células mediante el efecto de la 5d-reductasa (fig. 50-1). El receptor no sólo tiene más afinidad por la DHT sino que además el complejo DHT-receptor es más estable que el complejo testosterona-receptor. Hay dos enzimas 55-reductasa, con el 50 % de homología en su secuencia de aminoácidos. El gen de la enzima de tipo 1 se encuentra en el cromosoma 5 y la enzima se expresa preferentemente en la piel del área no genital (p. ej., en el cuero cabelludo), hígado y cerebro, mientras que el gen de la enzima de tipo 2 se encuentra en el cromosoma 2 y la enzima se expresa en los tejidos genitales del varón (piel escrotal, epidídimo, vesículas seminales y próstata) e hígado. Esta última enzima se encuentra asociada a la membrana nuclear y es inhibida por el antagonista finas- terida (v. más adelante).
+
+3. Acciones de los andrógenos
+  La testosterona actúa por sí misma o mediante trans- formación previa en metabolitos activos. Ya se ha se- ñalado la importancia que tiene la conversión de la testosterona en 5t-DHT. Además, la testosterona se convierte en estradiol por aromatización del anillo (v. fig. 50-1) en algunos tejidos; curiosamente, en algunas especies animales esta «feminización» local de la tes- tosterona es la responsable del desarrollo de algunos nú- cleos cerebrales en sentido masculino. En el varón es ne- cesaria la aromatización de la testosterona a nivel hipotálamo-hipofisario para un normal funcionamiento del mecanismo de retroalimentación. Asimismo, la aro- matización de la testosterona también es esencial en el hueso; los andrógenos producen proliferación de los condrocitos en los cartílagos de crecimiento pero, para que se produzca el cierre de las epífisis y una adecuada masa ósea, es necesaria la aromatización de la testoste- rona.
+  Al inicio de este capítulo, ya se ha indicado la impor- tancia de la existencia de andrógenos en la diferenciación sexual masculina. Durante la niñez y la edad prepuberal, la secreción y la acción androgénicas son mínimas. En la pubertad, la secreción de testosterona aumenta de nuevo y provoca el desarrollo completo de los órganos genita- les masculinos, estimulando su función: favorece la es- permatogénesis en conjunción con la FSH, estimula el desarrollo y la secreción de la próstata y las vesículas seminales, estimula la libido y la erección. Al mismo
+
+tiempo, favorece la aparición de los caracteres sexuales secundarios, como la disposición del vello y de pelo en el cuerpo y la modificación de la voz. Estimula el creci- miento óseo y el desarrollo muscular, así como el cre- cimiento y la secreción de las glándulas sebáceas en las que se pueden formar tapones que favorecen la infección y la aparición de acné.
+  La testosterona actúa en otros órganos no relaciona- dos con la actividad reproductora, como el riñón, el hí- gado y el músculo, previa interacción con receptores an- drogénicos. Además de su acción trófica, la testosterona modifica el patrón de síntesis de enzimas metabolizantes en el hígado y estimula la síntesis de eritropoyetina en el riñón (v. cap. 58).
+  Acción anabolizante. En el músculo, la acción de la tes- tosterona sobre sus receptores se expresa en forma de un incremento del desarrollo muscular, lo que explica la di- ferencia característica entre los sexos. Los andrógenos provocan retención de nitrógeno y otros iones (sodio, po- tasio, cloro, fósforo y azufre), si bien el efecto es pasajero. Esta acción anabolizante puede ser diferenciada de la ac- ción virilizante; cuanto mayor sea el índice que relaciona ambas actividades, mayor será la capacidad de un an- drógeno para promover la acción anabolizante sin que se aprecien signos de virilización. Pero no hay ningún an- drógeno que carezca por completo de cierta actividad vi- rilizante (v. anabolizantes en 6, f).
+
+4. Características farmacocinéticas
+  La testosterona se absorbe bien por vía oral, pero se metaboliza con gran rapidez en el hígado y resulta inac- tiva. En el plasma está unida a la albúmina y a la globu- lina fijadora de hormonas gonadales (testosterona y es- trógenos); la concentración de esta globulina en el plasma condiciona la concentración de testosterona libre cuya se- mivida plasmática es de sólo 10-20 min. La testosterona reduce la síntesis hepática de la globulina fijadora, mien- tras que los estrógenos la aumentan.
+  En algunos países se dispone de un decanoato de tes- tosterona solo o asociado a ciclodextrina, que es activo por vía oral ya que pasa directamente a los vasos linfáti- cos en forma de quilomicrones, lo que evita su inactiva- ción hepática. Esta pauta produce grandes oscilaciones de los niveles de testosterona en plasma, que varía de ni- veles suprafisiológicos a otros claramente bajos, y suele provocar trastornos digestivos.
+
+   Se dispone de dos sistemas de administración transdérmica de tes- tosterona: a) parche que contiene 10-15 mg de testosterona, que se co- loca por la mañana sobre la piel del escroto previamente afeitada y se cambia diariamente, con lo que se absorben 4-6 mg de testosterona/día. La testosterona en sangre alcanza un pico a las 3-8 horas de la aplica- ción y luego desciende a lo largo del día, de forma similar al ritmo cir- cadiano normal de esta hormona. Los niveles de DHT se elevan a ci- fras tres veces superiores a lo normal, debido al efecto de la 55-reductasa de la piel escrotal. Se desconoce si esto tiene algún significado patoló- gico. En algunos pacientes hipogonadales, el escroto no tiene tamaño suficiente para ser aplicado. b) Parche que contiene 12,2 mg de testos-
+
+
+
+terona, del que se colocan dos cada noche rotando su posición sobre la piel no escrotal (espalda, abdomen, brazo y muslo). Este método tam- bién permite mantener unos niveles de testosterona en sangre dentro del intervalo normal de las 24 horas del día, con un ritmo circadiano si- milar al normal. Con este sistema, los niveles de DHT se mantienen normales. Ambos tipos de parches pueden provocar irritación local y es necesario asegurar que se mantengan correctamente adheridos a la piel durante todo el período de tratamiento.
+   La esterificación del hidroxilo en C17 con ácidos grasos favorece su lipofilicidad; las soluciones oleosas se administran por vía IM, obte- niéndose preparados con absorción lenta que prolongan la acción. El propionato de testosterona se administra 2-3 veces por semana, el ci- pionato y el enantato se inyectan cada 2-4 semanas, y el buciclato se ad- ministra cada 12 semanas. La mayoría de los ésteres, excepto el buci- clato, suelen producir niveles suprafisiológicos los primeros días de su administración, bajando a niveles inferiores a los normales antes de la siguiente inyección.
+   Otras formas de administración son los implantes subcutáneos de testosterona en cápsulas de silastic (pellets) que liberan testosterona du- rante 3 meses, pero exigen una pequeña intervención quirúrgica y la in- yección IM de testosterona unida a microesferas de copolímero poli- láctido-glucólido (en estudio).
+
+  En el hígado, la testosterona es oxidada a androsteno- diona y androstanodiona, con poca actividad androgé- nica; se forman también androsterona y etiocolanolona. El metabolito activo dihidrotestosterona se convierte también en androsterona.
+  Los derivados alquilados en C17, y con otras modifi- caciones moleculares, sufren diversos procesos de trans- formación hepática más lentos, por lo que muchos de ellos se pueden administrar por vía oral. La mesterolona, la metiltestosterona y la fluoximesterona se deben admi- nistrar diariamente, pues sus semividas oscilan entre 2,5 y 10 horas.
+  Entre los llamados anabolizantes, muchos de ellos son preparados 19-nor con alquilación en C17, lo que permite su administración por vía oral. A su vez, la esterificación con ácidos grasos les confiere capacidad de absorción lenta para formas de administración depot.
+
+5. Reacciones adversas
+  Los andrógenos producen virilización, que resulta in- conveniente en niños por la inducción de seudopubertad precoz y cierre de epífisis óseas, y en la mujer, en la que puede producir hirsutismo, gravedad de voz, acné, alo- pecia, agrandamiento de clítoris o irregularidades mens- truales por inhibición de gonadotropinas. Recuérdese que algunos gestágenos poseen propiedades androgéni- cas. El acné y el vello labiofacial pueden ser los prime- ros síntomas de sobredosificación. En el hombre adulto pueden agrandar la próstata y producir obstrucción ure- tral, provocar comportamiento agresivo y apneas del sueño.
+  Dosis altas, como las que se administran en la terapéu- tica de ciertos cánceres, llegan a producir retención líquida y edemas. A dosis normales, también pueden aumentar la retención de líquidos en pacientes con sín- dromes edematosos (insuficiencia cardíaca, cirrosis, etc.). Es preciso recordar que los anabolizantes mantienen
+
+cierta capacidad androgénica.
+  Los derivados 17L-alquilo pueden producir disfunción hepática, con o sin ictericia, a los 2-5 meses de trata- miento. Su administración prolongada puede causar ade- nocarcinoma hepático y peliosis hepática.
+  La administración mantenida llega a reducir la secre- ción de gonadotropinas y por consiguiente, inhiben la es- permatogénesis. En los niños, en los que hay aumento de la actividad de la enzima aromatasa que transforma el an- drógeno en estrógeno, la administración de testosterona puede ocasionar signos feminizantes, como ginecomas- tia; lo mismo ocurre en varones con insuficiencia hepá- tica. Administrados a mujeres embarazadas pueden pro- vocar masculinización de fetos femeninos.
+
+6. Aplicaciones terapéuticas
+  a) Hipogonadismo masculino. En el hipogonadismo secundario a insuficiencia hipofisaria o hipotalámica, la utilización de andrógenos consigue una masculinización adecuada, pero sin que se produzca espermatogénesis, ya que para ello se necesitan niveles mínimos de FSH y con- centraciones muy altas de testosterona intratesticular. Si estos pacientes desean tener hijos, se tratarán tempo- ralmente con gonadotropina coriónica o mediante una perfusión pulsátil de GnRH (v. cap. 49, II, D, 1.1).
+  Si el hipogonadismo es primario, se prefiere utilizar los ésteres de testosterona de acción prolongada (enantato o cipionato) y evitar los preparados 171-alquilo porque su acción virilizante es algo inferior y entrañan el riesgo de la hepatotoxicidad. Para provocar la pubertad se ad- ministran 50-100 mg cada 2-4 semanas durante 2 años, para pasar luego a la dosis completa de 250 mg de enan- tato o cipionato de testosterona cada 2 semanas, un par- che escrotal de 10-15 mg/día o 2 parches no escrotales de 12,2 mg/día. La dosis de mantenimiento en el adulto es la última citada. En adultos de edad avanzada puede ser conveniente comenzar con un esteroide de acción corta porque si hay hipertrofia de próstata con obstrucción uri- naria, será más fácilmente reversible.
+  b) Niños con micropene. Se utiliza testosterona tó- pica en forma de crema.
+  c) Anemias. Al estimular la síntesis de eritropoyetina en el riñón y, en menor grado, en otros tejidos, los an- drógenos favorecen la formación de hematíes e incre- mentan los niveles de hemoglobina. Su acción es evidente en personas con hipogonadismo e incluso en individuos normales, tanto varones como mujeres. Es mucho más dudosa su eficacia en las anemias con insuficiencia de mé- dula ósea (anemias aplásicas) y en las mielofibrosis; dada la imprecisión de los resultados, está plenamente justifi- cado iniciar su utilización y decidir su continuidad en fun- ción de la respuesta. La disponibilidad de los factores es- timulantes de granulocitos y de granulocitos/macrófagos (v. cap. 58), hace de ellos los fármacos de elección en mu- chas de estas anemias. En la anemia de la insuficiencia renal y en enfermos en hemodiálisis, la eficacia de los és-
+
+
+
+teres de testosterona es variable, probablemente porque la síntesis de eritropoyetina se encuentra afectada. La eri- tropoyetina obtenida por métodos de ADN recombi- nante ha representado un claro avance en el tratamiento de esta alteración (v. cap. 58, III).
+  d) Edema angioneurótico hereditario. Está produ- cido por la carencia o la escasa actividad de un factor en- cargado de inhibir la esterasa que actúa sobre C1, el pri- mer componente del complemento. Como consecuencia de esta anomalía deficitaria, la esterasa desencadena la cascada de reacciones que originan factores que in- crementan la permeabilidad vascular. Los andrógenos 171-alquilo son capaces de aumentar la síntesis de dicho inhibidor de la esterasa. El danazol también lo consigue, por lo que, al tener débil acción androgénica y no presen- tar riesgo hepatotóxico, se ha convertido en el fármaco de elección (v. más adelante).
+  e) Carcinoma de mama (v. cap. 62). En casos refrac- tarios a otras terapéuticas o adicionado como terapéutica adyuvante, la testosterona o alguno de sus derivados (p. ej., la fluoximesterona) puede ser útil.
+  f) Acción anabolizante. A pesar de su promoción en épocas recientes, su eficacia anabólica en enfermedades agudas y crónicas resulta escasa o nula y no va más allá de lo que pueda conseguir el andrógeno con el aumento de apetito. Si los niveles endógenos de testosterona son normales, los anabolizantes no conseguirán más de lo que ella misma esté favoreciendo. A dosis suprafisiológicas (600 mg de enantanto de testosterona/semana) aumen- tan la masa y la fuerza muscular en personas sanas, es- pecialmente si practican ejercicio físico, pero a causa de los efectos adversos a corto y largo plazo, su uso está ab- solutamente injustificado en atletas. El estanozolol y la nandrolona pueden aumentar la masa ósea en la osteo- porosis posmenopáusica, pero no hay estudios a largo plazo.
+  g) Liquen escleroso. Se emplea crema de testoste- rona al 2 %.
+
+7. Danazol
+  Es un derivado isoxazólico de la etisterona (fig. 50-6) que se comporta como agonista moderado del receptor androgénico, como agonista parcial del gestagénico y sin afinidad por el estrogénico. En consecuencia, inhibe la secreción de GnRH y gonadotropinas FSH y LH, in- hibiendo, por lo tanto, la síntesis de estrógenos en el ovario. Las acciones antiestrogénica y proandrogénica ocasionan la atrofia del tejido estrógeno-dependiente. Suprime la menstruación, inhibe la ovulación y provoca regresión de la mucosa endometrial y vaginal. De ello de- rivan su acción anticonceptiva y su capacidad para con- trolar la endometriosis. Como los demás andrógenos, actúa también sobre el inhibidor de la esterasa de C1 en el edema angioneurótico.
+  Se absorbe bien por vía oral, con un tmáx de 1-2 horas y una semivida de 4-5 horas. Se metaboliza en el hígado
+
+produciendo conjugados sulfato y glucurónidos.
+  Puede producir aumento de peso, edema y signos de virilización (reducción de mamas, hirsutismo, voz grave, acné y seborrea), sofocos y cambios en la libido. Puede exacerbar la porfiria aguda y alterar en ocasiones la tole- rancia a la glucosa. Puede elevar las transaminasas hepá- ticas. Durante el embarazo puede ocasionar virilización del feto femenino.
+  Sus principales indicaciones son: a) la endometriosis a dosis que oscilan entre 200 y 800 mg/día; cuando existe infertilidad asociada, la suspensión del danazol después de varios meses de tratamiento puede estar seguida de embarazo; b) enfermedad mamaria benigna, incluida la enfermedad fibroquística, a la dosis de 200-400 mg/día; c) pubertad precoz a razón de 100-400 mg/día, y d) edema angioneurótico en dosis de 200-400 mg/día.
+
+
+VIII. ANTIANDRÓGENOS
+
+
+  Son sustancias que inhiben la acción de los andróge- nos sobre la célula diana. Unos son de naturaleza esteroi- dea, como el acetato de ciproterona y la espironolactona (v. cap. 47), y otros son no esteroideos, como la flutamida (fig. 50-6), la nilutamida y la bicalutamida.
+
+1. Mecanismo de acción
+y acciones farmacológicas
+  Bloquean la fijación de los andrógenos (tanto la tes- tosterona como la DHT) al receptor androgénico del ci- toplasma y probablemente también interfieren en la fi- jación de este complejo receptor-andrógeno al sitio específico del núcleo donde debe ejercer su acción, inhi- biendo así su capacidad para transcribir los genes sensi- bles a andrógenos. La ciproterona, por su estructura es- teroidea, posee propiedades de agonista androgénico parcial, así como cierta actividad gestágena y glucocorti- coidea; en cambio, los no esteroideos carecen de tales ac- ciones, por lo que se les considera antagonistas puros. En el caso de la flutamida, la actividad antiandrogénica to- tal se debe también a la de su metabolito activo 2-hidro- xiflutamida, que llega a alcanzar altas concentraciones en el organismo.
+  Como consecuencia de la acción antagonista, reducen el tamaño de órganos andrógeno-dependientes, en espe- cial la próstata y las vesículas seminales, inhiben la es- permatogénesis, reducen la libido y pueden producir gi- necomastia. El bloqueo de receptores androgénicos a nivel hipotálamo-hipofisario ocasiona un aumento de la LH y, en consecuencia, de la testosterona; este efecto puede ser algo menor con la bicalutamida porque parece que atraviesa en menor grado la barrera hematoencefá- lica. Pero la ciproterona, por su acción simultáneamen- te gestágena, puede inhibir en la mujer la secreción de gonadotropinas y la ovulación. El aumento de LH y tes-
+
+
+
+tosterona podría representar, a la larga, cierta restricción en la eficacia sobre el cáncer de próstata; asimismo, la ac- ción gestágena de la ciproterona podría favorecer el cre- cimiento del tejido prostático que posee receptores ges- tagénicos. Además, la utilización exclusiva de un agonista GnRH en el cáncer de próstata indicada en el capítulo anterior (v. II, B, 6), si bien suprime la secreción andro- génica del testículo, no suprime la secreción en las su- prarrenales de los andrógenos débiles androstenodiona y deshidroepiandrosterona que, en los tejidos, se convier- ten en testosterona y DHT. Esto explica que, a la larga, la eficacia de los agonistas GnRH tampoco sea completa. Por consiguiente, la asociación de antiandrógenos y de agonistas GnRH presenta acciones netamente com- plementarias que refuerzan su acción en la terapéutica del cáncer de próstata: los agonistas GnRH, porque im- piden la acción provocada por el antagonismo androgé- nico, a nivel hipofisario, y los antiandrógenos, porque impiden la acción de los andrógenos producidos local- mente por metabolismo de los andrógenos de origen su- prarrenal.
+
+2. Características farmacocinéticas
+  La ciproterona se absorbe bien, aunque lentamente, por vía oral, con un tmáx de 3-4 horas; los niveles plas- máticos descienden con relativa rapidez porque pasa con facilidad a los tejidos, pero la tl/2/ se prolonga a 30- 40 horas.
+  La flutamida se absorbe completa y rápidamente por vía oral; es metabolizada en su totalidad en diversos me- tabolitos, uno de los cuales es un derivado t-hidroxilado biológicamente activo cuya semivida de eliminación va- ría según la dosis de flutamida: 4-6 horas para 250 mg y 8-22 horas para 500 mg. La semivida de la nilutamida es de 43 horas y la de la bicalutamida es de 6 días.
+
+3. Reacciones adversas
+  La ciproterona suele producir sensación de cansancio y sedación. En el varón reduce la libido, la espermatogé- nesis y el volumen del eyaculado, de manera reversible, y puede producir ginecomastia. En la mujer que está en la madurez sexual debe asegurarse que no está embara- zada, pues podría causar feminización en un feto mascu- lino; además, por su acción gestágena puede provocar sangrado uterino y por su acción corticoide puede redu- cir la actividad endógena hipófiso-suprarrenal.
+  La flutamida produce con frecuencia ginecomastia y tensión o dolor mamario; no suele afectar, en cambio, la libido. En ocasiones puede provocar mareo, náuseas o diarrea; rara vez produce disfunción hepática. La niluta- mida puede ocasionar, además, impotencia, intolerancia al alcohol y problemas de visión (colores y adaptación luz-oscuridad). La bicalutamida produce molestias ma- marias y diarrea.
+4. 
+Aplicaciones terapéuticas
+  a) Carcinoma de próstata: la dosis de flutamida es de 250 mg, 3 veces al día; la de ciproterona, 100 mg, 2-3 ve- ces al día; la de nilutamida, 100-300 mg/día, y la de bica- lutamida, 50 mg/día. Por lo expuesto anteriormente, es recomendable la asociación de un antiandrógeno con un agonista GnRH, al menos en el caso de la flutamida, para suprimir la hiperactividad LH compensadora.
+  En la hipertrofia benigna de próstata también pueden resultar beneficiosos.
+  b) Pubertad precoz: la ciproterona retrasa el comien- zo de la pubertad y sus manifestaciones orgánicas y fun- cionales; inhibe el desarrollo de los caracteres sexuales, retrasa el cierre de las epífisis y la aparición de la mens- truación. La dosis es en función del peso y la estatura del niño, siendo en general de 50-150 mg/m2, aunque puede llegar a veces hasta 200 mg/m2.
+  c) Estados de virilización en la mujer: hirsutismo, alopecia androgénica, acné y seborrea graves. Aunque generalmente se deben a hiperproducción androgénica en suprarrenales u ovarios, no se descarta la posibilidad de que exista hipersensibilidad de receptores androgéni- cos; en cualquier caso, la ciproterona resulta útil. Dada la acción gestagénica del producto, inhibirá también la se- creción de gonadotropinas y la ovulación, y puede pro- ducir irregularidades menstruales, de ahí que a menudo se administre en asociación con estrógenos: del día 5.° al 15.° del ciclo, 100 mg de ciproterona en asociación con es- trógeno, que se mantiene del día 5.° al 25.° del ciclo (pauta secuencial inversa). Los ciclos se repiten cada 4 semanas durante varios meses, pero si hay mejoría se pueden re- ducir antes las dosis de ciproterona. La eficacia de la flu- tamida se encuentra en estudio. También se utiliza la es- pironolactona a la dosis de 75-200 mg/día.
+d) Estados de hipersexualidad o sexualidad desviada
+en el varón: 50-150 mg de ciproterona, 2 veces al día se- gún gravedad y evaluación. Una vez conseguido el resul- tado, hay que reducir la dosis en cuanto sea posible.
+  e) Neurosis obsesivo-compulsiva: la ciproterona ha mostrado cierta acción beneficiosa en algunos casos por razones desconocidas; las dosis son de 25-100 mg/día.
+
+5. Inhibidores de la 55-reductasa
+  No son antagonistas androgénicos en sentido estricto, pero dado el papel esencial de la DHT en algunas de las acciones de la testosterona, el bloqueo de la formación de la DHT mediante inhibición selectiva de la 5d-reduc- tasa puede ser un mecanismo adicional para suprimir la actividad androgénica sin necesidad de bloquear recep- tores androgénicos.
+
+5.1. Inhibidores de la 55-reductasa de tipo 2
+  La finasterida es un 4-azo-esteroide sintético que pre- senta una configuración estable en el anillo A similar al
+
+
+
+estado de transición de la testosterona a la dihidrotes- tosterona, lo que permite que se fije al sitio activo de la 55-reductasa de tipo 2 y actúe como un inhibidor com- petitivo (v. 2). La finasterida a las dosis terapéuticas ha- bituales (5 mg en dosis única diaria) produce un descenso del 65-75 % de los niveles plasmáticos de DHT, mientras que la testosterona se eleva aproximadamente el 10 %. Esto implica que la 55-reductasa de tipo 1 es responsa- ble del 30 % restante de los niveles plasmáticos de DHT. En la próstata, en cambio, la DHT se reduce el 90 %, mientras que la testosterona se eleva hasta 7 veces. Pese a todo, se estima que la actividad androgénica total en la próstata disminuye, teniendo en cuenta la mayor activi- dad de la DHT en este órgano. En consecuencia, la fi- nasterida reduce el tamaño de la próstata en pacientes con hiperplasia prostática benigna, aunque su utilidad real comparada con otras terapias médicas (bloqueantes
+(1-adrenérgicos) o quirúrgicas no está bien establecida.
+No se ha demostrado su eficacia en el cáncer de próstata. También se ha comprobado que la finasterida produce una elevación de los niveles de LH del orden del 20 %, lo cual sugiere que la DHT ejerce un efecto inhibitorio fisiológico de la secreción de gonadotrofinas. Reduce el volumen de líquido seminal, pero no tiene efecto sobre el número, la forma o la motilidad de los espermato-
+zoides.
+  Se absorbe bien por vía oral. Tiene una semivida de 6 horas en varones de mediana edad y de 8 horas en an- cianos, aunque sus efectos biológicos son mucho más pro- longados (los niveles de DHT no retornan a cifras nor- males hasta 2 semanas después de suspender el fármaco). Se excreta por orina y heces, pero no es necesario ajus- tar la dosis en pacientes con insuficiencia renal.
+  Produce disminución de la libido e impotencia en un pequeño grupo de pacientes. Su utilización durante el em- barazo interferiría con la normal virilización de la prós- tata y los genitales externos de los fetos varones. No se ha demostrado que tenga efectos sobre los lípidos séricos o sobre el hueso.
+
+5.2. Inhibidores de la 55-reductasa de tipo 1
+  Existen dos tipos de sustancias que inhiben esta iso- enzima, el 4-azo-esteroide MK386 y la benzoquinolinona LY191704. Estas sustancias asociadas a la finasterida ba- jan los niveles plasmáticos de DHT en más del 90 % y se pueden administrar por vía oral o local. Su utilidad po- tencial estaría en el tratamiento de los trastornos derma- tológicos andrógeno-dependientes (acné, hirsutismo y calvicie), ya que al ser inhibidores selectivos de esta en- zima, carecen de efectos sobre los órganos sexuales ac- cesorios.
+
+IX. ANTICONCEPTIVOS HORMONALES FEMENINOS
+  
+La actividad anticonceptiva de naturaleza farmacoló- gica se lleva a cabo, principalmente, con sustancias de ca- rácter hormonal o antihormonal que llegan a modificar de manera sustancial los mecanismos de ovulación, fe- cundación o implantación del huevo fecundado en la mu- jer e inhiben la espermatogénesis o modifican la activi- dad de los espermatozoides en el varón. No siempre es fácil y en ocasiones resulta imposible separar la acción estrictamente antifecundatoria de una acción propia- mente abortiva; incluso surgen preparados que asocian una sustancia hormonal con otras con claro carácter abor- tivo, como son las prostaglandinas.
+
+A. ESTRÓGENOS Y GESTÁGENOS
+
+1. Características generales
+1.1. Tipos de fármacos
+  De los estrógenos orales el que más se utiliza es el eti- nilestradiol y, en menor grado, el mestranol cuyas po- tencias estrogénicas son similares en la especie humana. El etinilestradiol tiene un tmáx de 1-2 horas, se metaboliza por conjugación y desaparece del plasma casi en su tota- lidad a las 24 horas. Con el fin de reducir la toxicidad del estrógeno, se ha disminuido la dosis de etinilestradiol a menos de 50 µg (30-40 µg). Por ello debe tenerse muy en cuenta que la biodisponibilidad varía de un individuo a otro (entre el 20 y el 65 %), así como la semivida (de 13 a 27 h); esto repercute en las amplias diferencias que se observan en los niveles estacionarios del producto, con su lógica repercusión sobre la eficacia anticonceptiva. El mestranol es transformado en etinilestradiol.
+  De los gestágenos son muchos los utilizados (ta- bla 50-2), bien en forma combinada con estrógenos (li- nestrenol, norgestrel, levonorgestrel, desogestrel y ges- todeno), bien en forma unitaria (medroxiprogesterona). Como se explica en V, 3.2., su acción androgénica es va- riable. La absorción oral suele ser completa, con un tmáx de 1-3 horas, y las semividas oscilan entre 5 y 25 horas. Se unen a la globulina fijadora de hormonas sexuales (SHBG); si los gestágenos se administran solos, esta pro- teína disminuye con el tiempo, mientras que si se admi- nistran combinados con estrógenos, la proteína aumenta y, simultáneamente, lo hace la concentración de gestá- geno. La absorción del acetato de medroxiprogesterona por vía IM en forma depot es muy lenta, lo que permite administrarlo cada 2-3 meses.
+
+1.2. Formas de administración
+  a) Forma combinada. Es la más utilizada; en ella se asocian el estrógeno y el gestágeno en tres posibles combinaciones; las dosis son muy variadas según el prepa- rado utilizado (tabla 50-2).
+
+
+
+
+
+Tabla 50-2.   Composición hormonal de anticonceptivos femeninos
+Estrógeno (µg)	Gestágeno (mg)	Nombre comercial
+
+Combinados monofásicos, por vía oral
+Etinilestradiol (50)	Levonorgestrel (0,25)	Neogynona, Ovoplex
+Etinilestradiol (50)	Linestrenol (2,5)	Neo Lyndiol
+Etinilestradiol (50)	Norgestrel (0,5)	Eugynon
+Mestranol (75)	Linestrenol (2,5)	Lyndiol 2,5
+Etinilestradiol (30)	Levonorgestrel (0,15)	Microgynon, Ovoplex 30/150
+Etinilestradiol (30)	Desogestrel (0,15)	Microdiol, Planum
+Etinilestradiol (30)	Gestodeno (0,075)	Gynovin, Minulet
+
+Combinados trifásicos, por vía oral
+Etinilestradiol (30/40/30)	Levonorgestrel (0,05/0,075/0,125)	Triagynon, Triciclor
+Etinilestradiol (30/40/30)	Gestodeno (0,05/0,07/0,1)	Trigynovin, Try Minulet
+
+Combinado unimensual, IM
+Estradiol (10)	Dihidroxiprogesterona (150)	Topasel
+
+Unitario plurimensual, IM
+—	Medroxiprogesterona (150)	Depo-Progevera
+
+Administración poscoito, por vía oral
+Etinilestradiol (100)	Norgestrel (1,0)	Eugynon (2 comp.)
+
+
+
+   ) Preparados monofásicos: mantienen una dosifica- ción fija y constante del estrógeno y el gestágeno; se admi- nistran diariamente por vía oral desde el 5.° día a partir de la menstruación y se mantienen durante 3 semanas. La suspensión está seguida de menstruación.
+m)    Preparados bifásicos: son secuenciales. En los pri-
+meros 10-14 días se emplea un estrógeno solo o asociado a una dosis pequeña de gestágeno, en los días restantes hasta completar las 3 semanas se mantiene la misma do- sis de estrógeno, pero se aumenta la de gestágeno.
+g)    Preparados trifásicos: son también secuenciales.
+Las dosis de estrógeno y gestágeno se administran a dosis distintas en los períodos inicial, medio y final del tratamiento. Se intenta con ello conseguir un patrón de relación estrógeno/gestágeno más fisiológico. Con los preparados bifásicos y trifásicos se reduce la cantidad to- tal de gestágeno administrado y la incidencia de man- chados uterinos que ocurren a mitad de ciclo cuando se emplean dosis muy bajas de estrógenos.
+  b) Forma unitaria. Contienen gestágenos solos; se pueden administrar de forma continuada, es decir, diaria por vía oral, o de forma plurimensual cuando se adminis- tran formas depot por vía IM. En algunas países se utili- zan implantes subcutáneos de silastic con levonorgestrel (36 mg), que producen anticoncepción efectiva durante 5 años. El implante puede ser extraído, de manera que su efecto es reversible. Carece de los efectos indeseables de los estrógenos, pero puede provocar sangrados irregula- res debidos a descamación errática del endometrio hipo- trófico.
+c) Preparados poscoito. Se han empleado gestágenos
+
+
+solos o altas dosis de estrógenos (p. ej., 2-5 mg/día de eti- nilestradiol). En la actualidad se prefiere la combinación de 100 µg de etinilestradiol con 1 mg de norgestrel, ad- ministrada dentro de las 72 horas poscoito, repitiendo las mismas dosis 12 horas después.
+
+2. Mecanismos de acción
+  Se admite de forma universal que la eficacia anticon- ceptiva casi completa de los fármacos hormonales se debe a su acción conjunta a todos los niveles: la fun- ción hipotálamo-hipofisaria, la ovárica y la tubo-endome- trio-vaginal. Sin embargo, el grado o la intensidad con que cada una de estas funciones resulta alterada varía con cada preparado o forma de administración, de manera que un preparado determinado puede modificar sobre todo una de ellas y sólo secundariamente las demás (ta- bla 50-3). Los anticonceptivos combinados actúan funda- mentalmente en el hipotálamo y la hipófisis, donde inhi- ben la secreción de gonadotropinas. El estrógeno inhibe la liberación de FSH, suprimiendo así el crecimiento y el desarrollo foliculares; estabiliza además el endometrio, con lo que evita la aparición de hemorragias o mancha- dos. El gestágeno suprime la secreción de LH y su carac- terístico pico a mitad del ciclo, impidiendo, por lo tanto, la ovulación. Lógicamente se inhibe la secreción endó- gena de estradiol y progesterona. El gestágeno, ade- más, produce un engrosamiento del moco cervical que perturba la penetrabilidad y la motilidad de los esper- matozoides. De forma complementaria, el desequilibrio hormonal provocado por el anticonceptivo altera el en-
+
+
+Tabla 50-3.   Mecanismos de acción anticonceptiva de las principales formas de anticoncepción hormonal
+
+
+  Inhibición de la ovulación
+Inhibición
+del factor cervical    Efectos sobre transporte
+del huevoInfluencia sobre
+el endometrio  Inhibición de la formación de gestágenosForma combinada monofásica++++++Forma combinada unimensual++++++Forma combinada bifásica++–+(+)+Gestágeno «minipíldora»(±)(±)+(+)(±)Gestágeno depot plurimensual+++++++Gestágeno en cápsula de silicona–(+)+(+)–Gestágeno a dosis altas en fase––+++luteínicaForma poscoito––+(±)–
+
+dometrio, en el que ocasiona atrofia glandular y reacción seudotemporal de la estroma, que impiden la anidación del blastocisto, y modifica la motilidad de las trompas.
+  Los anticonceptivos orales que sólo contienen gestá- genos presentan un mecanismo de acción más complejo y no siempre previsible, ya que, a su acción gestágena, se pueden añadir acciones estrogénicas, antiestrogénicas y androgénicas, con acciones a múltiples niveles: hipo- tálamo-hipofisario, ovárico, uterocervical. A su vez, las dosis y las vías de administración añaden nuevas varia- bles. En general, predomina la profunda modificación que ejercen tanto sobre el endometrio, al que atrofian, impidiendo la anidación del óvulo si es fecundado, como sobre la secreción del moco cervical, según se ha expuesto antes. Dosis pequeñas, como las que se emplean en la lla- mada «minipíldora», inciden principalmente sobre el en- dometrio y las trompas, sin inhibir la ovulación, por lo que son menos seguras. En cambio, dosis altas, como las que se utilizan con el acetato de medroxiprogesterona de- pot, reducen los niveles de gonadotropinas y evitan sus picos a mitad del ciclo; no afectan, en cambio, los niveles endógenos de estradiol, que permanecen al nivel propio de la fase folicular; el ovario, pues, no está inactivo del todo, si bien no se aprecian folículos maduros ni cuerpos lúteos. Con el enantato de noretisterona, en una primera fase (30-40 días) puede inhibir la ovulación aunque los folículos ováricos son todavía capaces de segregar estró- genos, pero después se recupera la capacidad ovulatoria y la acción anticonceptiva se empareja con la de la «mi- nipíldora», con modificación de la secreción del cuello uterino y modificación del endometrio.
+En las formas poscoito se combina la acción antiim-
+plantatoria en endometrio con la modificación de la mo- tilidad tubárica.
+
+3. Efectos farmacológicos, reacciones adversas e interacciones
+  La consecuencia más evidente es la acción anticon- ceptiva. Junto a ello, estos preparados tienen efectos be- neficiosos: regularizan las menstruaciones, alivian la dis- menorrea y el síndrome de tensión premenstrual, y suelen
+
+disminuir las pérdidas menstruales, por lo que protegen contra la anemia ferropénica, disminuyen la incidencia de adenomas benignos y de enfermedad fibroquística de mama, reducen la incidencia de hiperplasia endometrial, protegen contra el cáncer de endometrio y la endometri- tis, reducen la incidencia de quistes foliculares benignos y protegen contra el cáncer de ovario.
+  Puesto que las dosis son claramente suprafisiológicas, producen numerosas modificaciones metabólicas, que, en algunos casos, son graves. La mayoría de ellas al pare- cer se debe a los estrógenos, por lo que se ha puesto es- pecial interés en: a) reducir al mínimo la dosis de estró- geno; b) analizar las condiciones fisiopatológicas en las que el estrógeno presenta mayor riesgo de originar com- plicaciones; c) utilizar cada vez más los gestágenos sin ac- tividad androgénica, y d) incrementar la utilización de otros métodos anticonceptivos. Con todo ello parece que ha disminuido la incidencia de complicaciones graves.
+  Las reacciones más frecuentes, aunque menos graves, son náuseas, que a veces llegan a vómitos, cefaleas, mo- lestias de mama, mareo o aturdimiento, aumento de peso y manchados irregulares; en general, estos síntomas desa- parecen tras las primeras administraciones.
+  Los estudios sobre efectos adversos mejor conocidos se refieren a los anticonceptivos de primera generación, que utilizaban dosis altas de estrógenos y gestágenos con efectos androgénicos. En la actualidad, las dosis de es- trógenos son mucho más bajas y los gestágenos carecen de efectos androgénicos o incluso tienen efectos antian- drogénicos, por lo que las complicaciones reales de los anticonceptivos actuales probablemente son mucho me- nores que las de los anteriores.
+
+3.1. Complicaciones cardiovasculares
+  Pueden tomar la forma de trombosis coronaria con in- farto de miocardio, enfermedad tromboembólica venosa y arterial, accidentes cerebrovasculares agudos e hiper- tensión.
+  Los anticonceptivos elevan 2-3 veces el riesgo relativo de que aparezca enfermedad isquémica del miocardio; este riesgo aumenta con la edad, con el tabaco y con otras
+
+
+
+complicaciones, como la diabetes y la hiperlipopro- teinemia; por ello se aconseja no utilizar los anticoncep- tivos hormonales en mujeres mayores de 40 años o de 35 si son fumadoras. El mecanismo puede residir en el au- mento de las LDL y VLDL provocado por el estrógeno en dosis iguales o mayores de 50 µg, pero es posible que también influyan las modificaciones en las HDL, como se explica en el capítulo 55. En este sentido, los gestáge- nos ocasionan cambios variables de aumento o disminu- ción de HDL que puede contribuir a la acción vascular.
+  Aumenta la incidencia de tromboembolia venosa y ar- terial, si bien ha disminuido al reducir la dosis de estró- genos. Parece que se debe a varios factores: proliferación endotelial, reducción del flujo venoso, aumento de fac- tores de la coagulación y cambios en la actividad plaque- taria.
+  El riesgo relativo de accidentes cerebrovasculares, in- cluida la hemorragia subaracnoidea, está también aumen- tado en particular en mujeres de edad avanzada, fumado- ras y con hipertensión. El riesgo guarda relación con la dosis de estrógeno y, probablemente, con la de progeste- rona.
+  La hipertensión clínicamente manifiesta (> 140 mm Hg de presión sistólica y > 90 mm Hg de diastólica) aparece con un riesgo relativo de 2,6 en mujeres que toman anti- conceptivos. Parece que guarda relación con la dosis de gestágeno y el riesgo aumenta con la edad. El mecanismo puede deberse a la acción sobre el mecanismo renina-an- giotensina-aldosterona, al aumentar la síntesis del sus- trato angiotensinógeno.
+
+3.2. Intolerancia a los carbohidratos
+  En algunas mujeres aparece intolerancia a la glucosa, observándose aumento de los niveles de glucosa e insu- lina en plasma después de una sobrecarga, lo que sugiere la aparición de cierto grado de resistencia a la insulina; de hecho se ha apreciado una reducción en el número de receptores insulínicos en algunos sistemas celulares. Esta alteración puede deberse a la progesterona, ya que se ob- serva también con anticonceptivos gestágenos.
+
+3.3. Desarrollo de tumores
+  Puesto que hay tumores hormono-dependientes, es- tos fármacos están contraindicados en los casos en que aparecen o existen sospechas pendientes de confirma- ción. En cuanto a la posibilidad de que ellos mismos promuevan su aparición, no existen conclusiones defini- tivas. Cuando se administran en asociación al parecer no aumentan el riesgo de aparición de cáncer de mama, endometrio y ovario; por el contrario, muchos informes muestran una reducción del riesgo. Pueden favorecer el desarrollo, por otra parte muy infrecuente, de ciertos tu- mores hepáticos que, aunque benignos, originan fuertes hemorragias.
+3.4. 
+Otras reacciones
+  Pueden incrementar la concentración de colesterol en la bilis y provocar colelitiasis; en ocasiones reducen la ab- sorción de folatos. Algunas pacientes muestran cierta re- sistencia a la ovulación espontánea, una vez interrumpida la administración; puede ser necesario utilizar clomife- no, gonadotropinas o bromocriptina si hay hiperpro- lactinemia. El 5 % presenta depresión y trastornos psí- quicos que mejoran con 40-50 mg/día de piridoxina.
+  La ingestión de anticonceptivos en caso de embarazo puede ocasionar teratogenia en forma de virilización, criptorquidia o deformación de extremidades.
+
+3.5. Interacciones
+  a) De carácter farmacocinético. Dada la tendencia a reducir al máximo la dosis de estrógeno para evitar sus complicaciones, aumenta el riesgo de que una interacción que disminuya el nivel plasmático reste eficacia al pro- ducto. La biodisponibilidad de los productos orales es muy variable de una persona a otra, debido a la abun- dante metabolización en el intestino y el hígado; esta va- riabilidad se traduce en la individualidad con que se pue- den presentar las interacciones.
+  La vitamina C facilita la absorción de los estrógenos al competir con ellos en reacciones de conjugación a ni- vel intestinal. En general incrementan la metabolización de los estrógenos por fenómenos de inducción y redu- cen su concentración: la rifampicina, el fenobarbital, la primidona, la fenitoína y la carbamazepina. La modifi- cación de la flora intestinal con antibióticos puede re- percutir sobre los fenómenos de hidrólisis de glucuró- nido y sulfato de etinilestradiol, alterando la circulación enterohepática y reduciendo sus niveles plasmáticos; la relevancia de este fenómeno en la clínica anticonceptiva es discutible.
+  Los anticonceptivos orales pueden inhibir el metabo- lismo oxidativo de los antidepresivos tricíclicos, algunos
+a-bloqueantes, el diazepam y la cafeína, y aumentar la
+conjugación con glucurónido del oxazepam y el lora- zepam.
+  b) De carácter farmacodinámico. Las modificaciones metabólicas explicadas anteriormente pueden alterar la acción farmacológica de los fármacos anticoagulantes, hipoglucemiantes, diuréticos y antihipertensores.
+
+B. OTROS ANTICONCEPTIVOS FEMENINOS
+
+1. Análogos de la GnRH
+  Como se explica en el capítulo 49 (v. II, B, 3), modifi- caciones de la molécula de GnRH originan sustancias que se comportan como antagonistas y como agonistas. La ac- ción mantenida de los agonistas llega a desensibilizar los
+
+
+
+receptores de GnRH, tanto hipofisarios como gonadales, provocando así inhibición de la liberación de gonadotro- pinas e, incluso, interfiriendo en la acción de éstas sobre la esteroidogénesis gonadal. Se comprende, pues, que puedan presentar actividad anticonceptiva.
+  Los fármacos ensayados en la clínica humana pertene- cen al grupo de los agonistas (superagonistas). Su efica- cia en la práctica, sin embargo, es muy limitada, como se explica en el capítulo 49 (v. II, B, 6).
+
+2. Antagonistas de la progesterona
+  Se ha demostrado la eficacia de la mifepristona (v. VI), administrada una vez al mes hacia el final de la fase lútea. Su posible acción luteolítica, anteriormente co- mentada, y la acción antigestágena manifestada sobre el endometrio provocan una clara incapacidad para que el cigoto pueda anidar en el útero, por lo que su acción se convierte en abortiva.
+
+3. Gestágeno incorporado en dispositivos intrauterinos
+  Los dispositivos intrauterinos ocasionan una respuesta inflamatoria del endometrio que impide la implantación del óvulo ya fecundado; a ello se suma la acción fagocí- tica de células plasmáticas y macrófagos capaces de fa- gocitar el blastocisto y los espermatozoides. La adición de gestágenos al dispositivo intrauterino interfiere en la adecuada respuesta hormonal del endometrio, incremen- tando así la inviabilidad de la posible concepción. En el caso de que se incluya cobre, este producto favorece la respuesta inflamatoria.
+  Entre las reacciones adversas más frecuentes destacan: hemorragias, dolor, infección pélvica, obstrucción tubá- rica y, en caso de embarazo por fallo del sistema (1,5-4 %), aborto espontáneo. Posibles causas de hemorragia pue- den ser: aumento de actividad fibrinolítica, alteración de los vasos o aumento de la actividad de los mastocitos con liberación local de heparina. La adición de gestáge- nos puede reducir el riesgo de hemorragias. En cuanto a las infecciones pélvicas, su frecuencia es 4,5 veces mayor que en mujeres que toman anticonceptivos orales; los gérmenes responsables suelen ser: Neisseria gonorrhoeae, clamidias, Escherichia coli, Bacteroides, Peptostreptococ- cus y, raramente, Actinomyces. También se pueden usar anillos intravaginales que liberan gestágenos solos o aso- ciados, que pueden extraerse sin riesgo antes del coito, aunque este método es el menos seguro de los hormo- nales.
+
+4. Agentes espermicidas
+  Se utilizan solos o incorporados a diafragmas vagina- les. Los más utilizados son el nonoxinol-9 (nonilfenoxi- polioxietilén-etanol), el cloruro de benzalconio y otros agentes surfactantes o iónicos. Los espermicidas pene-
+
+tran la membrana lipoproteica del espermatozoide, au- mentan su permeabilidad y provocan pérdida irrever- sible de su motilidad. Disminuyen la incidencia de infec- ciones vaginales. Pueden ocasionar reacciones alérgicas locales e irritación. Se ha descrito un ligero aumento del riesgo de anomalías congénitas, pero este extremo está sin confirmar.
+
+X. ANTICONCEPTIVOS MASCULINOS
+
+
+
+1. Fármacos con acción hormonal
+  La administración de testosterona exógena suprime la secreción de gonadotropinas en el hombre e inhibe la es- permatogénesis; al mismo tiempo, contrarresta la inhibi- ción de la secreción de testosterona endógena, evitándose así la pérdida de la libido y de la potencia. La acción an- ticonceptiva requiere una inhibición completa de la es- permatogénesis: azoospermia; hasta el momento, esto no se consigue en todos los casos. Se utiliza el enantato de testosterona, en dosis de 200 mg IM a la semana, o dosis equivalentes de buciclato (600 mg/12 semanas) que no al- teran la libido ni la potencia, aumentan el peso, favorecen el desarrollo de acné y aumentan los niveles de estradiol que, en ocasiones, pueden producir ginecomastia. Tam- bién se utiliza la asociación del enantato de testostero- na (200-500 mg) con el gestágeno acetato de medroxi- progesterona (150-200 mg), en inyección mensual. Esta asociación puede producir acné, ginecomastia, aumento de peso y reducción de la libido. La eficacia de estos mé- todos para alcanzar azoospermia es de alrededor del 50%. Los análogos superagonistas de GnRH, aunque efica- ces para reducir la secreción de testosterona (v. cap. 49, II, B, 6), no consiguen inhibir adecuadamente la esper-
+matogénesis.
+
+2. Fármacos no hormonales
+  El gossypol es un naftalfenol que se encuentra en la planta de algodón y actúa sobre los tubos seminíferos. Administrado a la dosis de 20 mg durante 60 días, pro- duce reducción del número total de espermatocitos (pero no azoospermia) y pérdida de la motilidad; una vez con- seguida la reducción de espermatozoides, se puede dis- minuir la dosis. La acción es reversible al cabo de un año de tratamiento, pero puede no serlo después de 2-3 años, lo que limita su uso práctico. Produce fatiga, pérdida de la libido, reducción de apetito e hipopotasemia, que al pa- recer alcanza casi el 5 % de los tratados debido a la pér- dida renal de potasio.
+  Otros fármacos en fase de ensayo son los ácidos inda- zolcarboxílicos, como la lonidamina, que afectan el epi- telio germinal del testículo de manera selectiva.
+  Los métodos de inmunización pasivos, en forma de anticuerpos específicos desarrollados frente a la FSH o frente a diversos componentes del testículo o del propio
+
+
+
+espermatozoide, presentan dificultades de diverso tipo en la práctica, por lo que resultan pocos útiles en el momento actual.
+
+BIBLIOGRAFÍA
+
+Arnold AP, Gorski RA. Gonadal steroid induction of structural sex dif- ferences in the central nervous system. Annu Rev Neurosci 1984; 7: 413-442.
+Bachrach BE, Smith EP. The role of sex steroids in bone growth and development: evolving new concepts. Endocrinologist 1996; 6: 362-
+368.
+Bagatell CJ. Androgens in men. Uses and abuses. N Engl J Med 1996; 334: 707-713.
+Bardin CW. The anabolic action of testosterone. N Engl J Med 1996; 335: 1-7.
+Benagiano G, Rimiero FM. Long acting contraceptives: present status.
+Drugs 1983; 25: 570-609.
+Buckley MMT, Goa KL. Tamoxifen: a reappraisal of its pharmacody- namic and pharmacokinetic properties and therapeutic use. Drugs 1987; 37: 451-490.
+Cofrancesco Jr J, Dobs AS. Transdermal testosterone delivery sys- tems. Endrocrinologist 1996; 6: 207-213.
+Dorflinger LJ. Relative potency of progestins used in oral contracepti- ves. Contraception 1985; 31: 557-570.
+Furr BJA, Jordan VC. The pharmacology and clinical use of tamoxi- fen. Pharmacol Ther 1984; 25: 127-205.
+Horowitz KB, Wey LL, Sedlacek SM, d’Arville CN. Progestin action and progesterone receptor structure in human breast cancer: a re- view. Recent Progr Horm Res 1985; 41: 249-317.
+Knobil E, Neill JD, eds. The Physiology of Reproduction, vols. 1 y 2.
+Nueva York: Raven Press, 1988.
+Kuhl H. Comparative pharmacology of newer progestogens. Drugs
+1996; 51: 188-215.
+Labrie F, Dupont A, Belanger A. Complete androgen blockade for the treatment of prostate cancer. En: De Vita VT, Hellman S, Rosenberg SA, eds. Filadelfia: JB Lippincott, 1985.
+Lindsay R, Bush TL, Grady D, Speroff L, Lobo R. Estrogen repla-
+
+cement in menopause. J Clin Endocrinol Metab 1996; 81: 3829- 3838.
+Lonning PE, Johannessen DC. Treatment of breast cancer with aroma- tase inhibitors. Drugs Today 1991; 27: 117-132.
+Manni A. Pharmacologic manipulation of steroid hormones. Adjunc- tive therapy in cancer of the breast. Endocrinol Metab Clin North Am 1991; 20: 825-844.
+Marx J. Snaring the genes that divide the sexes for mammals. Science
+1995; 269: 1824-1833.
+Matlin SA. Prospects for pharmacological male contraception. Drugs
+1994; 48: 851-863.
+Niechslag E. Testosterone replacement therapy: something old, so- mething new. Clin Endocrinol 1990; 45: 261-262.
+Pennisi E. Drug’s link to genes reveals estrogen’s many sides. Science
+1996; 273: 1171.
+Qian SZ, Wang AG. Gossypol: a potential antifertility agent for males.
+Annu Rev Pharmacol Toxicol 1984; 24: 329-360.
+Riggs BL. Tibolone as an alternative to estrogen for the prevention of postmenopausal osteoporosis in selected postmenopausal women. J Clin Endocrinol Metab 1996; 81: 2417-2418.
+Rittmaster RS. Finasteride. N Engl J Med 1994; 330: 120-125.
+Santen RJ. Editorial: Long term tamoxifen therapy: can an antagonist become an agonist? J Clin Endocrinol Metab 1996; 81: 2027-2029.
+Schwartz JI, Van Hecken A, De Schepper PJ, et al. Effect of MK-386, a novel inhibitor of type 1,51-reductase, alone and in combination with finasteride, on serum dihydrotestosterone concentrations in men. J Clin Endocrinol Metab 1996; 81: 2942-2947.
+Shenfield GM, Griffin JM. Clinical pharmacokinetics of contraceptive steroids: an update. Clin Pharmacokin 1991; 20: 15-37.
+Silvestre L, Dubois C, Renault M, et al. Voluntary interruption of preg- nancy with mifepristone and a prostaglandin analogue N Engl JMed 1990; 322: 645-648.
+Sinclair AH. New genes for boys. Am J Hum Genet 1995; 57: 998- 1001.
+Snyder PJ. Clinical use of androgens. Annu Rev Med 1984; 35: 207-217. Taxel P, Prestwood KM. Estrogen for the prevention and treatment of osteoporosis: intervention in the older woman. Endocrinologist
+1996; 6: 179-185.
+Tenover JS. Prostate, petes and pimples. The potential medical uses of ste- roid 55-reductase inhibitors. Endocrinol Metab Clin North Am 1991;
+
+
+
+
+
+

@@ -1,0 +1,265 @@
+﻿LA ENSEÑANZA DE UNA EPIDEMIOLOGÍA CRÍTICA DESDE UNA PERSPECTIVA BIOÉTICA
+
+
+
+
+
+
+
+
+
+
+
+
+JORGE MARIO CAMACHO CARVAJAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       UNIVERSIDAD EL BOSQUE PROGRAMA DE MAESTRÍA EN BIOÉTICA
+    ÁREA DE INVESTIGACIÓN: BIOÉTICA Y EDUCACIÓN LÍNEA DE INVESTIGACIÓN: BIOÉTICA PARA LA EDUCACIÓN
+BOGOTÁ, D.C.
+2019
+
+LA ENSEÑANZA DE UNA EPIDEMIOLOGÍA CRÍTICA DESDE UNA PERSPECTIVA BIOÉTICA
+
+
+
+
+
+
+
+
+JORGE MARIO CAMACHO CARVAJAL
+Trabajo de grado para optar al título de Magíster en Bioética.
+
+
+
+
+
+
+
+
+
+       Tutor/es FELIPE RAMÍREZ GIL
+MARÍA YANETH PINILLA
+
+
+
+
+
+
+
+
+
+       UNIVERSIDAD EL BOSQUE PROGRAMA DE MAESTRÍA EN BIOÉTICA
+    ÁREA DE INVESTIGACIÓN: BIOÉTICA Y EDUCACIÓN LÍNEA DE INVESTIGACIÓN: BIOÉTICA PARA LA EDUCACIÓN
+BOGOTÁ, D.C.
+2019
+
+NOTA DE ACEPTACIÓN
+
+
+
+
+
+
+
+
+
+
+
+Firma del tutor
+
+
+
+
+
+Firma de Jurado
+
+
+
+
+
+Firma de Jurado
+
+
+
+
+Bogotá, D.C, Junio de 2019
+
+Contenido
+Agradecimiento	5
+Dedicatoria	6
+Resumen	7
+Introducción	8
+El rey es el Número	10
+Educación Trasformadora	16
+Bioética, la conexión	19
+Conclusiones	23
+Bibliografía	26
+
+Agradecimiento
+Este ensayo es fruto del esfuerzo y dedicación de los actores del proceso educativo. Agradezco sinceramente a todos los docentes de la Maestría en Bioética que aportaron con sus enseñanzas y dedicación para buscar el cambio social bajo una concepción bioética multicultural. Un agradecimiento muy especial a los docentes Felipe Ramírez Gil y María Yaneth Pinilla quienes incansablemente aportaron al desarrollo del contenido y a mi crecimiento personal y profesional.
+
+Dedicatoria
+Este ensayo está dedicado a las personas más importantes de mi vida, que han hecho que sea una persona íntegra, llevando un camino de verdad a través de la educación. Agradezco a la vida por haberme guiado a la Bioética, para hacerla parte de mi existencia y de mis actos. Nada de esto podría ser real sin la incondicionalidad y dedicación de mis padres Fabio y Miriam, de mi esposa e hijas fuentes de energía constante para tener esperanza en la humanidad, a mi hermano y mis amigos incondicionales.
+
+Resumen
+
+Este ensayo surge de la preocupación por la enseñanza de la epidemiología y como esta puede ser una vía de conocimiento a nivel crítico y social, en tanto es necesaria en los procesos de investigación en comunidades. La enseñanza de la epidemiología debe trascender las profundidades teóricas de sus procesos y como se enseña en las aulas de clase hoy en día en el ámbito de la educación médica en el pregrado, teniendo en cuenta la preocupación por los Determinantes Sociales de la Salud, lo que permitiría migrar hacia los problemas sociales relevantes y forjar en las aulas de clases las oportunidades de observar, actuar y accionar movimientos intelectuales, críticos, reflexivos y sociales en torno a las problemáticas de las poblaciones, que no pueden ser únicamente estudiadas de una manera estadística, es ahí donde la Bioética juega un papel fundamental dado la importancia del surgimiento de una Bioética social y la deliberación como acto propio de los seres humanos, en los cuales se pueda migrar a la diversidad de conocimiento, que genere libertades, pero en el fin último, un cambio de pensamiento que pueda forjar personas con valores y fundamentos éticos, que se den cuenta de la problemática de su especie, su entorno y puedan mediante los procesos de enseñanza guiados por uno o varios modelos pedagógicos interrelacionados con los currículos, puedan dar respuesta e impacto en los estudios epidemiológicos, donde la comunidad y su entorno es fundamental para el crecimiento justo de la sociedad.
+Palabras claves: Educación, Enseñanza, Epidemiología, Bioética social, Deliberación.
+
+
+
+
+
+.
+
+Introducción
+El desarrollo de la investigación epidemiológica en los programas de medicina es un hecho irrefutable que cobra importancia en la enseñanza y formación de los médicos en pregrado, la necesidad de aumentar la producción científica de las universidades y especialmente en el área de la salud, teniendo como metas que aporten y ayuden a la generación de conocimiento, cabe replantearse las consideraciones sociales en el proceso salud-enfermedad-atención- cuidado, desde la propuesta de los Determinantes Sociales de Salud (DSS) definida por la Organización Mundial de la Salud (OMS) como, “Las circunstancias en que las personas nacen, crecen, trabajan, viven y envejecen, incluido el conjunto más amplio de fuerzas y sistemas que influyen sobre las condiciones de la vida cotidiana” ( 2018, p.1).
+En la enseñanza de la epidemiología se observan dificultades para evaluar las inequidades en salud de la población, las cuales son importantes en tanto determinan la vida de las personas y las comunidades. Esta dificultad es el reflejo de los modelos de enseñanza epidemiológica fuertemente anclados en el modelo positivista del conocimiento. Por tanto se pretende desde una perspectiva crítica determinar la falta de argumentación social y mayor acercamiento al proceso de la investigación cualitativa.
+La educación médica requiere un nuevo proceso de pensamiento, dado por el cambio en las dinámicas poblacionales, la aparición de nuevas enfermedades, todo en el marco de procesos capitalistas de las sociedades, donde el resultado numérico es el rey. La preocupación de un modelo que se limita a enfocarse en las ciencias naturales con énfasis en procesos biológicos, deja atrás poblaciones afectadas desde sus raíces culturales y no contribuyen a mejorar las condiciones de vida de las comunidades.
+Desde un enfoque bioético visibilizo la vulnerabilidad social de las comunidades, teniendo presente que el modelo cuantitativo no logra recoger las variables sociales requeridas. Según Velasco (2018), se debe “tener en cuenta cómo esos factores afectan de forma diferente a hombres y mujeres y, a menudo, generan discriminación, desigualdades e inequidad que repercute directamente sobre el proceso de salud (p. 5).
+Se pretende trasmitir las consideraciones necesarias para el mejoramiento de la enseñanza de la epidemiología desde una perspectiva de DSS. Teniendo en cuenta que la epidemiología
+
+debe brindar un marco de mayor comprensión a los problemas de salud, donde la inequidad, la vulnerabilidad de las poblaciones determinan el proceso de salud integral, esto derivado de procesos epidemiológicos enfocados en los números y no en el factor social de las comunidades.
+Se propone dimensionar cambios, tales como la inmersión de la Bioética Social en los procesos de enseñanza a nivel curricular, de igual manera mejorar el proceso de las investigaciones epidemiológicas mediante el método deliberativo propuesto por la bioética, que permitan cambios en la forma de pensar el proceso de salud - enfermedad desde una perspectiva diferente, cambiando el modelo positivista desde el currículo, dado que se tendrá que repensar las necesidades de las poblaciones y los cambios de pensamiento deberán ser desde la profundidad teórica que se encuentran en las aulas de clases, desde una concepto crítico y social que fomente e impacte a la población en general estudiantes, docentes, pacientes, funcionarios y comunidades.
+El proceso se llevará a cabo mediante la base conceptual de la educación como marco de partida, determinar las características de la enseñanza clásica de la epidemiología y como se podrá migrar hacia el aspecto critico de una disciplina que lo requiere, permeado por una Bioética Social argumentada por medio de la deliberación como base del cambio de pensamiento en las aulas de clase y su relación con los estudiantes, donde la construcción de pensamiento pueda dar frutos y cambios en la forma de enseñar y trasmitir estas variables sociales.
+Reconstruir desde un concepto social, la forma como el positivismo ha marcado la educación médica en Colombia. Revisar desde una perspectiva social la formación de capital humano y el sentido social del estudiante de medicina en las aulas. Partiendo que la epidemiología como disciplina, debe buscar en sus primeras fases de su proceso evolutivo la esencia de su objeto que son las poblaciones, como el control y desarrollo de las enfermedades en los grupos humanos, enmarcadas en una historia natural y social de la enfermedad donde según Colimon (2015), el profesional de la salud necesita familiarizarse con el enfoque natural, determinado por cambios biológicos y fisiológicos de las enfermedades, así mismo a nivel social para mejorar el desempeño de la promoción de la salud y prevención de la enfermedad.
+
+Retomare varios de los conceptos de la epidemiología para mostrar las virtudes de una disciplina tan necesaria para el estudio de las enfermedades en las comunidades. Es necesario que la trasmisión del conocimiento hacia el estudiante de medicina pueda ver las diferentes vertientes sociales, para trascender en el pensamiento crítico y se logre observar las bondades de las herramientas que la epidemiología brinda, para un mejor uso en favor de las comunidades como un todo. Teniendo en cuenta estas consideraciones realizo la siguiente pregunta de investigación ¿Cuáles son las perspectivas sociales que se deben replantear en la enseñanza de la epidemiologia desde un concepto crítico partiendo de la bioética?
+El rey es el Número
+La epidemiología según Colimon es “El estudio de la distribución de frecuencia de las enfermedades o eventos y fenómenos de la salud en grupos sociales y los factores que influyen sobre la ocurrencia y variación de esta distribución” (2018, p.3). Los usos más relevantes de la epidemiología son:
+• Medir la naturaleza y magnitud de los problemas causados por las enfermedades en la comunidad.
+• Aclarar el enfoque clínico de la enfermedad, estudiándola a través de su historia natural y social.
+• Estudiar la etiología de la enfermedad.
+• Predecir el curso de las enfermedades tanto comunitarias como individuales, mediante el enfoque probabilístico.
+• Obtener una comprensión más profunda de los procesos biológicos.
+• Vigilar la patología de un área y los programas instaurados por los organismos sanitarios, y contribuir a los aspectos de planificación en salud para su evaluación. (Colimon, 2018, p.3).
+El contexto histórico de la enseñanza médica tradicional es un importante camino que se debe tener en cuenta para posteriormente hacer un análisis de la enseñanza actual de la epidemiología médica. En Colombia según Ospina (2000) los problemas de salud que han afectado a los colombianos en su proceso historio no fueron nada distintos a los existentes en la colonia, derivaban de los servicios públicos básicos, acueductos, alcantarillados, los cuales eran precarios, la desnutrición y las enfermedades infectocontagiosas eran las de mayor
+
+prevalencia, que la falta de cubrimiento de las necesidades básicas. Han sido históricamente los problemas más comunes a nivel social y se podría considerar que continúan vigentes en la actualidad. Estos problemas de las comunidades no fueron totalmente enfocadas por el método científico, en relación a los procesos médicos se migraron las propuestas positivistas de otros países.
+En el mundo se introdujo la reforma que se logró penetrar en nuestro medio, ya se iniciaba la reforma de Flexner en 1908, según Ospina (2000). Este modelo Flexeriano permitió el desarrollo científico a partir de la estructuración de los departamentos de ciencias básicas y el estudio de ciencias biológicas como parte fundamental en los procesos de la enfermedad y sus causas. Este es el legado anglosajón a nuestro proceso de educación médica, permitió la reorganización de los hospitales alrededor de la universidad, sin embargo este proceso, convirtió la educación y la práctica médica en un asunto mecano-positivista el cual lo condujo a procesos técnicos.
+Este modelo positivista fue el que permeó la educación médica en nuestro contexto colombiano, sin embargo, se olvidó por completo que la ciencia y tecnología no son sinónimos, y que la primera humaniza la segunda. Este modelo descuido los aspectos socioculturales del hombre y su relación con la enfermedad, posteriormente se hizo necesario un cambio que tuviera en cuenta los factores sociales y ambientales. De acuerdo a (Ospina, 2000), este modelo positivista origino una educación más favorable a los conceptos económicos de las potencias dominantes, lo cual favoreció a comunidades que encajaban en este proceso de origen capital, por el contrario las comunidades más vulnerables fueron excluidas por este modelo. Esto llevo a una reflexión de la historia de la educación médica en nuestro país, lo cual es necesario para evaluar las necesidades vivas de nuestra población y por ende migrar a un modelo propio latinoamericano.
+Partiendo desde estas consideraciones se puede inferir que la razón metodológica de la enseñanza de la epidemiología se basa en procesos enfocados a nivel biológico y positivista. El modelo propio curricular de la educación médica Según Quintero et al. (2017) “Se concibe en términos de cursos y currículo, tanto el explícito como el oculto, el cual ejerce un influencia muy significativa” (p.13). Este modelo epidemiológico el cual se desarrolla bajo estándares estadísticos probabilísticos que con frecuencia son tomados de poblaciones
+
+muestrales, a partir de las cuales, con frecuencia se establecen consideraciones para toda una población, con problemas derivados de análisis numéricos, y por lo tanto, quedarían espacios donde los números no son el total de una población donde se pretende según Estrada y Valencia (2015) “Escuchar las voces silenciadas – la voz del otro” (p.1).
+Según Estrada y Valencia:
+
+Su interés primordial es el de discutir cómo hacer viva hoy una teoría crítica que devele las injusticias socioeconómicas, así como de raza, etnia o género para transformarlas y, de alguna manera, permitirnos pensar, soñar y construir un mundo mejor basado en principios de autodeterminación democrática, justicia y libertad (2015, p.2).
+Es necesario reflexionar sobre la importancia de definir, ¿qué modelo de educación necesita la enseñanza de la epidemiología? y por qué es necesario. Por tal motivo se necesita una reforma estructural que dé cuenta de las problemáticas sociales y se dé respuesta a estas consideraciones y se puedan replicar en las aulas de clases a nivel micro curricular.
+Teniendo en cuenta estas consideraciones basadas en juicios de una epidemiologia probabilística, se debe replantear la necesidad de las comunidades en un contexto social, que mejoren en la vida real de su continuo movimiento con la salud. Desde una teoría crítica de las investigaciones en salud la cual debe tener un proceso riguroso del estudio metodológico, de los DDS de cada comunidad en estudio y como se realiza el proceso deliberativo por un método bioético en las aulas de clase. Es necesario replantear los conceptos curriculares de la enseñanza de la epidemiologia en el pregrado y la proyección de los docentes en investigación en salud, partiendo de la trasmisión de conocimientos que puedan mejorar las condiciones y usos de la epidemiología, con la base de principios tales como la justicia y la libertad, y redefinir el modelo pedagógico el cual integra procesos conductistas y tradicionalistas , se debe migrar hacia un modelo de construcción.
+Según Estrada y Valencia (2015) refieren que:
+
+También existe una preocupación real acerca de considerables estudios basados en descripciones e interpretaciones que no trascienden la teoría, no pasan a la práctica, no plantean el aporte a la resolución de los problemas sociales y, en lugar de esto, fortalecen colectivos alienantes que no ayudan a aliviar el sufrimiento de la humanidad (p.3).
+
+Es uno de los problemas fundamentales de los conceptos epidemiológicos, donde se plantean determinaciones sociales a comunidades teniendo resultados de probabilidad, que dejan atrás problemas de valores sociales y dificultades reales de la población, por tal motivo el planteamiento debe migrar bajo una perspectiva educativa de la enseñanza de la epidemiologia a nivel crítica, donde surge como dice Estrada (2015), “La trascendencia de Paulo Freire que ocupa un lugar central y marca un referente imprescindible a la hora de reconstruir el pensamiento emancipador” ( p.3).
+Según Estrada y Valencia (2015) Los rasgos de un pensamiento crítico emancipador cobran vigor en la medida en que posibiliten la orientación de prácticas transformadoras, la enseñanza en las aulas de clase deben fortalecer los cambios de pensamiento y forjar en los estudiantes cambios que posibiliten el análisis de situación de salud - enfermedad de acuerdo a la situación social de la comunidad. Esto podrá dar respuesta a las investigaciones que realmente determinen la situación de la comunidad y el estudiante pueda vivir esta situación con una mejor interacción con las personas afectadas.
+La epidemiologia debe tener la capacidad de reorientar la problemática social en los procesos de salud, debemos migrar a construir dependiendo de las dinámicas sociales a la resolución de problemas de salud que se pueden redefinir desde contenidos curriculares en las aulas de clase. Los contenidos curriculares deben ser amparados por el modelo pedagógico constructivo, el cual debe reorientar las formas de adquirir conocimiento de lo estudiantes y proponer procesos de reconstrucción de conceptos críticos a nivel social. Con esto se busca que el estudiante pueda entender y comprender los aspectos sociales reales de la población y pueda usar las herramientas epidemiológicas de una mejor manera.
+Se reconoce que el problema social no es totalmente representado por los estudios epidemiológicos, según sus características técnicas que no trascienden al total de la población. Se debe pensar en las dinámicas sociales del estudio de dichas poblaciones, según el profesor Colimon (2018) “La epidemiologia trata de explicar el problema de la enfermedad como un proceso, con una secuencia de etapas que no se encuentran demarcadas en un sentido estricto” (p.18).
+
+Es pertinente de esta manera poder definir los problemas derivados de la enseñanza de la epidemiologia y su relación desde los DSS y enfermedad, para poder establecer si el enfoque epidemiológico de investigación médica es la necesaria para evaluar los problemas sociales de las comunidades. Estas prácticas de generación científica no son lo suficientes para dar respuesta a los problemas dinámicos de una población plural y multicultural.
+Es necesario visualizar los cambios que se deben replantear desde las necesidades de las poblaciones y como la educación médica se muestra para trasformar la epidemiologia que se encuentra inmersa en esta educación. Se requiere un cambio de pensamiento que interaccione con los problemas de las poblaciones y las personas, y de esta manera genere resultados para las comunidades en su cotidianidad.
+Según el documento de Recomendaciones para la trasformación de la Educación Médica en Colombia, “Es indudable que el sistema de salud requiere cambios fundamentales. La sociedad en general percibe que la atención que se recibe no es la adecuada y tanto médicos como pacientes experimentan un alto grado de frustración” (Quintero et al, 2017. p.5). Es necesario que se interprete que el cambio de la enseñanza de la epidemiología debe ser trasformadora a nivel pedagógico, utilizando un modelo de construcción, partiendo de los problemas de los DSS, es por esto que la reflexión implica una restructuración fundamental del pensamiento curricular en la educación médica, construida desde la concepción biologista de la salud y la enfermedad.
+La enseñanza de la epidemiología se encuentra estructurada desde la educación médica, se debe migrar en la práctica de la enseñanza a construir un modelo curricular que en palabras de (Quintero et al, 2017) afirma que, “el currículo debe integrar lo socio - humanístico, la ética, la salud pública y los sistemas de salud a la enseñanza de la medicina, e incorporar en el trascurricular la experiencia clínica y comunitaria temprana basada en la atención primaria renovada” (p.14). El proceso de enseñanza debe trascurrir de lo macro al microcurriculo con un enfoque pedagógico establecido bajo determinantes sociales que alimenten la docencia y la formación del estudiante.
+Es fundamental revisar la propuesta de Determinantes Sociales de Salud desde la iniciativa y reglamentación del Plan Decenal de Salud Pública (PDSP) 2012-2021, donde uno de sus
+
+principales objetivos es “afianzar el concepto de salud como el resultado de la interacción armónica de las condiciones biológicas, mentales, sociales y culturales del individuo, así como con su entorno y con la sociedad, a fin de poder acceder a un mejor nivel de bienestar como condición esencial para la vida. (PDSP, 2012, p.12).
+Este concepto del PDSP es relevante para los procesos epidemiológicos, dado que evidencia la importancia de la trasmisión de conocimiento desde estas perspectivas. Se considera ahondar más profundamente sobre la comunidad, las enfermedades nos afectan en sociedad, en familia y verlas de una manera aislada podría sesgar la verdadera importancia de las voces de las comunidades. Al trascender en las investigaciones, siempre los datos los ponemos en primera línea de batalla para nuestras conclusiones, sin embargo, que pasaría si ponemos la comunidad y su voz como principal, las conclusiones podrían variar, esta es una de las razones de cambio que se deben reconstruir en las aulas de clases y en los discursos de construcción pedagógica.
+Otro aspecto que se debe cambiar el discurso y los que se debería interpretar una epidemiologia critica, estaría en relación con el enfoque relacionado con la historia natural y social de la enfermedad, es por esto que me refiero al cambio, como diría Krieger
+Estimulado por la necesidad de reconocer y documentar el amplio espectro de los determinantes de la salud, desde el nivel micro en que operan los factores biológicos individuales hasta los niveles macro que expresan las condiciones sociales en que viven las poblaciones, dando nacimiento a la llamada “epidemiología social”. (2002, p.1)
+Es necesario que el concepto social desde la perspectiva de los DSS sean el escenario propicio para interpretar las necesidades de la población y por ende, el estudiante comprenda y aplique las herramientas para la búsqueda activa de la interacción con las personas asociado al uso de la epidemiología clásica en busca de favorecer a la comunidad y no al análisis unidireccional de los datos estadísticos.
+La responsabilidad social que enmarca la enseñanza de una disciplina trasversal en la formación de un médico, es crucial y tiene una relación estrecha con la investigación, debe ser enmarcada por la institución de educación superior en su proceso misional y por tal motivo se afirma según Gual (2012) que “los principios de responsabilidad social deberían
+
+estar incorporados en las competencias y éstas deberían ser formuladas o reformuladas en consecuencia” (p.13).
+Educación Trasformadora
+La interacción de la educación como un todo dentro del camino de la enseñanza, enmarca diferentes cursos que se deben contemplar a la hora de discernir la base que pudiera integrar el componente educativo para el mejoramiento de la enseñanza de una disciplina. En primera medida sería prudente definir el rol del maestro en el proceso educativo y sus características técnicas. Según Ranciere (2007) “Enseñar era, al mismo tiempo, trasmitir conocimientos y formar espíritus, conduciéndolos según su trasmisión, según una progresión ordenada, de lo más simple a lo más complejo” (p.22).
+Teniendo en cuenta que el maestro debe reconocer la distancia entre la materia de la cual trasmite su conocimiento y las características intrínsecas de cada estudiante. Así mismo debe reconocer las diferencias entre aprender y comprender. Es preponderante que el sistema educativo se fortalezca y armonice los modelos pedagógicos de enseñanza y su trasmisión didáctica, para formar un discurso que encamine a los maestros a una mejor correlación social con los estudiantes y se pueda robustecer la relación de la educación con un pensamiento crítico y reflexivo, en el cual los estudiantes puedan encontrar una respuesta a las diversas preguntas que surgen en el ámbito académico, con el fin de analizar la problemática social de la comunidad. Según Freire (1993) “La necesidad ontológica de la educación, de formación, a la que la ciudad, que se torna educativa justamente en función de esa necesidad, se obliga a responder; esa necesidad es universal” (p.26).
+La población forma su educación de acuerdo a sus vivencias culturales, por la necesidad de aprender, comprender y demás acciones que una comunidad experimenta en su cotidianidad. La sociedad misma es formadora de su educación y parte de sus procesos culturales además de su educación política, según Freire afirma que (1993) debido a procesos interculturales que existen y presentan diferentes divisiones secundarias tales como raza, etnia, genero, todas estas a su vez producen discriminación tanto como resistencia. La educación sin importar el modelo pedagógico que delimite la enseñanza en la academia, debe velar por que las diferencias existentes entre las comunidades sean discutidas y que la balanza de la justicia brinde igual de oportunidades a la población.
+
+Esta clase de educación que brinda un concepto de libertad de pensamiento está dispuesta a cumplir su objetivo si aumenta y permite el continuo proceso de calidad, el cual es el mejor camino para relacionar la diversidad, las diferencias culturales por medio del aprendizaje de la comunidad guiada por la educación. El mejor proceso educativo esta guiado por un ética democrática en cuanto el educando y el educador puedan ofrecer sus puntos de vista particulares con respeto de la diversidad de opinión, (Freire, 1993).
+Para que la educación permee a la comunidad académica debe permitir que se critique ella misma constructivamente por una comunidad participativa, la cual obligara al progreso basado en la coherencia y favorecerá en si misma a la educación y a su práctica. Todo enmarcado en el ejercicio del derecho a la participación por parte de todos los actores que están directa o indirectamente vinculados con el quehacer educativo (Freire, 1993). La fortaleza educativa está en estrecha relación con la intervención conjunta del educador y el educando. Las problemáticas de la comunidad a nivel social deben ser una prioridad para la construcción de conocimiento, enfocado por una educación multicultural que entienda la necesidad de las comunidades, y que pueda ver con neutralidad y sin coacción la posibilidad de decidir bajo unas problemáticas objetivas, como optar por ayudar a la comunidad por medio de la educación. Los educandos deben forjar sus mentes abiertas para crear una mentalidad impregnada de sueños que se puedan reflejar en acciones a favor de la sociedad.
+La trasformación de la educación en área de la epidemiología debe estar forjada por el reconocimiento que el estudiante otorgue a la importancia de la trasformación social de los conceptos en investigación. Por tal motivo el docente debe estar en la capacidad de armonizar las problemáticas sociales con el método cualitativo social, el cual pueda orientar los usos de la epidemiología. Según Ezequiel 2011 considera que recientemente, la investigación social es un proceso que está inmerso en una sociedad. La investigación social es una realidad, en la cual todavía existe un largo camino por recorrer, donde se debe reconocer los procesos básicos tales como, la realidad de los hechos, fenómenos y procesos sociales, y del conjunto de relaciones que se dan entre ellos. Según (Ezequiel, 2011) “admitir la posibilidad de tener un cierto conocimiento de los mismos, mediante métodos, técnicas y procedimientos adecuados para esos propósitos” (p.24).
+
+Toda investigación supone un proceso planeado, no errático, en el que se sabe lo que se busca, utilizando métodos, técnicas y procedimientos adecuados. (Ezequiel 2011) afirma que:
+La investigación social es el proceso que, utilizando el método científico, permite obtener nuevos conocimientos en el campo de la realidad social (investigación pura o básica) o bien estudiar una situación para diagnosticar necesidades y problemas a efectos de aplicar los conocimientos con fines prácticos investigación aplicada o práctica. (p.25).
+Esta investigación social debe estar conectada con un proceso adecuado de calidad educativa en donde el mejoramiento de la calidad afirma Freire (1993) implica la formación continua de los educadores, así mismo de la formación permanente que analice la práctica. La mirada puesta en la crítica reflexiva de las voces de la comunidad académica, se encaminara hacia una construcción progresista de la sociedad. El progresismo en educación requiere un cambio de pensamiento a nivel moral desde el principio de responsabilidad el cual pueda trasformar la educación, dado que todos los actores requieren un grado de entrega social que posibilite un cambio a nivel humano y se pueda rehacer la historia desde un cambio de la deshumanización y el surgimiento de otras necesidades las cuales no posibilitan la ayuda a la sociedad.
+Refiere Freire (1993) “Que la ética o la calidad de ética de la práctica educativa libertadora viene de las entrañas mismas del fenómeno humano, de la naturaleza humana constituyéndose en la historia, como vocación para el ser más” (p.102). El reconocimiento que la educación visibilizo como hecho histórico, revelo la necesidad del estudio de nosotros mismos y nuestro entorno, distribuyendo las cargas sociales inequitativamente en las comunidades. Es un deber histórico el reconocimiento de las minorías y la problemática que enfrentan como comunidad e individualmente. El concepto educativo reconoce las dificultades sociales de nuestro entorno, sin embargo se requiere de mayor compromiso en las aulas de clase para que la comunidad educativa adquiera los conocimientos y su práctica se refleje en mejorar las condiciones sociales humanas y de su entorno.
+Partiendo que un modelo pedagógico constituye un planteamiento integral e integrador acerca de determinado fenómeno, es necesario delimitar el enfoque pedagógico que podría acercar al educando con el educador en un proceso critico reflexivo, sobre las problemáticas
+
+sociales de la disciplina a estudio, según (Vergara y Cuentas, 2015) “Un modelo pedagógico está constituido por conceptos, practicas, intensiones y saberes escolares y que, comúnmente se hacen explícitos mediante los objetivos, la misión, la visión y los perfiles del ser social e individual en formación” (p.915).
+Este modelo pedagógico debe enmarcar un cambio de pensamiento encaminado a la reflexión, sin demeritar los diferentes modelos pedagógicos existentes, la consideración de su uso responde a la concepción y la finalidad de la educación, el modelo de características constructivas puede alcanzar la comprensión cognitiva, de modo que se favorezca altamente el cambio conceptual; pero todo ello se debe ir dando de manera natural a través del contacto directo del individuo con su medio social y de la interacción con el mismo (Vergara y Cuentas, 2015). Es importante que el modelo de la guía y el camino para la enseñanza y a trasmisión del conocimiento, es importante que el modelo brinde las herramientas necesarias para el enriquecimiento conceptual del estudiante, evidenciando las necesidades de la población y eso conlleve a los cambios de concepción. El currículo reforzara las expectativas del estudiante a través de la formación de pensamiento por medio del maestro.
+Bioética, la conexión
+El surgimiento de la bioética llega con una mirada reflexiva de los caminos de la humanidad, desde una perspectiva inicial sobre los procesos de investigación en seres humanos, nace de por la vulnerabilidad misma de la especie humana, este proceso hace que la bioética tome un poder critico a nivel ético del desarrollo de la investigación y el impacto a la cultura humana.
+La educación y la bioética van tomadas siempre de la mano, en la búsqueda de teorías que delimiten mejor el camino hacia un educación trasformadora. Es por esto que los cambios que la bioética impregna y con mucho mayor sentido pueden buscar una trasformación en los procesos de en enseñanza de la epidemiología, debidamente enmarcado bajo la perspectiva de la bioética social1. Donde cabe resaltar que la bioética busca el cambio de conciencia  bajo un camino de deliberación. Según Hottois (2007), “Por conciencia,
+
+1 La bioética social “Es un campo importante en el que debe desarrollar la Bioética, la promoción de los derechos humanos fundamentales –especialmente el derecho a la vida y a la salud- y de análisis de las consecuencias prácticas de la justicia en nuestras sociedades, y especialmente en las políticas de salud, en la implementación de recursos y de la igualdad de acceso a la atención de salud” (león correa citado en Sánchez, 2017, p.23)
+
+queremos decir que la evolución – el cambio - es cada vez más el efecto deliberativo y decidido de la acción humana” (p. 33).
+Es por esto que el proceso deliberativo se debe usar desde una perspectiva profunda de la reflexión y usar la bioética como medio para la trasmisión de conocimientos, en este caso puntual trasmitir una bioética social que permee la epidemiologia crítica y reflexiva que lleve al estudiante dentro de las aulas de clases a un proceso introspectivo de deliberación individual y colectivo, en pro del bienestar de las comunidades.
+Según Gracia (como se citó en Sánchez, 2017) refiere que “La enseñanza tendrá sentido solamente si busca el cambio, la trasformación profunda de quien aprende, de su forma de ver el mundo y en consecuencia en su forma de actuar (p.12). Es por esto que dicha trasformación en las aulas de clases debe estar enmarcada en los problemas que suscitan de la reflexión de la enseñanza de la epidemiología, enmarcada en no hacer de los datos únicos, sino que el estudiante pueda por medio del reconocimiento de una bioética social determinar por medio de la reflexión deliberativa las condiciones necesarias para enfocar de una manera diferente los problemas de la comunidad y la resolución de estos por medio de la triada epidemiologia, educación y bioética social .
+Según Sánchez citando a Van Rensselaer Potter (2017), refiere que “Necesitamos que la acción política reivindique el liderazgo que se necesita para conseguir una bioética social de continuidad a largo plazo” (2017, p. 21). De acuerdo a este planteamiento es necesario que en las aulas de clases se pueda dar continuidad desde la bioética a una educación que reflexione sobre la importancia de mostrar desde los problemas de salud y puedan trascender a políticas públicas. Sólo se podrá entender si la transmisión de conocimiento y la deliberación muestra los problemas reales de las poblaciones a nivel social que forman parte de los determinantes. Es de notar la evolución temática que se ha dado, primero desde la perspectiva de la repercusión del debate sobre los Derechos Humanos en el ámbito propio de la salud, y posteriormente desde la profundización en el concepto de justicia y equidad en salud (Sánchez, 2017).
+
+Partiendo de la base de Bioética Social podemos avanzar hacia el modelo emancipador de la deliberación, es importante determinar el concepto social según Sánchez citando a Ballester y Sánchez afirman que:
+La bioética social debe posibilitar que el ejercicio de la autonomía –capacidad de ser soberana, del poder –capacidad para trasformar –y de creatividad –capacidad para crearse como sujeto – del colectivo y de la persona, mediante un proceso de aprendizaje, en su proyecto biográfico (p.24).
+La determinación que la enseñanza de la epidemiologia debe tomar a partir de reflexiones bioéticas a nivel social deben mostrar con fortaleza. En palabras de Freire afirmaría que “La directividad de la práctica educativa, que la hace trascenderse siempre así misma y perseguir determinado fin, un sueño, una utopía, no permite su neutralidad” (1993, p.42). Debemos explorar en las aulas de la clase los cambios fundamentales de pensamiento que nos lleven a tomar decisiones distintas en cuanto a las determinaciones sociales de nuestra comunidad, es por eso que no podemos estar dentro de una postura de neutralidad y debemos explorar diferentes alternativas que nos brinda el consenso y la deliberación ética educativa.
+Según Freire salir de esta postura neutral hace que el cambio pedagógico de resultados y cambios de pensamiento así como obstáculos como lo refiere en que:
+Hablamos de ética y de postura sustantivamente democrática porque, al no ser neutra, la práctica educativa, la formación humana, implica opciones, ruptura, decisiones, estar y ponerse en contra, en favor de un sueño y contra otro, en favor de alguien y en contra de alguien. Y es precisamente ese imperativo el que exige la eticidad del educador y su necesaria militancia democrática. (1993, p.42).
+Los cambios son necesariamente profundos y esto lleva, como dice Freire (1993), a una ruptura de concepción pero sin esto no se podrá realizar un cambio verdaderamente estructural en los procesos de enseñanza. El modelo que planteo tiene una relación estrecha con los procesos deliberativos en aulas de la clase y esto me lleva a referirnos, según Gracia (2000) a que “Los valores son la suma de apetitos, aversiones, esperanzas y miedos, y la deliberación es el proceso de opción entre ellos” (p.171).
+
+La deliberación debe ser el método fundamental para trascender en la enseñanza de los procesos epidemiológicos a través de discursos que muestren las necesidades de la población, que determinen las bondades de reflexionar a través de DSS por medio de la bioética y el método deliberativo.
+Según Gracia (2000), “Deliberar es ahora tener la capacidad de articular preferencias subjetivas con el cálculo de las consecuencias objetivas, en orden a tomar una decisión racional, es decir, prudente” (p.172). Las aulas de clase deben fortalecer las discusiones de carácter racional y buscar esas soluciones que promuevan la reflexión de los problemas sociales y llevar a discusiones y acciones prudentes en pro de la comunidad.
+Estos espacios de reflexión tienen un lugar muy importante para cambiar el concepto que se tiene de la enseñanza a partir de un modelo positivista y la deliberación partiendo de cambios profundos bioéticos, el cual es el camino que se debe explorar a través de la deliberación y un modelo constructivo que cambie la forma de ver los problemas sociales y se determinen conclusiones que impacten a las comunidades.
+La bioética es uno de los caminos que la educación puede observar para intentar dar una mirada diferente a los procesos de investigación en salud, donde se pueda reconocer a toda la población en general, y se migre al reconocimiento de los problemas sociales y se pueda usar la deliberación en las aulas de clase con el método para impactar la toma de decisiones en los procesos de salud.
+
+Conclusiones
+La forma como cada ser humano ve el mundo que lo rodea, hace que existan diferentes y variados puntos de vista de la sociedad, la grandeza y riqueza del proceso evolutivo de la especie humana hace que el individuo tenga conductas guiadas por una serie de factores, expresados desde su nacimiento, bajo múltiples maneras como individuo y parte de una comunidad, donde los valores y principios son parte fundamental de cada uno de los pasos trasformadores y únicos de cada individuo.
+El reconocimiento de esta diversidad cultural, en donde los caminos del pensamiento son infinitos, la misma sociedad debe plantear unos mínimos justos para que todos tengamos la oportunidad de construir y ser parte de una sociedad multicultural y diversa. Este reconocimiento es parte fundamental de nuestros DSS, sin entenderlo únicamente sobre un espectro social aparte del componente de la salud, los determinantes juegan un papel trascendental en el reconocimiento de las poblaciones como únicas, irrepetibles y llenas de tradiciones culturales, basadas en principios los cuales deben ser uno de los pilares fundamentales para el estudio de dichas poblaciones.
+La epidemiología debe ser una de las herramientas que debe migrar y cambiar su punto de partida, así mismo su impacto en las sociedades desde un enfoque diferente, donde se pueda trasmitir las necesidades vivas de una sociedad llena de conflictos, que de ninguna manera podrán ser resueltos si la poblaciones no se encaminan a cambiar sus propias dinámicas de educción, a nivel político y fundamentalmente a través del reconocimiento de las poblaciones y de individuos que requieren ser escuchados. Ese medio para lograr ampliar este conocimiento parte de dos grandes directrices. La primera fundada en un proceso educativo que reconozca las variantes poblacionales, que pueda migrar a través de su voz en las aulas de clase, con un discurso reflexivo y crítico de sí mismo, donde logre ver las dificultades y las carencias humanas.
+El segundo consistiría en trasformar desde las políticas educativas el proceso de enseñanza, el cual debe migrar poco a poco al trasfondo de la construcción del pensamiento emancipador, donde se logre interactuar bajo unas premisas teóricas que puedan penetrar las fibras del estudiante, donde se pueda escuchar las voces calladas de los educandos, los cuales deben tener todas las herramientas de sus maestros para salir de su conformismo y su
+
+cotidianidad para expresar y vivir la realidad de la población, sentir la necesidad de expresar el deseo de libertad el cual debe ser trasmitido en cambios de pensamiento reflexivo y crítico del proceso educativo.
+La enseñanza de la epidemiologia como disciplina la cual busca dentro de sus pilares el impactar los procesos naturales de la enfermedad a nivel social, debe intentar fortalecer al maestro el cual debe ser capaz de evidenciar una problemática social como punto de partida. Para poder lograr una base y reconocimiento de un problema de la comunidad y no partir de una metodología propia de las ciencias exactas, dado que es necesario que la trasformación del conocimiento que se imparte en las aulas de clase en realidad llegue y fortalezca al estudiante y le de herramientas sólidas para trasformar el cambio de pensamiento, donde se logre evidenciar los Determinantes Sociales de cada población e individuo donde se reconozca las diversidad y la pluralidad. La enseñanza debe ser capaz de proyectar las necesidades de una comunidad desde su propia voz y el maestro con su capacidad teórica bajo un modelo de construcción pedagógica continúa, pueda lograr esa relación bidireccional del estudiante con la comunidad y los determinantes sociales de cada una de las poblaciones en estudio.
+Las perspectivas sociales deben ser miradas desde un cambio político en la educación, donde se evidencie con certeza el reconocimiento de la población como un todo, se debe lograr esta trasformación social que ponga en contexto la diversidad, la pluralidad y la diferencia de las poblaciones. Dicho reconocimiento social debe ser parte fundamental del proceso educativo de la epidemiologia en las aulas de clase. Sí se logra migrar a un cambio de pensamiento se podrán revisar que las perspectivas sociales pueden ser múltiples en cada sociedad y comunidad. Este cambio de pensamiento educativo debe estar presente en los procesos pedagógicos dinámicos como en la trasmisión didáctica y con total fuerza dentro del modelo pedagógico, así como en los currículos.
+La trasformación emancipadora que se pretende lograr en las dinámicas de enseñanza epidemiológica, nace por el cambio de pensamiento que ha producido la bioética en la formación de los estudiantes, con evidencia de una Bioética Social que reconoce con fortaleza a una población que debe ser escuchada basada en principios que emergen de la reflexión crítica y social de la comunidad. La teoría bioética forja con tenacidad el
+
+reconocimiento del cambio social, logra trasmitir con prudencia la necesidad de escuchar al otro bajo un conjunto de teorías diversas pero rigurosas. La Bioética Social logra migrar a la epidemiologia desde un concepto deliberativo que propone evidenciar las problemáticas a través de los cambios reflexivos de la población educativa, donde se reconoce que es necesario penetrar en los problemas sociales de la comunidad para que la epidemiología logre trascender bajo un marco bioético como base del cambio.
+La deliberación es el camino que la bioética ha mostrado que puede generar un cambio a través de la enseñanza, puede lograr hacer la diferencia en los procesos educativos, donde la palabra y los hechos hablen por sí mismos, donde los cambios de pensamiento a través del discurso bioético logre migrar a un cambio conceptual y la teoría epidemiológica cambie su punto de partida y se logre impactar a la sociedad.
+La bioética es una guía teórica y práctica en donde confluyen los principales actores de la problemática social, se evidencia las múltiples necesidades de las comunidades y por tal motivo es la herramienta que la educación puede utilizar para mostrar las bondades de una investigación cualitativa, que puede ser enriquecedor para la enseñanza de la epidemiología desde un enfoque diferente, sin demeritar la importancia de una disciplina que se nutre del proceso cuantitativo.
+Mi propuesta es forjada desde un concepto teórico deliberativo en la aulas de clase, que promueva una mirada diferente a las comunidades y se nutra por los cambios educativos emancipadores, donde es crucial que se promueva una cultura de la diversidad y se puedan ver las diferentes perspectivas de las comunidades y los individuos desde la misma voz de los individuos. En la cual se pueda migrar al cambio, la cual debe ser capaz de mostrar a los estudiantes un concepto diferente y se pueda impactar a la sociedad, esta triada epidemiología, educación y bioética social debe ser revisada desde una deliberación participativa de la comunidad educativa.
+
+Bibliografía
+
+(OMS), O. M. (2018). Organización Mundial de la Salud (OMS). Obtenido de https://www.who.int/social_determinants/es/
+Arcadi, G. S. (2012). Responsabilidad Social ¿de qué Hablamos? En F. E. Medica, Aprender a ser Médico: Responsabilidad Social Compartida (pág. 13). España: Fundación Educación Medica .
+Colimon, K. M. (2018). Fundamentos de epidemiología. Bogotá: CIB Fondo Editorial.
+Estrada M, J. H. (2015). Teoría crítica en salud. Revista Facultad Nacional de Salud Publica, 33(1), 4. Ezequiel, A. E. (2011). Aprender a Investigar . Argentina: Brujas.
+Freire, P. (1993). Política y Educación. Brasil: Siglo Veintiuno editores .
+Gabriel Vergara Rios, H. C. (2015). Actual vigencia de los modelos pedagógicos en el contexto educativo. Universidad de Zulia, 914-934.
+Gordillo, J. I. (2017). Dilemas para el Aprendizaje y la enseñanza de la Bioética . Bogotá: Universidad el Bosque.
+Gracia, D. (2000). Pedagogía Deliberativa . Madrid : Universidad Complutense de madrid . Hottois, G. (2007). Qué es la Bioética . Paris : Librairie Philisophique.
+Nancy, K. (2002). Glosario de Epidemiología Social . Boletin Epidemiologico, Vol 23 No. 2.
+Quintero, G., & Esguerra Villamizar, H. (2017). Documento de Recomendaciones para la Trasformación de la educación médica en Colombia. Bogotá: ASCOFAME.
+Ranciere, J. (2007). El Maestro Ignorante . Buenos Aires : Libros el Zorzal.
+Sánchez, G. J. (2017). Dilemas para el Aprendizaje y la enseñanza de la Bioética. Bogotá: Universidad el Bosque.
+
+
+
+

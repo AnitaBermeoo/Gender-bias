@@ -1,0 +1,224 @@
+﻿Universidad Nacional del Nordeste Facultad de Medicina
+Cátedra de Bioquímica
+
+
+
+Actualización 2007
+
+Brandan, Nora C.
+Profesora Titular. Cátedra de Bioquímica. Facultad de Medicina. UNNE.
+Llanos, Isabel Cristina.
+Jefa de Trabajos Prácticos. Cátedra de Bioquímica. Facultad de Medicina. UNNE.
+Miño, Claudia Alejandra.
+Jefa de Trabajos Prácticos. Cátedra de Bioquímica. Facultad de Medicina. UNNE.
+Ruiz Díaz, Daniel A. N.
+Ayudante Alumno por Concurso. Cátedra de Bioquímica. Facultad de Medicina. UNNE.
+
+
+INDICE
+Introducción	1
+Eje tirotropo	1
+Metabolismo y transporte del yodo	1
+Síntesis y Secreción	2
+Factores que influyen en la síntesis y liberación de HT	2
+Transporte y Distribución Tisular	3
+Metabolismo de las HT	3
+Mecanismo de acción de las HT	4
+Mecanismo de acción a otros niveles	4
+A nivel mitocondrial	4
+A nivel citosólico	4
+Acciones biológicas de las HT	4
+Acciones sistémicas	4
+Metabolismo basal	4
+Proteínas séricas	5
+Metabolismo de los lípidos	5
+Metabolismo de la glucosa	5
+Metabolismo de las vitaminas	5
+Acciones periféricas	5
+Hipófisis	5
+Gónadas	5
+Tejido nervioso y cerebro	5
+Hígado	5
+Hueso	5
+Corazón	5
+Músculo esquelético	6
+Tejido adiposo	6
+Conclusión	6
+Bibliografía	6
+
+Introducción
+La glándula tiroides es un órgano situado en la región anterior del cuello. Consta de 2 lóbulos adosados a los lados de la tráquea y la laringe, que están unidos entre sí por el istmo. Dispone de una rica vascularización. Esta constituida por folículos cerrados de tamaño variable, revestidos de células epiteliales cilíndricas y llenas, en su mayor parte, de sustancia coloide que contiene grandes cantidades de tiroglobulina (Tg), el precursor proteínico de las hormonas tiroideas. Junto a estas células foliculares pueden identificarse, por sus características tintoriales, otro tipo de células denominadas células C o parafoliculares, secretores de calcitonina.
+La glándula tiroides produce 2 hormonas relacionadas, tiroxina (T4) y triyotironina (T3). Al actuar por medio de receptores nucleares, que están presentes en la totalidad de las células humanas, éstas hormonas desempeñan una función de fundamental importancia en la diferenciación celular durante el desarrollo y ayudan a conservar la homeostasis termogénica y metabólica en el adulto.
+
+Eje tirotropo
+El eje tiroideo es un ejemplo clásico de un circuito de retroalimentación endocrino. En este eje se distinguen 3 escalones: hipotálamo, hipófisis y tiroides. La TRH hipotalámica estimula la producción hipofisaria de TSH, la cual, a su vez, estimula la síntesis y secreción de hormonas tiroideas (HT). Las HT actúan por retroalimentación negativa inhibiendo la producción de TRH y TSH. El “punto de ajuste” en este eje es el establecido por la TSH. La TRH es el regulador positivo principal de la síntesis y la secreción de TSH. Al igual que otras hormonas hipofisarias la TSH se libera de forma pulsátil y presenta un ritmo diario; alcanza su nivel máximo por la noche. En la práctica clínica se miden la TSH y las HT en el plasma.
+Las células tirotropas hipofisarias actúan no sólo como el locus de regulación, sino también como un comparador, pues
+el organismo considera que los niveles de HT que recibe la hipófisis son “representativos” de los que están recibiendo otros tejidos periféricos. De esta forma, tejidos como el muscular o el adiposo no precisan emitir un mensaje propio sobre la recepción adecuada de HT. Como factor externo al sistema, los estrógenos aparecen como estimuladores de la síntesis y secreción de TSH, hecho que puede servir para explicar la mayor incidencia de enfermedades de la tiroides en el sexo femenino.
+Otro aspecto importante de la regulación de la glándula tiroides, no vinculado a la secreción de hormona tirotropa (TSH), es la denominada autorregulación tiroidea, íntimamente relacionada con la cantidad de yodo del organismo. Así, cuanto más yodo contiene la dieta, menos capta el tiroides, y viceversa. La administración brusca de cantidades importantes de yodo reduce de forma notable la organificación del yoduro. Esta respuesta, hasta cierto punto paradójica, y que se ha utilizado en terapéutica, se denomina efecto de Wolff-Chaikoff. No obstante, este efecto del yodo es transitorio, ya que si continúa el aporte, la glándula se
+adapta a esta situación y se produce un "escape" de las funciones tiroideas, incluso por encima de lo normal.
+
+Metabolismo y transporte del yodo
+La captación de yoduro es un primer paso crucial en la síntesis de HT. La fuente de yodo del organismo depende exclusivamente de la ingesta. El yodo es absorbido en el intestino delgado proximal tanto en forma orgánica como inorgánica. La liberación del yoduro tras hidrólisis enzimática se completa posteriormente en el hígado y riñón. De este modo, el yoduro forma parte del denominado pool del yoduro del fluido extracelular. Este yoduro a su paso por el torrente circulatorio se une a proteínas séricas, en especial a la albúmina; es captado por el riñón, la tiroides, las células gástricas, las glándulas salivales y la glándula mamaria lactante. Esta última tiene importancia porque cataliza la transferencia de yoduro hacia la leche, poniendo de esta manera, el anión a disposición del recién nacido lactante, quien puede entonces sintetizar sus propias hormonas tiroideas.
+La eliminación del yodo se realiza fundamentalmente por el riñón en forma de yoduro y, en menor cantidad por las heces sobre todo en forma de yodo orgánico.
+La captación de yoduro esta mediada por el simportador de Na+/I- (NIS; perteneciente a la familia de transportadores de solutos SLC5A) que se expresa en la membrana basolateral de las células foliculares de la tiroides, es aquí donde se expresa con mayor eficacia,
+pero también lo hace en niveles bajo en células del estómago, las glándulas salivales, la mama durante la lactancia y la placenta.
+Durante mucho tiempo se creyó que NIS era una proteína exclusivamente tiroidea. No obstante, actualmente esta
+
+claro que NIS se expresa en varios tejidos en los que se regula de maneras diferentes. Bajo condiciones fisiológicas, la tiroides, las glándulas salivales y el estómago muestran acumulación constitutiva de yodo mediada por NIS. En cambio, en la glándula mamaria se expresa funcionalmente únicamente durante el embarazo tardío y la lactancia.
+El NIS es una glucoproteína intrínseca de la membrana plasmática que cataliza el trasporte activo de yoduro mediante el acoplamiento de la translocación de sodio hacia el interior de la célula (a favor de su gradiente electroquímico) con la translocación simultánea de yoduro también hacia el interior de la célula (pero en contra de su gradiente electroquímico). El tiocianato y perclorato son inhibidores competitivos específicos de la acumulación de yoduro catalizada por NIS.
+Se ha demostrado también que NIS es una fosfoproteína y que TSH modula su patrón de secreción.
+El mecanismo de transporte del yoduro está sometido a una estrecha regulación que permite adaptarse a las variaciones del aporte dietético:
+❖ Niveles bajos de yodo aumentan la cantidad de NIS y estimulan la captación.
+❖ Niveles elevados suprimen la expresión del NIS y la captación.
+
+Otro transportador de yodo es la pendrina, esta se haya localizada sobre las superficie apical de las células foliculares de la tiroides y se encarga de la salida de yodo hacia la luz (coloide).
+La pendrina está codificada por el gen PDS que se localiza en el cromosoma 7q33-31.1, contiene 21 exones que codifican una proteína de 780 aminoácidos.
+
+Síntesis y Secreción
+Para la síntesis y secreción de las HT, las células foliculares realizan una serie de funciones especializadas.
+  • Captación del yoduro activamente mediante la proteína NIS, que concentra el yoduro de manera dependiente del sodio.
+  • El yoduro es transportado desde la membrana basal a la membrana apical, donde sale al coloide mediante la pendrina, localizada en la membrana apical.
+  • Se produce la oxidación del yoduro (donde participa el peroxido de hidrógeno) mediante una enzima especifica denominada tiroxidasa (thox), en esta oxidación el yoduro se convierte en yodonio.
+  • El yodonio se incorpora (yodación) a la Tg mediante la tiroperoxidasa (TPO), para producir las yodotirosinas hormonalmente inactivas. Se forman las monoyodotirosinas (MIT) y diyodotirosinas (DIT).
+  • La TPO nuevamente participa, en el acoplamiento de las yodotirosinas para formar las yodotironinas hormonalmente activas, que son las T4 y T3.
+• Captación de gotitas de coloide por endocitosis.
+  • Ruptura proteolítica de los enlaces Tg-HT, con liberación de T4 y T3 a la sangre.
+
+Factores que influyen en la síntesis y liberación de HT
+  • TSH: regulador hormonal dominante del crecimiento y función de la glándula tiroides. Aumenta la secreción de tiroxina y triyodotironina por las glándulas tiroides.
+a) Aumenta la expresión de los receptores de TSH.
+b) Aumenta la síntesis de la Tg.
+c) Aumenta la proteólisis de la Tg intrafolicular.
+d) Aumenta la actividad de la NIS, lo que incrementa el índice de captación de yoduro en las células glandulares.
+e) Aumenta la yodación de la tirosina y su acoplamiento para formar HT.
+f) Aumenta el tamaño y la función secretoria de células tiroideas.
+g) Aumenta el número de células de las glándulas y hace que se transformen de cuboides en cilíndricas
+• IGF-I (factor de crecimiento similar a la insulina-I): reprime la expresión de NIS.
+• EGF (Factor de crecimiento epidérmico).
+• TGF-T (factor transformador del crecimiento-c): reprime la expresión de NIS.
+• Endotelinas y varias citocinas.
+• Insulina: a través del receptor IGF-I,
+• Somatostatina: inhibe el efecto proliferativo ejercido por TSH.
+
+Transporte y Distribución Tisular
+Las hormonas tiroideas circulan en sangre unidas a proteínas transportadoras:
+• Albúmina
+• Globulina de unión a la tiroxina (TBG)
+• Transtiretina (TTR).
+
+Las funciones de las proteínas séricas de unión consisten en aumentar las reservas de hormona circulante, retrasar la depuración hormonal y, quizás, regular el suministro de hormonas a determinadas regiones hísticas.
+Estas tres proteínas se producen en el hígado y las oscilaciones en su síntesis y degradación, así como, alteraciones en su estructura, producen cambios en las concentraciones de HT en plasma. La producción de TBG, por ejemplo, está bajo el control de los estrógenos, por lo que hay aumentos de TBG y de las concentraciones de T4 y T3 en mujeres que reciben anticonceptivos orales y en el embarazo. La TTR se origina en el hígado y en los plexos coroideos y se ha implicado en el mecanismo de entrada de T4 en el sistema nervioso central.
+➢ La T4 se une a TBG en un 70%, a la albúmina en un 20% y a TTR en un 10%.
+➢ La T3 se une principalmente a TBG (80%), y el resto a albúmina y TTR.
+La albúmina tiene una afinidad más o menos baja por las HT, pero una elevada concentración plasmática
+La hormona unida a proteínas está en equilibrio reversible con una pequeña fracción no unida o "libre". Solo la hormona libre esta biológicamente disponible para los tejidos. Por consiguiente, los mecanismos homeostáticos que regulan el eje tiroideo están dirigidos al mantenimiento de las concentraciones normales de hormonas libres.
+
+Metabolismo de las HT
+Las HT pueden ser metabolizadas por distintas vías: desyodación, sulfatación, conjugación con ácido glucurónico, descarboxilación y desaminación.
+Se observa que existen variaciones en la respuesta de las HT por parte de los diferentes órganos, lo que puede ser interpretado de que existen en cada tejido una variedad de enzimas que metabolizan la hormona, además de diversas isoformas de receptores específicos de cada tejido.
+La desyodación es la transformación metabólica más importante de las hormonas tiroideas, está catalizada por enzimas denominadas desyodasas. Estas enzimas tiene la particularidad de que son selenoproteínas, es decir, que su secuencia contiene el aminoácido selenocisteína (Se-Cis), que está presente en el sitio activo de la enzima.
+Hasta la fecha se han descripto 3 selenodesyodasas: tipo I (D1), II (D2) y III (D3). Cada una de ellas presenta diferente acción y distribución tisular:
+a) D1 cataliza el paso de T4 en T3. También puede catalizar la inactivación de T4 convirtiéndola en T3 reversa (rT3), aunque no es lo habitual. Además puede inactivar T3 convirtiéndola en T2. Se expresa fundamentalmente en hígado, riñón y en menor medida en tiroides. Su acción contribuye a generar las concentraciones plasmáticas de T3.
+b) D2 cataliza la conversión de T4 en T3. También puede convertir rT3 en T2. Es responsable de la producción intracelular de T3 en los tejidos periféricos a partir de T4 circulante y se expresa especialmente en cerebro e hipófisis. No obstante también contribuye a elevar los valores plasmáticos de T3.
+c) D3 cataliza la desyodación de T4 convirtiéndola en rT3, y T3 en T2. Esta enzima tiene, por tanto, una acción inhibitoria de la función tiroidea. Se encuentra principalmente en la placenta, cerebro y piel.
+
+Aproximadamente el 20 % de la T3 proviene de la glándula tiroides, mientras que el 80% restante tiene su origen en los tejidos extratiroideos.
+
+Mecanismo de acción de las HT
+Las HT penetran en las células pasivamente, si bien recientemente se han descripto varios transportadores, que mediarían su paso a través de la membrana plasmática. Una vez en el citoplasma migran hacia el núcleo y allí se unen a su receptor (TR). El complejo ligando-receptor se acopla a elementos de respuesta de hormona tiroidea (TRE) ubicados por encima del promotor de los genes diana, sobre los que ejerce tanto una regulación positiva o negativa. El receptor de las HT pertenece a la superfamilia de los receptores hormonales nucleares. También se han descripto que otras proteínas nucleares distintas de HT interactúan con TRE ejerciendo una acción reguladora, que bien puede ser negativa (correpresores) o positiva (coactivadores). Estos complejos ejercen su acción a través de la regulación de la acetilación local de las histonas e interaccionan con la maquinaria transcripcional basal.
+Existen 2 isoformas principales de TR, denominadas TRE y TRyy Ambos receptores se unen a T3. El splicing alternativo del RNAm de TRa genera 2 proteínas: TR 1 y TR111 También existen 2 TRs derivados de TR . El gen contiene 2 regiones promotoras que, alternándose codifican 2 proteínas distintas: TRT1 y TRT2.
+Tanto el TRT y TR  se expresan en gran parte de los tejidos, pero sus niveles relativos de expresión varía en los distintos órganos:
+
+ReceptorLocalizaciónFunciónTRT1Cerebro, músculo, hueso, corazón y tejido
+adiposo.Une las HT.TRT2UbicuaPuede bloquear la acción de las otras isoformas de TR.TRT1Cerebro, cerebelo, hígado, corazón, tejido
+adiposo y riñón.Une las HT.TRT2Adenohipófisis e hipotálamo, cerebro en
+desarrollo y oído interno.Une las HT. Desempeña un papel importante en el
+control de retroalimentación del eje tiroideo.
+Mecanismo de acción a otros niveles
+
+A nivel mitocondrial
+Las HT producen la estimulación de la adenino nucleótido translocasa (ANT) que transporta el ADP citosólico a la mitocondria. Este a su vez funciona como modulador alostérico positivo de las enzimas del ciclo de Krebs y se favorece así la síntesis de ATP y el aumento del consumo de oxígeno, efecto que se complementa además con la inducción de la síntesis de citocromos y proteínas de la fosforilación oxidativa por la inducción génica (por la estimulación de la actividad mitocondrial se produce aumento del tamaño y cantidad de crestas mitocondriales).
+
+A nivel citosólico
+Se conocen receptores citosólicos cuya función es poco clara pero, que teóricamente serían formas de estacionar la hormona para situaciones de necesidad.
+Otro de los efectos de esta hormona es la activación de la Na+/K+ ATPasa que implica la activación de mecanismos de transporte de membrana, favoreciendo el ingreso de aminoácidos, glucosa y nucleótidos a la célula y en el caso de las células musculares y nerviosas modifica la actividad de los canales de calcio dependiente de voltaje, favoreciendo la despolarización.
+También esta hormona actúa sobre el metabolismo de los neurotransmisores, favoreciendo la activación de enzimas mediadoras como acetilcolinesterasa y modifica la expresión de los receptores como por ejemplo up regulation de receptores  - adrenérgicos por desenmascaramiento.
+
+Acciones biológicas de las HT
+Los valores plasmáticos de las HT no reflejan la acción de la hormona en la célula. Así se ha visto que en el hígado y riñón, la mayor parte de la T3 procede del plasma, mientras que en el sistema nervioso central e hipófisis procede de la conversión local, si bien también se constata que la fracción plasmática desempeña su acción en estos tejidos.
+Las HT ejercen su actividad en todos los sistemas del organismo, ya que TR se expresan virtualmente en todos los tejidos. Dado que, cada órgano posee diferente expresión de receptores y de sus isoformas y que también existen desigualdades en la actividad de las desoyodasas, cabe asumir que existan diferencias en la respuesta.
+
+Acciones sistémicas
+
+Metabolismo basal
+Refleja el conjunto de la acción sistémica de la hormona. La T3 aumenta el metabolismo basal y promueve la termogénesis y por ello la perdida de peso. Regula el consumo de oxigeno celular por incremento en la respiración
+
+mitocondrial, mediante la inducción de cambios en enzimas celulares, transporte de electrones y síntesis de proteínas. Estimula la termogénesis mediante fosforilación oxidativa desacopladora, lo que produce disipación de energía en forma de calor. Se ha visto que el frío también induce la actividad de D2.
+
+Proteínas séricas
+Los cambios en la función tiroidea modifican las concentraciones de proteínas y enzimas séricas. Como por ejemplo de la proteína transportadora de hormonas sexuales (SHBG), la enzima convertidora de angiotensina (ECA) y albúmina. Esta última puede estar aumentada en el hipertiroidismo y disminuida en el hipotiroidismo.
+
+Metabolismo de los lípidos
+Las HT tienen diferentes acciones metabólicas en diversos tejidos diana, cuyo resultado global es un descenso en la concentración plasmática de colesterol total. La T3 induce las enzimas lipogénicas, especialmente la enzima málica. Acelera la acción de HMG-CoA reductasa y aumenta los niveles de apolipoproteína A1. También contribuye a la expresión de los receptores de VLDL (cerebro, músculo, tejido graso y corazón). Las HT aumentan la excreción biliar del colesterol.
+
+Metabolismo de la glucosa
+Las HT aumentan la captación de glucosa. Se ha descripto que el transportador de glucosa GLUT4 está regulado por T3.
+
+Metabolismo de las vitaminas
+Las HT aumentan la demanda de coenzimas y de las vitaminas de las cuales derivan. La síntesis de algunas enzimas a partir de las vitaminas requiere de HT. Por ejemplo la síntesis de flavina mononucleótido (FMN) y de la flavina adenina dinucleótido (FAD) a partir de la riboflavina, requiere el efecto estimulador de las HT sobre la enzima flavoquinasa.
+También influyen sobre el metabolismo de las vitaminas liposolubles. Las HT son necesarias para la síntesis de la vitamina A, a partir del caroteno y para la conversión de la vitamina A en retineno, pigmento necesario para la adaptación a la oscuridad.
+
+Acciones periféricas
+
+Hipófisis
+Las HT, particularmente T3 suprime la secreción de TSH por parte de las células tirotropas hipofisiarias. Regula negativamente la trascripción tanto de genes de la subunidad n como  ; mecanismo mediado por la desyodación intracelular de T4 en T3.
+
+Gónadas
+Las HT provocan variaciones en las concentraciones de SHBG, lo que implica cambios en la fracción libre de las hormonas sexuales. En el hipertiroidismo aumentan los niveles plasmáticos de SHBG, provocando irregularidades menstruales e impotencia.
+
+Tejido nervioso y cerebro
+Las HT tienen un papel fundamental en el desarrollo del cerebro del feto en el útero (se sintetizan a partir de la semana 11 de gestación) y después durante el periodo neonatal. Una de las proteínas reguladas por T3 es el factor de crecimiento neural (NGF), mediador del desarrollo psicomotor, así como también de otras proteínas y glucósidos del axón que participan en la mielinización.
+
+Hígado
+Las HT tienen múltiples efectos sobre el hígado, incluyendo el estímulo de las enzimas que regulan la lipogénesis y la lipólisis. Inducen las síntesis de transaminasas (GOT y GPT), de proteínas plasmáticas (albúmina) y de la enzima málica.
+
+Hueso
+Las HT son fundamentales para el desarrollo y crecimiento normal del hueso. Estimulan tanto la osteogénesis como la osteólisis. El estímulo de la osteogénesis lo realiza directamente a través del estimulo de proteínas implicadas en la formación de la matriz ósea, como la fosfatasa alcalina, osteocalcina y colágeno. El estímulo de la osteólisis lo realiza indirectamente a través del efecto paracrino de factores secretados por los osteoblastos que activarían a los osteoclastos que son los que median la resorción ósea.
+
+Corazón
+Las HT tienen un efecto inotrópico y cronotrópico positivo a través de la inducción de la síntesis de la piruvato deshidrogenasa que sumado a las acciones sobre las mitocondria y la bomba de Na+/K+ ATPasa disminuye la resistencia vascular sistémica.
+
+Estos efectos se deben a la capacidad de las HT para intensificar la síntesis total de proteínas, algunas de las cuales son de crítica importancia para la función cardíaca como la cadena pesada de la miosina.
+Además las HT pueden regular el número de receptores B-adrenérgico en el corazón, incrementando la sensibilidad a catecolaminas.
+
+Músculo esquelético
+Favorece la acción contráctil, la biosíntesis de miosina y de enzimas lisosómicas. Aumenta la actividad de creatinínquinasa. También facilitan la captación de glucosa.
+
+Tejido adiposo
+Las HT tienen un papel importante en el desarrollo y función en el tejido adiposo blanco y pardo. Pueden inducir la diferenciación del tejido adiposo y estimular la proliferación de los adiposito desde los preadipositos. Estas células expresan TRe1 como TR11, siendo predominante el primero. Como ya se ha indicado T3 regula el consumo basal de oxigeno, el almacenamiento graso, la lipogénesis y la lipólisis.
+
+
+Conclusión
+La cantidad de efectos de HT es sorprendente. Tienen un papel fundamental en funciones tan importantes y variadas como el metabolismo de los macronutrientes, la regulación del gasto energético y consumo de oxigeno, así como la regulación de tejidos específicos.
+Las acciones fisiológicas de las HT se deben a afectos sobre la expresión de genes, en muchos casos estos efectos son consecuencia de la regulación de la trascripción mediada por los receptores nucleares de la hormona. Los receptores tienen una actividad represora en ausencia de hormona, que se debe a la formación de complejos entre el receptor y proteínas correpresoras. Estas proteínas reprimen la transcripción gracias a su actividad desacetilasa de histonas. La unión de la hormona disocia el complejo TR-correpresor, con lo que se activa la trascripción. En una segunda fase se reclutan complejos coactivadores que poseen actividad de acetilasa de histonas incrementándose la trascripción.
+Como ya se menciono las HT son fundamentales para la diferenciación celular siendo de suma importancia en los primeros momentos de la vida. Así si un embrión se desarrolla sin HT (cosa que puede ocurrir si la alimentación de la madre no tiene nada de yodo o muy poco yodo) el niño nace con un desarrollo mental muy deteriorado, con capacidad de aprendizaje bajo de forma muy intensa durante los 2-3 primeros años de vida, si se mantienen esas condiciones el desarrollo cerebral es muy pobre. Esto produce un tipo de cretinismo por falta de yodo (cretinismo endémico) y se produce en zonas en donde falta el yodo (zonas alejadas del mar). La solución de este problema es muy fácil y muy económica: la madre durante el embarazo y lactancia y el niño desde que empieza a alimentarse deben tomar sistemáticamente sal de mesa yodada y con esta sola medida se evita un serio problema, teniendo en cuenta que el deterioro mental producido en la infancia por la falta de yodo es irreversible.
+
+
+
+
+Bibliografía
+
+1. Jara Albarrán A. Endocrinología. Primera edición. Editorial Médica Panamericana. Madrid 2001.
+2. Harrison, et al. Principios de Medicina Interna. Decimosexta edición. Editorial McGraw-Hill Interamericana. Madrid 2005.
+3. Farreras-Rozman. Medicina Interna. Volumen II. Decimocuarta edición. Editorial Hardcourt. 2000.
+4. “Marcadores de función tiroidea (II).Evaluación de la acción tisular”. Revista de medicina universidad de Navarra. Volumen Nº5 año 2006. www.unav.es/revistamedicina.
+5. “El tiroides normal” Dr. J. Esteban Velasco. Endocrinólogo y Médico Nuclear. Director del Centro de Estudios Tiroideos. Valencia.España. www.tiroides.net
+6. “La saga del trasportador de yoduro (NIS): de su identificación molecular a su papel clínico en el cáncer”.Department of Molecular Pharmacology, Albert Einstein College of Medicine. USA. http://laguna.fmedic.unam.mx/mensajebioquimico.
+7. “Mecanismos moleculares implicados en la función tiroidea: control de procesos fisiológicos y alteraciones patológicas”. Pilar Santiesteban. www.webs.uvigo.es/endocrinología
+8. “La tiroides como modelo de mecanismos moleculares en enfermedades genéticas”. Rivolta, Carina M., Moya, Christian M., Esperante, Sebastián A. et al. Medicina (B. Aires), mayo/jun. 2005, vol.65, no.3, p.257-267. ISSN 0025-7680. www.scielo.org.ar/cielo.php (artículos).
+
+
+
+
+
+

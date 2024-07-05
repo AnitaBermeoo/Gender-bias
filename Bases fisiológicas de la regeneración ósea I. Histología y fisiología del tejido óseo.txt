@@ -1,0 +1,163 @@
+﻿Bases fisiológicas de la regeneración ósea I. Histología y fisiología del tejido óseo
+
+Isabel Fernández-Tresguerres Hernández-Gil 1, Miguel Angel Alobera Gracia 1, Mariano del Canto Pingarrón 1, Luis Blanco Jerez 2
+
+
+(1) Profesor Titular Interino, MD. PhD. DDS, Departamento de Ciencias de la Salud III, Facultad de Ciencias de la Salud, Universidad Rey Juan Carlos, Alcorcón
+(2) Profesor Titular, MD. PhD. DDS. Departmento de Medicina y Cirugía Bucofacial, Facultad de Odontología, Universidad Complutense. Madrid
+
+
+Correspondencia:
+Dra. Isabel Fernández-Tresguerres Hernández-Gil Facultad de Ciencias de la Salud, Avda de Atenas s/n, Alcorcón, 28922 Madrid.
+Teléfono: 91 4888941.
+E-mail: isatresguerres@yahoo.es
+
+Recibido: 2-08-2004
+Aceptado: 14-08-2005
+
+
+
+
+
+RESUMEN
+El hueso es el único tejido del organismo capaz de regenerarse, permitiendo la restitutio ad integrum tras el trauma. Cuando se produce una fractura, se coloca un implante osteointegrado o se realiza un injerto para aumentar el sustrato óseo antes de la inserción de implantes, lo que se pretende es la regeneración ósea, es decir, la formación de hueso nuevo que, tras un proceso de remodelado, sea idéntico al preexistente.
+El hueso es un tejido dinámico en constante formación y reabsorción. Este fenómeno equilibrado, denominado proceso de remodelado, permite la renovación de un 5-15 % del hueso total al año en condiciones normales (1). El remodelado óseo con- siste en la reabsorción de una cantidad determinada de hueso llevada a cabo por los osteoclastos, así como la formación de la matriz osteoide por los osteoblastos y su posterior mineralización. Este fenómeno tiene lugar en pequeñas áreas de la cortical o de la superficie trabecular, llamadas “unidades básicas de remodelado óseo”.
+La actuación terapéutica en los campos de la Traumatología y Ortopedia, Cirugía Oral y Maxilofacial e Implantología, se asienta sobre los principios biológicos de la regeneración ósea, en los que están implicados células, matriz extracelular y señales osteoinductivas.
+El objetivo de este trabajo es realizar una puesta al día de los conocimientos actuales sobre los mecanismos bioquímicos y fisiológicos de la regeneración ósea, resaltando de manera especial el papel que en ella juegan las células y las proteínas de la matriz ósea.
+
+Palabras clave: Hueso, regeneración, reabsorción, osteogénesis.
+
+
+SUMMARY
+Bone is the only body tissue capable of regeneration, allowing the restitutio ad integrum following trauma. In the event of a fracture or bone graft, new bone is formed, which following the remodeling process is identical to the pre-existing.
+Bone is a dynamic tissue in constant formation and resorption. This balanced phenomena, known as the remodeling process, allows the renovation of 5-15% of the total bone mass per year under normal conditions (1). Bone remodeling consists of the resorption of a certain amount of bone by osteoclasts, likewise the formation of osteoid matrix by osteoblasts, and its sub- sequent mineralization. This phenomenon occurs in small areas of the cortical bone or the trabecular surface, called “Basic Multicellular Units” (BMU).
+
+
+E47
+
+© Medicina Oral S.L. Email: medicina@medicinaoral.com
+
+
+
+
+
+INTRODUCCION
+Desde un punto de vista histológico, el hueso es un tejido conjuntivo mineralizado muy vascularizado e inervado, que está estructurado en laminillas de matriz osteoide calcificada. La disposición de estas laminillas es la que determina que el hueso sea cortical o esponjoso. Ambos están constituidos por osteonas. El hueso cortical o compacto se estructura en conductos de Havers recubiertos de laminillas en disposición concéntrica donde se sitúan los osteocitos. El hueso esponjoso o trabecular lo constituyen laminillas óseas en forma de red que delimitan cavidades areolares en cuyo interior se encuentra médula ósea (2).
+Tanto el hueso cortical como el esponjoso contienen células especializadas, matriz orgánica y fase mineral.
+
+1. Células óseas
+En el hueso coexisten varios tipos de células (Tabla 1). Las células óseas se hallan dentro del propio tejido óseo o en el estroma conjuntivo de la médula ósea, rico en células mesen- quimales pluripotenciales indiferenciadas (o mesenchymal stem cells). Desde los trabajos de Friedenstein en 1976 se conoce que estas stem cells pueden dar origen a cinco estirpes celulares distintas: fibroblastos, osteoblastos, condroblastos, adipocitos y mioblastos (3), en respuesta a diferentes señales moleculares que inician la cascada de activación de diferentes genes.
+1.1.- Diferenciación osteoblástica.
+A/- Genética y factores de crecimiento: Actualmente se sabe que la diferenciación hacia la estirpe osteoblástica está controla- da por genes pertenecientes a la familia Hedgehog, de los cuales los más conocidos son: Ihh (Indian hedgehog) y Shh (Sonic hedgehog) (4,5). También es esencial el factor de transcripción Cbfa1 (core-binding factor a-1, también llamado Runx2) (6-9) y las proteínas morfogenéticas óseas (BMPs), que constituyen los reguladores más potentes de la diferenciación osteoblástica desde las células mesenquimales pluripotenciales (4).
+B/- Marcadores de diferenciación: A medida que las células precursoras se van diferenciando expresan en la membrana celular proteínas específicas de su función o marcadores. La expresión de Cbfa1 es la primera evidencia de la diferenciación osteogénica (4), cuyo máximo nivel se alcanza en los pre-oste- oblastos. El colágeno I y la osteopontina (OPN), se expresan de forma temprana en células osteoprogenitoras. Igualmente la fosfatasa alcalina (ALP) es una proteína de superficie que podría participar en la regulación de la proliferación, migración y diferenciación de las células osteoblásticas. La sialoproteína ósea (BSP) y la osteocalcina (OCN), son marcadores de dife- renciación del pre-osteoblasto al osteoblasto y aparecen cuando se inicia la mineralización. La expresión de estas proteínas
+
+resulta especialmente útil como marcadores osteogénicos en los estadíos finales de la diferenciación osteoblástica.
+1.2.- El osteoblasto.
+Los osteoblastos son células grandes (20-30 µm), de forma poliédrica, con citoplasma basófilo y con un aparato de Golgi y un retículo endoplásmico rugoso de tamaño importante. Proceden de las células mesenquimales pluripotenciales de la médula ósea, endostio, periostio y pericitos perivasculares (10). Emiten procesos citoplasmáticos hacia la matriz, que comu- nican con la red de osteocitos y con osteoblastos vecinos. Los osteoblastos y osteocitos se comunican entre sí por proteínas transmembrana o integrinas, que actúan de enlace entre células o entre una célula y la matriz extracelular, permitiendo el paso de mensajeros como calcio, citoquinas o prostaglandinas. En estas células la conexión intercelular es la Conexina 43 (11). Los osteoblastos sintetizan la matriz orgánica o sustancia osteoide a un ritmo de 2 a 3 µm por día y expresan una enzi- ma característica la fosfatasa alcalina (ALP), que permite la mineralización a un ritmo de 1-2 µm por día. Actualmente, se sabe que: 1.- sintetizan las proteínas colágenas y no colágenas de la matriz orgánica del hueso, 2.- dirigen la disposición de las fibrillas de la matriz extracelular, 3.- contribuyen a la mineralización de la sustancia osteoide, gracias a la fosfatasa alcalina, 4.- median en la reabsorción llevada a cabo por los osteoclastos a través de la síntesis de citoquinas específicas
+(12) y 5.- sintetizan factores de crecimiento.
+La vida media de los osteoblastos humanos es de 1 a 10 se- manas, al término de las cuales pueden desaparecer por meca- nismos de apoptosis, transformarse en células limitantes o de revestimiento (bone lining cells) o en osteocitos (15 %) (13). Ambos tipos celulares representan estadíos más avanzados de maduración. Las células limitantes son células elongadas y planas, con un núcleo en forma de huso, sin apenas organelas. Pueden expresar los marcadores osteoblásticos anteriormente citados como sialoproteína ósea, osteopontina, osteonectina, y fosfatasa alcalina así como el receptor de parathormona (PTH). Permanecen a lo largo de la superficie endóstica, constituyendo con el endostio una capa protectora de la superficie ósea, que juega un papel importante en la activación del remodelado óseo.
+1.3.- El osteocito.
+Una vez mineralizada la matriz, algunos osteoblastos que- dan atrapados dentro, transformándose en osteocitos. Los osteoblastos, osteoclastos y células limitantes se hallan en la superficie ósea, mientras que los osteocitos están en el interior. Los osteocitos son las células más abundantes del hueso (10 veces más que los osteoblastos). Poseen forma estrellada y su cuerpo se sitúa en el interior de lagunas u osteoplasmas y los
+
+procesos citoplasmáticos se comunican entre sí a través de los conductos calcóforos que están llenos de fluido óseo extrace- lular. De esta forma, los osteocitos se organizan formando un sincitio de células interconectadas que representa una única estructura, con la ventaja de que existe una gran superficie de contacto en el interior y hacia la superficie ósea, para asegu- rarse oxígeno y nutrientes. Cuando se produce un trauma en el hueso el cese de la circulación sanguínea origina hipoxia y necrosis de los osteocitos que estén a más de 0.1 mm de un capilar intacto (14).
+Los osteocitos también participan en la síntesis y mineralización de la matriz osteoide, pero se cree que su función principal es la de controlar el remodelado óseo, detectando las variaciones mecánicas de las cargas, fenómeno denominado mecanotrans- ducción (15)
+Los osteocitos constituyen el estadío final desde la línea os- teoblástica y son incapaces de renovarse. Poseen los mismos marcadores que los osteoblastos, pero tienen como marcador específico el CD44, receptor de membrana que se expresa fuertemente en osteocitos y es negativo en osteoblastos y células limitantes.
+1.4.- El osteoclasto.
+Las células encargadas de la reabsorción son los osteoclastos. Se trata de células grandes (100 µm), multinucleadas, ricas en mitocondrias y vacuolas. Los osteoclastos contienen fosfatasa ácida tartrato resistente (TRAP), que permite la desfosfori- lación de las proteínas, cuya actividad es aprovechada para su identificación, tanto in vivo como in vitro. Además tienen receptores para calcitonina.
+Los osteoclastos proceden de células madre hematopoyéticas medulares denominadas “Unidades Formadoras de Colonias de Granulocitos y Macrófagos” (CFU-GM), precursoras de macrófagos y monocitos (16).
+Los osteoclastos tienen dos especializaciones en la membrana: un borde en cepillo, que es donde tiene lugar la reabsorción y una zona clara, rica en microfilamentos, con integrinas que sirven de anclaje a la matriz. Para ello, los osteoclastos se movi- lizan hacia la zona a reabsorber y, seguidamente, se adhieren a la superficie ósea mineralizada por el ribete en cepillo sellando los bordes del área mediante las integrinas. La integrina del osteoclasto, particularmente avβ3, reconoce la secuencia Arg- Gly-Asp (RGD) existente en el colágeno y otras proteínas de la matriz osteoide. A este nivel el pH es ácido, ya que secretan ácidos (H+) generados por la anhidrasa carbónica II y enzimas proteolíticas como colagenasas, metaloproteasas, catepsina K, glucuronidasa, etc (16), que van a originar la reabsorción del hueso mediante la solubilización de la matriz orgánica primero y de la mineral después.
+Respecto a la osteoclastogénesis actualmente se sabe que los osteoblastos son fundamentales para la formación de osteoclas- tos. Así, el factor estimulante de las colonias de macrófagos (M-CSF) producido por los osteoblastos es requerido en las primeras fases de la osteoclastogénesis para la formación de células gigantes multinucleadas. Los conocimientos actuales acerca de la regulación de la osteoclastogénesis se basan en la existencia de 3 moléculas clave: OPG (osteoprotegerina, proteína sintetizada por osteoblastos y pre-osteoblastos),
+
+RANKL (ligando situado en la superficie de osteoblastos y pre-osteoblastos) y RANK (receptor del anterior situado en la membrana de osteoclastos y pre-osteoclastos). El RANKL (receptor activator of NFkB ligand) antiguamente llamado ODF (osteoclast differentiation factor) (12,17) es una citoquina transmembrana perteneciente a la familia del factor de necrosis tumoral (TNF) (18). La interacción entre RANKL y su receptor RANK produce una activación de la diferenciación y de la actividad osteoclástica, aumentando la reabsorción. Asimis- mo, los efectos del RANKL tanto in vivo, como in vitro son inhibidos por la osteoprotegerina (OPG), proteína circulante producida por los osteoblastos y pre-osteoblastos perteneciente a la superfamilia de los receptores de TNF (12).
+Cuando se unen OPG y RANKL se inhibe la unión de RANKL a RANK y se inhibe la diferenciación osteoclástica. Por ello OPG, RANK y RANKL son importantes reguladores de la osteoclastogénesis.
+
+Tabla 1. Células óseas
+
+ESTROMA MEDULARTEJIDO ÓSEOStem cells hematopoyéticasOsteoblastosStem cells mesenquimalesPre-osteoblastosAdipocitosOsteocitosMacrófagosOsteoclastosMastocitosPre-osteoclastosCélulas endotelialesCélulas linfoides
+
+2. Matriz orgánica
+La matriz orgánica o sustancia osteoide representa un tercio del peso óseo. Está formada fundamentalmente por proteínas, entre las que destaca el colágeno (90%) (tabla 2). La matriz juega un papel importante en el conjunto del sistema óseo, siendo evidente este hecho cuando aparecen enfermedades del colágeno como la osteogénesis imperfecta. Sin embargo, actualmente debe consi- derarse a la matriz mineralizada extracelular como algo más que un reservorio de calcio y fósforo, ya que constituye una reserva de proteínas que participan en la regulación de la diferenciación celular y en la integridad y función del tejido óseo (19).
+A/.- El colágeno: El 90% de la matriz extracelular (MEC) está constituida por colágeno, sobre todo tipo I (>95%) y tipo V (<5%). También se ha comprobado la presencia en pequeñas proporciones de colágeno tipo III, relacionado con las fibras de Sharpey y tipo XII, formado bajo estrés mecánico. En la molécula de colágeno se halla la secuencia Arg-Gly-Asp (RGD), que es reconocida por las integrinas de superficie de las células óseas (20). Contiene característicamente, los aminoácidos hidroxilisina e hidroxiprolina siendo, este último, un marcador específico de todos los fenotipos de colágeno y estando sus valores de excre- ción urinaria en relación directa con la tasa de reabsorción ósea (21). Las fibras de colágeno se estabilizan mediante puentes de hidrógeno entre aminoácidos y a través de la formación de puen- tes de piridinolina, entre las hidroxilisinas y lisinas. Sin embargo, el colágeno no tiene gran afinidad por el calcio, por lo que son otras las proteínas implicadas en el depósito mineral.
+
+Tabla 2. Proteínas de la matriz osteoide
+
+COLÁGENO• Tipo I, III, V, XII
+PROTEOGLICANOS• condroitin sulfato
+• decorina
+• biglicano
+• hialuronanoPROTEÍNAS CON
+ÁCIDO  -CARBOXI-GLUTÁMICO• osteocalcina
+• proteína de la matriz con ácido  -carboxi-glutámico
+
+
+GLICOPROTEÍNAS• osteonectina
+• fosfatasa alcalina
+• proteínas con RGD:
+- fibronectina
+- trombospondina
+- osteopontina
+- vitronectina
+- sialoproteínas óseasPROTEÍNAS DEL PLASMA• ALBÚMINA
+• •2-SH- glicoproteína
+FACTORES DE CRECIMIENTO• IGF-I y II (Insulin growth factor I y II)
+• TGF-T (Transforming growth factor -beta)
+• PDGF (Platelet derived growth factor)
+
+
+B/.- Proteínas no colágenas: Entre ellas destacan:
+B.1.- Proteoglicanos: Constituyen el 10% de las proteínas no colágenas. Son moléculas de gran tamaño. En la matriz osteoide hay cuatro tipos de proteoglicanos: Hialuronano y Condroitín- sulfato: de molécula grande, intervienen en las etapas iniciales de la morfogénesis ósea. Biglicano y decorina: de molécula más pequeña, aparecen en las fases siguientes de la formación ósea.
+B.2.- Proteínas con ácido γ-carboxi-glutámico: Son la osteocal- cina (OCN) y la proteína de la matriz con ácido γ-carboxiglu- támico. Este ácido es un aminoácido que liga calcio y necesita vitamina K para su síntesis.
+La osteocalcina es una pequeña proteína de la matriz sintetizada por los osteoblastos y plaquetas, dependiente de las vitaminas D y K. Representa el 15% de las proteínas no colágenas de la matriz y contiene tres restos de ácido γ-carboxiglutámico. Sus niveles plasmáticos se han considerado como uno de los marcadores bioquímicos de la osteogénesis, relacionándose con el número y actividad de los osteoblastos.
+B.3.- Glicoproteínas: Son la osteonectina, la fosfatasa alcalina y las proteínas con el tripéptido RGD (Arg-Gly-Asp).
+La osteonectina es una glicoproteína con gran afinidad por el colágeno tipo I, por el calcio y por la hidroxiapatita. Representa el 25% de las proteínas no colágenas. Se cree que interviene en la regulación de la adhesión celular entre la matriz y las células. En el hueso es necesaria para la mineralización normal.
+La fosfatasa alcalina es una enzima que libera fosfato inorgánico a partir de ésteres fosfóricos, necesario para la mineralización. Existen varias isoenzimas y, entre ellas la ósea, se ha considerado un buen marcador de la actividad osteoblástica.
+Proteínas con el tripéptido RGD, también llamadas SIBLINGS (Small Integrin-Binding Ligand, N-linked Glycoprotein) son fundamentalmente cinco: osteopontina, sialoproteínas óseas, fi- bronectina, trombospondina y vitronectina. Son glicoproteínas
+
+fundamentales en los procesos de remodelado y regeneración óseos, con una secuencia Arg-Gly-Asp (RGD) que es reconoci- da por las integrinas de los osteoblastos y los osteoclastos (avβ3, entre otras). También actúan como receptores de superficie de las células óseas permitiendo la adhesión de las células a la matriz extracelular y activando señales.
+B.4.-. Proteínas procedentes del plasma: Se encuentran en la matriz orgánica ósea en mayor proporción que en el plasma. Son la albúmina y la a2-SH-glicoproteína, probablemente rela- cionadas con la incorporación del calcio a la matriz osteoide. B.5.-. Factores de Crecimiento: Son polipéptidos sintetizados en el propio hueso o procedentes de otros lugares (hígado, pla- quetas, etc.), que intervienen en la diferenciación, crecimiento y proliferación de las células de forma autocrina o paracrina (tabla 2) (22).
+
+3. Fase                                                        mineral Finalmente, el componente mineral del hueso representa el 65% del peso óseo. Está formado por calcio, fosfato y carbonato (en proporciones de 10:6:1) en forma de pequeños cristales de hidroxiapatita Ca10 (PO4)6(OH)2 y, en menor proporción hay magnesio, sodio, potasio, manganeso y flúor. El plasma se encuentra sobresaturado de calcio y fósforo respecto a la hidroxiapatita, por lo que debe haber sustancias que inhiban la mineralización. Las proteínas con capacidad adhesiva favorecen la mineralización, mientras que los proteoglicanos, magnesio, ATP y pirofosfato la inhiben.
+
+4. Regeneración ósea
+La regeneración tisular es la respuesta que consigue la resti- tutio ad integrum del tejido tras un trauma, a diferencia de la reparación, donde el tejido que se forma es un tejido cicatricial, con características diferentes al original. En este sentido el hueso es el único tejido del organismo, a excepción del tejido embrionario, que se restituye totalmente tras una lesión (1). La
+
+regeneración ósea origina una respuesta en la que están involu- crados los vasos sanguíneos, las células y la matriz extracelular. Desde los estudios de Trueta (23) se sabe de la importancia de los vasos sanguíneos en la osteogénesis. Tras un trauma, se produce una respuesta inflamatoria y un hematoma inicial, con hematíes, plaquetas y fibrina. Las células del coágulo liberan interleuquinas y factores de crecimiento, originando la migra- ción de linfocitos, macrófagos, precursores de osteoclastos y células mesenquimales pluripotenciales. Estas señales mole- culares promueven la diferenciación hacia células endoteliales, fibroblastos, condroblastos y osteoblastos, dando origen a un nuevo tejido fibrovascular, que reemplazará al coágulo inicial. Todo ello está regido por una serie de complejas interacciones entre factores de crecimiento, hormonas y citoquinas. En este proceso va a ser fundamental el aporte vascular, la síntesis proteica y la mineralización.
+
+BIBLIOGRAFIA
+1. Davies JE, Hosseini MM. Histodinamics of endosseous would healing. En: Davies JE ed. Bone Engineering. Toronto: Davies JE ed.; 2000. p. 1-14.
+2. Wheater PR, Burkitt HG, Daniels VG. Functional Histology. New York: Churchill Livingstone ed.; 1987. p. 142-60.
+3. Friedenstein AJ. Precursor cells of mechanocytes. Int Rev Cytol 1976;47:327-55.
+4. Yamaguchi A, Komori T, Suda T. Regulation of osteoblast differentiation mediated by Bone Morphogenetic Proteins, Hedgehogs, and Cbfa1. Endocr Rev 2000;21:393-411.
+5. Aubin JE. Osteogenic cell differentiation. En: Davies JE ed. Bone Enginee- ring. Toronto: Davies JE ed.; 2000. p. 19-30.
+6. Heersche JNM. Mesenchymal stem cells and their involvement in bone remodeling, repair, and regeneration. En: Zarb G, Leckholm U, Albrektsson T, Tenenbaum H eds. Aging, Osteoporosis, and Dental Implants. Carol Stream: Quintessence Publishing Co.; 2002. p. 17-23.
+7. Komori T, Yagi H, Nomura S, Yamaguchi A, Sasaki K, Deguchi K et al. Targeted disruption of Cbfa1 results in a complete lack of bone formation owing to maturational arrest of osteoblasts. Cell 1997;89:755-64.
+8. Ducy P, Zhang R, Geoffroy V, Ridall AL, Karsenty G. Osf2/Cbfa1: a trans- criptional activator of osteoblasts differentiation. Cell 1997;89:747-54.
+9. Hoshi K, Komori T, Ozawa H. Morphological characterization of skeletal cells in Cbfa1-deficient mice. Bone 1999;25:639-51.
+10. Canfield AE, Doherty MJ, Ashton BA. Osteogenic potential of vascular pericytes. En: Davies JE ed. Bone Engineering. Toronto: Davies JE ed.; 2000. p. 143-51.
+11. Civitelli R, Beyer EC, Warlow PM, Robertson AJ, Geist ST, Steinberg TH. Conexin 43 mediates direct intercellular communication in human osteoblastic cells networks. J Clin Invest 1993;91:1888-96.
+12. Simonet WS, Lacey DL, Dunstan CR, Kelley M, Chang M-S, Luethy R et al. Osteoprotegerin: a novel secreted protein involved in the regulation of bone density. Cell 1997;89:309-19.
+13. Aubin JE, Liu F. The osteoblasts lineage. En: Bilezikian JP, Raisz LG, Rodan GA, eds. Principles of Bone Biology. San Diego, California: Academic Press;1996. p. 51-67.
+14. Ham AW. Some histophysiological problems peculiar to calcified tissue. J Bone Joint Surg Am 1952;34:701.
+15. Lanyon L. Osteocytes, strain detection, bone remodeling and remodeling. Calcified Tissue Int 1993;53:102-7.
+16. Mundy GR. Cytokines and growth factors in the regulation of bone remo- deling. J Bone Miner Res 1993;8:505-10.
+17. Burgess TL, Quian Y, Kaufman S, Ring BD, Van G, Capparelli C et al. The ligand for osteoprotegerin (OPGL) directly activates mature osteoclasts. J Cell Biol 1999;145:527-38.
+18. Lacey DL, Timms E, Tan HL, Kelley MJ, Dunstan CR, Burguess TL et al. Osteoprotegerin ligand is a cytokine that regulates osteoclasts differentiation and activation. Cell 1998;93:165-76.
+19. Young MF. Bone matrix proteins: more than markers. Calcif Tissue Int 2003;72:2-4.
+20. Gehron Robey P, Fedarko NS, Hefferan TE, Bianco P, Vetter UK, Grzesik
+
+W et al. Structure and molecular regulation of bone matrix proteins. J Bone Miner Res 1993;8:483-7.
+21. Schonau E, Rauch F. Markers of bone and collagen metabolism. Problems and perspectives in Pediatrics. Horm Res 1997;48:50-9.
+22. Canalis E, Economides AN, Gazzerro E. Bone morphogenetic proteins, their antagonists, and the skeleton. Endocr Rev 2003;24:218-35.
+23. Trueta J. The role of blood vessels in osteogenesis. J Bone Joint Surg Br 1963;45:402.
+
+
+
+
+
+
+
+
+
+
+
+

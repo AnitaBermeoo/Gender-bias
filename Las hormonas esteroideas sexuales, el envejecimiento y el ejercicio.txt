@@ -1,0 +1,792 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revista Andaluza de Medicina del Deporte ISSN: 1888-7546
+ramd.ccd@juntadeandalucia.es
+Centro Andaluz de Medicina del Deporte España
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Cómo citar el artículo  Número completo
+ Más información del artículo
+ Página de la revista en redalyc.org
+
+
+                                      Sistema de Información Científica Red de Revistas Científicas de América Latina, el Caribe, España y Portugal
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+
+
+Hormonas esteroideas sexuales, envejecimiento y ejercicio		
+Sex steroids hormones, ageing and exercise
+
+Artículo de revisión / Review Article
+Las hormonas esteroideas sexuales, el envejecimiento y el ejercicio.
+Sex steroids hormones, ageing and exercise
+
+Marcos Becerro JF
+
+
+Presidente del Instituto de Longevidad y Salud
+S: marcosbecerro@telefonica.net
+
+
+
+
+
+RESUMEN.
+
+Esta revisión trata de informar a los técnicos deportivos y a los especialistas en las materias de la Educación Física y la Salud, sobre los efectos que el ejercicio origina en el organismo a través de la acción de los esteroides sexua- les. Un hecho interesante, es que tanto los estrógenos como los andrógenos se producen en los dos géneros, aunque los primeros son más abundantes en las mujeres y los segundos en los hombres. En los últimos años se ha descubierto que los estrógenos son más importantes para la salud del hueso que los andrógenos y que aunque en la excitación sexual la testosterona y el estradiol intervienen en ella, sin embargo, en ambos géneros posee mayor re- levancia la primera. En las mujeres posmenopáusicas, la testosterona, mediante su conversión en estrógenos, ali- via varias de las molestias que la acompañan. El ejercicio y en especial el de fuerza, aumentan sus niveles en los hombres y en las mujeres.
+
+
+
+ABSTRAcT
+
+This review tries to inform the sport technicians and the specialists in the matters of the Physical Education and the Health, on the effects that the exercise produces in the organism through the sexual steroids action. An interesting fact, is that as much the estrógenos as the androgens take place in the two genders, although the first ones are more abundant in the women and the seconds in the men. In the last years has been discovered that the estrogens are more important for the health of the bone than the androgens and although in the sexual excitement the testosterone and the estradiol intervene in her, however, in both genders the first one possesses bigger relevance . In the postmenopausic women, testosterone, by means of its conversion in estrogens, alleviates several of the disturbs that accompany her. The exercise and especially that of strength, increase in men and women their levels.
+
+LA DIFERENCIACIÓN SEXUAL DEL SISTEMA REPRODUCTOR
+
+En las primeras semanas de la vida del feto, el sistema reproductor se encuentra constituido por un pliegue gonadal indiferenciado en el que se hallan presentes las células precursoras de los tractos reproductores femeninos (Mullerianos) y masculinos (Wolfianos), lo que significa que en esta etapa el feto posee la capacidad de ser masculino o femenino (1).
+
+Después de formados los testículos, éstos segregan la hormona anti-Mulleriana (AMH), una molécula que induce la regresión del tracto Mulleriano (femenino), a la vez que producen testosterona, hormona, por cuya intervención se desarrolla el tracto Wolfiano (masculino). Cuando no se forman los testículos y por lo tanto no se segregan la AMH ni la testosterona, se desarrolla el tracto Mulleriano y se atrofia el Wolfiano. De ello dedujo Jost (2) que, para pro- ducirse el desarrollo sexual masculino es indispensable la colaboración de las hormonas, cosa que no necesita el femenino. Así pues, en las primeras etapas de nuestra ex- istencia somos seres indiferenciados sexualmente.
+
+El sexo genético queda definido en el momento de la fer- tilización, cuando uno de los cromosomas ubicados en el pronúcleo del espermatozoide, sea el X o el Y, entra en el oocito. En el caso de que lo haga el primero, el género genético del feto será femenino, mientras que si lo hace el segundo, será masculino (3). De esta manera, el cro- mosoma Y es el que decide el sexo genético, dado que los dos géneros poseen el cromosoma X, pero sólo los masculinos tienen el Y (4).
+
+Para que se lleve a cabo la diferenciación sexual de la cresta genital en el testículo se necesitan las células de Sertoli y el factor determinante testicular (TDF), pariente próximo del gen SRY (gen que en los humanos se origina en diferentes tejidos) (5), cosa que únicamente se produce cuando existe el cromosoma Y.
+
+
+
+
+
+
+
+En lo referente al sexo hormonal, en los humanos, la ex- presión de la AMH en las células de Sertoli se produce alrededor de las 6 semanas de iniciado el embarazo, mo- mento en que comienza la regresión del tracto Mulleriano
+(6). En esta etapa, la síntesis de la testosterona se produce sin la colaboración de la LH (7).
+
+Entre la semana 12 y la 17, las células de Leydig comien- zan a sintetizar la testosterona (8), requisito indispensable para la diferenciación morfológica del tracto reproductor masculino.
+
+
+La iniciación del desarrollo testicular se lleva a cabo sin la colaboración de las hormonas esteroideas, sin embargo, para que se produzca la proliferación de las células de Sertoli se requiere la presencia de la testosterona (9).
+
+Para que se desarrollen la uretra, el pene y el escroto se necesita que la testosterona se convierta en didhidrotes- tosterona (DHT). El descenso ínguino-escrotal del testículo se produce por la acción de la testosterona, (9).
+
+En el ovario de las mujeres se ha observado la presencia de las proteínas represoras que impiden la diferenciación mas- culina: la DSX1 y la WNT4 (1). En las primeras etapas del embarazo la WNT4 suprime la diferenciación de las células de Leydig y la síntesis de la testosterona (4). En ausencia de los andrógenos y de la AMH se produce la regresión del tracto Wolfiano y se desarrolla el Mulleriano en el útero, en el cuello del útero y en la parte superior de la vagina (10).
+
+En las fases tempranas del desarrollo de los ovarios (entre los 14 y los 15 días) los genocitos o precursores de las células germinales se ven sometidos a una rápida prolif- eración, en la que interviene la activina (11) y posiblemente la folistatina, un polipéptido que se une a la activina y a la inhibina, lo que conduce al desarrollo del sistema repro- ductor femenino.
+
+Así pues, en los dos géneros los genes y las hormonas intervienen en la diferenciación sexual del sistema re- productor.
+
+
+
+LAS HORMONAS ESTEROIDEAS SEXUALES
+
+A pesar de que durante muchos años se ha venido ha- blando de hormonas sexuales masculinas y femeninas, considerando a la testosterona como representante prin- cipal de las primeras y al estradiol de las segundas, sin embargo, en la actualidad se las conoce como esteroides sexuales, provenientes todas ellas del colesterol.
+
+El colesterol, por la acción de distintas enzimas se con- vierte en diferentes esteroides sexuales, según el órgano donde tiene lugar su transformación: las adrenales, los ovarios o el testículo (Figura 1).
+
+
+
+Figura 1. Esteroideogénesis.
+
+No obstante, la testosterona y las prohormonas dehidroe- piandrosterona (DHEA) y su sulfato DHEAS, por la acción de la enzima aromatasa se pueden convertir en estrógenos, en ciertos tejidos diana, como el adiposo. De la misma for- ma, la progesterona, además de producirse en los ovarios también puede hacerlo en otros tejidos diana (12).
+
+Por la acción de la hormona liberadora de de la corticotro- pina GnRH en la zona reticular de las glándulas adrenales se segregan los andrógenos testosterona, dehidrotestos- terona (DHEA), sulfato de dehidrotestosterona (DHEAS), androstenediona y testosterona, tanto en los hombres como en las mujeres.
+
+En los hombres, la GnRH estimula en la hipófisis anterior la producción de las hormonas luteinizante (LH) y estimu- lante del folículo (FSH). Ambas conocidas como gonado- tropinas (13).
+
+La LH, en las células intersticiales de Leydig del testículo incita la síntesis de la testosterona. En las células de Ser- toli ubicadas en el conducto seminífero, la testosterona se transforma en dihidrotestosterona (un andrógeno muy activo) y también se convierte por la colaboración de la aromatasa en los estrógenos estrona y estradiol 17s. La testosterona, después de segregada en el testículo ejerce una acción negativa de forma retroactiva sobre la LH (14).
+
+En las mujeres, por la acción de las gonadotropinas hipo- fisarias sobre las células tecales del ovario se produce la androstenediona, un andrógeno, que en el interior de la granulosa se transforma en estrógenos, principalmente en estradiol 17-e, por la acción de la aromatasa.
+
+Para la producción de los esteroides sexuales se necesita la cooperación de las células tecales y las granulosas, así como la colaboración de las gonadotropinas y la de los receptores (15).
+
+Como fácilmente se deduce de lo expuesto, tanto los hom- bres como las mujeres producen andrógenos y estrógenos. Aunque sus cometidos más importantes se relacionan con
+
+
+Hormonas esteroideas sexuales, envejecimiento y ejercicio		
+Sex steroids hormones, ageing and exercise
+
+
+
+la reproducción, sin embargo, los tejidos diana sobre los que actúan las hormonas sexuales son numerosos y se hallan presentes en las personas de ambos géneros. Entre ellos se encuentran: las mamas, el útero, los ovarios, el hue- so, el sistema vascular, el nervioso central, el gastrointesti- nal, el genitourinario, el inmunitario, la piel, los riñones, los pulmones y el aparato reproductor de los hombres (12).
+
+En las mujeres, los esteroides sexuales desempeñan una función primordial en el crecimiento y la diferenciación de los tejidos reproductores y en el mantenimiento de la fer- tilidad. Estos efectos se llevan a cabo a través de la unión con sus receptores específicos.
+
+
+
+LOS RECEPTORES DE LOS ESTEROIDES SEXUALES
+
+En los humanos de ambos géneros los esteroides sexua- les ejercen su acción sobre las células, y especialmente en las que tapizan el endotelio vascular, en las ubicadas en el músculo liso y en el corazón, a través de tres clases distintas de receptores: los de los estrógenos (ERs), los de la progesterona (PRs) y los de los andrógenos (ARs) (16).
+
+De los receptores ER se conocen dos tipos: ERD y ERy, de los PR otros dos: PRA y PRB y de los AR sólo uno (17). Todos ellos son receptores nucleares.
+
+En el ovario los ERE son los más abundantes (18, 19) y de ellos se han descrito las variantes ERE2, ERE2/cx, ERE4 y ERy5 (20).
+
+En el tracto urogenital de los animales masculinos las estruc- turas mejor conocidas en las que se expresan los receptores de los estrógenos son los testículos, la próstata y la vejiga. El ERE interviene en el control de la gametogénesis, en tanto que el ERE regula la esteroideogénesis (21, 22).
+
+
+
+LOS ANDRÓGENOS, LOS ESTRÓGENOS Y LA PROGESTERONA
+
+LOS ANDRÓGENOS
+
+De los andrógenos presentes en la sangre de los hombres, la testosterona es el más importante, desde el punto de vis- ta de su acción biológica, Como cualquiera de los andró- genos, la testosterona es insoluble en agua, por lo que para su transporte a través de la circulación necesita unirse a la albúmina, o a la globulina ligante de las hormonas sexuales (SHBG). A la primera lo hace de forma ligera y a la segunda de manera intensa. Sólo una pequeña cantidad de la tes- tosterona, que no suele superar el 2% de la total, circula sin ir unida a la albúmina, ni a la SHBG, por lo que se la deno- mina testosterona libre (TL), el 40% lo hace adherida a la albúmina y el resto acoplada a la SHBG (23). A la suma de la
+
+TL y de la unida a la albúmina se la conoce como testoste- rona biodisponible (bio.T), la cual penetra fácilmente en las células diana, donde ejerce su función a través de la unión al receptor específico de los andrógenos (AR) (24).
+
+La testosterona se produce primordialmente en el testícu- lo. Las glándulas adrenales son las responsables de casi la totalidad de la secreción de la DHEA y de su sulfato DHEAS.
+
+La forma más activa de la testosterona la constituye la dihi- drotestosterona (DHT). La DHT se origina por la acción de la enzima 55 reductasa sobre la testosterona, pero su acción se encuentra muy limitada en el plasma, dado que la mayor parte de ella se forma en los tejidos periféricos donde lleva a cabo su función (25). Sólo el 0,8% de la misma se en- cuentra en la forma libre, el resto se halla unido a la SHBG.
+
+En los hombres adultos los niveles del suero de la testos- terona oscilan entre los 315 y los 1000 ng/dl (26), son más elevados por la mañana y descienden por la tarde (27).
+
+La mayor parte de las actividades de la testosterona en los tejidos periféricos se lleva a cabo de forma directa, tras convertirse en DHT y unirse con el receptor AR. En la forma indirecta, la testosterona necesita transformarse en estra- diol, mediante la acción de la aromatasa y después adherir- se a los receptores de los estrógenos (ERs) (Figura 2).
+
+
+Figura 2. Acción de la testosterona en los tejidos periféricos.
+
+
+
+La unión de los andrógenos a su receptor específico (AR) causa la liberación de las proteínas del shock térmico y produce una alteración estructural del AR; hecho que le permite ensamblarse a una serie de moléculas conoci- das como “elementos de la respuesta a los andrógenos” (AREs) localizadas cerca de los genes reguladores de es- tos esteroides. La unión del AR y los AREs puede modifi- car la expresión de los genes diana (28, 29).
+
+
+
+
+
+Los AR y ER se expresan en un considerable número de tejidos. Las máximas concentraciones de los AR se ha- llan localizadas en los órganos sexuales accesorios de los hombres (vesículas seminales y próstata) (30).
+
+Las concentraciones plasmáticas de la DHT varían entre 23 y 73 ng/dl. Sólo entre el 15 y el 20% de la misma se segre- ga por los testículos, mientras que el 80% procede de la conversión de la testosterona por la 55-reductasa del tipo 2 en los tejidos diana periféricos. Los niveles plasmáticos de androstenediona varían entre los 60 y los 230 ng/dl en los hombres de entre 20 y 30 años, (31). Su actividad androgé- nica depende de su transformación en testosterona.
+
+La DHEA y su sulfato (DHEAS) se segregan en las adrena- les y son los esteroides más abundantes en la sangre de los hombres y de las mujeres, pero solamente la primera puede ser convertida en esteroides sexuales en los teji- dos periféricos (32). Ni la androstenediona, ni la DHEA, ni la DHEAS pueden unirse al receptor AR, por lo que para desarrollar sus efectos androgénicos tienen que convertir- se en testosterona (23). En los hombres jóvenes, los efec- tos hormonales y metabólicos pueden ser atribuidos a su transformación en testosterona y estrógenos en los tejidos (33), pero generalmente suelen ser modestos.
+
+Los andrógenos son los responsables del desarrollo del feno- tipo masculino durante la embriogénesis, y de la adquisición de la maduración sexual en la pubertad. En la edad adulta son esenciales para el mantenimiento de la función repro- ductiva y la conducta sexual (34). Además, ejercen efectos metabólicos importantes sobre las proteínas, los carbohidra- tos y las grasas, por lo que contribuyen al mantenimiento de la masa y la fuerza de los músculos, e intervienen en la regulación del hueso y en la de la masa grasa. Por otra parte, de forma indirecta, también influyen sobre la sensibilidad a la insulina y sobre la conducta y el conocimiento (23).
+
+Sin embargo, en el músculo, la testosterona, es el andró- geno activo, dado que la acción de la 5S-reductasa es muy baja, por lo que no se forma la DHT (35).
+
+La acción de los andrógenos y en especial la de la testos- terona sobre los músculos, consiste en favorecer la hiper- trofia de las fibras de los tipos I y II, al estimular la síntesis de sus proteínas. Las células satélites (CS) y el factor de crecimiento similar a la insulina IGF-I también intervienen en el engrosamiento de la masa muscular. Ambos aumen- tan por la acción de la testosterona (36, 37).
+
+En lo referente al hueso, tanto en la regulación de la ad- quisición de la masa ósea de los adultos como en la de su conservación (38) intervienen los andrógenos y los estró- genos producidos por la aromatización (39).
+
+En el tejido graso, los andrógenos modifican la expresión de los genes que intervienen en la lipogénesis de las glán- dulas sebáceas, de la próstata y de las vesículas semina-
+
+les, (40, 41). Del mismo modo, la testosterona facilita la lipolisis en el tejido adiposo lo que reduce el almacena- miento de la grasa en las células de este tejido (42). En los hombres sanos se observa una correlación negativa entre los niveles de la testosterona total, y la libre (FT) del suero y la grasa visceral (43).
+
+En los hombres, la supresión de la testosterona del plasma con los análogos de la hormona liberadora de la gonado- tropina (GnRH) aumenta las lipoproteínas de alta densidad (HDL), y este efecto desaparece con la testosterona (44).
+
+En lo referente a la función sexual, los efectos de la testos- terona son muy importantes. En el hipogonadismo inten- so masculino, la frecuencia, la amplitud y la rigidez de las erecciones nocturnas se encuentran disminuidas, pero los niveles de los andrógenos son normales o discretamente bajos (45), por lo que Buena y sus colaboradores (46) su- gieren que, los 200 ng/dl puede ser el umbral de la testos- terona para que se produzca la erección nocturna.
+
+La depresión es menos frecuente en los hombres que en las mujeres, por lo que se piensa que las hormonas sexua- les se encuentran involucradas en la etiología de algunos casos de esta afección.
+
+En las mujeres, las glándulas adrenales y los ovarios consti- tuyen las fuentes principales de los andrógenos circulantes
+(47). En estos últimos, las células tecales en respuesta a la LH producen androstenodiona y testosterona. Una de las funciones más importantes desempeñadas por los andró- genos sobre el ovario consiste en convertir estos esteroides en estrógenos, con la colaboración de la aromatasa (48).
+
+La DHEA es el precursor substancial de la biosíntesis de los esteroides sexuales humanos, la cual se libera en la zona reticular (32) de la glándula. En los ovarios, la DHEA se comporta como una prohormona a cuyo través se ori- gina la testosterona (49). Como en los hombres, para que la DHEA, la DHEAS y la androstenediona ejerzan actividad androgénica tienen que haberse transformado antes en testosterona o dihidrotestosterona.
+
+La testosterona puede convertirse en DHT por la acción de la 5L reductasa o transformarse en estrógenos por la intercesión de la aromatasa. Sin embargo, la DHT se halla incapacitada para sufrir la aromatización. Cuanto mayor es la cantidad de testosterona circulante más importante es la formación de estrógenos en los tejidos diana perifé- ricos. La contribución de los ovarios al mantenimiento de los niveles totales de los andrógenos disminuye una vez aparecida la menopausia (50).
+
+No obstante, la habilidad de las células tecales ováricas para convertir la DHEA de origen adrenal en testosterona persiste tras la desaparición de la menstruación, a pesar de que las células de la granulosa ya no pueden producir estrógenos (51).
+
+
+Hormonas esteroideas sexuales, envejecimiento y ejercicio		
+Sex steroids hormones, ageing and exercise
+
+
+
+LOS ESTRÓGENOS
+
+En las mujeres, la producción de los esteroides en los ova- rios es crucial para el desarrollo y la función normal de varios tejidos. El útero, la mama, el esqueleto y el cerebro son los más representativos. Los esteroides originados en el ovario también poseen efectos locales sobre este tejido, los cuales son esenciales para la función ovárica normal, como sucede con la acción del estradiol en el desarrollo de los folículos (52), aunque en esta función también inter- vienen los andrógenos (53). La hormona luteinizante (LH) y la producción local de progesterona ejercen una función crítica en la ovulación (54).
+
+En la producción normal de los esteroides en el ovario in- fluyen varios tipos distintos de células. (55). En las célu- las tecales humanas estimuladas por la LH el colesterol se transforma en andrógenos y después, en las células granulosas sometidas a la acción de la FSH se convierte en estrógenos (56) (Figura 3).
+
+
+Figura 3. Producción de los esteroides en el ovario.
+
+
+
+El folículo preovulatorio se halla dotado de los niveles más elevados de estradiol, debido al tamaño de la población de las células granulosas y a su capacidad para realizar la aromatización de los andrógenos (57).
+
+Las células tecales y las granulosas expresan la molécula StAR, una proteína encargada de transportar el colesterol desde la parte externa a la interna de la membrana mito- condrial, lugar donde se hallan ubicadas la mayor parte de las enzimas implicadas en la esteroideogénesis, como la CYP11A1 y la 3d-HSD. Ambas transforman el colesterol en pregnenolona y/ o en progesterona.
+
+En la fase folicular, las células granulosas producen menor cantidad de esteroides, ya que poseen menos oxígeno y colesterol, pero después de verse sometidas a la acción de las gonadotropinas, se luteinizan y pueden sintetizar pregnenolona y progesterona del colesterol (55).
+
+En los hombres, gran número de las acciones de la testos- terona se llevan a cabo tras su unión a los receptores ERs, una vez convertida en estrógenos por la acción de la aro- matasa citocromo P450 (58). Entre estas acciones se inclu- yen: la regulación retroactiva de la LH (59), su participación en la construcción y en la conservación del esqueleto (60), además de colaborar en algunos aspectos del metabolismo de los lípidos y de la fisiología cardiovascular (61). De igual forma, desarrollan funciones importantes en los procesos cerebrales (62) y en la espermatogénesis (63).
+
+Las acciones expuestas en líneas precedentes pueden ser ejercidas por los estrógenos originados en la sangre (forma endocrina), así como por la aromatización local de la testosterona en las células diana (forma autocrina), o en sus alrededores (forma paracrina). Aproximadamente, el 80% del estradiol circulante en el plasma se produce por la acción de la aromatasa sobre la testosterona y la androstenediona, primordialmente en el tejido adiposo y en el músculo esquelético, aunque la actividad de esta en- zima se halla presente en otros tejidos, incluidos el hueso y el cerebro. Sólo el 20% del estradiol plasmático se se- grega por los testículos.
+
+Los estrógenos promueven las características sexuales secundarias, estimulan el crecimiento del endometrio, del útero y del tejido mamario, regulan el ciclo menstrual, aceleran el crecimiento del cuerpo, disminuyen la masa muscular, aumentan el metabolismo de las grasas, inter- vienen en el mantenimiento de los vasos sanguíneos y en el de la piel, favorecen el crecimiento del vello y de las uñas, disminuyen la resorción del hueso y aumentan su formación. Por otra parte, elevan los niveles de las HDL, los de la antitrombina III y los del plasminógeno, mientras disminuyen los de las LDL, reducen la motilidad intestinal incrementan la HCr y el cortisol e intervienen en las funcio- nes cerebrales (64).
+
+En el sistema vascular, los estrógenos mejoran la reactivi- dad de los vasos, aumentan la producción del óxido nítri- co (ON), disminuyen la formación de los radicales libres, y previene la apoptosis (muerte celular programada) en las células vasculares normales (12). Estos efectos se produ- cen por la colaboración de los receptores ERs, PRs, and ARs que funcionan como dianas de las hormonas citadas. Dichos receptores se hallan presentes en las células endo- teliales vasculares, en las células del músculo liso, y en los cardiomiocitos (12). En las células del músculo liso vascular de las mujeres los ERE son más abundantes que los ERE, en tanto que en las de los hombres son aproximadamente iguales (65). El hecho de que las mujeres fértiles el riesgo a padecer la enfermedad cardiovascular sea menor que en los hombres, puede ser debido a los distintos niveles de los estrógenos observados en cada uno de ellos (61).
+
+En el sistema nervioso central (SNC) los efectos neuro- protectores de los estrógenos se han comprobado en los animales (36) y también en las mujeres (66). Estos efectos
+
+
+
+
+
+
+
+se llevan a cabo a través de los receptores de los estró- genos ER s y y (67). Por otra parte, los estrógenos son capaces de actuar directamente sobre los receptores ERE presentes en el hipocampo (68) o hacerlo a través de los receptores del IGF-I.
+
+De la revisión realizada por Scharfman y MacLusky (69) se deduce que, al menos en el hipocampo, el factor neu- rotrófico cerebral (FNC) comparte dianas, efectos y me- canismos con los estrógenos, aunque no se excluye que también lo haga en otras regiones del cerebro. Los estró- genos mejoran la memoria (70), e intervienen favorable- mente en el mantenimiento de la estructura de la médula espinal y en especial, en el aumento de la densidad de las sinapsis y en la mejoría de su fisiología (potenciación de los impulsos glutamatérgicos en el área CA1) (71). El FNC ejerce efectos similares, o lo que es igual, ambos protegen al sistema nervioso. Estos efectos consisten en mejorar la supervivencia de las neuronas del septum, del cuerpo estriado y del hipocampo, además de proteger al cerebro contra la isquemia (falta de aporte de sangre) (72).
+
+En la función sexual de los dos géneros intervienen varios órganos, vías, mecanismos y hormonas. De estas últimas, las más importantes son los estrógenos y los andrógenos, ya que ellas son las que mayor influencia ejercen sobre el deseo y la respuesta sexual (73). En las mujeres, la vagina y la vulva son dos estructuras de gran relevancia en la realización del acto sexual. Ello se debe, a que en las mismas se hallan presentes numerosos receptores estrogénicos (ER) p y y (74) y también el androgénico (AR) (75). Los primeros son más abundantes en la vagina y los segundos en la vulva. De su correcto funcionamiento depende la respuesta sexual.
+
+En los hombres y en las mujeres el cerebro interviene de forma notable en el deseo y en la satisfacción sexual. Ello es así, porque en esta región del sistema nervioso se ex- presan los receptores de los estrógenos ER y los de los andrógenos AR (76, 77). El núcleo supraóptico de las mu- jeres jóvenes, además de contener una importante canti- dad de ER, está encargado de producir la vasopresina y la oxitocina, dos moléculas vinculadas al orgasmo, de lo que se infiere, que esta región del cerebro desempeña un importante cometido en el deseo y en la respuesta sexual de las jóvenes (73).
+
+De los numerosos trabajos publicados en la literatura científica se puede obtener la conclusión de que, en las mujeres, los estrógenos son más eficaces para mejorar los problemas del tracto urogenital, del sistema vascular y del hueso, debido a que los mismos contienen abundante cantidad de ERs, pero en los que dominan los AR, como en el núcleo supraóptico, lo es la testosterona (78), por lo que se considera a esta hormona como la más efectiva en el mantenimiento del deseo y la respuesta sexual.
+
+Parece pues que, tanto en los hombres como en las mu- jeres, los estrógenos y los andrógenos intervienen en el
+
+deseo sexual, aunque en algunas áreas del cerebro sus efectos se consigan a través de la aromatización de la tes- tosterona.
+
+Las acciones de los estrógenos sobre el sistema vascular en los hombres son similares a los descritos en las mu- jeres (61), debido a que la producción de los estrógenos endógenos en los hombres desempeña una función muy positiva en el mantenimiento de la salud cardiovascular. En los jóvenes, los niveles del estradiol se relacionan de forma inversa con los niveles sanguíneos de las LDL co- lesterol y con los de glucosa. Esto significa que, en estas personas, los estrógenos son capaces de mantener un buen metabolismo de los lípidos y la glucosa (79).
+
+Las mismas hormonas que intervienen en el sistema geni- tal de las mujeres lo hacen también en el de los hombres. Así la producción y la secreción en forma de oleadas de la GnRH en el hipotálamo estimula en la hipófisis anterior la formación de las hormonas folículo- estimulante (FSH) y luteinizante (LH). Las dos últimas son las responsables del control de la espermatogénesis en los testículos. La LH estimula en las células de Leydig la secreción de tes- tosterona y ésta, tras penetrar en los túbulos seminíferos, incita a las células de Sertoli a iniciar la espermatogénesis, hecho en el que colabora la FSH (80).
+
+En el hombre adulto, los estrógenos desempeñan una función crítica en el control de la función sexual y en el de la reproductora (81), como se demuestra en los va- rones deficientes en aromatasa (82) y que por lo tanto, carecen de estrógenos. Estos hombres siguen crecien- do durante la edad adulta, poseen niveles elevados de testosterona, de hormona luteinizante (LH) y de hor- mona estimulante del folículo (FSH), se ven afectados por la disminución del número y de la movilidad de los espermatozoides. En algunos casos padecen criptor- quidia bilateral (falta del descenso de los testículos).
+
+
+LA PROGESTERONA
+
+Durante la ovulación, la progesterona interviene en la re- gulación de la función de las células granulosas y en la ruptura del folículo (83). Sus efectos se originan a través de la unión con sus receptores PR conocidos como PR-A y PR-B. Aunque ambos los produce un mismo gen, sin embargo, ejercen funciones distintas (84). El PR-A es un represor dominante del PR-B (85), pero el equilibrio en- tre los dos tipos es el que determina la respuesta de las células. Para la ovulación y la luteinización es esencial la colaboración del PR inducido por la LH (86).
+
+De los trabajos publicados en los animales modificados genéticamente se deduce que, el único necesario para que se produzca la ovulación es el PR-A (87), aunque los dos intervienen en diversas acciones de la proges- terona (88).
+
+
+Hormonas esteroideas sexuales, envejecimiento y ejercicio		
+Sex steroids hormones, ageing and exercise
+
+
+
+Durante la ovulación se produce un aumento de los nive- les de los andrógenos, de los estrógenos y de la progeste- rona en los ovarios; y en la fase luteal, los estrógenos y la progesterona alcanzan los niveles más elevados (89).
+
+
+
+EL ENVEJECIMIENTO Y LOS ESTEROIDES SEXUALES EN LAS MUJERES
+
+La menstruación es un proceso que se produce única- mente en los primates y se debe al desprendimiento de las células que tapizan el endometrio. El ciclo menstrual se compone de una fase folicular y otra luteal, separadas por la ovulación. Cada fase dura aproximadamente 14 días y el ciclo total 28 (90).
+
+A consecuencia de las alteraciones hormonales originadas por el envejecimiento se suelen producir una serie de sín- tomas, que preceden, coinciden o siguen a la menopausia. El climaterio constituye una fase del proceso de envejeci- miento en la que una mujer pasa del estado reproductivo al no reproductivo. Se produce antes de la menopausia, pero puede persistir una vez desaparecida la menstruación.
+
+Se define a la menopausia como la ausencia de la mens- truación que persiste más allá de los 6 meses. En los paí- ses industrializados aparece entre los 45 y los 55 años y como promedio a los 51 (91), pero esta cifra disminuye a los 48 en Perú (92).
+
+La transición desde la vida reproductiva normal hasta un año después de finalizada la menstruación se la denomina perimenopausia, o transición a la menopausia y suele du- rar entre 10 y 15 años (93).
+
+En los procesos hormonales que intervienen en la transi- ción a la menopausia se halla involucrado el eje hipotála- mo-hipófisis-gónadas (HPG) (94). Con el envejecimiento las tres estructuras se hallan alteradas, aunque en la etapa de la transición a la menopausia la secreción del estradiol ovárico suele ser normal, o incluso algo elevada (94), sin embargo, pocos años después disminuye.
+
+En el envejecimiento, además de las modificaciones en la secreción de los esteroides sexuales (estradiol y pro- gesterona) en el ovario, también disminuyen los índices de producción de otras hormonas como los andrógenos y los factores de crecimiento. Todos estos acontecimientos intervienen en la transición a la menopausia (95).
+
+La menopausia puede ser fisiológica o estar ocasionada por la cirugía o las radiaciones terapéuticas. A la meno- pausia que aparece antes de los 40 años se la denomina prematura y se halla producida por el aumento de las hor- monas gonadotrópicas.
+
+En todos los mamíferos y en la gran mayoría de los verte- brados el envejecimiento origina el declive de la capacidad reproductiva (96). Sin embargo, la menopausia solamente se produce en las especies que tienen ciclos menstruales, como sucede en las mujeres y en los grandes primates.
+
+A la pérdida de los folículos ováricos se debe la dismi- nución de los niveles circulatorios del estradiol y la apa- rición de la mayor parte de los síntomas originados en la postmenopausia.
+
+La sintomatología varía considerablemente de unas mu- jeres a otras, y los síntomas de aparición más temprana suelen ser los que afectan al sistema vascular, como los sofocos y el aumento de la sudoración, pero no son infre- cuentes el insomnio, la irritabilidad, el dolor de cabeza, la sensación de cansancio, los mareos, la pérdida de memo- ria, la falta de secreción vaginal, el aumento del peso cor- poral, las alteraciones de la piel y otra serie de trastornos urológicos de mayor o menor intensidad. Estos síntomas duran unos 5 años, por término medio, y la mayor parte de ellos originan molestias leves, o incluso pasan desaper- cibidos (97). Los trastornos psicológicos, las alteraciones metabólicas intensas, las afecciones cardiovasculares (hi- pertensión) y la osteoporosis acostumbran aparecer en las épocas tardías y sus consecuencias pueden ser graves.
+
+La osteoporosis se presenta antes en las mujeres afecta- das por la menopausia prematura, sea espontánea o qui- rúrgica, debido a la disminución precoz de los estrógenos. La rapidez y la intensidad con la que disminuyen los es- teroides sexuales y en gran manera, la forma de vida que las mujeres llevaron a cabo en las épocas anteriores de la vida, son los factores que influyen en su aparición.
+
+En la menopausia espontánea, las modificaciones de los esteroides sexuales se producen gradualmente y son de diferente extensión, según a las hormonas que afecte. La disminución de las concentraciones de los estrógenos des- pués de desaparecer la menstruación es muy importante, sin embargo, en el caso de los andrógenos, al seguirse produ- ciendo la testosterona, los niveles sólo son un 50% menores a los observados en las mujeres jóvenes (95). Ello se debe, a que en las posmenopáusicas la actividad de la aromatasa en el tejido adiposo es más intensa que en los años anteriores, lo que produce más cantidad de estrógenos (98).
+
+En la menopausia son muy frecuentes la disminución de la libido y la falta de secreción en la vagina, lo que en la mayoría de los casos hace imposible llevar a cabo una actividad sexual satisfactoria (99).
+
+La terapia hormonal sustitutiva (THS) en la que se emplean los estrógenos y los progestágenos constituye el sistema habitual de tratamiento de la menopausia. Con su uso me- joran los síntomas vasomotores, las alteraciones del siste- ma genitourinario y la pérdida de la masa ósea (100), pero la restauración de la libido no se produce. En las mujeres
+
+
+
+
+
+
+
+jóvenes hipogonadales la disminución de la libido no se mejora por la utilización de los estrógenos (71), pero sí por la de la testosterona (101).
+
+La disminución de los estrógenos que acompaña a la me- nopausia influye de forma negativa sobre los síntomas neurológicos, debido a que los receptores ERs tan nume- rosos en el SNC se ven afectados por el envejecimiento
+(102). La disminución de los estrógenos afecta a la función del hipotálamo, lo que influye otras estructuras que en su conjunto son las responsables de las afecciones del SNC más habituales en las mujeres mayores. Por eso, la enfer- medad de Alzheimer y la depresión son más frecuentes en las mujeres que en los hombres (103).
+
+
+
+EL ENVEJECIMIENTO Y LOS ESTEROIDES SEXUALES EN LOS HOMBRES
+
+A diferencia de lo que sucede en las mujeres, en las que la menopausia significa el final irreversible de la vida re- productiva y el de la actividad del ciclo ovárico, lo que se acompaña de la disminución de las hormonas sexuales, en los hombres, la fertilidad persiste hasta bien avanzado el envejecimiento, dado que el descenso de los niveles es progresivamente lento. Hasta la década de los 80, un con- siderable número de los hombres poseen niveles de FT y bio T dentro del rango observado en los jóvenes. Debido a ello, se han propuesto los términos deficiencia parcial de andrógenos de los hombres mayores o ataque tardío de hipogonadismo, para sustituir a los de andropausia o climaterio masculino (23).
+
+El descenso de la función testicular ligada al el paso de los años se asocia al declive de la virilidad, al de la actividad sexual y al descenso de la masa muscular y la fuerza, junto al aumento del desarrollo de la aterosclerosis y a ciertas alteraciones del metabolismo de la glucosa (23) (Figura 4).
+
+
+Figura 4. El envejecimiento y la función testicular.
+
+La testosterona del suero, y en especial la fracción bio- disponible (bio T) disminuyen lentamente a medida que pasan los años (104). La disminución se inicia entre los 40 y los 50 años (105). Entre los 30 y los 80 años la media del índice de testosterona libre (la relación entre la testos- terona total del suero y la globulina ligante de la hormona sexual (SHBG) disminuye un 50% en los hombres (106). El 20% de los mayores de 60 años posee niveles hipogona- dales de testosterona en el suero (107). En estos hombres, los niveles en el suero de la testosterona libre (FT) y los de la biodisponible (bio T) son menores que los de la total (TT) (105).
+
+Los trabajos transversales no muestran modificaciones sustanciales en los niveles séricos de la DHT en el enveje- cimiento (108). Los niveles plamáticos de androstenodio- na disminuyen con los años (31). Su actividad androgénica depende de su transformación en testosterona. Los niveles de la DHEA descienden desde los 430 ng/dl observados a los 20 años, a los 140 ng/dl en los que tienen 75 años. Del mismo modo, la DHEAS disminuye con la edad (108). Sus efectos se atribuyen a su conversión en testosterona y estrógenos, pero en los mayores son modestos (33).
+
+La disminución de los andrógenos es la responsable de varias de las alteraciones observadas en los hombres ma- yores, tales como las que afectan al hueso, a la compo- sición corporal, al sistema cardiovascular, al SNC y a la sexualidad.
+
+A partir de los 50 años, la incidencia de la osteopenia es si- milar en los dos géneros, pero la de la osteoporosis es me- nor en los hombres (109) y su aparición es más tardía (110). Aunque las fracturas aparecen más tarde, sin embargo, la morbilidad y la mortalidad originadas por ellas son más im- portantes en los varones (111). En los mayores afectados por la fractura de la cadera los niveles séricos de testoste- rona son más bajos (112), y en especial, los de la biodispo- nible (113). Los de la total se ve menos afectados (114).
+
+Varios trabajos científicos muestran que, además de la acción directa de los andrógenos, los estrógenos produ- cidos por la aromatización de la testosterona en los diver- sos tejidos (58) desempeñan una importante función en la regulación de la adquisición y la conservación de la masa ósea de los hombres adultos (38).
+
+En los hombres, el estradiol es el esteroide sexual más importante que interviene en el mantenimiento de la DMO (115), de manera que, la disminución del cociente estróge- nos/testosterona puede ser el principal responsable de la aparición de la osteoporosis en ellos (116).
+
+En los hombres mayores los niveles de estradiol son dos veces más elevados que en las mujeres posmenopáusicas
+(117). Ello se debe, a que en los primeros, además de las adrenales, los testículos siguen produciendo testosterona, que después se convierte en estrógenos (118), mientras
+
+
+Hormonas esteroideas sexuales, envejecimiento y ejercicio		
+Sex steroids hormones, ageing and exercise
+
+
+
+que en las mujeres, después del cese de la función ovári- ca, los únicos andrógenos que poseen son los originados en las adrenales.
+
+En los hombres jóvenes sanos, se observa una correlación negativa entre la testosterona total y la libre (FT) del sue- ro y la grasa visceral (43). En los mayores, la masa grasa aumenta un 30% (119) y dicho aumento se produce, prin- cipalmente, en el abdomen. La adiposidad abdominal es, en parte, responsable de la disminución de los niveles de la testosterona (108).
+
+Por otra parte, entre los 30 y los 80 años la masa muscular disminuye un 30% en los hombres (119), lo que se acom- paña de un aumento del tejido fibroso (120) y de un des- censo proporcional de la fuerza. Para algunos (121, 122), la disminución de la testosterona es la responsable de la pérdida de la masa, pero no de la fuerza del músculo.
+
+En lo referente al sistema cardiovascular, parece que los bajos niveles de testosterona observados en los hombres mayores se acompañan de un aumento de la frecuencia a sufrir la aterosclerosis y la enfermedad coronaria, pero des- conocemos si la disminución de la testosterona es la causa productora, ya que cuando disminuye el IMC y desaparece la grasa abdominal, se desvanece el riesgo a padecer la enfermedad cardiovascular (123). No parece que la DHEAS influya sobre la enfermedad coronaria, ni que la DHEA po- sea una actividad antiaterogénica significativa (23).
+
+El envejecimiento se asocia al deterioro de múltiples as- pectos de la función cognitiva, pero desconocemos la re- lación que pueda existir con la disminución de los niveles de los andrógenos, ya que ignoramos si entre la testos- terona y la función cognoscitiva existe algo más que las relaciones temporales (124).
+
+Los mecanismos que pueden explicar las relaciones entre la testosterona y la capacidad cognitiva en los mayores se basan en los efectos neurotróficos y neuroprotectores de la testosterona (125, 126). En el cerebro, la testosterona puede ser trasformada en dihidrotestosterona y unirse a los receptores de los andrógenos, o puede ser convertida en estradiol por la aromatasa. La aromatasa y los receptores de los andrógenos se hallan ubicados en zonas clave del cerebro involucradas en la memoria y el aprendizaje, como son el hipocampo y la amígdala (125). La testosterona au- menta las concentraciones del factor del crecimiento neural (NGF) en el hipocampo y la regulación del receptor del NGF en el cerebro anterior (127). Los andrógenos pueden ayudar a las neuronas a recuperarse tras su lesión (128, 129).
+
+De la revisión de los trabajos científicos publicados sobre la relación entre la testosterona y la depresión en los hombres mayores, se puede obtener la sugerencia, pero no demos- trar, que la secreción de testosterona puede hallarse dismi- nuida en algunos hombres con depresión mayor (130).
+
+En los hombres, el envejecimiento se acompaña de un descenso de la libido y de la actividad sexual. Sin embar- go, solamente el 15% mayores de 60 años niegan realizar alguna actividad sexual (131).
+
+En los mayores el aumento de la disfunción eréctil se pro- duce como consecuencia del descenso de los niveles de testosterona (132), lo que disminuye la síntesis del óxido nítrico en los cuerpos cavernosos del pene necesaria para mantener la erección. Sin embargo, la causa más frecuen- te de la impotencia en los mayores es la aterosclerosis de las arterias de la pelvis (133).
+
+No es posible asegurar que, el descenso de los niveles de testosterona originados por la edad en los hombres mayo- res sanos, sea el factor más importante involucrado en la disminución de la libido y de la actividad sexual (23).
+
+
+
+EL EJERCICIO Y EL ENVEJECIMIENTO DE LOS ESTEROIDES SEXUALES
+
+Varias de la afecciones originadas por el envejecimiento rela- cionadas con las modificaciones de los esteroides sexuales pueden ser mejoradas por la acción del ejercicio (134, 135).
+
+Los estrógenos ejercen efectos contrapuestos sobre la salud de las mujeres, de manera que su disminución origina una serie de problemas y su aumento, otros distintos. Entre estos últimos se encuentran los cánceres de mama y útero.
+
+Las mujeres posmenopáusicas sedentarias obesas o con sobrepeso poseen niveles sanguíneos elevados de estró- genos, lo que les aumenta dos veces el riesgo a sufrir es- tos tumores. Sin embargo, las mujeres posmenopáusicas que hacen ejercicio regularmente (alrededor de 3 horas semanales) poseen un riesgo menor a padecer estos cán- ceres que las sedentarias (136).
+
+En las mujeres posmenopáusicas el ejercicio se asocia a la disminución de los estrógenos y los andrógenos en el suero (137). El principal mecanismo por que el ejercicio influencia los niveles de los esteroides sexuales en estas mujeres, es a través de la disminución de la grasa corpo- ral, un substrato para la producción de los estrógenos y la testosterona, lo que disminuye la aromatización de los an- drógenos adrenales y su conversión en estrógenos (138).
+
+El ejercicio de moderada intensidad realizado 5 días por semana a razón de 45 minutos, diarios, durante 12 meses, en las posmenopáusicas sedentarias y con aumento de peso, disminuye la grasa corporal un 2%, lo que se acom- paña de un descenso de los niveles de estradiol del 13,7% y de los del estradiol libre del 16,7% (138).
+
+Como quiera que la disminución de los estrógenos puede afectar a la DMO, los autores (138) no observaron ningún
+
+
+
+
+
+
+
+tipo de alteración ósea en el grupo que realizó el programa durante 12 meses.
+
+El ejercicio produce el aumento de los niveles de testos- terona circulatorios y musculares. El tipo, la intensidad, el volumen y el número de los músculos involucrados en el ejercicio parecen influir sobre la forma en que la testos- terona origina dicho aumento. Tanto el ejercicio aerobio como el de fuerza son eficaces para aumentar la testoste- rona, pero el último produce mejores resultados. Sin em- bargo, los grandes volúmenes de entrenamiento aerobio disminuyen los niveles de testosterona. El déficit calórico causado por este tipo de entrenamiento desciende los ni- veles de leptina, hecho que interrumpe la secreción de la hormona liberadora de la gonadotropina, lo que origina la disminución de la testosterona. Del mismo modo, el ejerci- cio aerobio de moderada y baja intensidad realizado por la tarde disminuye entre un 17 y un 30% las concentraciones de testosterona total (TT) durante la noche (139).
+
+Los ejercicios que incluyen mayor número de músculos y los realizados a gran velocidad como los saltos (140), los de gran intensidad (141) y los de elevado volumen con intensidades medias (142) son los que producen los ma- yores aumentos de la testosterona.
+
+Los ejercicios de fuerza de duración igual o inferior a los 90 minutos, producen elevaciones transitorias de la tes- tosterona, pero dos horas después retornan a los niveles basales (143, 144).
+
+Cuando el entrenamiento dura más de dos horas, las con- centraciones de testosterona disminuyen una vez finaliza- do el ejercicio (145), y dicha disminución puede persistir hasta 12 horas después (146).
+
+El ejercicio aerobio y el de fuerza de gran intensidad realiza- dos por la tarde disminuye las concentraciones nocturnas de testosterona total (TT) y libre (TL), lo que se acompaña de una dificultad para la producción de la hormona luteinizan- te (LH). Estos resultados confirman que, la inhibición del eje hipotálamo-hipófisis sobre la secreción de la HL es el meca- nismo responsable de la disminución de la testosterona que se produce después del ejercicio intenso de fuerza (146),
+
+Las elevaciones de los niveles de testosterona en sangre originadas por el EF disminuyen después de la toma de alimentos, en especial con los que contienen abundante cantidad de grasa (147).
+
+Un efecto importante de la testosterona es colaborar al aumento de la masa muscular deteriorada por el paso del tiempo y por la falta de ejercicio. La testosterona se halla involucrada en el proceso de la hipertrofia muscular por sus efectos anabolizantes, al influir sobre el aumento de la síntesis de las proteínas contráctiles. Efectos en los que colaboran las células satélites y el IGF-I (148, 149).
+
+Otra forma en que la testosterona puede facilitar la hiper- trofia muscular es a través de la in activación del cortisol, una hormona que estimula la degradación de las proteí- nas, La testosterona aminora la pérdida de la fuerza origi- nada por el cortisol (150).
+
+El EF es el procedimiento más efectivo para conseguir el aumento de la masa muscular y la fuerza en las personas mayores (151), tanto si se realiza con intensidades entre el 40 y el 50% de 1RM como si se lleva a cabo con las cer- canas al 80% (152). El aumento de la fuerza se consigue a través del incremento de las descargas y del reclutamiento de las UM y por la hipertrofia de las fibras. Pero para lo- grar estos objetivos es una condición indispensable, que dichas personas realicen una nutrición correcta (153).
+
+En lo que se refiere a la actividad sexual, varios investiga- dores han publicado trabajos en los que se asegura que el ejercicio aumenta el deseo, la actividad y la satisfacción sexual, tanto en los hombres como en las mujeres (154). El ejercicio al activar el sistema nervioso simpático aporta mayor cantidad de sangre al aparato genital, lo que facilita el mantenimiento de la erección del pene en el hombre y del clítoris en la mujer. Además, el ejercicio estimula en el endotelio capilar la síntesis del óxido nítrico, hecho que colabora a la dilatación de las arteriolas de las estructuras sexuales citadas. Con tan sólo realizar un paseo de 3 km al día, con cierta rapidez, se puede disminuir el riesgo a padecer la disfunción eréctil (154) (Figura 5).
+
+
+Figura 5. El ejercicio y la actividad sexual en los dos géneros.
+
+
+
+Tanto en los hombres como en las mujeres, la testosterona aumenta la libido, aunque en estas últimas lo hace conjun- tamente con los estrógenos. El ejercicio agudo y en espe- cial el de fuerza, aumenta los niveles de la testosterona, pero el aerobio de larga duración los disminuye (135). Se- gún Bacon, Mittleman, y Kawachi, (155), en los hombres mayores de 50 años activos, el riesgo a padecer la impo- tencia sexual es un 30% menor que el de los sedentarios. El grado de forma física se relaciona de forma directa con
+
+
+Hormonas esteroideas sexuales, envejecimiento y ejercicio		
+Sex steroids hormones, ageing and exercise
+
+
+
+la actividad y la satisfacción sexual en los hombres y en las mujeres mayores (135, 156).
+
+Para Penhollow y Young (157) el ejercicio regular es una forma de evitar el declive del deseo y el rendimiento sexual.
+
+En cuanto a la salud del hueso, en general, las actividades de corta duración producen mejores resultados que las de larga. Sin embargo, Ryan y sus colaboradores (158) dicen haber observado aumentos de la masa muscular y de la DMO con un programa de fuerza de 6 meses de duración, en los dos sexos y en jóvenes y mayores.
+
+Las personas mayores que desde la juventud realizan ejer- cicio con regularidad, hacen una dieta equilibrada en nu- trientes y calorías y llevan a cabo un buen estilo de vida, el mantenimiento de la masa ósea es más eficiente que en las sedentarias.
+
+Los mejores ejercicios para conservar la salud de los hue- sos de las extremidades inferiores, incluida la cadera, son los que soportan el peso del cuerpo como andar, trotar, correr (159), saltar (160) o subir escaleras, así como los de fuerza realizados con pesas, máquinas, bandas elásticas o utilizar los propios músculos del cuerpo o la colabora- ción de otra persona, para oponer la resistencia adecuada a cada tipo de músculo. No obstante, para las personas mayores y sobre todo, para las que sufren algún tipo de molestias en los miembros inferiores, los saltos y las carre- ras no son muy adecuados.
+
+Es un hecho aceptado por la mayoría de los especialistas que, el sistema óseo es el que mayores beneficios obtie- ne con el entrenamiento de fuerza en todas las edades, pero en especial, en los mayores, y sobre todo, en las mujeres, incluidas las que superan los 75 años aunque sean frágiles (161).
+
+En las mujeres, el EF además de mejorar la fuerza de los músculos aductores de la cadera, de los lumbares y del cuádriceps aumenta la DMO del cuello del fémur, la del triángulo de Ward y la de la columna (162).
+
+En las mujeres posmenopáusicas, cuanto más intensa es la carga del peso levantado durante 1 año, mayor es la DMO del trocánter del fémur (163). El mejor efecto se con- sigue con las sentadillas y con el press de piernas (163).
+
+Los huesos de la parte superior del cuerpo, incluida la co- lumna vertebral, sólo mejoran su contenido mineral con el entrenamiento de fuerza.
+
+En las personas mayores afectadas por la osteoporosis, los ejercicios a utilizar deben ser elegidos teniendo en cuenta las características especiales de cada individuo. Para facilitar la adherencia al programa, éste debe ser va- riado y estar constituido por ejercicios de fuerza, de re-
+
+sistencia y de flexibilidad. Como quiera que, cada uno de ellos, aparte de los efectos que origina sobre el hueso, también lo hace sobre los demás órganos y sistemas del organismo, por lo que los beneficios conseguidos son ma- yores que cuando se utiliza sólo uno de ellos.
+
+El entrenamiento de fuerza debe ser realizado, como mí- nimo, dos días por semana, mejor cuando no se hace el de resistencia; y en el mismo deben intervenir los gran- des grupos musculares (164). Entre 20 y 30 minutos al día suelen ser suficientes. La intensidad puede oscilar entre el 60 y el 80% de 1 RM. Tres series de 12 o 14 repeticiones mejoran la fuerza y la resistencia de los músculos utiliza- dos. A pesar de que el grupo de Smith (165) asegura que las ganancias de fuerza conseguidas con el EF dinámico durante dos años, no se pierden por completo después de tres años de cesar el EF, sin embargo, en lo que al hueso se refiere, lo correcto, al menos en mi experiencia, es in- corporarlo como un hábito corriente de la vida (166).
+
+Según Stewart y colaboradores (167), en los mayores, ni la actividad física ligera, ni el nivel de la forma física aerobia se correlacionan con la salud del hueso. Solamente la fuerza de los músculos y el volumen de la masa grasa abdominal ejercen efectos positivos sobre la DMO. En las mujeres, el tratamiento hormonal con estrógenos y progesterona sólo ejerce beneficios muy modestos en la columna vertebral
+
+Como ya se ha señalado en líneas precedentes, los estró- genos ejercen efectos neuroprotectores sobre el SNC en los animales masculinos y femeninos (168), así como en las mujeres (66). Los estrógenos y los factores de crecimiento interactúan en el tejido cerebral y uno de estos últimos, el factor neurotrófico cerebral (FNC) posee las mismas dianas, efectos y mecanismos que los estrógenos (69), o lo que es igual, ambos protegen al sistema nervioso (70).
+
+Se piensa que los estrógenos desempeñan una función muy importante en la conservación y en la supervivencia de las neuronas, así como en la formación de nuevas si- napsis, por lo que su disminución puede acarrear altera- ciones de mayor o menor cuantía en alguna de las funcio- nes del cerebro, y especialmente en la cognoscitiva.
+
+Lo que si se ha demostrado, es que los estrógenos influ- yen sobre los síntomas de la depresión a través de sus efectos sobre el sistema serotoninérgico, el FNC y la pro- teína cinasa-C (169).
+
+Del mismo modo, la testosterona ejerce efectos neurotróficos y neuroprotectores sobre el sistema nervioso probablemente al incrementar las concentraciones de los factores de creci- miento como se ha demostrado en el caso del NGF (127).
+
+El ejercicio es un estímulo cuyos efectos influyen sobre la función cerebral, incluyendo el aumento de la regulación de los factores tróficos, tales como el factor neurotrófico
+
+
+
+
+
+
+
+derivado de la línea de las células gliales (GDNF), el factor de crecimiento de los fibroblastos-2 y el FNC (170).
+
+El ejercicio, en todas sus formas, estimula la liberación de ciertos neurotransmisores en el cerebro cuya función con- siste en mejorar los trastornos físicos y mentales, y ade- más colabora a la generación de nuevas neuronas, lo que influye favorablemente sobre la forma de envejecer.
+
+En el hipocampo, el centro de la memoria y el aprendizaje del cerebro, el ejercicio estimula la expresión del gen que controla el factor neurotrófico cerebral (FNC). El FNC es el responsable de la producción de las proteínas que pro- mueven la formación de nuevas neuronas (neurogénesis) (171), a la vez que protege a las ya existentes y mejora la plasticidad de las sinapsis. Las sinapsis, o unión entre las neuronas, desempeñan una función crucial en la transmi- sión de las señales con las que se comunican, un hecho en el que se sustentan la memoria y el aprendizaje (171).
+
+El ejercicio y los estrógenos interactúan para regular la ex- presión del mARN y de la proteína del FNC en el hipocam- po, lo que constituye un hecho importante para mantener
+
+la salud cerebral, y el bienestar general, especialmente en las mujeres (172).
+
+El aumento de la forma física cardiovascular producida por el ejercicio mejora la plasticidad de las regiones prefrontal y parietal de la corteza cerebral, lo que puede servir para disminuir la senescencia biológica y cognoscitiva (173).
+
+Según Deary y sus colaboradores (174), quienes a los 79 años disfrutan de una buena forma física, son los que po- seen mejor capacidad cognoscitiva.
+
+Como resumen, se puede decir que, el ejercicio a través de la estimulación de la expresión del FNC y otras neu- rotrofinas en el cerebro, y en especial en el hipocampo, produce efectos beneficiosos sobre la función cerebral en todas las edades, tales como promover la plasticidad de sus células y aumentar el rendimiento del aprendizaje y la memoria, lo que resulta de gran utilidad en la prevención y tratamiento de la depresión (175), de la enfermedad de Al- zheimer y de otras afecciones del sistema nervioso como la esclerosis múltiple (176).
+
+
+
+
+BIBLIOGRAFÍA
+1. Wilson.C.A and D. Davies. The control of sexual differentiation of the reproductive system and brain. Reproduction . 133 331-359- 2007
+2. Jost A, Vigier B, Prepin J & Perchellett JP. Studies on sex differentiation in mammals. Recent Progress in Hormone Research 29 1–41-1973.
+3. Marshall Graves JA.Human Y chromosome, sex determination, and spermatogenesis – a feminist view. Biology of Reproduction 63 667–676-2000
+4. Fleming A & Vilain E.The endless quest for sex determination genes. Clinical Genetics 67 15–25-2004.
+5. Koopman P, Bullejos M & Bowles J. Regulation of male sexual de- velopment by Sry and Sox9. Journal of Experimental Zoology 290 463–474-2001.
+6. Viger RS, Silversides DW & Tremblay JJ. New insights into the regu- lation of mammalian sex determination and male sex differentiation. Vitamins and Hormones 70 387–413-2005
+7. El-Gehani F, Zhang F-P, Pakarinen P, Rannikko A & Huhtaniemi I. Go- nadotropin-independent regulation of steroidogenesis in the fetal rat testis. Biology of Reproduction 58 116–123-1998.
+8. Diez d’Aux RC & Pearson Murphy BE.Androgens in the human fetus. Journal of Steroid Biochemistry 5 207–210-1974
+9. Sharpe RM. Pathways of endocrine disruption during male sexual di- fferentiation and masculinisation. Best Practice & Research: Clinical Endocrinology and Metabolism 20 91–110-2006
+10. Rey R, Lukas-Croisier C, Lasala C & Bedecarrás P. AMH/MIS: what we know about the gene, the protein and its regulation. Molecular and Cellular Endocrinology 211 21–31-2003.
+11. Kaipia A, Toppari J, Huhtaniemi I & Paranko J. Sex difference in the action of activin-A on cell proliferation of differentiating rat gonad. En- docrinology 134 2165–2170-1994.
+12. Wierman.M.E. Sex steroid effects at target tissues: mechanisms of ac- tion. Advan. Physiol. Edu. 31: 26-33, 2007
+13. Santoro N, Butler JP, Filicori M, Crowley WF Jr. Alterations of the hypo- thalamic GnRH interpulse interval sequence over the normal menstrual cycle. Am J Physiol Endocrinol Metab 255: E696–E701, 1988.
+14. Bremner WJ, Bagatell CJ, Christensen RB, Matsumoto AM. Neuroen- docrine aspects of the control of gonadotropin secretion in men. In: Whitcomb RW, Zirkin BR (eds.), Understanding Male Infertility: Basic and Clinical Aspects. New York: Raven Press; 1993: 29–41
+15. Drummond.A.E. The role of steroids in follicular growth. Reprod Biol Endocrinol doi: 10.1186/1477-7827-4-16. . ; 4: 16-2006. Published online 2006 April 10.
+
+
+
+16. Mendelsohn ME. Genomic and nongenomic effects of estrogen in the vasculature. Am J Cardiol 90: 3F–6F, 2002.
+17. Fuller PJ. The steroid receptor superfamily: mechanisms of diversity. FASEB J 5: 3092–3099, 1991.
+18. Moore JT, McKee DD, Slentz-Kesler K, Moore LB, Jones SA, Horne EL, Su JL, Kliewer SA, Lehmann JM, and Wilson TM. Cloning and characterization of human estrogen receptor beta isoforms. Biochem Biophys Res Commun 247: 75-78, 1998
+19. Drummond AE, Baillie AJ, Findlay JK. Ovarian oestrogen receptor and mRNA expression: impact of development and oestrogen. Molec Cell Endocrinol. 149:153–161-1999.
+20. Murphy LC, Dotzlaw H, Leygue E, Coutts A, and Watson P. The pa- thophysiological role of estrogen receptor variants in human breast cancer. J Steroid Biochem Mol Biol 65: 175-180, 1998
+21. Delbes G, Levacher C, Pairault C, Racine C, Duquenne C, Krust A & Habert R. Estrogen receptor {beta}-mediated inhibition of male germ cell line development in mice by endogenous estrogens during perina- tal life. Endocrinology 145 3395–3403-2004.
+22. Delbes G, Levacher C, Duquenne C, Racine C, Pakarinen P & Habert
+R. Endogenous estrogens inhibit mouse fetal Leydig cell development via estrogen receptor alpha. Endocrinology 146 2454–2461-2005.
+23. Kaufman.J.M. and A. Vermeulen The Decline of Androgen Levels in Elderly Men and Its Clinical and Therapeutic Implications. Endocrine Reviews 26 (6): 833-876-2005
+24. Giorgi EP, Stein WD.The transport of steroids into animal cells in cultu- re. Endocrinology 108:688–697-1981
+25. Toorians AWFT, Kelleher S, Gooren LJ, Jimenez M, Handelsman DJ Estimating the contribution of the prostate to blood dihydrotestostero- ne. J Clin Endocrinol Metab 88:5207–5211-2003
+26. Vermeulen A. Androgen replacement therapy in the aging male. A cri- tical evaluation. J Clin Endocrinol Metab 86:2380–2390-2001
+27. Resko JA, Eik-Nes KA. Diurnal testosterone levels in peripheral plasma of human male subjects. J Clin Endocrinol Metab 26:573–576-1966
+28. Lee DK, Chang C. Molecular communication between androgen re- ceptor and general transcription machinery. J Steroid Biochem Mol Biol 84:41–49-2003
+29. Wang L, Hsu CL, Chang C Androgen receptor corepressors: an over- view. Prostate 63:117–130-2005
+30. Wilson EM, French FS.Binding properties of androgen receptors. Evi- dence for identical receptors in rat testis, epididymis, and prostate. J Biol Chem 251:5620–5629-1976
+
+
+Hormonas esteroideas sexuales, envejecimiento y ejercicio
+Sex steroids hormones, ageing and exercise
+
+
+31. Vermeulen A.Dehydroepiandrosterone sulfate and aging. Ann NY Acad Sci 774:121–127-1995
+32. Hammer F, Subtil S, Lux P, Maser-Gluth C, Stewart PM, Allolio B & Arlt
+W. No evidence for hepatic conversion of dehydroepian-drosterone (DHEA) sulfate to DHEA: in vivo and in vitro studies. Journal of Clinical Endocrinology and Metabolism. 90 3600–3605-2005.
+33. Labrie F, Belanger A, Cusan L, Candas B.Physiological changes in de- hydroepiandrosterone are not reflected by serum levels of active an- drogens and estrogens but of their metabolites: intracrinology. J Clin Endocrinol Metab 82:2403–2409-2003
+34. Heemers.H.V, Verhoeven.G and J. V. Swinnen. Androgen Activation of the Sterol Regulatory Element-Binding Protein Pathway: Current In- sights Molecular Endocrinology 20 (10): 2265-2277-2005. Molecular Endocrinology,
+35. Deslypere JP, Vermeulen A.Influence of age on steroid concentrations in skin and striated muscle in women and in cardiac muscle and lung tissue in men. J Clin Endocrinol Metab 61:648–653-1985
+36. Chen Y, Zajac JD & Maclean HE. Androgen regulation of satellite cell function. Journal of Endocrinology :186 21–31-2005.
+37. Ferrando AA, Sheffield-Moore M, Yeckel CW, Gilkison C, Jiang J, Achacosa A, Lieberman SA, Tipton K, Wolfe RR & Urban RJ Testoste- rone administration to older men improves muscle function: molecular and physiological mechanisms. American Journal of Physiology – En- docrinology and Metabolism :282 E601–E607-2002.
+38. Khosla S, Melton III LJ, Riggs BL 2002 Clinical review 144: estrogen and the male skeleton. J Clin Endocrinol Metab 87:1443–1450-2002
+39. Falahati-Nini A, Riggs BL, Atkinson EJ, O’Fallon WM, Eastell R, Khosla
+S. Relative contributions of testosterone and estrogen in regulating bone resorption and formation in normal elderly men. J Clin Invest 106:1553–1560-2000
+40. Sullivan DA, Sullivan BD, Evans JE, Schirra F, Yamagami H, Liu M, Richards SM, Suzuki T, Schaumberg DA, Sullivan RM, Dana MR An- drogen deficiency, meibomian gland dysfunction, and evaporative dry eye. Ann NY Acad Sci 966:211–222-2002
+41. Rosignoli C, Nicolas JC, Jomard A, Michel S. Involvement of the SRE- BP pathway in the mode of action of androgens in sebaceous glands in vivo. Exp Dermatol 12:480–489-2003
+42. Tenover JSAndrogen administration to aging men. Endocrinol Metab Clin North Am 23:877–892-1994
+43. Seidell JC, Bjorntorp P, Sjostrom L, Kvist H, Sannerstedt R.Visceral fat accumulation in men is positively associated with insulin, glucose, and C-peptide levels, but negatively with testosterone levels. Metabolism 39:897–901-1990
+44. Belanger A.Increase in plasma high-density lipoprotein concentration following complete androgen blockage in men with prostatic carcino- ma. Metabolism 36:244–250-1987
+45. Carani C, Zini D, Bamdini A, Della Casa L, Ghizzani A, Marrama P 1995 Testosterone and prolactine: behavioural and psychophysiologi- cal approaches in men. In: Bancroft J, ed. The pharmacology of sexual function and dysfunction. Esteve Foundation Symposia. Amsterdam: Elsevier; 1995. Pag145–150
+46. Buena F, Swerdloff RS, Steiner BS, Lutchmansingh P, Peterson MA, Pandian MR, Galmarini M, Bhasin S.Sexual function does not change when serum testosterone levels are pharmacologically varied within the normal male range. Fertil Steril 59:1118–1123-1993
+47. Arlt.W. Androgen therapy in women. Eu. J. Endocrinol. 154-1-11-2006
+48. Dorrington JH, Moon YS, Armstrong DT. Oestradiol-17 biosynthe- sis in cultured granulosa cells from hypophysectomised immatu- re rats: stimulation by follicle-stimulating hormone. Endocrinology. 1975;97:1328–1331.
+49. Haning RV Jr, Austin CW, Carlson IH, Kuzma DL & Zweibel WJ. Role of dehydroepiandrosterone sulfate as a prehormone for ovarian steroido- genesis. Obstetrics and Gynecology 65 199–205-1985.
+50. Couzinet B, Meduri G, Lecce MG, Young J, Brailly S, Loosfelt H, Milgrom E & Schaison G. The postmenopausal ovary is not a major androgen-producing gland. Journal of Clinical Endocrinology and Me- tabolism.86 5060–5066-2001.
+51. Burger HG. Androgen production in women. Fertility & Sterility.77: (Su- ppl 4) S3–S5-2002.
+52. Couse JF, Korach KS. Reproductive phenotypes in the estrogen recep- tor-alpha knockout mouse. Ann Endocrinol (Paris).60:143–148-1999.
+53. Shiina H, Matsumoto T, Sato T, Igarashi K, Miyamoto J, Takemasa S, Sakari M, Takada I, Nakamura T, Metzger D, Chambon P, Kan- no J, Yoshikawa H, Kato S. From the Cover: Premature ovarian fa- ilure in androgen receptor-deficient mice. Proc Natl Acad Sci U S A.103:224–229-2006.
+54. 
+Lydon JP, DeMayo FJ, Funk CR, Mani SK, Hughes AR, Montgomery CA Jr, Shyamala G, Conneely OM, O’Malley BW. Mice lacking proges- terone receptor exhibit pleiotropic reproductive abnormalities. Genes Dev.9:2266–2278-1995.
+55. Havelock JC, Rainey WE, Carr BR. Ovarian granulosa cell lines. Mol Cell Endocrinol. 228:67–78-2004.
+56. Jamnongjit.M and S.R Hammes. Ovarian Steroids: The good, the bad, and the signals that raise them. Cell Cycle. ; 5(11): 1178–1183-2006
+57. McNatty, KP. Ovarian follicular development from the onset of luteal regression in humans and sheep. In: Rolland R, van Hall EV, Hillier SG, McNatty KP, Shoemaker J. , editor. Follicular maturation and ovulation. Amsterdam, Excerpta Medica; 1–18-1982.
+58. Gooren LJG, Toorians AWFT.Significance of oestrogens in male (pa- tho)physiology. Ann Endocrinol 64:126–135-2003
+59. Hayes FJ, Seminara SB, Decruz S, Boepple PA, Crowley WF.Aromatase inhibition in the human male reveals a hypothalamic site of estrogen feedback. J Clin Endocrinol Metab 85:3027–3035-2000
+60. Riggs BL, Khosla S, Melton LJ.Sex steroids and the construction and conservation of the adult skeleton. Endocr Rev 23:279–302-2002
+61. Sudhir K, Komesaroff PA Cardiovascular actions of estrogens in men. J Clin Endocrinol Metab 84:3411–3415-1999
+62. Mcewen BS, Alves SE.Estrogen actions in the central nervous system. Endocr Rev 20:279–307-1999
+63. Lindzey J, Korach KS 2003 Estrogen action in males. Insights through mutations in aromatase and estrogen-receptor genes. In: Bagatell CS, Bremner WJ, eds. Androgens in health and disease. Totowa, NJ: Hu- mana Press; 2003.Pag. 89–102
+64. Nussey and Whitehead: Endocrinology, an integrated approach, Taylor and Francis 2001
+65. Hodges LK, Tung L, Graham JD, Yan X-D, Horwitz KB, Horwitz LD. 1998 Heterogeneity of estrogen receptor expression and function in human vascular smooth muscle. Circulation. 98:I-799-1998.
+66. Yang SH, He Z, Wu SS, He YJ, Cutright J, Millard WJ, Day AL, Simp- kins JW. 17-ß Estradiol can reduce secondary ischemic damage and mortality of subarachnoid hemorrhage. J Cereb Blood Flow Metab 21:174–181, 2001
+67. Kuiper GG, Enmark E, Pelto-Huikko M, Nilsson S, Gustafsson JA. Clo- ning of a novel receptor expressed in rat prostate and ovary. Proc Natl Acad Sci U S A 93:5925–5930, 1996
+68. Perez-Martin M, Azcoitia I, Trejo JL, Sierra A, and Garcia-Segura LM. An antagonist of estrogen receptors blocks the induction of adult neu- rogenesis by insulin-like growth factor-I in the dentate gyrus of adult female rat. Eur J Neurosci 18: 923–930, 2003.
+69. Scharfman.H.E and N.J. MacLusky.Estrogen and brain-derived neu- rotrophic factor (BDNF) in hippocampus: complexity of steroid. Front Neuroendocrinol.; 27(4): 415–435-2006.
+70. Sandstrom NJ, Williams CL. Spatial memory retention is enhan- ced by acute and continuous estradiol replacement. Horm Be- hav.45:128–135-2004.
+71. Smith CC, McMahon LL. Estrogen-induced increase in the mag- nitude of long-term potentiation occurs only when the ratio of NMDA transmission to AMPA transmission is increased. J Neurosci. 25:7780–7791-2005.
+72. Carro.E.Trejo.JL.Busiguina.F. and I.Torres-Aleman.Circulating insulin- like growth factor I mediates the protective effects of physical exercise against brain insults of different etiology and anatomy.J.Neurosci.21.5 678-5684-2001.
+73. Mas.M. Sustratos hormonales de la respuesta sexual femenina. Rev Int Androl.;5(1):38-49-2007
+74. Fu X, Rezapour M, Wu X, Li L, Sjogren C, Ulmsten U. Expression of estrogen receptor-alpha and -beta in anterior vaginal walls of genui- ne stress incontinent women. Int UrogynecolJ Pelvic Floor Dysfunct. 2003;14:276-81
+75. Berman JR, Almeida FG, Jolin J, Raz S, Chaudhuri G, Gonzalez-Ca- david NF. Correlation of androgen receptors, aromata- se, and 5re- ductase in the human vagina with menopausal status. Fertil Steril. 2003;79:925-31.
+76. Kruijver FP, Balesar R, Espila AM, Unmehopa UA, Swaab DF. Estrogen receptor-alpha distribution in the human hypothala-mus in relation to sex and endocrine status. J Comp Neurol.2002;454:115-39.
+77. Beyenburg S, Watzka M, Clusmann H, Blumcke I, Bidlingmaier F, Elger CE, et al. Androgen receptor mRNA expression in the human hippo- campus. Neurosci Lett. 2000;294:25-8.
+78. Mas M. Fisiologia de la respuesta sexual femenina: actualiza-ción. Rev Int Androl. 2007;5:11-21
+79. Shono N, Kumagai S, Higaki Y, Nishizumi M, Sasaki H.The relation- ships of testosterone, estradiol, dehydroepiandrosterone-sulfate and
+
+
+
+
+34  RAMD Vol. 1; Nº 1; 2008	Artículo de revisión
+
+
+
+
+
+
+sex hormone-binding globulin to lipid and glucose metabolism in healthy men. J Atheroscler Thromb. 3:45–51-1996.
+80. Walker.J.W and J.Cheng. FSH and testosterone signaling in Sertoli cells. Reproduction. 130 15-28-2005
+81. Akingbemi BT. Estrogen regulation of testicular function. Reproductive Biology and Endocrinology 3- 51-2005.
+82. Maffei L, Murata Y, Rochira V, Tubert G, Aranda C, Vazquez M, Cly- ne CD, Herrmann BL, Saller B, Janssen OE, Gocke P, Bockisch A, Sperling H, Mann K & Broecker M.Impact of estrogen replacement therapy in a male with congenital aromatase deficiency caused by a novel mutation in the CYP19 gene. Journal of Clinical Endocrinology and Metabolism 87 5476–5484-2002.
+83. Graham JD, Clarke CL. Physiological action of progesterone in target tissues. Endocrine Rev.18:502–519-1997.
+84. Conneely OM, Mulac-Jericevic B, Lydon JP. Progesterone-dependent regulation of female reproductive activity by two distinct progesterone receptor isoforms. Steroids. 2003;68:771–778.
+85. Vegeto E, Shabaz MM, Wen DX, Goldman ME, O’Malley BW, McDon- nell DP. Human progesterone receptor A form is a cell- and promoter- specific repressor of human progesterone receptor B function. Mol Endocrinol.7:1244–1255-1993.
+86. Peluso JJ. Progesterone as a regulator of granulosa cell viability. J Steroid Biochem Molec Biol. 2003:167–173-2003.
+87. Mulac-Jericevic B, Lydon JP, DeMayo FJ, Conneely OM. Defective mammary gland morphogenesis in mice lacking the progesterone re- ceptor B isoform. Proc Natl Acad Sci (USA).100:9744–9749-2003.
+88. Mulac-Jericevic B, Conneely OM. Reproductive tissue selective ac- tions of progesterone receptors. Reproduction. 2004;128:139–146.
+89. Enien WM, Chantler E, Seif MW, Elstein M. Human ovarian granulosa cells and follicular fluid indices: the relationship to oocyte maturity and fertilization in vitro. Hum Reprod. 13:1303–1306-1998.
+90. Abma J, Chandra A, Mosher W, Peterson L, Piccinino L. Fertility, family planning and women’s health: new data from the 1995 National Survey of Family Growth. National Center for Health Statistics. Vital Health Stat 23, 1997.
+91. Treloar AE. Menstrual cyclicity and the pre-menopause. Maturitas 3: 49–64, 1981.
+92. Pacheco J. Contribución al estudio de la menopausia, climaterio y pa- tología ginecológica en la mujer peruana. Acta Médica Peruana ; 11: 29-1984.
+93. Morrison.J.H. Brinton.R.D. Schmidt.P.J and A.C. Gore. Estrogen, Me- nopause, and the Aging Brain: How Basic Neuroscience Can Inform Hormone Therapy in Women. The Journal of Neuroscience, October 11, 2006, 26(41):10332-10348;
+94. Santoro N. The menopausal transition. Am J Med 118:8–13-2005.
+95. Davison SL, Bell R, Donath S, Montalto JG, Davis SR. Androgen levels in adult females: changes with age, menopause and Phorectomy. J Clin Endocrinol Metab. 90:3847-3853-2005.
+96. Maffucci JA, Gore AC Age-related changes in hormones and their re- ceptors in animal models of female reproductive senescence. In: Han- dbook of models for human aging (Conn PM, ed.). 2006 pp. 533–552. New York: Elsevier
+97. Palacios S. Climaterio y Menopausia. Mirpal, Madrid, 1993.
+98. Misso ML, Jang C, Adams J, Tran J, Murata Y, Bell R, et al. Adi- pose aromatase gene expression is greater in older women and is unaffected by postmenopausal estrogen therapy. Meno- pause. 12:210-155-2005.
+99. Graziottin A, Leiblum SR. Biological and psychosocial pathophysio- logy of female sexual dysfunction during the menopausal transition. J Sex Med. 2 Suppl 3:133-145-2005
+100. Carr BR, Bradshaw KD. Enfermedades del ovario y del aparato repro- ductor femenino. En: Harrison´s Principles of Internal medicine, 15th edition. McGraw-Hill. . Vol 2. Pgs 2519-2535-2002.
+101. Simon J, Braunstein G, Nachtigall L, Utian W, Katz M, Miller S, Wal- dbaum A, Bouchard C, Derzko C, Buch A, Rodenberg C, Lucas J, Davis S. Testosterone patch increases sexual activity and desire in surgically menopausal women with hypoactive sexual desire disorder. J Clin Endocrinol Metab 90:5226–5233-2005.
+102. Mitra SW, Hoskin E, Yudkovitz J, Pear L, Wilkinson HA, Hayashi S, Pfaff DW, Ogawa S, Rohrer SP, Schaeffer JM, McEwen BS, Alves SE. Immunolocalization of estrogen receptor in the mouse brain: compari- son with estrogen receptor . Endocrinology 144:2055–2067-2003.
+103. Gao S, Hendrie HC, Hall KS, Hui S. The relationships between age, sex, and the incidence of dementia and Alzheimer disease: a meta- analysis. Arch Gen Psychiatry. 55:809–815-1998.
+104. 
+Swerdloff RS & Wang C. Androgens and the aging male. In Textbook of Men’s Health, pp 148–157. Eds B Lunenfeld & L Gooren. New York, NY: Parthenon Publishing Group, 2002.
+105. Feldman HA, Longcope C, Derby CA, Johannes CB, Araujo AB, Co- viello AD, Bremner WJ, McKinlay JB.Age trends in the level of serum testosterone and other hormones in middle-aged men: longitudinal results from the Massachusetts Male Aging Study. J Clin Endocrinol Metab 87:589–598-2002
+106. Lamberts SW, van den Beld AW & van der Lely AJ. The endocrinology of aging. Science 278 419–424-1997.
+107. Harman SM, Metter EJ, Tobin JD, Pearson J & Blackman MR. Longi- tudinal effects of aging on serum total and free testosterone levels in healthy men. Baltimore Longitudinal Study of Aging. Journal of Clinical Endocrinology and Metabolism.86 724–731-2001.
+108. Vermeulen A, Kaufman JM, Giagulli VA.Influence of some biological indexes on sex hormone-binding globulin and androgen levels in aging or obese males. J Clin Endocrinol Metab 81:1821–1826-1996
+109. Looker AC, Orwoll ES, Johnston CC Jr, Lindsay RL, Wahner HW, Dunn WL, Calvo MS, Harris TB & Heyse SP. Prevalence of low femoral bone density in older U.S. adults from NHANES III. Journal of Bone and Mineral Research 12- 1761–1768-1997.
+110. Orwoll ES & Klein RF. Osteoporosis in men. Endocrine Reviews 16- 87–116.1995
+111. Center JR, Nguyen TV, Schneider D, Sambrook PN, Eisman JA.Mortality after all major types of osteoporotic fracture in men and women: an observational study. Lancet 353:878–882-1999
+112. Boonen S, Vanderschueren D, Cheng XG, Verbeke G, Dequeker J, Geusens P, Broos P & Bouillon R. Age-related (type II) femoral neck osteoporosis in men: biochemical evidence for both hypovitaminosis D- and androgen deficiency-induced bone resorption. Journal of Bone and Mineral Research 12- 2119–2126-1997
+113. Kenny AM, Prestwood KM, Marcello KM & Raisz LG. Determinants of bone density in healthy older men with low testosterone levels. Journal of Gerontology Series A: Biological Sciences and Medical Sciences 55- 492–497-2000.
+114. Khosla S, Melton LJ 3rd & Riggs BL. Estrogens and bone health in men. Calcified Tissue International 69- 189–192-2001.
+115. Goderie-Plomp HW, van der Klift M, de Ronde W, Hofman A, de Jong FA & Pols HA. Endogenous sex hormones, sex hormone-binding glo- bulin, and the risk of incident vertebral fractures in elderly men and women: the Rotterdam Study. Journal of Clinical Endocrinology and Metabolism 89- 3261–3269-2004.
+116. Gennari L, Merlotti D, Martini G, Gonnelli S, Franci B, Campagna S, Lucani B, Dal Canto N, Valenti R, Gennari C & Nuti R. Longitudinal association between sex hormone levels, bone loss, and bone turno- ver in elderly men. Journal of Clinical Endocrinology and Metabolism 88- 5327–5333-2003.
+117. Khosla S, Melton LJ 3rd, Atkinson EJ & O’Fallon WM. Relationship of serum sex steroid levels to longitudinal changes in bone density in young versus elderly men. Journal of Clinical Endocrinology and Metabolism 86- 3555–3561-2001.
+118. Simpson ER. Sources of estrogen and their importance. Journal of Steroid Biochemistry and Molecular Biology 86 225–230-2003.
+119. Vermeulen A, Goemaere S, Kaufman JM.Sex hormones, body compo- sition and aging. Aging Male 2:8–16-2003
+120. Kallman DA, Plato CA, Tobin JD: The role of muscle loss in the age - related decline of grip strength: cross sectional and longitudinal pers- pectives. J Gerontol 45:M82-1990.
+121. Abbasi AA, Drinka PJ, Mattson DE, Rudman D.Low circulating levels of insulin-like growth factors and testosterone in chronically institutio- nalized elderly men. J Am Geriatr Soc 41:975–982-1993
+122. Baumgartner RN, Waters DL, Gallagher D, Morley JE, Garry PJ.Predictors of skeletal muscle mass in elderly men and women. Mech Ageing Dev 107:123–136-1999
+123. Muller M, van den Beld AW, Bots ML, Grobbee DE, Lamberts SWJ, van der Schouw YT.Endogenous sex hormones and progression of ca- rotid atherosclerosis in elderly men. Circulation 109:2074–2079-2004
+124. Beauchet.O. Testosterone and cognitive function: current clinical evi- dence of a relationship. European Journal of Endocrinology, 155, , 773-781-2006
+125. Janowsky JS. Thinking with your gonads: testosterone and cognition. Trends in Cognitive Sciences. 10 77–82-2006.
+126. Hogervorst E, Bandelow S & Moffat SD. Increasing testosterone le- vels and effects on cognitive functions in elderly men and women: a review. Current Drug Targets. CNS and Neurological Disorders.4 531–540-2005.
+127. Tirassa P, Thiblin I, Agren G, Vigneti E, Aloe L & Stenfors C. High- dose anabolic androgenic steroids modulate concentrations of nerve
+
+
+
+Artículo de revisión	Vol. 1; Nº 1; 2008  35
+
+
+Hormonas esteroideas sexuales, envejecimiento y ejercicio
+Sex steroids hormones, ageing and exercise
+
+
+growth factor and expression of its low affinity receptor (p75-NGFr) in male rat brain. Journal of Neuroscience Research .47 198–207-1997.
+128. Pouliot WA, Handa RJ & Beck SG. Androgen modulates N-methyl- D-aspartate-mediated depolarization in CA1 hippocampal pyramidal cells. Synapse. 23 10–19-1996.
+129. Morse JK, DeKosky ST & Scheff SW. Neurotrophic effects of steroids on lesion-induced growth in the hippocampus. II. Hormone replace- ment. Experimental Neurology.118 47–52-1992.
+130. Seidman SN, Walsh BT.Testosterone and depression in aging men. Am J Geriatr Psychiatry 7:18–33-1999
+131. Verwoerdt A, Pfeiffer E, Wangh AS 1969 Sexual behaviour in senes- cence. Geriatrics 24:137–154-1969
+132. Lugg JA, Rajfer J, Gonzalez-Cadavid NF.Dihydrotestosterone is the active androgen in the maintenance of nitric oxide-mediated penile erection in the rat. Endocrinology 136:1495–1501-1995
+133. Sullinam ME, Keoghane SR, Miller MA. Vascular risk factor and erectile dysfunction. BJU Int 87:838-845.2001.
+134. Wilmore, J. H. Aerobic exercise and endurance. Physician and Sports Medicine, 31, 45-51-2003.
+135. Krucoff, C., & Krucoff, M. Peak performance. American Fitness, 19, 32-36-2000.
+136. McTiernan A, Kooperberg C, White E, et al A prospective study of recreational physical activity and the risk of breast cancer in women aged 50–79 years: the Women’s Health Initiative cohort study. J Am Med Assoc, 290: 1331-6, 2003.
+137. McTiernan.A. (Ed).Cancer Prevention and Management trought Exerci- se and Weight Control. Boca Raton:CRC Press. Taylor Francis Group. LLC.2006
+138. McTiernan.A, Tworoger.SS, Ulrich.CM, Yasui.Y, Irwin.ML, Rajan.KB, Sorensen.B, Rudolph.RE,Bowen.D, Stanczyk.FZ, Potter.JD and RS. Schwartz. Effect of Exercise on Serum Estrogens in Postmenopausal Women A 12-Month Randomized Clinical Trial Cancer Research 64, 2923-2928, 2004
+139. Kern, W, Perras B, Wodick R, Fehm HL, and Born J. Hormonal se- cretion during nighttime sleep indicating stress of daytime exercise. J Appl Physiol 79: 1461-1469, 1995
+140. Volek JS, Kraemer WJ, Bush JA, Incledon T, Boetes M. Testosterone and cortisol in relationship to dietary nutrients and resistance exercise. J Appl Physiol. Jan;82(1):49-54-1997.
+141. Raastad T, Bjoro T, Hallen J. Hormonal responses to high- and moderate-intensity strength exercise. Eur J Appl Physiol. May;82(1-2):121-128-2000.
+142. Hakkinen K, Pakarinen A. Acute hormonal responses to two different fatiguing heavy-resistance protocols in male athletes. J Appl Physiol. Feb;74(2):882-887-1993.
+143. Kraemer, WJ, Marchitelli LJ, Gordon SE, Harman E, Dziados JE, Mello R, Frykman PN, McCurry D, and Fleck SJ. Hormonal and growth factor responses to heavy resistance exercise protocols. J Appl Physiol 69: 1442-1450, 1990
+144. Kraemer, WJ, Gordon SE, Fleck SJ, Marchitelli LJ, Mello R, Dziados JE, Friedl K, Harman E, Maresh C, and Fry AC. Endogenous anabolic hormonal and growth factor response to heavy resistance exercise in males and females. Int J Sports Med 12: 228-235-1991
+145. Cumming, DC, Brunsting LA, Strich G, Ries AL, and Rebar RW. Repro- ductive hormone increases in response to acute exercise in men. Med Sci Sports Exerc 18: 369-373-1986
+146. Nindl.B.C, Kraemer.W.J, Deaver.D.R, Peters.J.L, Marx.J.O, Heckman.J.T and G.A. Loomis.. LH secretion and testosterone con- centrations are blunted after resistance exercise in men. J Appl Physiol 91: 1251-1258, 2001;
+147. Volek. JS. Gómez. AL. Love. DM. et al. Effects of a high fat diet on pos- tabsortive and postprandial testosterone response to a fatrich meal. Metabolism. 50:1351-1355-2001
+148. Hartgens F, Kuipers H. Effects of androgenic-anabolic steroids in athletes. Sports Med. ;34(8):513-54-2004.
+149. Wilson, J.M. The Growth Hormone – IGF Axis and its Role in Muscular Hypertrophy. Journal of Hyperplasia Research, http://www.abcbo- dybuilding.com.2005
+150. Van Balkom RH, Dekhuijzen PN, Folgering HT, Veerkamp JH, Van Moerkerk HT, Fransen JA, Van Herwaarden CL. Anabolic steroids in part reverse glucocorticoid-induced alterations in rat diaphragm. J Appl Physiol. 84(5):1492-1499-1998.
+151. Trappe S, Godard M, Gallagher P, Carroll C, Rowden G, Porter D. Re- sistance training improves single muscle fiber contractile function in older women. Am J Physiol Cell Physiol.;281:C398-406-2001.
+152. 
+Vincent KR, Braith RW, Feldman RA, et al. Resistance exercise and physical performance in adults aged 60 to 83. J Am Geriatr Soc 2002;50:1100-1107.
+153. Borst SE. Interventions for sarcopenia and muscle weakness in older people. Age Ageing. 34(4):414-415-2005.
+154. Stanten, N., & Yeager, S. Four workouts to improve your love life. Pre- vention, 55, 76-78-2003.
+155. Bacon, C. G., Mittleman, M. A., & Kawachi, I. Sexual function in men older than 50 years of age: Results from the health professionals fo- llow-up study. Annals of Internal Medicine, 139, 161-168-2003.
+156. Bortz, W. M. 2nd, & Wallace, D. H. Physical fitness, aging, and sexua- lity. Western Journal of Medicine, 170, 167-175-1999.
+157. Penhollow.T.M. and M.Young, Sexual Desirability and Sexual Performan- ce:DoesExerciseandFitnessReallyMatter?.2004.UniversityofArkansas Program of Health Science
+158. Ryan AS, Ivey FM, Hurlbut DE, Martel GF, Lemmer JT, Sorkin JD, Met- ter EJ, Fleg JL, Hurley BF. Regional bone mineral density after resis- tive training in young and older men and women. Scand J Med Sci Sports.14:16-23-2004.
+159. Heinonen.P.Oja.I.Kannus.P. et al. Bone mineral density in female athle- tes representins sports with different loading characteristics of the skeleton..Bone:17-197-203-1995
+160. Petit.MA.McKay.HA.MacKelvie.KJ.et al.A randomized school-based jumping intervention confers site and maturity-specific benefits on bone structural properties in girls: a hip structural análisis.J.Bone.Mi- neral.Res.17:363-372-2002.
+161. Immke.DC.Relationship of leg strength and bone mineral density in frail older women.Med.Sci.Sports.Exerc.(Suppl).26-S81-1994.
+162. Snow-Harter C and A.Shelley.Hip strength, tissue composition and femoral neck,mineral density in premenopausal women. Med.Sci. Sports.Exerc.24-S45-1992.
+163. Cussler EC, Lohman TG, Going SB, Houtkooper LB, Metcalfe LL, Flint-Wagner HG, Harris RB, Teixeira PJ. Weight lifted in strength training predicts bone change in postmenopausal women. Med Sci Sports Exerc. 35:10-17-2003
+164. Conroy.L.Kraemer.WJ.Maresh.CM. et al. Bone mineral density in elite juniors Olympic weightlifters. Med.Sci.Sports.Exerc.25-1103- 11º9-1993.
+165. Smith K, Winegard K, Hicks AL, McCartney N. Two years of resis- tance training in older men and women: the effects of three years of detraining on the retention of dynamic strength. Can J Appl Phy- siol.28:462-474-2003.
+166. Marcos Becerro. JF. Mayores, osteoporosis y ejercicio. En Ejercicio Salud y Longevidad. Marcos Becerro.JF y D.Galiano (Eds). Editado por la Consejería de Turismo y Deportes de la Comunidad de Andalu- cía.2004.Pags 337-360
+167. Stewart. K. J., DeRegis.JR. Turner.KL.Bacher.AC. Sung.J. Hees PS. et al “Fitness, fatness and activity as predictors of bone mineral density in older persons,” Journal of Internal Medicine. 252-1-8-2002.
+168. Chen J, Xu W, Jiang H. 17ß-Estradiol protects neurons from ischemic damage and attenuates accumulation of extracellular excitatory amino acids. Anesth Analg 92:1520–1523, 2001.
+169. Payne JL. The role of estrogen in mood disorders in women. Int Rev Psychiatry. 15(3):280-290-2003
+170. Kleim JA, Jones TA, Schallert T. Motor enrichment and the induction of plasticity before or after brain injury. Neurochemical Research. 2003;28:1757–1769.
+171. Mattson, Mark P., Wenzhen Duan, Ruqian Wan, and Zhihong Guo. “Pro- phylactic Activation of Neuroprotective Stress Response Pathways by Dietary and Behavioral Manipulations.” NeuroRx, 111-116-2004
+172. Berchtold NC, Kesslak JP, Pike CJ, Adlard PA, Cotman CW. Estro- gen and exercise interact to regulate brain-derived neurotrophic factor mRNA and protein expression in the hippocampus. Eur J Neurosci. 14(12):1992-2002-2001.
+173. Stanley J. Colcombe.S.J,Kramer.A.F, Erickson.K.I, Scalf.P, Edward McAuley.E.,Cohen.N.J Webb.A, Jerome.G.J, Marquez.D.X, and S. Ela- vsky. Cardiovascular fitness, cortical plasticity, and aging. Proc Natl Acad Sci U S A. 101(9): 3316–3321-2004
+174. Deary.I.J, WhalleyL.J, G. Batty.G.D, and J.M. Starr. Physical fitness and lifetime cognitive change. NEUROLOGY ;67:1195-1200-2006
+175. Russo-Neustadt AA, Chen MJ. Brain-derived neurotrophic factor and antidepressant activity. Curr Pharm Des;11(12):1495-1510-2005.
+176. Schulz KH, Gold SM, Witte J, Bartsch K, Lang UE, Hellweg R, Reer R, Braumann KM, Heesen C. Impact of aerobic training on immune- endocrine parameters, neurotrophic factors, quality of life and coordi- native function in multiple sclerosis. J Neurol Sci;225(1-2):11-80-2004
+
+
+
+
+
+36  RAMD Vol. 1; Nº 1; 2008	Artículo de revisión
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

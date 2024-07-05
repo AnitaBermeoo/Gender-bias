@@ -1,0 +1,374 @@
+﻿Cát edra de Bioquímica Facult ad de M edicina
+
+Año 2010
+
+
+
+Hormonas
+Catecolamínicas Adr enales
+
+
+Contenido
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Las catecolaminas son un grupo  de compuestos  que poseen  en su estructura el grupo catecol, las más importantes son la adrenalina y noradrenalina. Las catecolaminas participan en los mecanismos integrativos, tanto  neurales  como endocrinos. Por lo que el sistema nervioso simpático y la médula  adrenal conforman una unidad anatómica y fisiológica, conocida como sistema simpático-adrenal. Este sistema juega un papel fundamental, junto con el eje hipotálamo-hipófisis-adrenal (CRH-ACTH-Cortisol), en las respuestas al estrés o injuria.
+
+
+Dra. Brandan, Nora Cristina
+Profesora Titular, Cát edra de Bioquímica. Facultad de M edicina. UNNE.
+
+
+Bqca. Llanos, Isabel Cristina
+Jefa de Trabajos Prácticos. Cátedra de Bioquímica. Facultad de M edicina. UNNE.
+
+
+Ruiz Díaz, Daniel Alberto Nicolás
+Ayudant e Alumno por Concurso. Cát edra de Bioquímica. Facultad de M edicina. UNNE.
+
+
+Rodríguez, Andrea N.
+Ayudant e Alumna Adscripta. Cát edra de Bioquímica. Facultad de M edicina. UNNE.
+1. 
+Introducción
+
+2. Catecolaminas
+• Biosíntesis
+• Regulación de la Biosíntesis
+3. Las Vesículas Granulares
+
+4. Secreción de Cat ecolaminas
+
+5. M etabolismo e Inact ivación
+
+6. Función de las Catecolaminas
+• Recept ores Adrenérgicos
+• El Sist ema Simpático-Adrenal
+• Acciones de las Cat ecolaminas
+7. Conclusión: Respuest a de Adaptación al Est rés
+
+8. Bibliografía
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Universidad Nacional del Nordeste
+
+
+
+
+
+INTRODUCCIÓN
+
+Las glándulas adrenales (también llamadas suprarrenales) están ubicadas en el espacio retroperitoneal, sobre el polo superior de ambos riñones. Cada una de estas glándulas en una persona adulta pesan aproximadamente 4 gr., de los cuales el 10% corresponde a la médula, que está totalmente rodeada por la corteza adrenal, no existiendo una clara delimitación entre una y otra zona, por lo que las glándulas adrenales contienen dos órganos endocrinos:
+
+  La corteza adrenal: que produce glucocorticoides, mineralocorticoides y andrógenos    La médula adrenal: que segrega catecolaminas (CA) hacia la circulación sanguínea.
+Evidentemente  ambos órganos endócrinos difieren  en  sus funciones, tanto en  la producción  de  sus hormonas como en su origen embriológico. Es así que la médula suprarrenal es básicamente un ganglio simpático modificado (tejido nervioso), sin embargo estas células neuronales de la médula no poseen axones, por lo  tanto  presentan  la particularidad de descargar sus productos directamente al torrente circulatorio, actuando de una  manera auténticamente endócrina.
+
+Según el desarrollo embriológico, hacia la sexta semana post-concepción, una subpoblación de células de la cresta neural da lugar a los ganglios autonómicos simpáticos; mientras otras invaden la corteza adrenal de origen mesenquimal, para formar la médula adrenal. La médula adrenal se compone casi exclusivamente de células llamadas cromafines o   feocromocitos.   (cromafín   indica la   afinidad   de   dichas células por   las sales de   cromo).   Estas células t ienen una forma poliédrica irregular y se disponen en cordones o pequeños cúmulos rodeados por nervios, tejido conectivo y vasos sanguíneos. Estas células t ienen grandes núcleos y un aparato de Golgi perfectamente desarrollado. Además, poseen numerosos gránulos cromafines, los cuales son vesículas electrodensas de 100 a 300 nm de diámetro, similares a los gránulos de las terminales nerviosas simpáticas del sistema nervioso, en los que se almacenan las catecolaminas, tales como la adrenalina y noradrenalina. No obstante, además de catecolaminas, también contienen péptidos opioides, incluyendo met-encefalina, leu-encefalina, neuropéptido   Y,   sustancia   P,   y aminas como la serotonina.
+
+Los feocromocitos también se reúnen a ambos lados de la aorta para formar los paraganglios. El conjunto principal de estas células esta a nivel de la arteria mesentérica inferior y forma el órgano de Zuckerkandl, muy protuberante   en la vida fetal.
+
+Las glándulas adrenales reciben el aporte sanguíneo de las ramas superior, media e inferior de la arteria diafragmática inferior, de las arterias renales y directamente de la aorta. Las arterias adrenales se ramifican y forman un plexo bajo la cápsula. Este plexo irriga la corteza adrenal; algunas de las arterias del plexo penetran en la corteza y nutren la médula. Este sistema capilar proveniente del plexo arterial que irriga a la corteza se continúa con el sistema venoso que drena esta estructura y da lugar a la
+formación del sistema porta cortico-medular (Figura
+1), luego estas pequeñas venas van aumentando de calibre hasta formar las venas adrenales; la derecha es de corta longitud y drena directamente en la vena cava inferior, la izquierda de mayor longitud se anastomosa con la vena   frénica   inferior   formando una vena de mayor calibre que drena en la vena renal izquierda.
+
+Según esta disposición de las estructuras anatómicas en las glándulas adrenales se hace evidente que la circulación venosa contiene altas concentraciones de hormonas esteroideas, provenientes de la corteza suprarrenal que van a influir sobre la biosíntesis de las hormonas de la médula; mientras que esta a su vez también modifica la biosíntesis de los esteroides corticales, fundamentalmente en la zona reticular.
+
+
+
+
+
+CATECOLAMINAS
+
+El término “ catecolamina” (CA) designa a todos aquellos compuestos que contienen el grupo catecol (orto- dihidroxibenzeno) y una cadena lateral con un grupo amino: el núcleo catecol. Las CA de importancia fisiológica son la Dopamina (DA), Noradrenalina (NA) y Adrenalina (A).
+
+La adrenalina (o también epinefrina) es sintetizada y almacenada en la médula adrenal y liberada hacia la circulación sistémica. La noradrenalina (o norepinefrina) es sintetizada y almacenada no solamente   en   la médula adrenal, además también lo es en los nervios simpáticos periféricos. La dopamina se encuentra en la médula adrenal y en los nervios simpáticos periféricos, pero esta CA actúa fundamentalmente como un neurotransmisor   en   el   sistema nervioso central.
+
+En la médula adrenal más del 80% del contenido de catecolaminas está constituido por adrenalina, para ser liberada a la circulación sanguínea y ejercer su acción sobre distintos órganos a distancia; el 20% restante lo constituye la noradrenalina.
+
+Biosíntesis de Cate colaminas
+
+Las CA son sintetizadas a partir de t irosina, este aminoácido puede derivar directamente de la dieta (fuente exógena) o ser sintetizado en el hígado (fuente endógena) a partir del aminoácido fenilalanina. La t irosina ingresa a las células
+cromafines (o neuronas si habláramos del sistema nervioso) a t ravés de un t ransporte activo. El proceso de síntesis en los feocromocitos de la médula adrenal  consta de 4 reacciones químicas catalizadas por  enzimas (Figura 2), estos pasos biosintéticos suceden en el citosol y en las vesículas electrodensas (gránulos cromafines):
+
+1. Hidroxilación: catalizado por la enzima Tirosina-Hidroxilasa (TH), convirtiendo a la t irosina en dihidroxifenilalanina (DOPA). Se conocen en   la actualidad 4 isoformas de esta enzima, encontrándose en el citosol de las células cromafines, es estereoespecífica, requiere oxígeno molecular, hierro y un cofactor, la tetrahidropteridina. Esta hidroxilación de la tirosina es el paso limitante en la biosíntesis de las CA, debido a que la TH se encuentra ” f inamente” regulada.
+
+2. Descarboxilación: la DOPA se transforma en dopamina, por una reacción de descarboxilación producto de la actividad de la enzima Descarboxilasa de L-Aminoácidos Aromáticos, enzima con poca especificidad de sustrato, distribuida en muchos tejidos, localizada en el citosol de las células cromafines y que requiere piridoxal fosfato
+como cofactor.
+
+La dopamina una vez formada en el citosol, tras las reacciones    precedentes,     es t ransportada activamente al interior de las vesículas granulares donde   continuará la biosíntesis de las CA.
+
+3. Hidroxilación:		por	la actividad	de	la		enzima
+Dopamina-D-Hidroxilasa
+(D(H) se produce   la conversión de dopamina a noradrenalina. Esta enzima requiere oxígeno molecular, utiliza el ácido ascórbico como cofactor    y    está    relacionada
+genética y estructuralmente con la TH. Es una proteína que contiene cobre en su  molécula y al igual que la TH es una enzima específica que se encuentra       solamente       en
+
+
+
+
+
+
+tejidos que sintetizan y almacenan CA. Su especificidad de sustrato no es alta. Se encuentra localizada dentro de los gránulos de las células cromafines de la médula adrenal (y en las vesículas sinápticas de las terminales nerviosas simpáticas). Es un componente tanto de la pared del gránulo como del contenido   soluble de las vesículas, por lo que es liberada al romperse las mismas.
+
+En   la   médula   adrenal   la   noradrenalina es liberada   de   los
+gránulos vesiculares al citoplasma, para continuar con la formación del producto principal de la médula adrenal, la adrenalina.
+
+4. M etilación: la noradrenalina es metilada en el nitrógeno de su grupo amino   dando como   producto adrenalina, por acción de la enzima Feniletanolamina-N-M etil-Transferasa (PNM T) que utiliza como cofactor un dador de metilos, la S-adenosil-l-m etionina, así como también O y M g+2. No t iene gran especificidad de sustrato y puede
+metilar otras aminas  -hidroxiladas. Esta enzima citosólica se ha encontrado también en un número restringido
+de neuronas del sistema  nervioso central que utilizan la adrenalina como neurotransmisor.
+
+Luego de formada la adrenalina es t ransportada al interior de vesículas granulares, las cuales cumplen un rol de almacenamiento.
+
+Regulación de la Biosíntesis de Cate colaminas
+
+El punto de control más importante en la regulación de la síntesis de CA se produce a nivel de la t irosina-hidroxilasa; e implica cambios en la actividad y/ o velocidad de síntesis de esta enzima. Así, el aumento de las concentraciones intracelulares de catecoles (adrenalina y noradrenalina fundamentalmente) hiporregula la actividad de la t irosina- hidroxilasa (retroalimentación negativa); y a medida que se liberan catecolaminas de los gránulos secretores en respuesta a un estímulo, se depleccionan estos catecoles citoplasmáticos liberándose la retroinhibición de la t irosina hidroxilasa. Además, la t ranscripción del gen de la tirosina-hidroxilasa es estimulada por los glucocorticoides, proteína-quinasa dependiente de AMPc, proteína-quinasa dependiente de calcio/ fosfolípidos y por proteína-quinasa dependiente    de    calcio/ calmodulina,    constituyéndose    de    esta    manera    un    mecanismo    de    regulación     a    nivel t ranscripcional, modificando la cantidad de enzima.
+
+Otros puntos de regulación se producen sobre la enzima DeH, de estructura similar a la tirosina hidroxilasa, con la cual comparte elementos reguladores t ranscripcionales; ya que es estimulada por los glucocorticoides y proteína- quinasa dependiente de AMPc. Por último, también es inducible la síntesis de PM NT por los glucocorticoides. Sin embargo, a diferencia de la PNM T medulosuprarrenal, algunas formas de PNM T cerebral no son inducidas por este t ipo de esteroides.
+
+En este punto es importante la presencia de glucocorticoides que alcanzan la médula adrenal vía el sistema porta- intrasuprarrenal. Este sistema proporciona un gradiente de concentración de esteroides 100 veces mayor que la encontrada en la sangre arterial, y al parecer, se requiere de esta elevada concentración intrasuprarrenal para la inducción de estas enzimas. Algunos autores han considerado a este hecho como una explicación para la estructura de la glándula suprarrenal donde la médula recibe sangre venosa de la corteza, rica en glucocorticoides (ver introducción).
+
+LAS VESÍCULAS GRANULARES
+
+Las vesículas granulares actúan en diversos procesos en relación con las catecolaminas, es así que participan en:
+
+  Biosíntesis:  por  contener  a la Dβ  H que  transforma  dopamina  en  noradrenalina, siendpoarte  de  la  síntesis de estas hormonas.
+
+
+
+
+
+
+    Almacenamiento: Las CA se encuentran almacenadas formando un complejo con ATP para ser liberadas en respuesta a un estímulo. También se han descripto  en diversas especies, incluido el hombre, la presencia de péptidos opioides como la Leu y M et-encefalina, neuropéptidos   (adrenomedulina,   adrenocorticotrofina (ACTH), péptido intestinal vasoactivo (VIP), Ca+2, M g+2 y proteínas solubles pertenecientes a una familia de glicoproteínas: las cromograninas A, B y  C. La captación  de las CA en estas vesículas de almacenamiento se encuentra facilitado por un mecanismo de t ransporte activo que utiliza el Transportador Vesicular   de   M onoaminas   (VM ATs).   El VM AT-ATP funciona como una bomba que mantiene un amplio      gradiente      eléctrico.      Por      cada     monoamina t ransportada el ATP se hidroliza y dos iones de hidrógeno se t ransportan desde la vesícula al citosol. Este t ransportador se expresa exclusivamente en las células neuroendocrinas. El almacenamiento de las CA es un proceso dinámico con constante liberación y recaptación.
+
+    Protección: Las aminas son protegidas de   la destrucción (metabolismo) por la   M onoamino-Oxidasa,   ya que esta enzima se encuentra en citosol.
+
+SECRECIÓN DE CATECOLAMINAS
+
+La secreción de CA se produce por el mecanismo de exocitosis. El estímulo fisiológico para su liberación es provocado por   el   neurotransmisor   acetilcolina, el cual es
+liberado en las terminales nerviosas simpáticas que inervan a la médula adrenal. La acetilcolina, actuando sobre receptores llamados nicotínicos, produce la despolarización de la membrana celular aumentando su permeabilidad al Na+2. Esto produce un cambio conformacional en las proteínas de la membrana plasmática, permitiendo el ingreso de Ca+2 al interior (Figura 3). De esta manera se considera que el aumento de Ca+2 intracelular desencadena la secreción de CA por un mecanismo de exocitosis que implica el adosamiento de las vesículas electrodensas entre sí y con la
+membrana plasmática; produciéndose una fusión de las mismas y descargando todo el contendido   soluble   del gránulo (CA, cromograninas, DDH, péptidos opioides, etc.) al espacio extracelular (Figura 4). Luego de la exocitosis,
+en el caso de las células cromafines (no sucede lo mismo en las terminales nerviosas), las membranas vesiculares se despegan de la membrana plasmática y se reciclan formando nuevos gránulos electrodensos.
+
+Este proceso de exocitosis de CA está modulado por diversos mecanismos, que complejizan aun más el proceso de liberación; algunos de estos mecanismos son los siguientes:
+
+1. La descarga de impulsos nerviosos (potenciales de membrana) que viajan por las fibras simpáticas preganglionares hacia la médula adrenal.
+
+2. La estimulación de   autorreceptores   presinápticos activados por el neurotransmisor liberado (adrenalina). Langer y col. han demostrado la existencia de receptores
+presinápticos adrenérgicos  2 y  2. Los receptores  2
+son estimulados por altas concentraciones del neurotransmisor o agonistas en el espacio sináptico, desencadenando un mecanismo de retroalimentación negativa que inhibe la ulterior liberación del t ransmisor.
+
+
+
+
+
+
+ Este mecanismo es mediado por una disminución en la disponibilidad de Ca+2 necesario para el proceso de secreción por exocitosis. Las bajas concentraciones de noradrenalina en el espacio sináptico activan un mecanismo de retroalimentación positivo mediado por
+los receptores  2 que aumentan la salida del transmisor
+vía adenilato ciclasa.
+
+3. También existen receptores presinápticos que se activan por otros neuromoduladores u  hormonas.  Se han identificado receptores cuya estimulación puede producir inhibición de la liberación, como en el  caso de los receptores  muscarínicos,  opiáceos,  dopaminérgicos y otros cuya estimulación  puede provocar  la liberación de noradrenalina, como pasa con los receptores nicotínicos y los de angiotensina II. Asimismo, se han
+descripto receptores para insulina y factores de  crecimiento como  la  somatomedina  C  (o  factor de crecimiento similar a insulina t ipo I; IGF-I), que pueden modular la secreción de CA por un mecanismo no aclarado hasta el presente. La función de los péptidos opioides medulosuprarrenales no se conoce a ciencia cierta, aunque su liberación, además de relacionarse con la analgesia inducida por estrés como  se  ha postulado, podría también modular la liberación de CA.
+
+METABOLISMO e INACTIVACIÓN
+
+La vida media biológica de las CA circulantes oscila entre 10 y 100 segundos. Aproximadamente el 50% de las CA circulantes en plasma se encuentran asociadas débilmente con la albúmina. De esta manera, la concentración plasmática de CA fluctúa ampliamente.
+
+El metabolismo e inactivación de las CA liberadas se produce mediante 3 mecanismos, no excluyentes entre sí, y son: recaptación, t ransformación metabólica (desaminación, metilación y conjugación) y excreción renal.
+
+La inactivación por captación de la noradrenalina liberada es particularmente importante en las terminales nerviosas simpáticas post-ganglionares, siendo el papel de la recaptación menos importante en la inactivación de la adrenalina circulante.
+
+En la terminal nerviosa simpática el principal mecanismo que  opera es la recaptación  del  neurotransmisor.  Este proceso de captación neuronal o captación 1 es un proceso muy  rápido, cuya eficiencia en los tejidos es proporcional a la densidad de la inervación simpática. Es un proceso de t ransporte a t ravés de membrana, saturable y que requiere energía. Tiene gran  afinidad  por  la NA, pero  puede incorporar  otras sustancias de estructura similar. En  la captación 1, interviene una Na+/ K+ ATPasa, por lo que puede ser reducido por inhibidores de esta enzima como la ouabaína. Es inhibido específicamente por cocaína y antidepresivos tricíclicos como la desipramina.
+
+Las CA también pueden  ser  captadas por  tejidos extraneuronales (captación  2). Este proceso difiere marcadamente del anterior; ya que carece de especificidad, es independiente de la presencia de Na+ y Ca+2 extracelulares y no es inhibido por cocaína. Todas las CA son sustratos aptos para este t ipo de captación que no se relaciona con elementos nerviosos, sino con otras células: músculo cardíaco, músculo liso, células glandulares, etc. Es bloqueado por corticosteroides (por lo que se lo denomina también corticoide-sensible), por los metabolitos O-metilados de las CA y
+por  -haloalquilaminas, un    grupo de drogas bloqueantes irreversibles de los receptores adrenérgicos  .
+
+La t rasformación metabólica o degradación de las CA, ya sea que provengan de fuentes endógenas o exógenas, se hace por la intervención de las enzimas monoamino-oxidasa (M AO) y catecol-O-metil transferasa (COM T) (Figura 5).
+
+La M AO es una enzima localizada en su mayor parte en la membrana externa de las mitocondrias, catalizando la desaminación oxidativa de las CA. Las principales funciones de esta enzima es metabolizar las aminas de la dieta, las
+
+
+
+
+
+
+CA intraneuronales, las circulantes y sus metabolitos O-metilados. La M AO se encuentra principalmente en tejido neuronal, aunque también está presente en diversos tejidos (extraneuronal). En base a su especificidad de sustrato, sensibilidad a inhibidores, análisis genético y anticuerpos monoclonales se han descripto dos formas de M AO; los subtipos se han denominado M AO-A y M AO-B. El subtipo A t iene mayor afinidad por la noradrenalina, mientras que la DA es buen sustrato para ambas formas de la enzima.
+
+La catecol-O-metiltransferasa (COM T) es una enzima citoplasmática presente en tejidos neuronales o extraneuronales que transfiere grupos metilo de la S-adenosil-l-m etionina al grupo hidroxilo ubicado en la posición meta de las CA y otros compuestos catecólicos y que requiere M g+2 para actuar. La COM T metaboliza las CA circulantes en el hígado y riñón, y las localmente liberadas en el tejido efector. Ha sido demostrada la mayor
+importancia de   la   O-metilación en el metabolismo de las CA circulantes y las liberadas localmente respecto de la desaminación oxidativa.
+
+Finalmente las CA y sus metabolitos pueden ser conjugados con sulfatos o ácido glucurónico. En el hombre predomina la conjugación a sulfatos por acción de la fenolsulfotransferasa (PST)  que se encuentra presente en altas concentraciones en plaquetas, cerebro, hígado e intestino. La adrenalina y noradrenalina circulan en forma conjugada en aproximadamente un 60%, mientras que la dopamina conjugada constituye el 99-100% de la dopamina plasmática.
+
+FUNCIÓN DE LAS CATECOLAMINAS
+
+Los acciones sistémicas de las CA son mediados por la unión de estos compuestos a receptores de membrana plasmática, del t ipo GPCR ampliamente distribuidos por todo el organismo y que se conocen como receptores adrenérgicos. Estos receptores ocasionan  diferentes efectos dependiendo  de  los subtipos de  proteínas G a quienes se encuentran asociado y al mecanismo de transducción de señal vinculado a la proteína G específica (Tabla 1). Esto
+es importante debido a que los efectos fisiológicos producidos por las CA son variados, dependiendo del receptor específico al cual se unen las CA. Es importante conocer que las CA circulantes, secretas por la médula adrenal ejercen sus efectos casi exclusivamente en los tejidos periféricos y no en el cerebro, puesto que no atraviesan fácilmente la barrera hematoencefálica.
+
+Receptores Adrenérgicos
+
+Hay t res t ipos de receptores    adrenérgicos:
+a-adrenérgicos,	--
+adrenérgicos,	y dopaminérgicos;    cada uno de ellos t iene subtipos    de    receptores
+((1,  2,  1,  2,  3, DA1 y
+DA2).       Esto        permite
+
+
+
+
+
+
+entender las respuestas fisiológicas a las CA endógenas como a la administración de CA exógenas.
+
+Receptores  -adrenérgicos: tienen una mayor afinidad por adrenalina que por noradrenalina. Estos se subdividen en receptores  1 y  2. (Figura 6)
+
+Los receptores  1 adrenérgicos son de localización post- sináptica y juegan un rol importante en la regulación de procesos fisiológicos, siendo importantes en mediar la
+contracción del músculo liso vascular, del árbol bronquial y de la pared uterina. Este subtipo de receptores se subdividen en  1A,  1B y  1D, todos estos se encuentran acoplados a proteínas GG (G(q/ 11) que activan a la fosfolipasa C (Tabla 1). En su mecanismo de acción, en última instancia provocan un incremento en el Ca+2
+intracelular, uniéndose este ion a la calmodulina quinasa que media la fosforilación de las cadenas livianas de la miosina quinasa en el músculo liso, produciendo contracción del músculo liso vascular, del músculo liso bronquial y del uterino.
+
+El subtipo  2 está localizado en las terminaciones nerviosas presinápticas y, cuando se activan, inhiben la liberación de NA. Estos receptores también se subdividen en 3 grupos (d2A, ,2B y y2C), y poseen una variedad de sistemas de segundos mensajeros. Pueden encontrarse asociados con proteínas Gsi y G0 y pueden disminuir la actividad de la adenilato ciclasa, activar canales de K+, inhibir canales de Ca+2 y activar la fosfolipasa Cβ o fosfolipasa A2T(abla 1). Los receptores adrenérgicos  2 fueron inicialmente caracterizados como receptores presinápticos que servían en un
+feed-back negativo que regulaba la liberación de noradrenalina. Sin embargo, también están implicados en funciones postsinápticas y juegan un rol en la homeostasis de la presión sanguínea.
+
+Receptores  -adrenérgicos: este subtipo en su mecanismo de acción está relacionado con el sistema de la adenilato ciclasa, cuya estimulación aumenta los niveles de AM Pc (Figura 6).
+
+La   estimulación   del    receptor r1-adrenérgico produce efectos cronotrópicos   e   inotrópicos positivos en el corazón, aumenta la secreción de renina en el riñón y la lipólisis en adipocitos. El receptor  2 produce la relajación del bronquio y del músculo liso uterino, la estimulación causa broncodilatación, vasodilatación en el músculo
+esquelético, glucogenólisis, y aumenta la liberación de NA de las terminales nerviosas simpáticas. El receptor  3 regula el gasto de energía y es el principal receptor involucrado en la lipólisis.
+
+Receptores Dopaminérgicos: los receptores DA1 están localizados en el cerebro y en los vasos renales, mesentéricos y coronarios; su estimulación produce vasodilatación en estos lechos vasculares. Los receptores DA2 son presinápticos y están localizados en las terminaciones nerviosas simpáticas, en los ganglios simpáticos y en el cerebro; su estimulación inhibe la liberación de NA, inhibiendo la transmisión ganglionar, además de inhibir la liberación de prolactina.
+
+El Sistema Simpático-Adrenal
+
+Las CA influyen en todos los órganos importantes del organismo. Sus efectos tienen lugar en segundos en comparación con los minutos, horas o días que caracterizan las acciones del sistema endocrino. Las CA participan en los mecanismos integrativos, tanto neurales como endocrinos. Se ha reconocido su participación en la respuesta al estrés, la regulación del tono del músculo liso, el control de la presión arterial, el metabolismo de los hidratos de
+
+
+
+
+
+
+carbono y lípidos, la termorregulación, así como en la secreción de diversas hormonas y en numerosos procesos centrales y periféricos.
+
+Si bien la adrenalina y noradrenalina actúan sobre los receptores   y  -adrenérgicos, la noradrenalina ejerce su efecto principalmente como un neurotransmisor que se libera en la terminal nerviosa simpática (sistema nervioso simpático) y actúa en la célula efectora a través del estímulo de los receptores l-adrenérgicos. La adrenalina, por el contrario, se comporta más bien como una hormona, secretada hacia la circulación sanguínea desde la médula adrenal, y actúa sobre los órganos blancos predominantemente a t ravés de la estimulación  .
+
+Por lo tanto, el sistema nervioso simpático y la médula adrenal conforman una unidad anatómica y fisiológica, conocida como sistema simpático-adrenal. Este sistema está encargado de la síntesis, almacenamiento, y liberación de las catecolaminas, las cuales juegan un papel fundamental, junto con el eje hipotálamo-hipófisis-adrenal (CRH- ACTH-Cort isol), en las respuestas al estrés.
+
+De esta manera la actividad simpática dada por el sistema nervioso y la secreción de CA de la médula adrenal están coordinadas, aunque sus acciones no siempre son simultáneas y congruentes. En muchas situaciones de estimulación simpática intensa, como es el ejercicio o la exposición al frío, la médula adrenal se va estimulando progresivamente y la adrenalina circulante refuerza los efectos fisiológicos del sistema nervioso simpático. Sin embargo, en otras situaciones actúan   de forma  independiente, así la hipoglucemia estimula prioritariamente a la médula suprarrenal como mecanismo de defensa, tratando de corregir la situación de hipoglucemia, mientras que la hipotensión estimula al sistema nervioso simpático, en un intento de mantener la presión sanguínea necesaria para permitir la perfusión sanguínea t isular.
+
+Acciones de las Cate colaminas
+
+Acciones Cardíacas. La adrenalina por estímulo   -adrenérgico aumenta la fuerza contráctil del miocardio (acción inotrópica positiva) y aumenta la frecuencia en que se contrae el miocardio (acción cronotrópica positiva), en consecuencia hay un aumento de trabajo cardíaco, habiendo una mayor demanda de oxigeno por el miocardio para poder contraerse. Por lo que indirectamente se incrementa el flujo sanguíneo hacia el corazón, llevando consigo un mayor aporte de oxigeno.
+
+Acciones Vasculares. Se produce vasoconstricción en muchos lechos vasculares, especialmente en los vasos (de resistencia precapilares) de la piel, mucosas y riñón junto con constricción venosa.
+
+La noradrenalina t iene una acción predominante sobre el lecho vascular sistémico aumentando la   resistencia periférica. La consecuencia clínica es la hipertensión arterial. A esto contribuye también su moderada acción   estimulante.
+
+La dopamina estimula los receptores dopaminérgicos específicos, cuando se administra DA de   forma  exógena estimula los receptores   y luego los   adrenérgicos a medida que aumenta la dosis. Esto es aprovechado en ocasiones para provocar un inotropismo positivo, aumentando la contractilidad cardíaca. Por activación de los receptores DA1 produce vasodilatación en los lechos renal, coronario, mesentérico y cerebral.
+
+Acciones Gastrointestinales. La adrenalina disminuye el tono, motilidad y secreción gástrica e intestinal. Los receptores adrenérgicos involucrados en estas acciones son  1,  2 y  2. También por efecto  1, se contraen los esfínteres pilórico e ileocecal.
+
+Acción sobre el Riñón y Tracto Urinario. La adrenalina relaja el músculo detrusor vesical y contrae el t rígono y el esfínter pudiendo ocasionar retención urinaria. Desde el punto de vista farmacológico, en   dosis moderada   la dopamina aumenta el flujo sanguíneo renal, la filt ración glomerular, la diuresis y la natriuresis.
+
+Acciones Oculares. La adrenalina produce dilatación de las pupilas (midriasis) y disminución de la presión intraocular. Estas acciones son mediadas por receptores  1 y  2 adrenérgicos respectivamente.
+
+
+
+
+
+Acciones sobre el Aparato Respiratorio. La adrenalina por la acción mediada por los receptores l2 adrenérgicos t iene poderosos efectos relajantes sobre el músculo liso bronquial (efecto broncodilatador), disminuyendo también las secreciones bronquiales (efecto  -adrenérgico).
+
+Acciones sobre el Sistema Nervioso Central. Las CA no atraviesan la barrera hematoencefálica, por lo tanto no ejercen efecto directo sobre el cerebro. Los síntomas de cefaleas, nerviosismo o temblor que producen son indirectos y debidos a las modificaciones cardiovasculares fundamentalmente (ver antes). La noradrenalina del cerebro es reconocida como un importante neurotransmisor implicado en la regulación de la secreción de diversos péptidos hipotalámicos hipofisotropos.
+
+Acciones M etabólicas. Las CA ejercen su acción sobre el metabolismo intermedio mediante acciones directas por estimulación de los receptores adrenérgicos, o indirectamente a través de su interacción con otros reguladores endocrinos.
+
+La adrenalina posee algunas acciones metabólicas muy importantes que t ienen como consecuencia el aumento de la glucemia, ácidos grasos libres y del metabolismo basal. La noradrenalina produce efectos similares, pero sólo se hacen evidentes con niveles elevados.
+
+El aumento de la glucemia se produce por una conjunción de efectos directos e indirectos que llevan a un aumento
+en la producción de glucosa y a una disminución de su utilización periférica. Hay un aumento t ransitorio en la “ producción”   de glucosa por el hígado que, en el ser
+humano,  está  mediado  por  receptores  -adrenérgicos.
+El principal componente del aumento inicial es debido a glucogenólisis (Figura 7), siendo la elevación sostenida debida a gluconeogénesis.
+
+La estimulación L-adrenérgica produce en el hepatocito, vía AM Pc, una activación de la proteína-quinasa A que fosforila a las enzimas fosforilasa quinasa y glucógeno- sintetasa; promoviendo así la degradación del glucógeno. El mecanismo por el cual aumenta la gluconeogénesis es menos claro. Hay evidencias de que se debe a un aumento de la entrada del sustrato en el hepatocito. Sin embargo, a largo plazo, el efecto más importante de la estimulación simpática sostenida se
+produce a través de la reducción en la utilización periférica de glucosa, debida a una inhibición de la captación de glucosa por el músculo esquelético.
+
+El efecto indirecto de las CA sobre el metabolismo de los hidratos de carbono a t ravés de la inhibición de la secreción de insulina parece ser cuantitativamente el efecto más
+importante. Esta acción   es mediada por   receptores  2-
+adrenérgicos de las células   del páncreas.
+
+El efecto de las CA sobre el metabolismo de las proteínas es menos claro. La infusión de adrenalina produce una disminución  en  los  aminoácidos  plasmáticos  que  está
+mediada por   receptores   y   no   está relacionada con
+cambios en la secreción de insulina. Hay evidencias que la adrenalina, como la insulina, inhibe la proteólisis, pero a diferencia de la hormona pancreática, no estimula la síntesis proteica.
+
+Los adipocitos poseen receptores    cuya acción es predominante,   y   receptores        inhibitorios.   La   acción
+más importante en la vía lipolítica es la hidrólisis de los t riglicéridos por la enzima lipasa-hormono   sensible (Figura 8). Las CA estimulan la adenilato ciclasa que
+
+
+
+
+
+
+aumenta el AMPc, la que por vía de la proteína-quinasa A cataliza la fosforilación de la lipasa-hormono sensible, activándola. Esta mayor oferta de ácidos grasos libres hacia el plasma sanguíneo será utilizada por aquellos tejidos capaces de metabolizarlos a través de la l-oxidación fundamentalmente.
+
+Conclusión: Respuesta de Adaptación al Estrés
+
+La respuesta del organismo ante una situación amenazante constituye un claro   ejemplo   de   integración neuroendocrina, ya que se desencadenan una serie de reacciones en cadena que preparan al organismo para la respuesta de huida, miedo o enfrentamiento.
+
+Esta cascada de reacciones se presenta en múltiples situaciones ahora reconocidas con el nombre genérico de estrés; que incluye cualquier estímulo externo que cause un cambio en el equilibrio del organismo. Los cambios fisiológicos y conductuales producidos en respuesta al estrés, así como las regiones activadas del sistema nervioso central y los mediadores bioquímicos involucrados, dependen del t ipo de estresor, su duración e intensidad.
+
+Los estresores físicos; por ejemplo el frío, hipoglucemia, hemorragia, hipoxia, necrosis, quemadura, dolor agudo son estímulos que alteran el estado fisiológico afectando mecanismos homeostáticos, e inician una respuesta adaptativa rápida necesarias para la supervivencia. Por su parte los estresores psicológicos son estímulos que amenazan el estado actual del individuo o provocan un estado de anticipación aun cuando no representen una amenaza inmediata a las condiciones fisiológicas; necesitan ser procesados por la corteza cerebral antes de iniciar la respuesta al estrés y dependen en gran medida de experiencias previas.
+
+Dependiendo del t ipo de estrés físico o psicológico, se activan las neuronas del tallo cerebral o las de las áreas del sistema límbico respectivamente, las cuales a través de proyecciones axonales inciden sobre neuronas del núcleo paraventricular del hipotálamo que sintetizan CRH (hormona liberadora de   corticotrofina).   Las   neuronas hipofisiotrópicas en respuesta a un estímulo, libera el CRH a la circulación portal hipotálamo-hipofisaria que llega a la adenohipófisis y controla la síntesis y liberación de adrenocorticotrofina (ACTH) que viaja por el torrente sanguíneo ejerciendo su mecanismo de feed-back sobre la glándula adrenal. Por lo que los glucocorticoides secretados por la glándula suprarrenal ejercerán sus acciones sobre los tejidos periféricos formando parte de la respuesta adaptativa al estrés.
+
+Pero además el hipotálamo se encargará de decodificar señales neuronales originadas en otros sitios cerebrales y de señales hormonales provenientes de la periferia. Por lo tanto, las neuronas hipotalámicas no sólo   secretan   su producto hacia la sangre portal hipotálamo-hipofisaria, sino que también t ienen proyecciones nerviosas hacia otras regiones cerebrales o hacia núcleos localizados en la médula espinal (como el núcleo del t racto solitario) y controlando el funcionamiento del sistema nervioso autónomo. Así la respuesta coordinada al estrés incluye la secreción de adrenalina de la médula adrenal en respuesta a la estimulación del sistema autónomo; esta hormona causa un estado de excitación o de alerta en el organismo permitiéndole responder al desafío.
+
+Entonces, la acción combinada de las hormonas cortisol y adrenalina y el sistema nervioso autónomo (sistema simpático-adrenal) permite una serie de actividades vegetativas involucrando a varios aparatos   (cardiovascular, digestivo, respiratorio, muscular, etc) y la activación de diversas vías metabólicas (de los hidratos de carbono y lípidos fundamentalmente) para proveer las demandas inmediatas de energía requeridas ante el estimulo   agresor   o   de estrés.
+
+Bibliografía
+
+(1) Williams Textbook of Endocrinology; Kronenberg. 11th ed. Chapter 15 – Endocrine Hypertension. William F. Young Jr. Copyright © 2008 Saunders, An Imprint of Elsevier.
+(2) Goldman: Cecil M edicine, 23rd ed. Chapt er 246 – Adrenal M edulla, Catecholamines, and Pheochromocyt oma. William F. Young Jr.
+Copyright ©  2007 Saunders, An Imprint of Elsevier
+(3) Fisiopatología Endocrinológica: Bioquímica y M étodos Diagnósticos. Fascículo V. M édula Suprarrenal: Bases Fisiológicas, Fisiopat ológicas y su Diagnóstico. M arta Borontini, Gloria Levin. Química M ontpellier. 2006.
+(4) Lange Endocrine Physiology. Patricia E. M olina. 2nd Edition. Chapter 6. Adrenal Gland. The M cGraw -Hill Companies. Copyright ©  2006.
+(5) Fundamentos de M edicina. Endocrinología. Arturo Orrego M . Sexta Edición. Capit ulo 7: Adrenales. Corporación para Investigaciones Biológicas, 2005.
+(6) The Cromogranin-Secretogranin  Family. Review  Article. N Engl J M ed 348:1134-1149, 2003.
+
+ 	   Página	 10
+
+
+
+
