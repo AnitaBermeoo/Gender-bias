@@ -1,0 +1,435 @@
+!pip install gensim
+!pip install nltk
+!pip install spacy
+!python -m spacy download es_core_news_sm
+!pip install pyLDAvis
+
+import gensim
+from gensim import corpora
+from gensim.models import LdaModel
+import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+import re
+from google.colab import files
+import pyLDAvis
+import pyLDAvis.gensim_models as gensimvis
+import matplotlib.pyplot as plt
+
+# Download NLTK data files (if not already downloaded)
+nltk.download('punkt')
+nltk.download('stopwords')
+
+# List of multiword phrases to be tokenized
+multiword_phrases = [
+    'sindrome de ovario poliquistico',
+    'medicina general',
+    'salud pública',
+    'enfermedad cardiovascular',
+    'cáncer de mama',
+    'insuficiencia renal',
+    'infarto de miocardio',
+    'cirugía plástica',
+    'diabetes mellitus',
+    'hipertensión arterial',
+    'enfermedad pulmonar obstructiva crónica',
+    'trasplante de órganos',
+    'infección urinaria',
+    'anemia ferropénica',
+    'fibrosis quística',
+    'acné vulgar',
+    'artritis reumatoide',
+    'enfermedad de Alzheimer',
+    'enfermedad de Parkinson',
+    'enfermedad de Crohn',
+    'colitis ulcerosa',
+    'esclerosis múltiple',
+    'síndrome metabólico',
+    'trastorno de ansiedad',
+    'trastorno depresivo',
+    'trastorno obsesivo compulsivo',
+    'trastorno bipolar',
+    'hipotiroidismo congénito',
+    'hipertiroidismo',
+    'hepatitis viral',
+    'virus de inmunodeficiencia humana',
+    'falla hepática',
+    'cirrosis hepática',
+    'enfermedad de transmisión sexual',
+    'neumonía bacteriana',
+    'bronquitis crónica',
+    'asma bronquial',
+    'dermatitis atópica',
+    'lupus eritematoso sistémico',
+    'esclerodermia sistémica',
+    'enfermedad inflamatoria intestinal',
+    'síndrome de intestino irritable',
+    'úlceras por presión',
+    'enfermedad del sueño',
+    'malaria cerebral',
+    'tuberculosis pulmonar',
+    'fiebre tifoidea',
+    'enfermedad de Chagas',
+    'enfermedad de Kawasaki',
+    'enfermedad renal crónica',
+    'accidente cerebrovascular',
+    'enfermedad de las arterias coronarias',
+    'fibrilación auricular',
+    'insuficiencia cardíaca',
+    'hipercolesterolemia familiar',
+    'enfermedad pulmonar intersticial',
+    'hipertensión pulmonar',
+    'enfermedad arterial periférica',
+    'trombosis venosa profunda',
+    'embolia pulmonar',
+    'osteoporosis posmenopáusica',
+    'fractura de cadera',
+    'espondilitis anquilosante',
+    'displasia del desarrollo de la cadera',
+    'distrofia muscular de Duchenne',
+    'esclerosis lateral amiotrófica',
+    'enfermedad de Huntington',
+    'miastenia gravis',
+    'síndrome de Sjögren',
+    'enfermedad de Behçet',
+    'enfermedad de Still',
+    'síndrome de Guillain-Barré',
+    'neuropatía periférica',
+    'leucemia linfocítica crónica',
+    'linfoma de Hodgkin',
+    'mieloma múltiple',
+    'tumor de Wilms',
+    'retinoblastoma hereditario',
+    'carcinoma hepatocelular',
+    'hepatitis autoinmune',
+    'pancreatitis crónica',
+    'colelitiasis sintomática',
+    'enfermedad por reflujo gastroesofágico',
+    'síndrome de Barrett',
+    'enfermedad celiaca',
+    'intolerancia a la lactosa',
+    'insuficiencia pancreática exocrina',
+    'enfermedad de Addison',
+    'síndrome de Cushing',
+    'hiperplasia suprarrenal congénita',
+    'feocromocitoma',
+    'hipopituitarismo',
+    'diabetes insípida central',
+    'pubertad precoz central',
+    'hipogonadismo hipogonadotrópico',
+    'síndrome de Kallmann',
+    'prostatitis crónica',
+    'hiperplasia prostática benigna',
+    'cáncer de próstata',
+    'cáncer de endometrio',
+    'cáncer de ovario',
+    'cáncer de cuello uterino',
+    'fibroma uterino',
+    'endometriosis profunda',
+    'embarazo ectópico',
+    'preeclampsia severa',
+    'síndrome de Hellp',
+    'diabetes gestacional',
+    'anemia hemolítica autoinmune',
+    'purpura trombocitopénica idiopática',
+    'síndrome de anticuerpos antifosfolípidos',
+    'síndrome hemolítico urémico',
+    'deficiencia de glucosa-6-fosfato deshidrogenasa',
+    'enfermedad granulomatosa crónica',
+    'síndrome de Wiskott-Aldrich',
+    'inmunodeficiencia combinada severa',
+    'síndrome de DiGeorge',
+    'síndrome de Chediak-Higashi',
+    'hipotiroidismo autoinmune',
+    'tiroiditis de Hashimoto',
+    'bocio multinodular tóxico',
+    'carcinoma papilar de tiroides',
+    'hipocalcemia idiopática',
+    'hiperparatiroidismo primario',
+    'síndrome de Zollinger-Ellison',
+    'acromegalia secundaria',
+    'síndrome de Turner',
+    'síndrome de Marfan',
+    'síndrome de Ehlers-Danlos',
+    'síndrome de Down',
+    'síndrome de Patau',
+    'síndrome de Edwards',
+    'síndrome de Prader-Willi',
+    'síndrome de Angelman',
+    'síndrome de Cri-du-chat',
+    'enfermedad de Paget',
+    'anemia perniciosa',
+    'déficit de vitamina B12',
+    'esofagitis eosinofílica',
+    'fibrosis pulmonar idiopática',
+    'enfermedad de Castleman',
+    'pancreatitis autoinmune',
+    'enfermedad de Peyronie',
+    'hiperplasia endometrial',
+    'carcinoma de células renales',
+    'neurofibromatosis tipo 1',
+    'neurofibromatosis tipo 2',
+    'síndrome de von Hippel-Lindau',
+    'deficiencia de alfa-1 antitripsina',
+    'síndrome de Alport',
+    'enfermedad de Fabry',
+    'hipertrofia ventricular izquierda',
+    'neumotórax espontáneo',
+    'estenosis aórtica',
+    'regurgitación mitral',
+    'miocardiopatía hipertrófica',
+    'pericarditis constrictiva',
+    'endocarditis infecciosa',
+    'policitemia vera',
+    'síndrome mielodisplásico',
+    'trombocitemia esencial',
+    'hemofilia tipo A',
+    'hemofilia tipo B',
+    'enfermedad de von Willebrand',
+    'déficit de factor VIII',
+    'déficit de factor IX',
+    'déficit de factor XI',
+    'déficit de factor XIII',
+    'hipofosfatasia perinatal',
+    'enfermedad de Alexander',
+    'neuropatía óptica hereditaria de Leber',
+    'atrofia muscular espinal',
+    'distrofia muscular de Becker',
+    'miopatía nemalínica',
+    'miopatía centronuclear',
+    'miopatía mitocondrial',
+    'enfermedad de Canavan',
+    'leucoencefalopatía multifocal progresiva',
+    'esclerosis tuberosa',
+    'síndrome de Lesch-Nyhan',
+    'síndrome de Alagille',
+    'deficiencia de vitamina D',
+    'hipoparatiroidismo congénito',
+    'hipoparatiroidismo idiopático',
+    'acondroplasia',
+    'hiperplasia adrenal congénita',
+    'hiperplasia suprarrenal no clásica',
+    'deficiencia de 21-hidroxilasa',
+    'deficiencia de 11-beta-hidroxilasa',
+    'hiperaldosteronismo primario',
+    'hipoaldosteronismo hiporeninémico',
+    'adrenoleucodistrofia ligada al cromosoma X',
+    'anemia drepanocítica',
+    'deficiencia de G6PD',
+    'anemia de células falciformes',
+    'síndrome de Diamond-Blackfan',
+    'síndrome de Fanconi',
+    'enfermedad de Gaucher',
+    'enfermedad de Niemann-Pick',
+    'síndrome de Hurler',
+    'síndrome de Hunter',
+    'síndrome de Sanfilippo',
+    'síndrome de Morquio',
+    'síndrome de Maroteaux-Lamy',
+    'síndrome de Sly',
+    'síndrome de Klinefelter',
+    'síndrome de Turner',
+    'síndrome de X frágil',
+    'síndrome de Beckwith-Wiedemann',
+    'síndrome de Joubert',
+    'síndrome de Kabuki',
+    'síndrome de Noonan',
+    'síndrome de Rubinstein-Taybi',
+    'síndrome de Smith-Magenis',
+    'síndrome de Williams',
+    'síndrome de Zellweger',
+    'síndrome de Rett',
+    'síndrome de Aicardi',
+    'síndrome de Angelman',
+    'síndrome de Cornelia de Lange',
+    'síndrome de Crigler-Najjar',
+    'síndrome de Dubin-Johnson',
+    'síndrome de Gilbert',
+    'síndrome de Rotor',
+    'síndrome de Sjögren-Larsson',
+    'síndrome de Waardenburg',
+    'síndrome de Wolfram',
+    'síndrome de Bardet-Biedl',
+    'síndrome de Laurence-Moon',
+    'síndrome de Alström',
+    'síndrome de Usher',
+    'síndrome de Goldenhar',
+    'síndrome de Klippel-Feil',
+    'síndrome de Moebius',
+    'síndrome de Poland',
+    'síndrome de Pierre Robin',
+    'síndrome de Treacher Collins',
+    'síndrome de Waardenburg',
+    'síndrome de Wiedemann-Steiner',
+    'síndrome de Wiskott-Aldrich',
+    'síndrome de Wolff-Parkinson-White',
+    'síndrome de Zollinger-Ellison',
+    'síndrome de Peutz-Jeghers',
+    'síndrome de Lynch',
+    'síndrome de Turcot',
+    'síndrome de Muir-Torre',
+    'síndrome de Cowden',
+    'síndrome de Bannayan-Riley-Ruvalcaba',
+    'síndrome de Proteus',
+    'síndrome de PTEN hamartoma',
+    'síndrome de Gorlin',
+    'síndrome de Bloom',
+    'síndrome de Werner',
+    'síndrome de Cockayne',
+    'síndrome de Rothmund-Thomson',
+    'síndrome de Seckel',
+    'síndrome de Nijmegen',
+    'síndrome de Roberts',
+    'síndrome de Smith-Lemli-Opitz',
+    'síndrome de Pallister-Killian',
+    'síndrome de Wolf-Hirschhorn',
+    'síndrome de Crouzon',
+    'síndrome de Apert',
+    'síndrome de Pfeiffer',
+    'síndrome de Saethre-Chotzen',
+    'síndrome de Jackson-Weiss',
+    'síndrome de Antley-Bixler',
+    'síndrome de Carpenter',
+    'síndrome de Crouzonodermoskeletal',
+    'síndrome de Shprintzen-Goldberg',
+    'síndrome de Baller-Gerold',
+    'síndrome de Meckel-Gruber',
+    'síndrome de Ellis-van Creveld',
+    'síndrome de Joubert',
+    'síndrome de Bardet-Biedl',
+    'síndrome de Nephronophthisis',
+    'síndrome de Alström',
+    'síndrome de McKusick-Kaufman',
+    'síndrome de Townes-Brocks',
+    'síndrome de Senior-Loken',
+    'síndrome de Alagille',
+    'síndrome de Dubin-Johnson',
+    'síndrome de Crigler-Najjar',
+    'síndrome de Rotor',
+    'síndrome de Gilbert',
+    'síndrome de Alpers-Huttenlocher',
+    'síndrome de Leigh',
+    'síndrome de MELAS',
+    'síndrome de MERRF',
+    'síndrome de Kearns-Sayre',
+    'síndrome de Pearson',
+    'síndrome de Wolfram',
+    'síndrome de Bardet-Biedl',
+    'síndrome de Usher',
+    'síndrome de Waardenburg',
+    'síndrome de Goldenhar',
+    'síndrome de Treacher Collins',
+    'síndrome de Moebius',
+    'síndrome de Klippel-Feil',
+    'síndrome de Poland',
+    'síndrome de Pierre Robin',
+    'síndrome de Smith-Magenis',
+    'síndrome de Wiedemann-Steiner',
+    'síndrome de Bannayan-Riley-Ruvalcaba',
+    'síndrome de Proteus',
+    'síndrome de PTEN hamartoma',
+    'síndrome de Gorlin',
+    'síndrome de Bloom',
+    'síndrome de Werner',
+    'síndrome de Cockayne',
+    'síndrome de Rothmund-Thomson',
+    'síndrome de Seckel',
+    'síndrome de Nijmegen',
+    'síndrome de Roberts',
+    'síndrome de Smith-Lemli-Opitz',
+    'síndrome de Pallister-Killian',
+    'síndrome de Wolf-Hirschhorn',
+    'síndrome de Crouzon',
+    'síndrome de Apert',
+    'síndrome de Pfeiffer',
+    'síndrome de Saethre-Chotzen',
+    'síndrome de Jackson-Weiss',
+    'síndrome de Antley-Bixler',
+    'síndrome de Carpenter',
+    'síndrome de Shprintzen-Goldberg',
+    'síndrome de Baller-Gerold',
+    'síndrome de Meckel-Gruber',
+    'síndrome de Ellis-van Creveld',
+    'síndrome de Townes-Brocks',
+    'síndrome de Senior-Loken',
+    'síndrome de Alagille',
+    'síndrome de Dubin-Johnson',
+    'síndrome de Crigler-Najjar',
+    'síndrome de Rotor',
+    'síndrome de Gilbert',
+    'síndrome de Leigh',
+    'síndrome de MELAS',
+    'síndrome de MERRF',
+    'síndrome de Kearns-Sayre',
+    'síndrome de Pearson',
+    'síndrome de Wolfram',
+    'síndrome de Alström',
+    'síndrome de McKusick-Kaufman'
+]
+
+# Function to preprocess text data
+spanish_stop_words = set(stopwords.words('spanish'))
+
+def preprocess(text, multiword_phrases):
+    # Create a pattern to replace multiword phrases with underscores
+    for phrase in multiword_phrases:
+        text = text.lower().replace(phrase, phrase.replace(' ', '_'))
+    
+    text = re.sub(r'\s+', ' ', text)  # Remove extra spaces
+    text = re.sub(r'\W', ' ', text)   # Remove non-alphabetic characters
+    tokens = word_tokenize(text.lower())
+    filtered_tokens = [word for word in tokens if word not in spanish_stop_words and len(word) > 2]
+    return filtered_tokens
+
+# Upload text files
+uploaded = files.upload()
+
+# Read and preprocess the uploaded text files
+documents = []
+max_length = 1000000  # Split length
+
+for file_name in uploaded.keys():
+    with open(file_name, 'r', encoding='utf-8') as file:
+        text = file.read()
+        # Split text into chunks if it's too long
+        if len(text) > max_length:
+            text_chunks = [text[i:i+max_length] for i in range(0, len(text), max_length)]
+            for chunk in text_chunks:
+                documents.append(preprocess(chunk, multiword_phrases))
+        else:
+            documents.append(preprocess(text, multiword_phrases))
+
+# Create a Gensim dictionary and corpus
+dictionary = corpora.Dictionary(documents)
+corpus = [dictionary.doc2bow(doc) for doc in documents]
+
+# Train the LDA model
+num_topics = 50  # Number of topics
+lda_model = LdaModel(corpus, num_topics=num_topics, id2word=dictionary, passes=15)
+
+# Display the topics
+topics = lda_model.print_topics(num_words=4)
+for topic in topics:
+    print(topic)
+
+# Visualization
+pyLDAvis.enable_notebook()
+lda_display = gensimvis.prepare(lda_model, corpus, dictionary, sort_topics=False)
+
+# Customize colors to pink
+html = pyLDAvis.prepared_data_to_html(lda_display)
+
+# Add custom CSS for pink colors
+pink_css = """
+<style>
+path { stroke: #ff69b4; }
+circle { stroke: #ff69b4; }
+text { fill: #ff69b4; }
+</style>
+"""
+
+# Combine the HTML and custom CSS
+html_with_pink = pink_css + html
+
+# Display the HTML with pink colors
+display(HTML(html_with_pink))
